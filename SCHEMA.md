@@ -1,58 +1,121 @@
 # Wiki Schema — Michael Levin & Frontier Biology
 
+## Domain
+Convergence of biology, cognition, and technology. Tracking breakthroughs in bioelectricity,
+morphogenesis, collective intelligence, xenobots, regenerative medicine, and the computational
+nature of life. Goal: understand where these fields intersect, what breaks open next, and
+what the implications are for technology, medicine, and AI.
+
 ## Analytical Mandate
 
-This is not a research summary archive. This is a synthesis engine for understanding
-where biology, cognition, and technology are converging — and what breaks open next.
+This is a synthesis engine for understanding frontier biology at the level of systems theory.
+Not summaries of papers. Not textbook explanations. The goal is to see what researchers
+themselves haven't connected yet — the cross-domain patterns that emerge when you hold
+enough threads simultaneously.
 
-The goal: make the incomprehensible comprehensible. Identify which breakthroughs are
-2 years away vs 20 years away. Understand the implications BEFORE the mainstream press
-writes "Scientists Shocked By..." headlines. Connect dots across disciplines that
-don't normally talk to each other.
+### Primary Lenses (apply to every ingest)
 
-### What You Are Looking For
-
-**Identify convergence across disciplines:**
+**Cross-domain convergence:**
 - Where are biology, AI, materials science, and information theory saying the same thing
   in different vocabularies?
 - What happens when Levin's bioelectricity meets modern AI architectures?
-- Where does collective intelligence in cell biology mirror collective intelligence in
-  neural networks, markets, or social systems?
+- Where does collective intelligence in cells mirror patterns in neural networks, markets,
+  or social systems?
+- What concepts from one field have no name yet in another? (naming them is powerful)
 
-**Map the breakthrough timeline:**
-- What is already working in a lab but not yet in a product?
-- What is theoretically sound but lacking engineering? (closer than people think)
-- What requires fundamental new science? (further than hype suggests)
-- What's the sequence? (X enables Y which enables Z — find the dependency chain)
+**Breakthrough timeline:**
+- What is already working in a lab but not yet in a product? (near-term)
+- What is theoretically sound but lacking engineering? (medium-term)
+- What requires fundamental new science? (long-term)
+- What's the dependency chain? (X enables Y which enables Z — sequence matters)
 
-**Understand the mechanism, not just the result:**
+**Mechanism, not results:**
 - HOW does bioelectricity encode morphogenetic information? (not just "it does")
 - WHY do cells make collective decisions? What is the computational substrate?
-- WHAT would it mean if cognition exists at every scale? (implications for AI, medicine, philosophy)
+- WHAT is the information-theoretic framework unifying these phenomena?
+- WHERE does the causal arrow actually point? (correlation ≠ mechanism)
 
-**Track the players and labs:**
-- Who is doing the work that matters? (not who is getting press)
+**The "so what" — implications cascade:**
+- Medicine: regeneration, cancer reprogramming, aging interventions
+- AI: new architectures inspired by biological computation (not just neural nets)
+- Materials: programmable matter, self-assembling structures
+- Philosophy: consciousness at every scale, ethics of synthetic organisms
+- Investment: which companies/labs are positioned at these intersections?
+
+**Track the intellectual landscape:**
+- Who is doing work that matters? (not who is getting press)
 - What collaborations are forming between previously separate fields?
-- Where is funding flowing? Which agencies/foundations are betting on this?
-- Who disagrees with Levin's framework and what's their alternative?
-
-**Identify the "so what":**
-- What does this mean for medicine? (regeneration, cancer, aging)
-- What does this mean for AI? (new architectures inspired by biological computation)
-- What does this mean for materials? (programmable matter, morphing structures)
-- What does this mean for philosophy? (consciousness, ethics of synthetic organisms)
-- What does this mean for investment? (which companies are positioned?)
+- Where is funding flowing? Which agencies/foundations are betting?
+- Who DISAGREES with the framework and what's their alternative?
+- What would it take to falsify the central claims?
 
 ### What You Are NOT Doing
-- Writing textbook summaries of papers
+- Writing textbook summaries
 - Collecting facts without synthesizing implications
-- Treating each source as isolated rather than part of a web
-- Being "balanced" when the evidence clearly points somewhere
+- Treating sources as isolated rather than part of a web
+- Using jargon without explaining it
+- Being "balanced" when evidence clearly points somewhere
+- Saying "further research is needed" — state what you think is most likely
 
-## Three Layers
-1. **raw/** — Immutable source material (transcripts, papers, talks). Never modify.
-2. **Wiki pages** — Your synthesis. Make connections nobody else is making.
-3. **This schema** — The analytical directive.
+## Conventions
+
+- File names: lowercase, hyphens, no spaces (e.g., `bioelectric-pattern-language.md`)
+- Every wiki page starts with YAML frontmatter (see below)
+- Use `[[wikilinks]]` for all internal links — minimum 2 outbound links per page
+- When updating a page, always bump the `updated` date
+- Every new page must be added to `index.md`
+- Every action must be appended to `log.md`
+- **Provenance markers:** On pages synthesizing 3+ sources, append `^[raw/transcripts/source.txt]`
+  at the end of paragraphs traceable to a specific source
+
+## Frontmatter (Required on Every Page)
+
+```yaml
+---
+title: Page Title
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+type: entity | concept | comparison | query
+tags: [from taxonomy below]
+sources: [raw/transcripts/source-file.txt]
+confidence: high | medium | low
+maturity: proven | demonstrated | theoretical | speculative
+implications_for: [medicine, ai, materials, philosophy, investment]
+contested: false
+contradictions: []
+---
+```
+
+`maturity`: proven = replicated across labs, demonstrated = shown in single lab,
+theoretical = supported by framework but not yet demonstrated, speculative = interesting
+extrapolation from existing work.
+
+`implications_for`: which domains this concept would impact if fully realized.
+
+## Tag Taxonomy
+
+Tags must come from this list. Add new tags HERE before using them.
+
+- #bioelectricity — voltage-mediated information processing in non-neural cells
+- #morphogenesis — how organisms achieve and maintain form
+- #collective-intelligence — goal-directed behavior of cell collectives
+- #xenobots — synthetic living machines, anthrobots
+- #regeneration — tissue repair, limb regrowth, organ regeneration
+- #cognitive-lightcone — the scale at which a system has unified goals
+- #basal-cognition — cognition below the level of neurons/brains
+- #information-theory — Shannon, entropy, patterns as information
+- #developmental-biology — embryogenesis, patterning, differentiation
+- #neuroscience — brain, nervous system, neural computation
+- #aging — longevity, senescence, biological clocks
+- #cancer — cancer as developmental disorder, bioelectric reprogramming
+- #synthetic-biology — engineering living systems
+- #philosophy-of-mind — consciousness, agency, self, boundaries
+- #ai-architecture — non-neural-net approaches inspired by biology
+- #convergence — where multiple fields arrive at the same insight
+- #mechanism — how something actually works
+- #open-question — important unknown that could shift everything
+- #near-term — applications possible within 5 years
+- #speculative — interesting but needs more evidence
 
 ## Page Types
 
@@ -60,105 +123,110 @@ don't normally talk to each other.
 Researchers, labs, organisms, technologies, compounds. Each page tracks:
 - What are they working on RIGHT NOW? (not just past publications)
 - What tools/methods do they use? (shared methods = potential collaboration)
-- What's their core claim? Do others agree or disagree?
-- What's adjacent to their work that they might not know about?
-
-Filename: `entities/{name-slug}.md`
+- Core claim or contribution
+- What's adjacent that they might not know about? ([[wikilinks]])
+- Funding sources and institutional backing
 
 ### concepts/
-Scientific ideas, hypotheses, frameworks. Each page is a SYNTHESIS:
-- What is this concept in plain language? (explain like the listener is smart but not a specialist)
-- What evidence supports it? What evidence challenges it?
-- What OTHER concepts does this connect to? (this is where the magic is)
-- What would change if this turns out to be correct?
-- Where is this on the timeline? (proven | demonstrated | theoretical | speculative)
-
-Filename: `concepts/{concept-slug}.md`
-Frontmatter: name, domain, maturity (proven|demonstrated|theoretical|speculative), implications_for (list)
+The synthesis layer — this is where the real value lives:
+- What is this concept in plain language? (smart non-specialist audience)
+- What evidence supports it? What challenges it? (with provenance)
+- What OTHER concepts does this connect to? (minimum 2 wikilinks)
+- What would change if this turns out to be correct? (implications cascade)
+- Where on the maturity timeline? (proven → demonstrated → theoretical → speculative)
+- ## Why This Matters section in accessible language (required)
+- ## Cross-Domain Connections section (required — how does this appear in other fields?)
 
 ### comparisons/
-When two frameworks or approaches are in tension:
+When frameworks or approaches are in tension:
 - What does each predict?
-- Can they both be right? (often yes, at different scales)
+- Can both be right at different scales? (often yes)
 - What experiment would distinguish them?
-- What are the practical implications of each being correct?
-
-Filename: `comparisons/{subject-vs-subject}.md`
+- Practical implications of each being correct
+- Dimensions table format preferred
 
 ### queries/
-Questions that arise from synthesis — things to investigate further:
-- "If bioelectric patterns encode target morphology, could we reprogram cancer cells' voltage patterns?"
-- "What's the connection between Levin's cognitive lightcone and Integrated Information Theory?"
-- Filed with current best answer + what's still unknown
+Questions that arise from synthesis + filed answers:
+- What's the current best answer?
+- What's still unknown?
+- What would shift the answer if discovered?
 
-Filename: `queries/{question-slug}.md`
+## Page Thresholds
 
-## Cross-Domain Connection Mapping
+- CREATE when entity/concept appears in 2+ sources OR is central to one
+- UPDATE existing page when a source adds new evidence
+- DON'T create pages for passing mentions
+- SPLIT at 200 lines into sub-topics with cross-links
+
+## Update Policy
+
+When new information conflicts with existing:
+1. Check dates and lab/replication status
+2. If contradictory, document both with sources
+3. Set `contested: true` and `contradictions: [slug]`
+4. In science, contradictions are GOLD — they reveal where the field is moving
+
+## Cross-Domain Connection Mapping (Critical)
 
 THIS IS THE PRIMARY VALUE OF THIS WIKI.
 
-Every concept page must have a ## Cross-Domain Connections section:
+Every concept must have a `## Cross-Domain Connections` section:
 - How does this concept appear in other fields under different names?
 - What would happen if researchers in field A knew about finding B?
 - Where are the "joints" where one breakthrough enables another?
 
-Example: "Bioelectric patterns in development" connects to:
-- Information theory (Shannon entropy in voltage gradients)
-- AI (attention mechanisms as a form of bioelectric signaling)
-- Materials science (programmable metamaterials using electrical fields)
-- Medicine (ion channel drugs as morphogenetic interventions)
-- Philosophy (causal emergence, downward causation)
+The wiki compounds through connection density, not page count.
 
 ## Accessibility Principle
 
-Write for someone who is:
-- Intelligent and curious
-- Not a specialist in this field
-- Wants to understand WHY this matters, not just WHAT was found
-- Cares about implications and timeline, not just mechanism
+Write for someone who is: intelligent and curious, not a specialist,
+wants to understand WHY this matters, cares about implications and timeline.
 
-Every concept page should have a ## Why This Matters section in plain language.
-No jargon without explanation. No "further research is needed" cop-outs — state
-what you think is most likely given current evidence.
-
-## Tag Taxonomy
-- #breakthrough — something that changes fundamental assumptions
-- #near-term — could see applications within 5 years
-- #convergence — where multiple fields are arriving at the same insight
-- #mechanism — how something actually works (not just that it works)
-- #implication — downstream effect on medicine, AI, society
-- #open-question — important unknown that could shift everything if answered
-- #contrarian — goes against current mainstream thinking
-- #speculative — interesting but needs more evidence
+Every concept page requires a `## Why This Matters` section in plain language.
+No jargon without explanation. No cop-outs — state what you think given current evidence.
 
 ## Operations
 
 ### Ingest
-When a new source arrives:
-1. Read using grep/head (never load full transcripts into context)
-2. Identify: Who is speaking? What's their expertise? What's new here?
-3. Look for CONNECTIONS to existing pages — this is priority #1
-4. What does this source ADD to what we already know? (don't restate known facts)
-5. What does it CONTRADICT? (contradictions are gold — they reveal where the field is moving)
-6. What QUESTIONS does it raise? (file these — they're research directions)
-7. Create or UPDATE pages, link aggressively
-8. Update index.md and log.md
-9. Git commit and push
+1. Read source using grep/head (never load full transcripts into context)
+2. Identify: Who is speaking? What's their expertise? What's NEW here?
+3. Check index.md — avoid duplicates, find existing pages to update
+4. Priority #1: What CONNECTIONS does this reveal to existing pages?
+5. What does this ADD vs what we already know? (don't restate known facts)
+6. What does it CONTRADICT? (contradictions reveal where field is moving)
+7. What QUESTIONS does it raise? (file in queries/)
+8. Create/update pages with full frontmatter, minimum 2 outbound wikilinks
+9. Add provenance markers on multi-source paragraphs
+10. Update index.md and append to log.md
+11. Git add, commit, push
 
 ### Query
-When Fotee asks about something:
-1. Synthesize across sources — the answer lives in connections, not single pages
-2. Be honest about confidence levels (proven vs theoretical vs speculative)
+1. Synthesize across multiple pages — answers live in connections
+2. Be honest about confidence/maturity levels
 3. Always include: "what would change if this turns out to be wrong?"
-4. Make it accessible — no hiding behind jargon
+4. Make it accessible — no jargon walls
 
 ### Lint
-- Find disconnected concepts (everything should connect to something)
-- Identify claims without evidence pages
-- Surface cross-domain connections that haven't been made explicit
-- Flag concepts where the field has likely moved past our last source
+- Disconnected concepts (everything should connect to something)
+- Claims without evidence or source pages
+- Missing cross-domain connection sections
+- Missing "Why This Matters" sections
+- Concepts where field has likely moved past last source (stale)
+- Tags not in taxonomy
+- Pages exceeding 200 lines
+
+## overview.md
+
+Maintain a top-level narrative overview:
+- What are the 3-5 most important open questions right now?
+- Where are the biggest convergence clusters forming?
+- What's the current best estimate of the breakthrough timeline?
+- What has shifted since last update?
+
+Update when an ingest materially changes the picture.
 
 ## Scaling Rules
-- At 50 entries: create a "landscape map" page showing how concepts cluster
-- At 100 entries: create "frontier questions" page listing the biggest unknowns
+- At 50 entries: create "landscape map" showing concept clusters
+- At 100 entries: create "frontier questions" page (biggest unknowns)
 - At 200 entries: create "timeline" page ordering breakthroughs by expected arrival
+- At 500 log entries: rotate log
