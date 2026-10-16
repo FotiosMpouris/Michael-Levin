@@ -75,7 +75,7 @@ enough threads simultaneously.
 title: Page Title
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-type: entity | concept | comparison | query
+type: entity | concept | comparison | query | video | topic | hub
 tags: [from taxonomy below]
 sources: [raw/transcripts/source-file.txt]
 confidence: high | medium | low

@@ -1,6 +1,29 @@
 # Michael Levin Wiki — Index
 
-Last updated: 2026-06-15
+Last updated: 2026-10-15
+
+## Start here
+
+- [[whats-new|What's new]] — latest videos from the Levin lab channel
+- [[companies-tracker|Companies tracker]] — spinouts, licensees, funders (research, not advice)
+- [[vision|Connections to Fotios's vision]]
+
+## Topics
+
+- [[bioelectricity]] · [[regeneration]] · [[cognition-in-cells]] · [[xenobots-and-anthrobots]] · [[platonic-space-and-ingressing-minds]] · [[ai-and-biology]] · [[mind-body]] · [[control-and-energy]]
+
+## Videos (one page each)
+
+- 2026-10-15 — [[2026-10-15-deep-learning-in-biology-edo-dotan|Deep Learning in Biology]]
+- 2026-10-11 — [[2026-10-11-mind-body-interface-levin-kofman|Mind-Body Interface: an Experimental and Clinical Perspective]]
+- 2026-10-10 — [[2026-10-10-thermodynamics-control-fundamental-niche|Thermodynamics, Control, & Fundamental Niche]]
+- 2026-10-09 — [[2026-10-09-neuroscience-beyond-neurons|Neuroscience Beyond Neurons: Communicating with Unconventional Minds]]
+- 2026-09-24 — [[2026-09-24-discussion-marsha-hewitt-platonic-space|Discussion with Marsha Hewitt (Platonic Space and related ideas)]]
+- 2026-09-22 — [[2026-09-22-life-machines-synthbiosis|Life, Machines, and a Foundation for Synthbiosis]]
+- 2026-09-21 — [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]]
+- 2026-09-20 — [[2026-09-20-measuring-machine-consciousness-cameron-berg|Measuring Machine Consciousness]]
+- 2026-09-13 — [[2026-09-13-andrey-vyshedskiy-evolution-of-language|A Conversation with Andrey Vyshedskiy about the Evolution of Language and Brain Development]]
+- 2026-09-03 — [[2026-09-03-bohorquez-serruya-information-across-levels|Conversation #1 with Diego Bohórquez and Mijail D. Serruya: How Information Moves Levels in Bodies]]
 
 ## Entities
 
@@ -26,6 +49,8 @@ Last updated: 2026-06-15
 *(none yet)*
 
 ## Recent Ingests
+
+- 2026-10-15: 10 most recent @drmichaellevin videos (2026-09-03 to 2026-10-15) + companies tracker
 
 - 2026-06-15: "Mind May Be Older Than the Brain" (Philosophy Everyday, video LCqJKGnRcbA)
 

@@ -79,3 +79,9 @@
 - Platonic space hypothesis (42-54 min)
 - Embodied algorithms (59-64 min)
 - Regenerative medicine applications (77-82 min)
+
+## 2026-10-15 — channel ingest + companies tracker
+- Pulled YouTube auto-captions (yt-dlp, en-orig) for the 10 most recent videos on @drmichaellevin; transcripts in raw/transcripts/.
+- Added videos/ (10 pages), topics/ (8 hub pages), whats-new.md, vision.md, companies/companies-tracker.md.
+- All quotes verified as exact substrings of the caption transcripts. Company links checked 2026-10-15.
+- Public site built from this repo with site/build.py and published on here.now.
