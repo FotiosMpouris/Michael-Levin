@@ -31,7 +31,7 @@ Levin's case that the debate about AI misses what biology already shows about mi
 
 ## Why it matters
 
-The most direct bridge from Levin's biology to AI, which is where Fotios's daily work lives.
+The most direct bridge from Levin's biology to AI.
 
 ## Key quotes (word for word from YouTube's auto-generated captions)
 
@@ -51,4 +51,4 @@ Quotes are copied exactly from the captions, including filler words and caption 
 
 ## Related
 
-[[whats-new|What's new]] · [[companies-tracker|Companies tracker]] · [[vision|Connections to Fotios's vision]] · transcript: `raw/transcripts/2026-09-21-Or_3tlEOLj4.txt`
+[[whats-new|What's new]] · [[companies-tracker|Companies tracker]] · transcript: `raw/transcripts/2026-09-21-Or_3tlEOLj4.txt`

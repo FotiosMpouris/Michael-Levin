@@ -156,4 +156,4 @@ Why is morphogenesis so robust (same shape despite perturbations) but also plast
 
 *The morphogenetic field/pattern space is central to Levin's framework. Understanding it is key to regenerative medicine, but also to a deeper theory of life itself.*
 
-*The template problem is what Fotios (the wiki creator) identified as critical to understand. This page attempts to lay it out clearly.*
+*The template problem may be the critical open question. This page lays it out.

@@ -68,4 +68,4 @@ Full list: [Peer-reviewed papers on the lab site](https://drmichaellevin.org/pub
 
 ## Related
 
-[[xenobots-anthrobots]] · [[regeneration]] · [[ai-and-biology]] · [[mind-body]] · [[companies-tracker]] · [[vision]] · [[index]]
+[[xenobots-anthrobots]] · [[regeneration]] · [[ai-and-biology]] · [[mind-body]] · [[companies-tracker]] · [[index]]

@@ -31,7 +31,7 @@ A compressed tour of the lab's program: goals encoded bioelectrically, memory in
 
 ## Why it matters
 
-Best short introduction to send someone new. Mambot is directly relevant to the agent workflows Fotios is building: an AI system running the full experiment loop.
+Best short introduction to send someone new. Mambot is an AI system running the full experiment loop.
 
 ## Key quotes (word for word from YouTube's auto-generated captions)
 
@@ -48,4 +48,4 @@ Quotes are copied exactly from the captions, including filler words and caption 
 
 ## Related
 
-[[whats-new|What's new]] · [[companies-tracker|Companies tracker]] · [[vision|Connections to Fotios's vision]] · transcript: `raw/transcripts/2026-09-22-6W5qhMasROY.txt`
+[[whats-new|What's new]] · [[companies-tracker|Companies tracker]] · transcript: `raw/transcripts/2026-09-22-6W5qhMasROY.txt`

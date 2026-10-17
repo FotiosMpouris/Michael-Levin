@@ -124,4 +124,4 @@ Answering this question would:
 
 ---
 
-*This is the keystone question in Levin's framework. Understanding it unlocks regenerative medicine and possibly a new theory of life. Fotios (the wiki creator) identified this as the critical missing piece.*
+*This is the keystone question in Levin's framework. Understanding it unlocks regenerative medicine and possibly a new theory of life.*

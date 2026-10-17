@@ -105,7 +105,7 @@ The bioelectric pattern is how this collective set-point is maintained.
 
 ## Related Concepts
 
-[[morphogenetic-field]] | [[cognitive-glue]] | [[basal-cognition]] | [[xenobots-anthrobots]]
+[[morphogenetic-field]] | cognitive glue | [[basal-cognition]] | [[xenobots-anthrobots]]
 
 ---
 

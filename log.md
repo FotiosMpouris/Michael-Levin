@@ -89,3 +89,8 @@
 ## [2026-10-16] update | Michael Levin profile page rebuilt
 - entities/michael-levin.md rewritten from lab site, 7 peer-reviewed papers (DOIs checked on Crossref), blog, X; evidence labels (Confirmed / His words / Our reading). Typos fixed, broken [[xenobots]] link fixed.
 - Nav link added; site/check.py deterministic checks added. Republished (anonymous, 24h) at https://inner-breeze-5fr8.here.now/ because the 10/15 publish expired and the saved here.now API key was rejected.
+
+## [2026-10-16] redesign | Morphospace public site
+- New home: "Latest from Levin" feed (feed/latest.json, 39 dated items from YouTube, Crossref, X, thoughtforms.life), then topics, papers, companies, profile. New identity, self-hosted fonts (OFL).
+- Personal material removed from public pages; vision.md moved to the private notes. check.py now blocks any personal name, future-dated items and dead feed links.
+- feed/refresh.py + feed/UPDATE.md for the Thursday routine.

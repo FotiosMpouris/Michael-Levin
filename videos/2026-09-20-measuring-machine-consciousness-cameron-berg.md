@@ -48,4 +48,4 @@ Quotes are copied exactly from the captions, including filler words and caption 
 
 ## Related
 
-[[whats-new|What's new]] · [[companies-tracker|Companies tracker]] · [[vision|Connections to Fotios's vision]] · transcript: `raw/transcripts/2026-09-20-A8ro2GUU_UU.txt`
+[[whats-new|What's new]] · [[companies-tracker|Companies tracker]] · transcript: `raw/transcripts/2026-09-20-A8ro2GUU_UU.txt`

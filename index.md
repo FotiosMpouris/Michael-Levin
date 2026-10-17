@@ -6,7 +6,6 @@ Last updated: 2026-10-15
 
 - [[whats-new|What's new]] — latest videos from the Levin lab channel
 - [[companies-tracker|Companies tracker]] — spinouts, licensees, funders (research, not advice)
-- [[vision|Connections to Fotios's vision]]
 
 ## Topics
 
@@ -66,7 +65,7 @@ Last updated: 2026-10-15
 
 2. **Scaling Intelligence:** How does mind scale from cells to organisms?
    - [[cognitive-lightcone]] → defines scale of agency
-   - [[cognitive-glue]] (gap junctions, electrical coupling) → mechanisms for scaling
+   - cognitive glue (gap junctions, electrical coupling) → mechanisms for scaling
    - [[basal-cognition]] → reframes what counts as intelligence
 
 3. **Synthetic Biology / Medical Applications:**
@@ -76,7 +75,7 @@ Last updated: 2026-10-15
 
 4. **AI / Philosophy:**
    - [[platonic-space]] bridges mathematics and biology
-   - [[embodiment]] might be key to AI breakthrough
+   - embodiment might be key to AI breakthrough
    - Mind might be fundamentally relational, not substrate-specific
 
 ## Notes for Future Work

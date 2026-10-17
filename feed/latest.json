@@ -1,0 +1,358 @@
+{
+ "updated": "2026-10-16",
+ "checked_at": "2026-10-16 10:30 PM ET",
+ "sources": {
+  "video": "yt-dlp flat playlist of youtube.com/@drmichaellevin/videos + per-video upload_date",
+  "paper": "Crossref works filtered by ORCID 0000-0001-7292-8084 (only works where his ORCID is attached)",
+  "post": "X API user timeline, original posts only (replies/reposts and #naturephotography excluded)",
+  "blog": "thoughtforms.life RSS feed"
+ },
+ "items": [
+  {
+   "kind": "video",
+   "date": "2026-10-16",
+   "title": "\"Thoughts as Thinkers: the biology & computer science of inspiration\" by Michael Levin",
+   "url": "https://www.youtube.com/watch?v=P803O6opd3o",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 35:40",
+   "page": ""
+  },
+  {
+   "kind": "paper",
+   "date": "2026-10-16",
+   "title": "Goal directed closed-loop training of network bursts in cortical cultures produces improved performance and error correction over days",
+   "url": "https://doi.org/10.64898/2026.10.15.759184",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-15",
+   "title": "Deep Learning in Biology by Dr. Edo Dotan",
+   "url": "https://www.youtube.com/watch?v=S-seCBLDFsw",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-10-15-deep-learning-in-biology-edo-dotan"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-11",
+   "title": "\"Mind-Body Interface: an experimental and Clinical Perspective\" by Michael Levin and Karina Kofman",
+   "url": "https://www.youtube.com/watch?v=KLWm0Qyj3jg",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-10-11-mind-body-interface-levin-kofman"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-10",
+   "title": "\"Thermodynamics, Control, & Fundamental Niche\" by M Kearney, I Shames, R Schouten, P Egré, R Evans",
+   "url": "https://www.youtube.com/watch?v=m96j6MXcisw",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-10-10-thermodynamics-control-fundamental-niche"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-09",
+   "title": "\"Neuroscience Beyond Neurons: communicating with unconventional minds\" by Michael Levin",
+   "url": "https://www.youtube.com/watch?v=09t5uupqax0",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-10-09-neuroscience-beyond-neurons"
+  },
+  {
+   "kind": "post",
+   "date": "2026-09-26",
+   "title": "New preprint with Hananel Hazan: \"Computational Framework for Identifying Ion Channel Mutation-Compensating Interventions.\" \"How to fix hardware problems (an ion channel mutation), in software (without fixing the mutation)?\"",
+   "url": "https://x.com/drmichaellevin/status/2103823400753926464",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-09-25",
+   "title": "Computational Framework for Identifying Ion Channel Mutation-Compensating Interventions",
+   "url": "https://doi.org/10.64898/2026.09.20.753002",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-24",
+   "title": "Discussion with Marsha Hewitt (Platonic Space and related ideas)",
+   "url": "https://www.youtube.com/watch?v=mMspSM9IRVg",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-09-24-discussion-marsha-hewitt-platonic-space"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-22",
+   "title": "\"Life, Machines, and a Foundation for Synthbiosis\" by Michael Levin",
+   "url": "https://www.youtube.com/watch?v=6W5qhMasROY",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-09-22-life-machines-synthbiosis"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-09-22",
+   "title": "Theories of Aging: From Damage and Programmed Theories to Goal-Directedness (v2)",
+   "url": "https://doi.org/10.20944/preprints202608.1219.v2",
+   "source": "Preprints.org",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-09-22",
+   "title": "Scale-free Niche Construction: expanding agent-microenvironment co-development to unconventional substrates (v3)",
+   "url": "https://doi.org/10.31219/osf.io/ytg35_v3",
+   "source": "OSF Preprints",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-21",
+   "title": "Biology, AI, and Diverse Intelligence by Michael Levin",
+   "url": "https://www.youtube.com/watch?v=Or_3tlEOLj4",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-09-21-biology-ai-diverse-intelligence"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-20",
+   "title": "\"Measuring Machine Consciousness\" by Cameron Berg",
+   "url": "https://www.youtube.com/watch?v=A8ro2GUU_UU",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-09-20-measuring-machine-consciousness-cameron-berg"
+  },
+  {
+   "kind": "post",
+   "date": "2026-09-17",
+   "title": "Quotes Anil Seth's announcement of the \"Conscious AI and Biological Naturalism\" collection in Behavioral and Brain Sciences: \"Lots of interesting stuff here!\"",
+   "url": "https://x.com/drmichaellevin/status/2100730170285957195",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-09-17",
+   "title": "Diverse intelligence: An essential field for questions of AI and consciousness",
+   "url": "https://doi.org/10.1017/s0140525x25103828",
+   "source": "Behavioral and Brain Sciences",
+   "status": "peer-reviewed",
+   "authors": "Levin",
+   "note": "Peer-reviewed",
+   "date_basis": "DOI registered"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-13",
+   "title": "A conversation with Andrey Vyshedskiy about the evolution of language and brain development",
+   "url": "https://www.youtube.com/watch?v=3OYrFiUEuSs",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-09-13-andrey-vyshedskiy-evolution-of-language"
+  },
+  {
+   "kind": "post",
+   "date": "2026-09-11",
+   "title": "Points readers to his official lab website \"with all the preprints, papers, software, resources, talks, interviews, etc.\"",
+   "url": "https://x.com/drmichaellevin/status/2098383447517503802",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-09-09",
+   "title": "Ingressing Minds: Causal, Non-Physical Patterns In-Form Natural, Synthetic, and Hybrid Embodiments",
+   "url": "https://doi.org/10.3390/philosophies11050161",
+   "source": "Philosophies",
+   "status": "peer-reviewed",
+   "authors": "Levin",
+   "note": "Peer-reviewed"
+  },
+  {
+   "kind": "post",
+   "date": "2026-09-09",
+   "title": "\"Here it is - the official, revised, peer-reviewed version of my Platonic Space paper.\" His most-viewed recent post (about 1.5M views).",
+   "url": "https://x.com/drmichaellevin/status/2097681695856058801",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "post",
+   "date": "2026-09-05",
+   "title": "New preprint in computational modeling of bioelectricity: \"Membrane voltage and connexin expression work together to enhance tumor growth and metastasis in cancer.\"",
+   "url": "https://x.com/drmichaellevin/status/2096177771412127879",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "post",
+   "date": "2026-09-04",
+   "title": "New preprint led by Elena Sergeeva, \"part of our efforts to develop tools to communicate with various unconventional agents.\"",
+   "url": "https://x.com/drmichaellevin/status/2095966053524443430",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-03",
+   "title": "Conversation #1 with Diego Bohórquez and Mijail D. Serruya: how information moves levels in bodies",
+   "url": "https://www.youtube.com/watch?v=YvUn3G2lPxs",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "2026-09-03-bohorquez-serruya-information-across-levels"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-09-03",
+   "title": "Membrane voltage and connexin expression work together to enhance tumor growth and metastasis in cancer",
+   "url": "https://doi.org/10.64898/2026.09.02.748840",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-09-03",
+   "title": "Living multicellular systems induce decodable spatial patterns in bacterial collectives",
+   "url": "https://doi.org/10.64898/2026.09.02.748853",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-02",
+   "title": "\"Deciphering Visceral Instincts\" by Diego Bohórquez",
+   "url": "https://www.youtube.com/watch?v=YXXYM3Z4fV0",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 52:51",
+   "page": ""
+  },
+  {
+   "kind": "post",
+   "date": "2026-08-29",
+   "title": "Final version out: \"Open questions about time and self-reference in living systems.\"",
+   "url": "https://x.com/drmichaellevin/status/2093680835144602052",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "blog",
+   "date": "2026-08-26",
+   "title": "Q&A from the internet and recent presentations 5",
+   "url": "https://thoughtforms.life/qa-from-the-internet-and-recent-presentations-5/",
+   "source": "thoughtforms.life"
+  },
+  {
+   "kind": "post",
+   "date": "2026-08-18",
+   "title": "New preprint mapping the major theories of aging: \"Theories of Aging: From Damage and Programmed Theories to Goal-Directedness.\"",
+   "url": "https://x.com/drmichaellevin/status/2089652769435045966",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "blog",
+   "date": "2026-08-16",
+   "title": "Quotes to think about #8",
+   "url": "https://thoughtforms.life/quotes-to-think-about-8/",
+   "source": "thoughtforms.life"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-08-13",
+   "title": "A platform for automated training of mammalian cell physiology",
+   "url": "https://doi.org/10.64898/2026.08.13.744473",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-08-11",
+   "title": "Trained Planaria Retain Memories Through Head Regeneration: A Model System for Insights into Non-Neural Memory and Neurodegenerative Diseases",
+   "url": "https://doi.org/10.64898/2026.08.10.741213",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "",
+   "note": "Preprint, not yet peer-reviewed"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-08-06",
+   "title": "Lifetime imaging reveals long-distance non-neural bioelectric patterns on timescales from seconds to hours",
+   "url": "https://doi.org/10.1016/j.ydbio.2026.08.001",
+   "source": "Developmental Biology",
+   "status": "peer-reviewed",
+   "authors": "McMillen, Levin",
+   "note": "Peer-reviewed",
+   "issue": "Nov 2026",
+   "date_basis": "DOI registered (online); journal issue Nov 2026"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-08-06",
+   "title": "Bioelectrical regionalization of multicellular aggregates by microRNAs",
+   "url": "https://doi.org/10.1063/5.0345058",
+   "source": "The Journal of Chemical Physics",
+   "status": "peer-reviewed",
+   "authors": "",
+   "note": "Peer-reviewed"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-08-04",
+   "title": "Manipulation of biological systems by self-defecting and foreign agents",
+   "url": "https://doi.org/10.1016/j.semcdb.2026.103691",
+   "source": "Seminars in Cell & Developmental Biology",
+   "status": "peer-reviewed",
+   "authors": "",
+   "note": "Peer-reviewed",
+   "issue": "Sep 2026",
+   "date_basis": "DOI registered (online); journal issue Sep 2026"
+  },
+  {
+   "kind": "blog",
+   "date": "2026-07-11",
+   "title": "Books in progress – update #3",
+   "url": "https://thoughtforms.life/books-in-progress-update-3/",
+   "source": "thoughtforms.life"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-07-01",
+   "title": "Remapping and navigation of an embedding space via error minimization: A fundamental organizational principle of cognition in natural and artificial systems",
+   "url": "https://doi.org/10.1016/j.plrev.2026.06.009",
+   "source": "Physics of Life Reviews",
+   "status": "peer-reviewed",
+   "authors": "Hartl, Pio-Lopez, Fields, Levin",
+   "note": "Peer-reviewed",
+   "issue": "Sep 2026",
+   "date_basis": "DOI registered (online); journal issue Sep 2026"
+  },
+  {
+   "kind": "blog",
+   "date": "2026-06-20",
+   "title": "A talk for mental health professionals",
+   "url": "https://thoughtforms.life/a-talk-for-mental-health-professionals/",
+   "source": "thoughtforms.life"
+  },
+  {
+   "kind": "blog",
+   "date": "2026-05-31",
+   "title": "Biophysical Intelligence Between Genotype and Phenotype",
+   "url": "https://thoughtforms.life/biophysical-intelligence-between-genotype-and-phenotype/",
+   "source": "thoughtforms.life"
+  }
+ ]
+}
