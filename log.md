@@ -85,3 +85,7 @@
 - Added videos/ (10 pages), topics/ (8 hub pages), whats-new.md, vision.md, companies/companies-tracker.md.
 - All quotes verified as exact substrings of the caption transcripts. Company links checked 2026-10-15.
 - Public site built from this repo with site/build.py and published on here.now.
+
+## [2026-10-16] update | Michael Levin profile page rebuilt
+- entities/michael-levin.md rewritten from lab site, 7 peer-reviewed papers (DOIs checked on Crossref), blog, X; evidence labels (Confirmed / His words / Our reading). Typos fixed, broken [[xenobots]] link fixed.
+- Nav link added; site/check.py deterministic checks added. Republished (anonymous, 24h) at https://inner-breeze-5fr8.here.now/ because the 10/15 publish expired and the saved here.now API key was rejected.

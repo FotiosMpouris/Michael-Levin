@@ -15,7 +15,7 @@ header strong{margin-right:28px;font-family:system-ui,sans-serif}main{max-width:
 h1,h2,h3{font-family:system-ui,sans-serif;color:#0d1b2a}a{color:#0a58a8}blockquote{border-left:3px solid #3a7bd5;margin:14px 0;padding:4px 14px;background:#eef4fb}
 table{border-collapse:collapse;font-size:14px;display:block;overflow-x:auto}td,th{border:1px solid #ccd;padding:6px 8px;vertical-align:top}th{background:#e8eef5}
 .meta{font-size:13px;color:#667;font-family:system-ui,sans-serif}footer{max-width:820px;margin:30px auto;padding:0 24px 30px;font-size:13px;color:#667;font-family:system-ui,sans-serif}'''
-NAV='<header><strong>Michael Levin Research Wiki</strong><a href="index.html">Index</a><a href="whats-new.html">What\'s new</a><a href="companies-tracker.html">Companies</a><a href="vision.html">Why it matters</a></header>'
+NAV='<header><strong>Michael Levin Research Wiki</strong><a href="index.html">Index</a><a href="michael-levin.html">Michael Levin</a><a href="whats-new.html">What\'s new</a><a href="companies-tracker.html">Companies</a><a href="vision.html">Why it matters</a></header>'
 def link(m):
     t,_,label=m.group(1).partition('|'); t=t.strip()
     if t in name: return f'[{label or titles[t]}]({out(t)})'
