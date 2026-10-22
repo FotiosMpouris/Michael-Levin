@@ -11,12 +11,22 @@ def get(u):
         except Exception as e: err=e; __import__('time').sleep(3)
     raise err
 # YouTube
+yt_rss={}
+try:
+    from zoneinfo import ZoneInfo
+    for e in re.findall(r'<entry>(.*?)</entry>',get('https://www.youtube.com/feeds/videos.xml?channel_id=UC3pVafx6EZqXVI2V_Efu2uw'),re.S):
+        vid=re.search(r'<yt:videoId>(.*?)</yt:videoId>',e).group(1); pub=re.search(r'<published>(.*?)</published>',e).group(1)
+        yt_rss[vid]=(datetime.datetime.fromisoformat(pub).astimezone(ZoneInfo('America/New_York')).date().isoformat(),html.unescape(re.search(r'<title>(.*?)</title>',e).group(1)))
+except Exception as e: print('WARN channel RSS failed',e)
 ids=subprocess.run(['yt-dlp','--flat-playlist','--playlist-end','12','--print','%(id)s','https://www.youtube.com/@drmichaellevin/videos'],capture_output=True,text=True).stdout.split()
 for i in ids:
     u=f'https://www.youtube.com/watch?v={i}'
     if u in have: continue
     o=subprocess.run(['yt-dlp','--skip-download','--print','%(upload_date)s|%(duration_string)s|%(title)s',u],capture_output=True,text=True).stdout.strip().split('|',2)
-    if len(o)==3: new.append(dict(kind='video',date=f'{o[0][:4]}-{o[0][4:6]}-{o[0][6:]}',title=o[2],url=u,source='YouTube @drmichaellevin',note='Duration '+o[1],page=''))
+    if len(o)==3 and o[0][:2]=='20': new.append(dict(kind='video',date=f'{o[0][:4]}-{o[0][4:6]}-{o[0][6:]}',title=o[2],url=u,source='YouTube @drmichaellevin',note='Duration '+o[1],page=''))
+    elif i in yt_rss:  # yt-dlp blocked (bot check / 429): fall back to the channel RSS (published time converted to ET)
+        dt,t=yt_rss[i]; new.append(dict(kind='video',date=dt,title=t,url=u,source='YouTube @drmichaellevin',note='',page='',date_basis='channel RSS published, ET'))
+    else: print('WARN could not get metadata for video',i)
 # Crossref
 since=(datetime.date.today()-datetime.timedelta(days=60)).isoformat()
 cr=json.loads(get(f'https://api.crossref.org/works?filter=orcid:0000-0001-7292-8084,from-created-date:{since}&sort=created&order=desc&rows=30'))

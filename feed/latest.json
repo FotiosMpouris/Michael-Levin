@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-16",
- "checked_at": "2026-10-16 10:30 PM ET",
+ "updated": "2026-10-22",
+ "checked_at": "2026-10-22 9:28 AM ET",
  "sources": {
   "video": "yt-dlp flat playlist of youtube.com/@drmichaellevin/videos + per-video upload_date",
   "paper": "Crossref works filtered by ORCID 0000-0001-7292-8084 (only works where his ORCID is attached)",
@@ -8,6 +8,51 @@
   "blog": "thoughtforms.life RSS feed"
  },
  "items": [
+  {
+   "kind": "post",
+   "date": "2026-10-22",
+   "title": "Informal poll: \"use the little browser app at the link below to say how you think the sets of physical systems, living beings, and minds fit together in a Venn diagram\"",
+   "url": "https://x.com/drmichaellevin/status/2113248329949712646",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "post",
+   "date": "2026-10-21",
+   "title": "\"The details for our (@DrPatrickE) cell trainer platform are up!\" (links to drmichaellevin.org/resources/celltrainer)",
+   "url": "https://x.com/drmichaellevin/status/2113071151031197841",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-10-19",
+   "title": "Targeting Ion Channel Dysregulation in Colorectal Cancer: Identification of Clofilium as a Potent Inhibitor of Tumor Growth and Metastatic Potential",
+   "url": "https://doi.org/10.31219/osf.io/w5dq7_v4",
+   "source": "Preprint server",
+   "status": "preprint",
+   "authors": "Mathews, Palmer, Hansali, Strasser, Liao, Kondakath, Weiner, Pio-Lopez, Kuchling, Swei, Cooper, Mackelprang, Chang, Thompson, Israeli, Shaffer, Levin",
+   "note": "Preprint, not yet peer-reviewed",
+   "date_basis": "DOI registered"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-17",
+   "title": "\"Decoding and Translating the Languages of Biology: towards de novo cell design\" by Jian Shu",
+   "url": "https://www.youtube.com/watch?v=SiTlGdMKQNo",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "",
+   "date_basis": "channel RSS published, ET"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-17",
+   "title": "\"New Bodies, Unconventional Minds: a continuum of cognition (& consciousness) by Michael Levin",
+   "url": "https://www.youtube.com/watch?v=YxmSCElKdm0",
+   "source": "YouTube @drmichaellevin",
+   "note": "",
+   "page": "",
+   "date_basis": "channel RSS published, ET"
+  },
   {
    "kind": "video",
    "date": "2026-10-16",

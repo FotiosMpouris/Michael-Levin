@@ -1,7 +1,7 @@
 ---
 title: What's new
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-22
 type: hub
 tags: [#whats-new]
 sources: []
@@ -11,7 +11,18 @@ sources: []
 
 Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-10-15.
 
-## This batch: the 10 most recent videos
+## Week of 2026-10-22: new in the feed
+
+Captions could not be fetched this week (YouTube blocked the download), so these videos have no summary page yet. Titles and dates are from the channel feed.
+
+- 2026-10-17, video: ["Decoding and Translating the Languages of Biology: towards de novo cell design" by Jian Shu](https://www.youtube.com/watch?v=SiTlGdMKQNo) (guest talk).
+- 2026-10-17, video: ["New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)" by Michael Levin](https://www.youtube.com/watch?v=YxmSCElKdm0).
+- 2026-10-16, video: ["Thoughts as Thinkers: the biology & computer science of inspiration" by Michael Levin](https://www.youtube.com/watch?v=P803O6opd3o) (still no summary page).
+- 2026-10-19, preprint (not yet peer-reviewed): [Targeting Ion Channel Dysregulation in Colorectal Cancer: Identification of Clofilium as a Potent Inhibitor of Tumor Growth and Metastatic Potential](https://doi.org/10.31219/osf.io/w5dq7_v4).
+- 2026-10-21, X: ["The details for our (@DrPatrickE) cell trainer platform are up!"](https://x.com/drmichaellevin/status/2113071151031197841)
+- 2026-10-22, X: [an informal poll on how "physical systems, living beings, and minds fit together in a Venn diagram"](https://x.com/drmichaellevin/status/2113248329949712646)
+
+## Earlier batch: the 10 most recent videos as of 2026-10-15
 
 | Published | Video | Who | In brief |
 |---|---|---|---|

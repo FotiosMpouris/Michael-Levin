@@ -94,3 +94,7 @@
 - New home: "Latest from Levin" feed (feed/latest.json, 39 dated items from YouTube, Crossref, X, thoughtforms.life), then topics, papers, companies, profile. New identity, self-hosted fonts (OFL).
 - Personal material removed from public pages; vision.md moved to the private notes. check.py now blocks any personal name, future-dated items and dead feed links.
 - feed/refresh.py + feed/UPDATE.md for the Thursday routine.
+
+## [2026-10-22] weekly refresh
+- Feed: 2 videos (SiTlGdMKQNo Jian Shu guest talk, YxmSCElKdm0 "New Bodies, Unconventional Minds", both 2026-10-17), 1 preprint (Clofilium in colorectal cancer, 2026-10-19), 2 X posts (cell trainer platform 2026-10-21, Venn poll 2026-10-22). whats-new.md updated.
+- YouTube blocked yt-dlp (bot check / 429), so no captions and no video pages this week; refresh.py now falls back to the channel RSS for dates and titles. check.py: ERRORS 0. Published to inner-breeze-5fr8 (version 01M5HWVWW27QBPQ2BNT9B5DMMR).
