@@ -110,3 +110,5 @@ Not fully articulated, but the suggestion is:
 **Note:** This is Levin's most speculative (but intellectually compelling) idea. It's not mainstream yet, and he's clear about its status: hypothesis, not proven theory. But it's the framework he uses to explain why cell collectives do things we didn't program.
 
 *Source: Philosophy Everyday interview, June 2026 — discussion of "Platonic space" begins around 43:00*
+
+- Video evidence: [[2026-10-20-where-does-intelligence-live-632nm|632nm interview, 2026-10-20]], where Levin says "that space contains kinds of minds" (https://www.youtube.com/watch?v=fpIkuRr4MCQ&t=1175s).
