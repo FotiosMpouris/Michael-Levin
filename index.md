@@ -13,6 +13,13 @@ Last updated: 2026-10-15
 
 ## Videos (one page each)
 
+- 2026-10-29 — [[2026-10-29-biomedical-synthetic-biology-lior-nissim|Biomedical Synthetic Biology]]
+- 2026-10-28 — [[2026-10-28-physical-intelligence-thermodynamic-agency-debari-cheung|Physical Intelligence: thermodynamic roots of agency]]
+- 2026-10-26 — [[2026-10-26-perturbing-complex-networks-bhattacharjee|Perturbing Complex Networks]]
+- 2026-10-25 — [[2026-10-25-top-down-physics-diverse-intelligence-chris-fields|From Top-Down Physics to Diverse Intelligence]]
+- 2026-10-17 — [[2026-10-17-new-bodies-unconventional-minds|New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)]]
+- 2026-10-17 — [[2026-10-17-languages-of-biology-de-novo-cell-design-jian-shu|Decoding and Translating the Languages of Biology: towards de novo cell design]]
+- 2026-10-16 — [[2026-10-16-thoughts-as-thinkers-inspiration|Thoughts as Thinkers: the biology & computer science of inspiration]]
 - 2026-10-15 — [[2026-10-15-deep-learning-in-biology-edo-dotan|Deep Learning in Biology]]
 - 2026-10-11 — [[2026-10-11-mind-body-interface-levin-kofman|Mind-Body Interface: an Experimental and Clinical Perspective]]
 - 2026-10-10 — [[2026-10-10-thermodynamics-control-fundamental-niche|Thermodynamics, Control, & Fundamental Niche]]
@@ -23,6 +30,7 @@ Last updated: 2026-10-15
 - 2026-09-20 — [[2026-09-20-measuring-machine-consciousness-cameron-berg|Measuring Machine Consciousness]]
 - 2026-09-13 — [[2026-09-13-andrey-vyshedskiy-evolution-of-language|A Conversation with Andrey Vyshedskiy about the Evolution of Language and Brain Development]]
 - 2026-09-03 — [[2026-09-03-bohorquez-serruya-information-across-levels|Conversation #1 with Diego Bohórquez and Mijail D. Serruya: How Information Moves Levels in Bodies]]
+- 2026-09-02 — [[2026-09-02-deciphering-visceral-instincts-bohorquez|Deciphering Visceral Instincts]]
 
 ## Entities
 

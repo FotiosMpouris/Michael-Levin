@@ -1,7 +1,7 @@
 ---
 title: "Cognition in cells (basal and diverse intelligence)"
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-29
 type: topic
 tags: [#topic, #cognition-in-cells]
 sources: [raw/transcripts/2026-10-11-KLWm0Qyj3jg.txt, raw/transcripts/2026-10-09-09t5uupqax0.txt, raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
@@ -13,6 +13,8 @@ Intelligence as 'reaching the same goal by different means' applies below the br
 
 ## Videos on this topic (newest first)
 
+- 2026-10-28 — [[2026-10-28-physical-intelligence-thermodynamic-agency-debari-cheung|Physical Intelligence: thermodynamic roots of agency]] (Benjamin De Bari-Cheung (Thomas Jefferson University), guest talk with discussion)
+- 2026-10-17 — [[2026-10-17-new-bodies-unconventional-minds|New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)]] (Michael Levin)
 - 2026-10-11 — [[2026-10-11-mind-body-interface-levin-kofman|Mind-Body Interface: an Experimental and Clinical Perspective]] (Michael Levin and Karina Kofman)
 - 2026-10-09 — [[2026-10-09-neuroscience-beyond-neurons|Neuroscience Beyond Neurons: Communicating with Unconventional Minds]] (Michael Levin)
 - 2026-09-21 — [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]] (Michael Levin)

@@ -1,7 +1,7 @@
 ---
 title: What's new
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-10-29
 type: hub
 tags: [#whats-new]
 sources: []
@@ -9,15 +9,37 @@ sources: []
 
 # What's new
 
-Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-10-15.
+Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-10-29.
+
+## Week of 2026-10-29: new in the feed
+
+Captions came through this week, so every new video has a summary page, and so do four earlier videos that were missing one (marked "earlier").
+
+| Published | Video | Who | In brief |
+|---|---|---|---|
+| 2026-10-29 | [[2026-10-29-biomedical-synthetic-biology-lior-nissim|Biomedical Synthetic Biology]] | Lior Nissim (guest talk to the Levin lab), with discussion | Lior Nissim, who runs a synthetic biology lab at the Hadassah medical center in Israel ("Dasa" in the captions), explains how his group engineers cells the way engineers build autonomous electronic systems: sensors, a processor and outputs. Most of the talk is about synthetic promoters, short DNA switches built to switch on only in certain cell states, and gene circuits that do logic inside cells. |
+| 2026-10-28 | [[2026-10-28-physical-intelligence-thermodynamic-agency-debari-cheung|Physical Intelligence: thermodynamic roots of agency]] | Benjamin De Bari-Cheung (Thomas Jefferson University), guest talk with discussion | An ecological psychologist presents the "physical intelligence" program from his graduate work at the University of Connecticut, which looks for the roots of agency in thermodynamics. His main example is a non-living electrical system that grows tree-like structures, which he analyzes with the idea that systems tend toward the fastest rate of entropy production their circumstances allow. |
+| 2026-10-26 | [[2026-10-26-perturbing-complex-networks-bhattacharjee|Perturbing Complex Networks]] | Debanik Bhattacharjee (postdoc, Hebrew University), guest talk with discussion | A postdoc whose PhD was on fluid flow through porous materials shows how he studies complex systems by disturbing them and reading the response. Most of the talk uses pore networks (oil and water moving through a chip of pillars) as a test bed, and he says he is starting to carry the same approach over to neural systems, with early results not ready to show. |
+| 2026-10-25 | [[2026-10-25-top-down-physics-diverse-intelligence-chris-fields|From Top-Down Physics to Diverse Intelligence]] | Chris Fields (talk to the Levin lab group) | Chris Fields builds on a forthcoming paper in the journal Mind and Matter ("Embodied Cognition, the Free Energy Principle, and the Unity of Science") that argues against physicalism, and places it in the lab's current Platonic-space discussions. He goes from the Platonic space to the space of current mathematics, to physics seen from the top down, to each observer's experiential world, and ends at panpsychism. |
+| 2026-10-17 (earlier) | [[2026-10-17-new-bodies-unconventional-minds|New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)]] | Michael Levin | A short conference talk where Levin makes three claims: the focus on neurons is too narrow, the same reasons we credit other people with consciousness apply to many structures in the body, and physicalism is false "all the way down". He walks through learning in small molecular networks, xenobots and anthrobots, and his Platonic-space proposal, then closes with personal views on consciousness that he says he can't prove. |
+| 2026-10-17 (earlier) | [[2026-10-17-languages-of-biology-de-novo-cell-design-jian-shu|Decoding and Translating the Languages of Biology: towards de novo cell design]] | Jian Shu (guest talk to the Levin lab) | Jian Shu presents tools for measuring and redesigning cell states, aiming at designing new cells from scratch. He starts from iPS-cell reprogramming, moves to methods that use optimal transport on single-cell data to trace how cells change over time, and then to methods that predict gene expression from label-free images (Raman to RNA). He closes by calling for a shared, organized dataset of cell images and measurements so AI can suggest the next experiment. |
+| 2026-10-16 (earlier) | [[2026-10-16-thoughts-as-thinkers-inspiration|Thoughts as Thinkers: the biology & computer science of inspiration]] | Michael Levin | Levin describes a research program to study inspiration and intuition in the lab. His two points: there is a non-physical component that standard physical and computational models don't capture, and inspirations and the agents who get inspired are not different kinds of thing but points on one continuum. |
+| 2026-09-02 (earlier) | [[2026-09-02-deciphering-visceral-instincts-bohorquez|Deciphering Visceral Instincts]] | Diego Bohórquez (guest talk) | Diego Bohórquez, who grew up in the Amazon region of Ecuador, explains how the gut senses what we eat and tells the brain in real time. His lab found that certain gut lining cells have long arms that connect to nerves; he named them neuropods. Silencing them leaves mice unable to tell sugar apart, and a microbial protein sensed by these cells reduces appetite, which the lab calls the neurobiotic sense. |
+
+Papers and posts:
+- 2026-10-24, preprint (not yet peer-reviewed): [Limb-localized induction of regeneration reshapes brain and amputation-site transcriptional states in adult *Xenopus laevis*](https://doi.org/10.64898/2026.10.23.761414). On X he summed it up: ["yes, it knows. Also, lots of interesting transcriptional responses both in the limb and in the brain."](https://x.com/drmichaellevin/status/2114514572002332820)
+- 2026-10-23, peer-reviewed: [Reservoir Computing for Pattern Recognition and Time-Series Prediction Based on Nanofluidic Negative Differential Resistance](https://doi.org/10.1155/int/4602147) (International Journal of Intelligent Systems). On X: ["Final version is out"](https://x.com/drmichaellevin/status/2114535394179969422).
+- 2026-10-23, X: on the cortical-cultures preprint (2026-10-16), ["Ever wonder if eventually cells could be trained out of disease states?  We're on the path; first steps"](https://x.com/drmichaellevin/status/2113793410268025258)
+- 2026-10-26, X poll: ["A:  I believe our limited lifespan is good because finitude gives our life beauty and meaning" vs "B:  I would be sad if the modern human embodiment went extinct and was replaced by something else"](https://x.com/drmichaellevin/status/2114685083496096022)
+- 2026-10-26, X: on AI-generated emails, ["I'm not a bio-chauvinist; I just want, whoever, to be informed and interesting before I engage"](https://x.com/drmichaellevin/status/2114794440896487530)
 
 ## Week of 2026-10-22: new in the feed
 
-Captions could not be fetched this week (YouTube blocked the download), so these videos have no summary page yet. Titles and dates are from the channel feed.
+Captions could not be fetched that week. The three videos below now have summary pages (see the 2026-10-29 table above).
 
 - 2026-10-17, video: ["Decoding and Translating the Languages of Biology: towards de novo cell design" by Jian Shu](https://www.youtube.com/watch?v=SiTlGdMKQNo) (guest talk).
 - 2026-10-17, video: ["New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)" by Michael Levin](https://www.youtube.com/watch?v=YxmSCElKdm0).
-- 2026-10-16, video: ["Thoughts as Thinkers: the biology & computer science of inspiration" by Michael Levin](https://www.youtube.com/watch?v=P803O6opd3o) (still no summary page).
+- 2026-10-16, video: ["Thoughts as Thinkers: the biology & computer science of inspiration" by Michael Levin](https://www.youtube.com/watch?v=P803O6opd3o).
 - 2026-10-19, preprint (not yet peer-reviewed): [Targeting Ion Channel Dysregulation in Colorectal Cancer: Identification of Clofilium as a Potent Inhibitor of Tumor Growth and Metastatic Potential](https://doi.org/10.31219/osf.io/w5dq7_v4).
 - 2026-10-21, X: ["The details for our (@DrPatrickE) cell trainer platform are up!"](https://x.com/drmichaellevin/status/2113071151031197841)
 - 2026-10-22, X: [an informal poll on how "physical systems, living beings, and minds fit together in a Venn diagram"](https://x.com/drmichaellevin/status/2113248329949712646)

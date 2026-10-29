@@ -1,7 +1,7 @@
 ---
 title: "Bioelectricity"
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-29
 type: topic
 tags: [#topic, #bioelectricity]
 sources: [raw/transcripts/2026-10-09-09t5uupqax0.txt, raw/transcripts/2026-09-22-6W5qhMasROY.txt, raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
@@ -13,6 +13,7 @@ Every cell has a voltage across its membrane, and cells link into electrical net
 
 ## Videos on this topic (newest first)
 
+- 2026-10-26 — [[2026-10-26-perturbing-complex-networks-bhattacharjee|Perturbing Complex Networks]] (Debanik Bhattacharjee (postdoc, Hebrew University), guest talk with discussion)
 - 2026-10-09 — [[2026-10-09-neuroscience-beyond-neurons|Neuroscience Beyond Neurons: Communicating with Unconventional Minds]] (Michael Levin)
 - 2026-09-22 — [[2026-09-22-life-machines-synthbiosis|Life, Machines, and a Foundation for Synthbiosis]] (Michael Levin)
 - 2026-09-21 — [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]] (Michael Levin)

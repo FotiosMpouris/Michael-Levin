@@ -98,3 +98,8 @@
 ## [2026-10-22] weekly refresh
 - Feed: 2 videos (SiTlGdMKQNo Jian Shu guest talk, YxmSCElKdm0 "New Bodies, Unconventional Minds", both 2026-10-17), 1 preprint (Clofilium in colorectal cancer, 2026-10-19), 2 X posts (cell trainer platform 2026-10-21, Venn poll 2026-10-22). whats-new.md updated.
 - YouTube blocked yt-dlp (bot check / 429), so no captions and no video pages this week; refresh.py now falls back to the channel RSS for dates and titles. check.py: ERRORS 0. Published to inner-breeze-5fr8 (version 01M5HWVWW27QBPQ2BNT9B5DMMR).
+
+## [2026-10-29] weekly refresh
+- Feed: 4 videos (Lior Nissim 10/29, Benjamin De Bari-Cheung 10/28, Debanik Bhattacharjee 10/26, Chris Fields 10/25), 1 preprint (Xenopus limb/brain transcription, 10/24), 1 peer-reviewed paper (nanofluidic reservoir computing, 10/23), 5 X posts (10/23 to 10/26). whats-new.md, index.md and topic hubs updated.
+- Captions pulled with the vaulted-cookie yt-dlp method for all 8 videos missing pages (4 new plus SiTlGdMKQNo, YxmSCElKdm0, P803O6opd3o, YXXYM3Z4fV0); 8 video pages written, every quote checked word for word against the captions. Transcripts in raw/transcripts/. Companies tracker unchanged (YxmSCElKdm0 repeats the "four companies" licensing disclosure already noted).
+- check.py --links: ERRORS 0. Published to inner-breeze-5fr8 (version 01M63XT3Z373ND3H6J8FBRTZGS). The box lacks the `file` utility (apt mirror returned 500), so publish.sh ran with a fallback shim returning application/octet-stream for unknown extensions only.
