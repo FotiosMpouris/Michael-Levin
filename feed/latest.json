@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29",
- "checked_at": "2026-10-29 9:27 AM ET",
+ "updated": "2026-11-05",
+ "checked_at": "2026-11-05 9:25 AM ET",
  "sources": {
   "video": "yt-dlp flat playlist of youtube.com/@drmichaellevin/videos + per-video upload_date",
   "paper": "Crossref works filtered by ORCID 0000-0001-7292-8084 (only works where his ORCID is attached)",
@@ -8,6 +8,83 @@
   "blog": "thoughtforms.life RSS feed"
  },
  "items": [
+  {
+   "kind": "video",
+   "date": "2026-11-05",
+   "title": "\"Is consciousness popularity?\" by Narcis Marincat",
+   "url": "https://www.youtube.com/watch?v=m8Qr82cqI3A",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 1:13:29",
+   "page": "2026-11-05-is-consciousness-popularity-narcis-marincat"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-11-04",
+   "title": "A topoietic model of collective morphogenesis and compartmentalization",
+   "url": "https://doi.org/10.64898/2026.11.03.763900",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "Manicka, Levin",
+   "note": "Preprint, not yet peer-reviewed",
+   "date_basis": "DOI registered"
+  },
+  {
+   "kind": "paper",
+   "date": "2026-11-04",
+   "title": "Neural Activation of Human Primary Intestinal Enteroendocrine L-cells",
+   "url": "https://doi.org/10.64898/2026.11.03.763680",
+   "source": "bioRxiv",
+   "status": "preprint",
+   "authors": "Lindsay, Zeve, Rudolph, Shepherd, Grossberg, Breault, Levin, Ingber",
+   "note": "Preprint, not yet peer-reviewed",
+   "date_basis": "DOI registered"
+  },
+  {
+   "kind": "blog",
+   "date": "2026-11-04",
+   "title": "Interactive MindMap is online",
+   "url": "https://thoughtforms.life/interactive-mindmap-is-online/",
+   "source": "thoughtforms.life"
+  },
+  {
+   "kind": "post",
+   "date": "2026-11-04",
+   "title": "New #preprint with @SantoshManicka, \"A topoietic model of collective morphogenesis and compartmentalization\", quoting its abstract: \"diffusion and geometry alone may suffice to make a collective both spatially organized and controllable through macroscale intervention rather than microscale engineering of its members.\"",
+   "url": "https://x.com/drmichaellevin/status/2118057922358030624",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "post",
+   "date": "2026-11-04",
+   "title": "\"Interactive mind-map of my current work\" (\"work in progress.\")",
+   "url": "https://x.com/drmichaellevin/status/2117981189487427957",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "post",
+   "date": "2026-11-01",
+   "title": "\"Claude made some visuals for my process of paper-writing, useful for students. In case anyone else wants to use them\"",
+   "url": "https://x.com/drmichaellevin/status/2116837402006159836",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-31",
+   "title": "Thoughts as Thinkers: biology & computer science of inspiration within & without us by Michael Levin",
+   "url": "https://www.youtube.com/watch?v=EBF0KUX_jpA",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 35:08",
+   "page": "2026-10-31-thoughts-as-thinkers-within-without-us"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-30",
+   "title": "Conversation #1 with Martin Šolc: the law and diverse intelligence",
+   "url": "https://www.youtube.com/watch?v=CfnBKd_vThc",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 1:02:47",
+   "page": "2026-10-30-law-and-diverse-intelligence-martin-solc"
+  },
   {
    "kind": "video",
    "date": "2026-10-29",
@@ -38,7 +115,7 @@
   {
    "kind": "post",
    "date": "2026-10-26",
-   "title": "Poll: \"A:  I believe our limited lifespan is good because finitude gives our life beauty and meaning\" vs \"B:  I would be sad if the modern human embodiment went extinct and was replaced by something else\"",
+   "title": "Poll: \"A: I believe our limited lifespan is good because finitude gives our life beauty and meaning\" vs \"B: I would be sad if the modern human embodiment went extinct and was replaced by something else\"",
    "url": "https://x.com/drmichaellevin/status/2114685083496096022",
    "source": "X @drmichaellevin"
   },
@@ -75,7 +152,7 @@
   {
    "kind": "paper",
    "date": "2026-10-24",
-   "title": "Limb-localized induction of regeneration reshapes brain and amputation-site transcriptional states in adult\n                  <i>Xenopus laevis</i>",
+   "title": "Limb-localized induction of regeneration reshapes brain and amputation-site transcriptional states in adult Xenopus laevis",
    "url": "https://doi.org/10.64898/2026.10.23.761414",
    "source": "bioRxiv",
    "status": "preprint",
@@ -97,7 +174,7 @@
   {
    "kind": "post",
    "date": "2026-10-23",
-   "title": "New preprint with @WesleyPClawson: \"Ever wonder if eventually cells could be trained out of disease states?  We're on the path; first steps\" (\"Goal directed closed-loop training of network bursts in cortical cultures produces improved performance and error correction over days\")",
+   "title": "New preprint with @WesleyPClawson: \"Ever wonder if eventually cells could be trained out of disease states? We're on the path; first steps\" (\"Goal directed closed-loop training of network bursts in cortical cultures produces improved performance and error correction over days\")",
    "url": "https://x.com/drmichaellevin/status/2113793410268025258",
    "source": "X @drmichaellevin"
   },

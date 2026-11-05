@@ -1,7 +1,7 @@
 ---
 title: Companies tracker — Levin lab ecosystem
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-11-05
 type: entity
 tags: [#companies, #investment-research, #bioelectricity, #xenobots]
 sources: [raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-22-6W5qhMasROY.txt]
@@ -13,7 +13,7 @@ sources: [raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-22
 
 **Status at a glance (2026-10-15):** none of the companies below is publicly traded. There is no public stock that gives direct exposure to Levin's work today. Paths that exist in principle are private (venture funds, private rounds, usually for accredited investors) — see "Ways to get exposure" at the bottom.
 
-Levin himself discloses licensing: in [[2026-09-22-life-machines-synthbiosis|Life, Machines, and a Foundation for Synthbiosis]] he mentions three disclosures of companies that licensed the lab's technology, and in [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]] he says "There's four companies that have licensed some of the work." His lab site lists Unravel Biosciences, Morphoceuticals and Fauna Systems among his affiliations ([drmichaellevin.org](https://drmichaellevin.org/)).
+Levin himself discloses licensing: in [[2026-09-22-life-machines-synthbiosis|Life, Machines, and a Foundation for Synthbiosis]] he mentions three disclosures of companies that licensed the lab's technology, and in [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]] he says "There's four companies that have licensed some of the work." In [[2026-10-31-thoughts-as-thinkers-within-without-us|Thoughts as Thinkers (2026-10-31)]] he says "there are uh three or four companies that have now licensed some of our" inventions. His lab site lists Unravel Biosciences, Morphoceuticals and Fauna Systems among his affiliations ([drmichaellevin.org](https://drmichaellevin.org/)).
 
 ## Spinouts and co-founded companies
 

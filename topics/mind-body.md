@@ -1,7 +1,7 @@
 ---
 title: "Mind, body and brain"
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-05
 type: topic
 tags: [#topic, #mind-body]
 sources: [raw/transcripts/2026-10-11-KLWm0Qyj3jg.txt, raw/transcripts/2026-09-24-mMspSM9IRVg.txt, raw/transcripts/2026-09-13-3OYrFiUEuSs.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
@@ -13,6 +13,8 @@ Clinical and developmental cases where mind and brain do not line up as expected
 
 ## Videos on this topic (newest first)
 
+- 2026-11-05 — [[2026-11-05-is-consciousness-popularity-narcis-marincat|Is consciousness popularity?]] (Narcis Marincat (guest talk to the Levin lab), with discussion with Michael Levin)
+- 2026-10-30 — [[2026-10-30-law-and-diverse-intelligence-martin-solc|Conversation #1 with Martin Šolc: the law and diverse intelligence]] (Martin Šolc (postdoc, Charles University Faculty of Law) and Michael Levin)
 - 2026-10-17 — [[2026-10-17-new-bodies-unconventional-minds|New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)]] (Michael Levin)
 - 2026-10-11 — [[2026-10-11-mind-body-interface-levin-kofman|Mind-Body Interface: an Experimental and Clinical Perspective]] (Michael Levin and Karina Kofman)
 - 2026-09-24 — [[2026-09-24-discussion-marsha-hewitt-platonic-space|Discussion with Marsha Hewitt (Platonic Space and related ideas)]] (Michael Levin and Marsha Hewitt)

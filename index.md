@@ -1,6 +1,6 @@
 # Michael Levin Wiki — Index
 
-Last updated: 2026-10-15
+Last updated: 2026-11-05
 
 ## Start here
 
@@ -13,6 +13,9 @@ Last updated: 2026-10-15
 
 ## Videos (one page each)
 
+- 2026-11-05 — [[2026-11-05-is-consciousness-popularity-narcis-marincat|Is consciousness popularity?]]
+- 2026-10-31 — [[2026-10-31-thoughts-as-thinkers-within-without-us|Thoughts as Thinkers: biology & computer science of inspiration within & without us]]
+- 2026-10-30 — [[2026-10-30-law-and-diverse-intelligence-martin-solc|Conversation #1 with Martin Šolc: the law and diverse intelligence]]
 - 2026-10-29 — [[2026-10-29-biomedical-synthetic-biology-lior-nissim|Biomedical Synthetic Biology]]
 - 2026-10-28 — [[2026-10-28-physical-intelligence-thermodynamic-agency-debari-cheung|Physical Intelligence: thermodynamic roots of agency]]
 - 2026-10-26 — [[2026-10-26-perturbing-complex-networks-bhattacharjee|Perturbing Complex Networks]]

@@ -1,7 +1,7 @@
 ---
 title: What's new
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-05
 type: hub
 tags: [#whats-new]
 sources: []
@@ -9,7 +9,23 @@ sources: []
 
 # What's new
 
-Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-10-29.
+Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-11-05.
+
+## Week of 2026-11-05: new in the feed
+
+Captions came through for all three new videos, so each has a summary page.
+
+| Published | Video | Who | In brief |
+|---|---|---|---|
+| 2026-11-05 | [[2026-11-05-is-consciousness-popularity-narcis-marincat|Is consciousness popularity?]] | Narcis Marincat (guest talk to the Levin lab), with discussion with Michael Levin | Narcis Marincat, who studied psychology and neuroscience and later computer science and works in AI, presents his "popularity theory of consciousness". He starts from two ideas: cells, including neurons, are cognitive agents, and human society can be seen as an organism made of people. He then defines consciousness as the process by which information made by an organism's basic units becomes popular within that organism, and applies it to binding, the unconscious, the self and the hard problem. In the discussion Levin talks about frame rates of minds, training sets of logic sentences, a "boredom theory of aging" his lab is testing, and why he doubts that most of the universe is unconscious. |
+| 2026-10-31 | [[2026-10-31-thoughts-as-thinkers-within-without-us|Thoughts as Thinkers: biology & computer science of inspiration within & without us]] | Michael Levin (talk given in a joint session; he says he is presenting "together with Chris") | A 35-minute talk on what Levin calls "free lunches": abilities a system shows that were not paid for by design, natural selection or training. He walks through examples at every scale, from people with very little brain tissue and tadpoles that see through an eye on their tail, to molecular networks that learn, xenobots and anthrobots, and simple sorting algorithms that do things nobody coded. He argues these abilities come from an ordered space of patterns (the Platonic space) that should be studied systematically, and that inspiration in human creatives is the same thing at a higher level. This is a different upload from the 2026-10-16 "Thoughts as Thinkers" talk on this site. |
+| 2026-10-30 | [[2026-10-30-law-and-diverse-intelligence-martin-solc|Conversation #1 with Martin Šolc: the law and diverse intelligence]] | Martin Šolc (postdoc, Charles University Faculty of Law) and Michael Levin | A legal scholar who works on civil and medical law asks how the law should sort new kinds of entities, such as AIs, cyborgs and animals, and says Levin's TAME framework (a way of measuring cognitive capacity whatever a being is made of) could help. He proposes four "legal recognition levels", from a plain thing up to full legal personhood. Levin argues our who-or-what language is too crude for a coming world of cyborgs and augmented people, that capability and the ability to suffer should be kept apart, and that the trait worth measuring may be the size of a being's "cone of compassion". |
+
+Papers, posts and blog:
+- 2026-11-04, preprint (not yet peer-reviewed): [A topoietic model of collective morphogenesis and compartmentalization](https://doi.org/10.64898/2026.11.03.763900) (Manicka, Levin). On X he shared it as a ["New #preprint!"](https://x.com/drmichaellevin/status/2118057922358030624) and quoted the abstract: "diffusion and geometry alone may suffice to make a collective both spatially organized and controllable through macroscale intervention rather than microscale engineering of its members."
+- 2026-11-04, preprint (not yet peer-reviewed): [Neural Activation of Human Primary Intestinal Enteroendocrine L-cells](https://doi.org/10.64898/2026.11.03.763680) (Lindsay, Zeve, Rudolph, Shepherd, Grossberg, Breault, Levin, Ingber).
+- 2026-11-04, blog: [Interactive MindMap is online](https://thoughtforms.life/interactive-mindmap-is-online/). On X: ["Interactive mind-map of my current work"](https://x.com/drmichaellevin/status/2117981189487427957), "work in progress."
+- 2026-11-01, X: ["Claude made some visuals for my process of paper-writing, useful for students."](https://x.com/drmichaellevin/status/2116837402006159836)
 
 ## Week of 2026-10-29: new in the feed
 

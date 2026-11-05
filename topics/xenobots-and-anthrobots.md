@@ -1,7 +1,7 @@
 ---
 title: "Xenobots and anthrobots"
 created: 2026-10-15
-updated: 2026-10-29
+updated: 2026-11-05
 type: topic
 tags: [#topic, #xenobots-and-anthrobots]
 sources: [raw/transcripts/2026-10-11-KLWm0Qyj3jg.txt, raw/transcripts/2026-10-09-09t5uupqax0.txt, raw/transcripts/2026-09-22-6W5qhMasROY.txt, raw/transcripts/2026-09-21-Or_3tlEOLj4.txt]
@@ -13,6 +13,7 @@ Xenobots are self-assembling living constructs from frog cells; anthrobots form 
 
 ## Videos on this topic (newest first)
 
+- 2026-10-31 — [[2026-10-31-thoughts-as-thinkers-within-without-us|Thoughts as Thinkers: biology & computer science of inspiration within & without us]] (Michael Levin (talk given in a joint session; he says he is presenting "together with Chris"))
 - 2026-10-17 — [[2026-10-17-new-bodies-unconventional-minds|New Bodies, Unconventional Minds: a continuum of cognition (& consciousness)]] (Michael Levin)
 - 2026-10-16 — [[2026-10-16-thoughts-as-thinkers-inspiration|Thoughts as Thinkers: the biology & computer science of inspiration]] (Michael Levin)
 - 2026-10-11 — [[2026-10-11-mind-body-interface-levin-kofman|Mind-Body Interface: an Experimental and Clinical Perspective]] (Michael Levin and Karina Kofman)
