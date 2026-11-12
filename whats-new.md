@@ -1,7 +1,7 @@
 ---
 title: What's new
 created: 2026-10-15
-updated: 2026-11-05
+updated: 2026-11-12
 type: hub
 tags: [#whats-new]
 sources: []
@@ -9,7 +9,19 @@ sources: []
 
 # What's new
 
-Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-11-05.
+Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-11-12.
+
+## Week of 2026-11-12: new in the feed
+
+Captions came through for both new videos, so each has a summary page. No new papers or blog posts this week.
+
+| Published | Video | Who | In brief |
+|---|---|---|---|
+| 2026-11-11 | [[2026-11-11-intracellular-memory-storage-and-ai-david-glanzman|Evidence for intracellular memory storage and its implications for AI]] | David L. Glanzman (guest talk to the Levin lab), with discussion with Michael Levin | A neuroscientist argues that memory is stored inside neurons rather than at synapses, and describes an AI system (Naresa, in a paper he says is on arXiv, so a preprint) in which each unit keeps its own transferable memory. In the discussion Levin ties it to memory remapping, anthrobots and a smoker-cell nicotine experiment he says has not been done yet. |
+| 2026-11-06 | [[2026-11-06-super-turing-computing-hava-siegelmann|Super Turing Computing]] | Hava T. Siegelmann (guest talk to the Levin lab), with discussion with Michael Levin | Changing any one assumption of the Turing model (discrete values, determinism, a fixed program) takes a system beyond it. She describes stronger neural-network classes and wants AI whose inputs can change its program, that updates continually and spends effort according to difficulty. Q&A covers the Church-Turing thesis and what randomness adds. |
+
+Posts:
+- 2026-11-12, X: ["A beautiful animal"](https://x.com/drmichaellevin/status/2120856384027959612).
 
 ## Week of 2026-11-05: new in the feed
 

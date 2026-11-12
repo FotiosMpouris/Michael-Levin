@@ -1,6 +1,6 @@
 # Michael Levin Wiki — Index
 
-Last updated: 2026-11-05
+Last updated: 2026-11-12
 
 ## Start here
 
@@ -13,6 +13,8 @@ Last updated: 2026-11-05
 
 ## Videos (one page each)
 
+- 2026-11-11 — [[2026-11-11-intracellular-memory-storage-and-ai-david-glanzman|Evidence for intracellular memory storage and its implications for AI]]
+- 2026-11-06 — [[2026-11-06-super-turing-computing-hava-siegelmann|Super Turing Computing]]
 - 2026-11-05 — [[2026-11-05-is-consciousness-popularity-narcis-marincat|Is consciousness popularity?]]
 - 2026-10-31 — [[2026-10-31-thoughts-as-thinkers-within-without-us|Thoughts as Thinkers: biology & computer science of inspiration within & without us]]
 - 2026-10-30 — [[2026-10-30-law-and-diverse-intelligence-martin-solc|Conversation #1 with Martin Šolc: the law and diverse intelligence]]

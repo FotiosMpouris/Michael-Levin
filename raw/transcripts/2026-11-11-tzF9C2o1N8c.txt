@@ -1,0 +1,1685 @@
+[0:00:00] Thank you, Mike, for inviting me to give
+[0:00:02] this. And um so uh today I'm going to
+[0:00:07] talk about some older work that was uh
+[0:00:11] that's been done in my lab and as well
+[0:00:13] as other people's labs. And uh what I
+[0:00:17] want to argue is that this work shows
+[0:00:21] that um shows it suggests that memory is
+[0:00:28] not stored at synapses
+[0:00:31] but rather is stored intracellularly
+[0:00:35] in neurons. And then I'm going to
+[0:00:38] discuss some of the implications of that
+[0:00:42] idea for AI. and I'm going to talk about
+[0:00:45] a new AI system that um my colleagues
+[0:00:50] and I have developed. Um so let me start
+[0:00:55] out if you are um if you were to ask a
+[0:01:02] standard neuroscience let's say you go
+[0:01:05] to the society for neuroscience meeting
+[0:01:07] and reporter asks you what what do we
+[0:01:09] know about how
+[0:01:12] uh synapses are induced and how they
+[0:01:15] persist in the brain? Uh chances are the
+[0:01:18] reporter would hear a story like this.
+[0:01:21] So
+[0:01:22] um
+[0:01:25] uh an animal has some experience and
+[0:01:28] that experience if uh under the
+[0:01:31] appropriate circumstances
+[0:01:33] will introduce a form of long-term
+[0:01:38] synaptic elasticity in the brain and the
+[0:01:43] classic example of course is uh LTP in
+[0:01:47] the hippocampus
+[0:01:48] and that will be accompanied by the
+[0:01:52] activation of protein kinases.
+[0:01:55] And uh if a memory is going to become
+[0:02:00] long-term
+[0:02:02] uh there will be gene transcription and
+[0:02:05] protein synthesis and the products of
+[0:02:08] that process will be used to construct
+[0:02:13] uh new synaptic connections. So the
+[0:02:17] essence of this idea is that learning
+[0:02:22] alters synaptic uh connectivity in the
+[0:02:26] brain and the memories are stored as
+[0:02:31] this um alteration in synaptic
+[0:02:33] [clears throat]
+[0:02:34] connectivity. Now the reason why I'm
+[0:02:38] pretty confident that uh if you know the
+[0:02:41] average neuroscientist were asked to
+[0:02:44] give a a response to what's the
+[0:02:47] neurobiological mechanisms of learning
+[0:02:49] that they would give something like this
+[0:02:52] is um a survey came out about a year ago
+[0:02:56] in which people asked neurobiologists
+[0:03:00] uh how are memories made and
+[0:03:05] 70.5%
+[0:03:07] of the people who participated in the
+[0:03:09] survey said that long-term memories are
+[0:03:13] primarily maintained by neuronal
+[0:03:15] connectivity patterns and synaptic
+[0:03:18] strengths.
+[0:03:19] So, um
+[0:03:22] this is an idea that um I this is a
+[0:03:28] belief that I held well let's see I've
+[0:03:32] been in the field you know over 40 years
+[0:03:35] I would say 32 of those years I believed
+[0:03:39] this but within the last 8 years or so
+[0:03:44] uh my thinking about the mechanisms of
+[0:03:48] memory storage in nervous systems has
+[0:03:51] changed quite a bit. Now, even though
+[0:03:54] the vast majority of neuroscientists
+[0:03:56] believe in the synaptic hypothesis of
+[0:03:59] memory, there have long been kind of
+[0:04:03] underground rumblings that maybe things
+[0:04:07] aren't so simple. And uh oh before I get
+[0:04:11] to that um I want to point out that the
+[0:04:17] um this model the the model of how
+[0:04:20] memories are induced and conserved in
+[0:04:23] the brain has had a tremendous influence
+[0:04:26] on artificial intelligence and all
+[0:04:30] modern AI systems now use some variant
+[0:04:35] of the synaptic model of memory.
+[0:04:38] And that's illustrated here. And then
+[0:04:41] they they have to in order to make it
+[0:04:42] work they have to add a sort of glu
+[0:04:47] device called back propagation. Uh but
+[0:04:51] the ba the basic way the memory is uh
+[0:04:57] stored in this case once the training is
+[0:05:00] done is altered weights and synaptic
+[0:05:04] connections. Okay. Now as I said for a
+[0:05:08] while for a long time there have been
+[0:05:09] sometime there's been rumblings that
+[0:05:11] maybe things aren't so simple and this
+[0:05:13] is from uh Mike's paper 2015 paper um
+[0:05:20] and in which he and his colleagues
+[0:05:23] pointed out that there were several
+[0:05:26] phenomena that don't seem to fit very
+[0:05:28] well with the synaptic uh hypothesis of
+[0:05:31] memory. And one is uh this um uh the um
+[0:05:39] moss and butterflies
+[0:05:41] can um be taught
+[0:05:46] things and then they will undergo as
+[0:05:49] caterpillars. They can be taught as
+[0:05:51] caterpillars. They'll undergo
+[0:05:53] metamorphosis
+[0:05:55] and they'll come out as butterflies or
+[0:05:58] moss. And during this period of uh
+[0:06:01] metamorphosis, their nervous system has
+[0:06:03] changed radically yet the behavior
+[0:06:06] persists.
+[0:06:08] And then there was the really
+[0:06:10] interesting study that Mike did few
+[0:06:13] years ago effectively
+[0:06:16] um
+[0:06:18] replicating an earlier result of
+[0:06:20] McConnell and colleagues where they
+[0:06:23] showed that um you can take advantage of
+[0:06:26] the uh extraordinary ability of
+[0:06:28] plenarians to regenerate. You can uh
+[0:06:32] teach a plenarian something, cut it in
+[0:06:36] half, its head will regrow a tail, but
+[0:06:40] the tail section will regrow a head. And
+[0:06:42] if you take the plenarians that um uh
+[0:06:47] the regenerated plenarians that grew a
+[0:06:50] new head and a new brain from the tail,
+[0:06:53] their memories survived.
+[0:06:55] And another interesting phenomenon, and
+[0:06:59] I hope to have time to talk a little bit
+[0:07:02] more about a new study that follows up
+[0:07:05] on this result, but hibernating uh
+[0:07:09] ground squirrels lose approximately 50%
+[0:07:14] of their synaptic connections in their
+[0:07:17] hippocampus
+[0:07:19] uh during hibernation.
+[0:07:21] And within about an hour and a half
+[0:07:23] after they awake from hibernation, those
+[0:07:26] synaptic connections are restored.
+[0:07:30] And it seems that you know there doesn't
+[0:07:33] seem to be any dramatic loss of memory.
+[0:07:36] And this has been confirmed uh in a
+[0:07:39] recent study on uh hibernating
+[0:07:42] transgenic mice which I may have time to
+[0:07:45] talk about.
+[0:07:47] All right. So um now there have been
+[0:07:54] uh some studies some experimental
+[0:07:56] studies that have come out within the
+[0:08:00] last 10 years or so that also raise
+[0:08:03] questions about the synaptic hypothesis
+[0:08:06] of memory and one of those is uh the
+[0:08:09] study by Ryan and all from Tonagawa's
+[0:08:12] lab and this study used uh transgenic
+[0:08:17] mice and it used the technique of
+[0:08:20] optogenetics.
+[0:08:22] And what they did was uh use
+[0:08:28] optogenetics to label neurons in the
+[0:08:31] dentate gyrus of the hippocampus
+[0:08:34] uh that were active during uh fear
+[0:08:39] conditioning labeled them with channel
+[0:08:42] rodopsin. And so this allowed them at a
+[0:08:45] later time by uh using uh light of uh
+[0:08:51] 460 nanometers if they if they would um
+[0:08:55] shine light onto these channel rodopsin
+[0:08:58] labeled neurons they could activate
+[0:09:01] them. And as shown here, they um they uh
+[0:09:10] in this part of the study what I'm going
+[0:09:12] to show you now, they didn't label the
+[0:09:14] dentate gyrus neurons with channel
+[0:09:16] rodopsin. They labeled the neurons that
+[0:09:19] provide the input to sorry to the
+[0:09:23] dentate gyrus the um uh the um the
+[0:09:29] entrino cortex neurons. They labeled
+[0:09:31] those with channel redopsin so they
+[0:09:33] could activate them with light and they
+[0:09:38] labeled the dentate gyrus neurons that
+[0:09:42] were active during training. They
+[0:09:45] labeled them with uh a die called
+[0:09:48] Mcherry.
+[0:09:50] And then sorry then what uh what they
+[0:09:55] did was they they carried out uh a
+[0:09:59] control of this expression using the
+[0:10:04] docs on off technique. And so when they
+[0:10:09] were off docs, these optogenetic labels
+[0:10:13] could be expressed and then they excuse
+[0:10:17] me. Uh and then they um and then they I
+[0:10:21] might as well just leave it on. And then
+[0:10:23] they uh and then they trained the
+[0:10:25] animals and took them off docks. And
+[0:10:28] then they made slices from these mice
+[0:10:32] and they looked to see whether or not uh
+[0:10:35] LTP was expressed in the dentate gyrus.
+[0:10:40] Now some of the mice immediately after
+[0:10:43] training
+[0:10:44] uh received an injection of anomy.
+[0:10:47] Anisomyosin is a protein synthesis
+[0:10:50] inhibitor and it's well known that when
+[0:10:53] uh animals that are trained and
+[0:10:56] immediately after training you inhibit
+[0:10:58] protein synthesis in their brains they
+[0:11:00] don't tend to show consolidated memory
+[0:11:03] and when they looked in the hippocampus
+[0:11:06] they found that there was LTP
+[0:11:11] induced in synapses between the entrinal
+[0:11:16] cortex X axons and the dentate gyrus
+[0:11:19] neurons that were active during the
+[0:11:22] memory. But in mice that had received
+[0:11:27] the injection of anomyin immediately
+[0:11:31] after training they did not see synaptic
+[0:11:33] enhancement. uh this just shows uh the
+[0:11:37] ratio of AMPA to MDA receptors and of
+[0:11:43] the EPSC's
+[0:11:45] and this is a way of deter when there's
+[0:11:48] an increase in the AMPA to NMDA ratio
+[0:11:52] that's a reflection of NMDA dependent
+[0:11:55] LTP because um this form of synaptic
+[0:11:59] plasticity
+[0:12:01] is uh causes an increase and the number
+[0:12:05] of posts synaptic amber receptors. So
+[0:12:07] LTP is induced in the dentate gyrus in
+[0:12:12] neurons that were active during the
+[0:12:15] conditioning and it's blocked if you
+[0:12:18] inhibit protein synthesis. Now they also
+[0:12:23] um labeled these active um bent gyrus
+[0:12:28] neurons with uh um channel rodopsson in
+[0:12:34] a different experiment. So they could
+[0:12:36] count spines. And what they observed was
+[0:12:40] that there was an in significant
+[0:12:42] increase in the number of spines on the
+[0:12:46] activated dentate gyrus neurons after
+[0:12:50] training in the mice that received an
+[0:12:54] injection of saline but there was no in
+[0:12:58] this morphological increase in uh
+[0:13:01] synaptic connectivity was blocked by
+[0:13:04] indisin.
+[0:13:06] So the summary from this uh result is
+[0:13:09] that there are larger the larger EPS-C's
+[0:13:13] and the greater number of dendritic
+[0:13:15] spines for engram dentate gyrus uh
+[0:13:19] neurons that is the neurons in the
+[0:13:22] dentate gyrus that were active during
+[0:13:26] fear conditioning
+[0:13:28] um
+[0:13:29] this you see this larger ETSC's and you
+[0:13:32] see a greater number of dendritic spines
+[0:13:35] times but this effect is blocked uh by
+[0:13:39] the post-training
+[0:13:41] uh inhibition of protein synthesis. Now
+[0:13:44] the other thing they did in this
+[0:13:46] experiment is they looked to see well
+[0:13:51] was the memory blocked by the
+[0:13:54] post-training injection of uh anommyosin
+[0:13:59] and if it were blocked could they bring
+[0:14:02] it back by optogenetically stimulating
+[0:14:06] the engram
+[0:14:08] uh dentate gyrus cells. So what they did
+[0:14:12] in this experiment in the behavioral
+[0:14:14] experiment they first uh habituated the
+[0:14:18] mice in a training chamber on text A and
+[0:14:23] this is when the mice were on dock. So
+[0:14:26] the channel rodopsin is not being
+[0:14:29] expressed in the dentate gyrus. And then
+[0:14:32] they took the mice off docks and gave
+[0:14:37] them contextual fear conditioning in a
+[0:14:40] different chamber. So that's context B.
+[0:14:43] And then some of the mice had anommyosin
+[0:14:47] injected into them immediately after
+[0:14:49] training whereas other mice had saline
+[0:14:53] 24 hours later. Now for the rest of the
+[0:14:55] experiment, the mice were uh on docks
+[0:14:59] for the rest of the experiment. Um
+[0:15:03] 24 hours later, they tested the mouse in
+[0:15:06] the training context and they they
+[0:15:10] observed that they the mice that uh got
+[0:15:14] the anisomyosin didn't show evidence of
+[0:15:17] freezing.
+[0:15:18] Then they tested the mice again in
+[0:15:23] context A, that is the context in which
+[0:15:26] they weren't trained. And they shown
+[0:15:30] light onto the dentate gyrus to activate
+[0:15:33] the neurons that had been um firing
+[0:15:38] during the fear conditioning. And what
+[0:15:41] they found is they could get the
+[0:15:44] freezing to come back.
+[0:15:47] Uh and so what this means is that even
+[0:15:51] though when you test these mice
+[0:15:55] behaviorally,
+[0:15:56] if they had been given an injection of
+[0:15:59] anomiasin immediately after training,
+[0:16:03] they show no evidence of long-term
+[0:16:05] memory. You can activate the memory by
+[0:16:11] reactivating
+[0:16:12] the neurons that had been active during
+[0:16:15] the fear conditioning.
+[0:16:19] So they concluded from this uh the
+[0:16:22] following. These findings suggest that
+[0:16:25] although a rapid increase of synaptic
+[0:16:27] strength is likely to be crucial during
+[0:16:29] the encoding phase, the augmented
+[0:16:32] synaptic strength is not a crucial
+[0:16:35] component of the stored memory.
+[0:16:39] Now we made similar findings in a study
+[0:16:43] of this organism uh a plesia
+[0:16:46] Californiaica. So, this is the the
+[0:16:48] animal that I've spent most of my career
+[0:16:51] uh working on. And um this animal has a
+[0:16:57] defensive withdrawal reflex. It's been
+[0:17:00] very well studied. And the study of
+[0:17:02] this, of course, was pioneered by uh
+[0:17:06] Eric Hendel and his colleagues Jack Burn
+[0:17:09] and Tom Crew, Terry Walters and others.
+[0:17:13] And this is a view of and I should say
+[0:17:16] this is uh plesia but I didn't emphasize
+[0:17:20] is a marine uh mollisk
+[0:17:24] and this is a view of a plesia from the
+[0:17:28] top down and you see these flaps of skin
+[0:17:33] ret these are called parapodia they're
+[0:17:35] retracted and if you do that you will
+[0:17:39] see the so-called mantal cavity and that
+[0:17:42] comprises is three organs. There's the
+[0:17:45] gill with which the animal breathes and
+[0:17:48] then there's the mantle shelf which you
+[0:17:50] can think of as a tough flap of skin
+[0:17:52] which can protect the gill and then
+[0:17:55] there's this organs here called the
+[0:17:57] siphon and the siphon is kind of a
+[0:17:59] fleshy spoutlike organ and it's used
+[0:18:03] during respiration to pump water in and
+[0:18:07] out of the mantel cavity. Now this is a
+[0:18:10] view of the mantle cavity from uh the
+[0:18:13] side. This is a side view of the mantel
+[0:18:15] cavity and this shows the gill in a in
+[0:18:20] this. The top uh view shows the gill in
+[0:18:23] a relaxed state and the siphon is
+[0:18:27] protruding out beyond the parapodia.
+[0:18:31] If you were to give the siphon a weak uh
+[0:18:35] tactile stimulus here, it's a jet of
+[0:18:38] water from a water pick. That'll produce
+[0:18:40] a simultaneous contraction of the gill
+[0:18:43] and the siphon. The gill will tuck
+[0:18:46] itself underneath the mantle shelf and
+[0:18:48] the siphon will dive down uh within the
+[0:18:52] parapodia.
+[0:18:54] Now this simple defensive withdrawal
+[0:18:57] reflex
+[0:18:58] is mediated by neurons in a part of the
+[0:19:02] animal central nervous system called the
+[0:19:04] abdominal ganglen. And this abdominal
+[0:19:07] ganglen contains about uh about 2,000
+[0:19:11] neurons or so. And if you look at in the
+[0:19:15] right shows a view a schematic view of
+[0:19:19] many of those neurons. Um and uh you can
+[0:19:24] some of the neurons have been identified
+[0:19:26] so they have labels. So all the L7 L9
+[0:19:31] uh LDG
+[0:19:34] uh one LDG2 these are all gil motor
+[0:19:37] neurons. This motor neuron this neuron
+[0:19:40] here L R2 is involved in um uh it's
+[0:19:47] involved in mucus secretion. Okay. So um
+[0:19:54] the I'll get to um the work on this but
+[0:19:58] one of the uh major discoveries has been
+[0:20:02] that [clears throat]
+[0:20:03] many if not most of the types of
+[0:20:06] learning in aia
+[0:20:09] uh have been shown to be due at least in
+[0:20:12] part to modifications in the strength of
+[0:20:16] synaptic connections between the sensory
+[0:20:20] neurons neurons that intervate the
+[0:20:22] siphon
+[0:20:23] and the motor neurons that intervate uh
+[0:20:26] the gill in the siphon. I'll for those
+[0:20:30] of you who've never seen this, I'll show
+[0:20:32] you the a little video of the reflex
+[0:20:34] right now. So, this is a this is the
+[0:20:36] front end of the plesia. uh these two
+[0:20:40] protruding organs or rhinophores are
+[0:20:43] they're they look like ears but they're
+[0:20:45] chemo detectors but they give a plesia
+[0:20:48] its common name which is sea hair and uh
+[0:20:53] here you see the parapodia and you see
+[0:20:56] the siphon protruding beyond the edges
+[0:20:59] of the parapodia
+[0:21:01] and the tail this is the tail of the
+[0:21:04] animal it has these two wires implanted
+[0:21:07] in
+[0:21:08] And sorry and I'll I'll
+[0:21:12] sorry I'll explain their function in a
+[0:21:15] bit. So what I'm going to do oh and this
+[0:21:18] part is the foot of the animal. So this
+[0:21:21] is a gastropod mollocks. Gastropod is
+[0:21:23] Greek for stomach foot. So it crawls
+[0:21:26] along uh on its stomach. Um so what
+[0:21:30] you're going to see in this video is
+[0:21:32] you're going to see a blue probe come
+[0:21:34] down from the right and tap the siphon.
+[0:21:36] And then you'll see the siphon
+[0:21:38] withdrawal reflex. You can't see the
+[0:21:40] gill because it's hidden underneath uh
+[0:21:43] the parapodia, but you'll be able to see
+[0:21:45] the siphon contraction. All right. So
+[0:21:48] there's the probe, there's the touch to
+[0:21:51] the siphon, and you can see it dive down
+[0:21:54] into uh the parapodia, and then
+[0:21:58] gradually it'll come back out. So that's
+[0:22:02] the withdrawal reflex that um whose
+[0:22:05] study Kandell and his colleagues
+[0:22:07] pioneered and and I've continued
+[0:22:09] [clears throat]
+[0:22:09] that in my lab. Now you may not think
+[0:22:12] this is the world's most interesting
+[0:22:14] reflex behavior but um we know a lot
+[0:22:18] about uh the neurobiological bases of
+[0:22:23] this reflex and how it becomes modified
+[0:22:26] during learning. So I'm going to talk
+[0:22:27] about some of that next. All right. So
+[0:22:30] one of the types of learning that a
+[0:22:32] please exhibit is a nonassociative form
+[0:22:35] of learning called long-term
+[0:22:37] sensitization and that's exhibited
+[0:22:39] that's shown here that's depicted here.
+[0:22:42] So once more this is an allesia shown
+[0:22:46] from the top and the gills in a relaxed
+[0:22:50] state and if you uh touch the siphon you
+[0:22:54] get uh siphon and gill contraction.
+[0:22:58] Now this contraction can be enhanced or
+[0:23:03] sensitized
+[0:23:05] if you give the animal a uh tail shock
+[0:23:10] and that's what we use those implanted
+[0:23:14] wires to do. Usually it's it can be a
+[0:23:17] handheld electrode that you use to shock
+[0:23:18] the tail or planted wires and the result
+[0:23:24] of that is shown here. So if you give
+[0:23:28] the animal single shock, you'll produce
+[0:23:30] an enhancement of the gill and siphon
+[0:23:33] withdrawal reflex as reflected as
+[0:23:37] reflected in the duration of withdrawal.
+[0:23:40] You'll get an enhancement of that reflex
+[0:23:44] uh that lasts for 30 minutes or so. If
+[0:23:47] you give the animal four single shocks,
+[0:23:52] you'll get enhancement of the reflex
+[0:23:54] that lasts for 24 hours.
+[0:23:56] And if you give them four trains of
+[0:23:59] shocks for 4 days, you can get uh a
+[0:24:03] reflex enhancement that lasts for a
+[0:24:06] week.
+[0:24:08] Now,
+[0:24:09] um I'm going to shift gears a little bit
+[0:24:11] and talk about a phenomenon called
+[0:24:13] memory reconsolidation.
+[0:24:16] And uh this is a this is a um a
+[0:24:21] phenomenon that was discovered in the
+[0:24:23] 1960s
+[0:24:25] but was rediscovered by this gentleman
+[0:24:28] here, Bareim Nater in the early 90s. And
+[0:24:34] this um the illustration of memory
+[0:24:37] reconsolidation is here. So this um if
+[0:24:41] you were to take a rat and give it fear
+[0:24:44] conditioning and in this type of
+[0:24:46] conditioning the rat is given a tone and
+[0:24:49] then it's given a foot shock. If you
+[0:24:53] were to give it an injection of a
+[0:24:57] protein synthesis inhibitor immediately
+[0:25:00] after they got the tone paired with the
+[0:25:03] foot shock and tested it 24 hours later.
+[0:25:06] the animal would not show any memory and
+[0:25:09] [clears throat] this is similar to the
+[0:25:11] binding that I discussed earlier in
+[0:25:13] mice. However, if you wait 24 hours
+[0:25:19] and then uh give it an injection of a
+[0:25:26] protein synthesis inhibitor and then
+[0:25:29] test the mouse, the rat again at 48
+[0:25:33] hours, the animal will freeze.
+[0:25:36] If you modify this experiment just a
+[0:25:40] little bit, so you train the animal and
+[0:25:43] then you give it the own, the condition
+[0:25:48] stimulus that was paired with the shock
+[0:25:51] and then you inject a protein synthesis
+[0:25:55] inhibitor. You test 24 hours later and
+[0:25:59] the animal doesn't express fear. And so
+[0:26:04] Nater's explanation for that is what's
+[0:26:08] going on is that when you the memories
+[0:26:12] consolidated after 24 hours after
+[0:26:15] training, but if you reexpose the animal
+[0:26:19] to a reminder stimulus uh and this case
+[0:26:23] the reminder stimulus is the tone
+[0:26:27] uh that reactivates the memory and it
+[0:26:31] triggers a new round of memory consolid.
+[0:26:34] considation and this memory
+[0:26:36] consolidation
+[0:26:38] like the original consolidation requires
+[0:26:40] protein synthesis. If you block the
+[0:26:43] protein synthesis
+[0:26:45] uh during reconsolidation
+[0:26:48] you will eliminate the long-term memory.
+[0:26:52] So I was very interested in this
+[0:26:55] phenomenon. I wanted to see if we could
+[0:26:56] demonstrate it in a plesia. So this is
+[0:26:59] this started this am this goal of mine
+[0:27:03] started me down a very strange path. But
+[0:27:06] the original the original intention was
+[0:27:09] just to see if I could show memory
+[0:27:11] reconsolidation in a plesia and then
+[0:27:14] look at the synaptic changes that were
+[0:27:16] involved. So um these are behavioral
+[0:27:20] experiments. Now we're back to a plesia.
+[0:27:22] These were carried out in my lab by a re
+[0:27:25] my former research associate Casey
+[0:27:28] Pierce. And here we're giving uh Casey
+[0:27:32] gave and her uh assistants gave animals
+[0:27:36] uh five bouts of hail shock stimulation.
+[0:27:43] And then uh at 96 hours the animals were
+[0:27:49] tested and then they were given a
+[0:27:52] reminder stimulus. And in our case the
+[0:27:54] reminder was simply a one bout of tail
+[0:27:58] shots. And one bout of tail shocks gives
+[0:28:02] short-term sensitization but it doesn't
+[0:28:04] give long-term sensitization.
+[0:28:06] And then after the reminder stimulus,
+[0:28:09] some of the animals received an
+[0:28:10] injection of anomyosin, the protein
+[0:28:13] synthesis inhibitor, whereas other
+[0:28:15] animals just received the vehicle and
+[0:28:18] then all the animals were tested 120
+[0:28:21] hours after training. So here are the
+[0:28:23] results.
+[0:28:25] So all the animals showed uh good
+[0:28:29] sensitization as indicated by
+[0:28:31] prolongation of the siphon withdrawal
+[0:28:34] reflex at 96 hours.
+[0:28:37] And this sensitization in animals that
+[0:28:41] got the in uh the animals that got the
+[0:28:47] injection of anomiain at 96 hours this
+[0:28:51] persisted for 20 120 hours. So the fact
+[0:28:54] that the injection of anommyosin at 96
+[0:28:57] hours produced no forgetting in the
+[0:29:00] animals is an indication that by 96
+[0:29:03] hours the long-term memory had been
+[0:29:05] fully consolidated. However, if animals
+[0:29:10] that had received the sensitization
+[0:29:13] training, if they got the reminder
+[0:29:16] stimulus before they got the injection
+[0:29:18] of anomy,
+[0:29:20] when they were tested at 120 hours, they
+[0:29:23] showed no long-term memory.
+[0:29:26] Now, we replicated this result on the
+[0:29:30] synaptic level. So now these are
+[0:29:33] experiments carried out in my laboratory
+[0:29:35] by uh my former research associate Dian
+[0:29:39] Kai Kai and what he um showed but this
+[0:29:44] is this is a old finding that was first
+[0:29:47] shown by Sam Shaker and his colleagues
+[0:29:49] at Colombia is that you can take out
+[0:29:52] sensory and motor neurons out of a
+[0:29:55] plesia the ones that mediate the
+[0:29:57] withdrawal reflex you put them into cell
+[0:30:00] culture leave them there for 5 days,
+[0:30:03] four or five days and if you've done
+[0:30:05] everything right, they will form a
+[0:30:06] robust synaptic connection and this is
+[0:30:10] an example of that here. So this is a
+[0:30:13] sensory motor synaps and culture and if
+[0:30:17] you sorry
+[0:30:19] sorry if you fire the sensory neuron you
+[0:30:24] get uh an action potential in the
+[0:30:27] sensory neuron and that produces an EPSP
+[0:30:29] in the motor. Now, as shown by PG
+[0:30:33] Monttoolo and Sam Shaker, you can train
+[0:30:38] the syninnapse and culture and it will
+[0:30:41] undergo long-term facilitation.
+[0:30:45] Long-term facilitation is is a critical
+[0:30:48] mechanism long-term facilitation of the
+[0:30:50] sensory motor synapse is a critical
+[0:30:53] mechanism in uh long-term sensitization
+[0:30:57] in aia. So the way you train the
+[0:31:00] syninnapse in culture is that you give
+[0:31:02] it five pulses
+[0:31:05] uh spaced in time of serotonin. And the
+[0:31:08] reason that serotonin's used is because
+[0:31:10] it's been known
+[0:31:13] by uh through the work of uh Kandell and
+[0:31:17] his colleagues that serotonin is the
+[0:31:20] modulatory transmitter that's released
+[0:31:24] uh when you give the uh plesia tail
+[0:31:27] shots. So if you give them this uh five
+[0:31:31] time 5HT training protocol, you will
+[0:31:35] produce long-term facilitation of the
+[0:31:38] sensory motor synapse and that's shown
+[0:31:40] here. Okay. So that that's that's been
+[0:31:43] known since 1985
+[0:31:47] or so. However, what Deian Kai showed is
+[0:31:50] that you can get synaptic
+[0:31:53] uh memory reconsolidation. So to do that
+[0:31:57] he took synapses and culture and then he
+[0:32:00] gave them two rounds of 5* 5HT training
+[0:32:04] because we wanted the facilitation to
+[0:32:06] last for uh up to 72 hours and then at
+[0:32:11] 48 hours
+[0:32:13] uh some of the synapses received
+[0:32:16] treatment with anomiasin
+[0:32:20] and other of the synapses got the
+[0:32:23] reminder stimulus followed by misomiasin
+[0:32:27] and the reminder stimulus in this case
+[0:32:29] was a single five minute pulse of
+[0:32:32] serotonin and it only produces
+[0:32:34] short-term facilitation by itself. And
+[0:32:38] then all the synapses were retested at
+[0:32:41] 72 hours. And what this shows is that um
+[0:32:47] synapses that got the two rounds of
+[0:32:50] serotonin treatment and they were
+[0:32:53] treated with the nomiosin at 48 hours
+[0:32:56] they showed long-term facilitation when
+[0:32:58] they were tested at 72 hours. But
+[0:33:01] synapses that got the serotonin
+[0:33:03] treatment followed uh at 48 hours by the
+[0:33:07] reminder pulse of serotonin and then the
+[0:33:10] inducomiasin they did not show long-term
+[0:33:13] facilitation.
+[0:33:15] All right. Now, we were really excited
+[0:33:17] about these results and we wanted to say
+[0:33:21] we wanted to see well look um you know
+[0:33:25] does this mean that the synapses that
+[0:33:28] grow during long-term facilitation when
+[0:33:32] you block uh memory reconsolidation
+[0:33:36] those synaptic connections get erased
+[0:33:38] and so that was the purpose of these
+[0:33:41] morphological experiments that were
+[0:33:43] carried out by Shanpang Chen
+[0:33:45] &gt;&gt; [clears throat]
+[0:33:46] &gt;&gt; And what she did is fill sensory and
+[0:33:50] motor uh neurons in cell culture with a
+[0:33:53] fluorescent dye. So the motor neuron
+[0:33:56] shown here was filled with rotamine. So
+[0:33:59] that fluoreses red. And the sensory
+[0:34:01] neuron whose cell body you can't see in
+[0:34:04] these microraphs, it was filled with uh
+[0:34:07] florosine which flueses
+[0:34:10] um yellow green. And if you look at the
+[0:34:13] blue arrow heads, you're able to see
+[0:34:15] these little presinaptic bhutons or we
+[0:34:18] call them presinaptic varicosities made
+[0:34:21] by the uh and these are sites of
+[0:34:24] synaptic contact between the sensory
+[0:34:26] neuron and the motor neuron. Now um
+[0:34:30] Shunping used conffocal m uh microscopy
+[0:34:35] to simply image these cultures over 48
+[0:34:40] hours. So she there were three imaging
+[0:34:43] periods one at the start of the
+[0:34:44] experiment 0 hours another 24 hours
+[0:34:48] later and another and a third at 48
+[0:34:51] hours. Now she subjected these uh many
+[0:34:56] of these cultures to the uh serotonin
+[0:35:00] treatment. So the synapses and culture
+[0:35:03] got this 5* 5HT treatment at 24 hours.
+[0:35:07] Then the synapses were exposed to
+[0:35:10] anomyiain for an hour and a half and
+[0:35:14] some of the synapses had uh a reminder
+[0:35:17] pulse of serotonin before the ser before
+[0:35:22] the anomy treatment and then all the
+[0:35:25] synapses were reimaged at 48 hours. Now
+[0:35:28] in B what's shown here is a control
+[0:35:31] synapse which didn't get any serotonin
+[0:35:36] or any or anomy
+[0:35:38] and the blue arrow heads indicate
+[0:35:41] varicosis that were present at zero
+[0:35:44] hours and also at 48 hours. The red
+[0:35:47] arrow heads indicate varicosities are
+[0:35:50] appeared at 24 hours and persisted
+[0:35:54] uh until 48 hours. And then the yellow
+[0:35:58] bar arrow head indicates a varicostity
+[0:36:00] that appeared uh between 24 and 48
+[0:36:03] hours. So you can see that there's
+[0:36:05] synaptic stability, but there's also a
+[0:36:07] certain amount of synaptic dynamism.
+[0:36:10] Now, so we asked the question, does
+[0:36:13] blocking reconsolidation of long-term
+[0:36:17] facilitation eliminate the synaptic
+[0:36:20] growth that underlies long-term uh
+[0:36:24] facilitation? And the answer is yes. So
+[0:36:28] these are the data from Chunpang's
+[0:36:30] morphological experiments and what she
+[0:36:34] shows is varicosity number normalized to
+[0:36:38] the number of varicosities that she
+[0:36:40] counted in each culture at the first
+[0:36:44] imaging session at zero hours. So um
+[0:36:50] uh if you look you can see that the
+[0:36:53] serotonin
+[0:36:55] treatment produced approximately a
+[0:36:57] doubling of the number of synaptic
+[0:36:59] varicosities
+[0:37:00] uh when she imaged at 24 hours. And for
+[0:37:04] the synapses that just got the serotonin
+[0:37:06] treatment, this increase in the number
+[0:37:09] of uh presinaptic varicosities persisted
+[0:37:14] uh for 48 hours. By contrast, the
+[0:37:18] synapses that got the um
+[0:37:23] uh serotonin treatment followed by the
+[0:37:27] reminder pulse of serotonin and
+[0:37:29] nisommyiain.
+[0:37:31] Those synapses
+[0:37:33] showed uh a retraction of varicosities
+[0:37:38] at 48 hours. And then the synapses that
+[0:37:41] got the serotonin treatment and the
+[0:37:43] nissommyosin without the reminder pulse
+[0:37:46] of serotonin, they showed persistence of
+[0:37:49] the number of varicosities. Now I want
+[0:37:51] to emphasize that the the the
+[0:37:55] reconsolidation blockade protocol
+[0:37:58] doesn't eliminate the the synaptic
+[0:38:02] connections. It just resets them to the
+[0:38:06] original value. So this is normalized
+[0:38:09] varicosity number. So it just simply
+[0:38:12] resets them. So this was very exciting
+[0:38:15] to us. And then we made the mistake that
+[0:38:18] one so often makes in science of asking
+[0:38:21] another question. You know, usually you
+[0:38:24] know you should stop when you're ahead.
+[0:38:26] But you know often you you know you know
+[0:38:29] you're people are curious and they try
+[0:38:31] to do another they ask another question.
+[0:38:34] The answer to it just makes everything
+[0:38:38] fall apart or gives you gets gets you in
+[0:38:41] a lot of trouble. That's what happened
+[0:38:43] here. All right. So then we ask well
+[0:38:45] look if memories stored in synaptic
+[0:38:48] connections then the synapses that
+[0:38:51] retract during reconsolidation blockade
+[0:38:54] should be the ones that grew during the
+[0:38:57] serotonin treatment. I mean that's
+[0:38:58] obvious. So we decided to look at that
+[0:39:01] and see if that were the case. And the
+[0:39:03] problem was it wasn't the case. All
+[0:39:06] right. So this is a graph
+[0:39:11] and it shows varicosity number
+[0:39:14] normalized to the number of varicosities
+[0:39:16] during the second imaging which is at 24
+[0:39:19] hours. Uh and these are the varicosities
+[0:39:25] that were induced by the serotonin
+[0:39:28] treatment. So these are the varicosities
+[0:39:30] that appear after the serotonin
+[0:39:33] treatment and at by the time of the
+[0:39:36] 24hour. Now this is fine. You see that
+[0:39:40] the there's an increase in the number of
+[0:39:43] varicosities
+[0:39:45] in the group that had the
+[0:39:47] reconsolidation blockade. So that was
+[0:39:49] great. However, we also saw an increase
+[0:39:53] in the retraction of the varicosities in
+[0:39:58] the conditions that got either uh they
+[0:40:01] they got no reconsolidation or no uh
+[0:40:05] blockade.
+[0:40:07] And so we saw a re retraction of
+[0:40:10] varicosities that weren't indu didn't
+[0:40:13] have anything to do with the memory. And
+[0:40:16] then if we look at newly formed
+[0:40:18] varicosities,
+[0:40:20] these are varicosities that appear
+[0:40:22] between 24 and 48 hours. There was an
+[0:40:26] increase in growth
+[0:40:29] in uh the groups uh that had the no
+[0:40:33] reconsolidation no memory blockade.
+[0:40:37] All right. So what this suggests is that
+[0:40:40] there that the reconsolidation blockade
+[0:40:43] produces a resculpting of the synaptic
+[0:40:48] connections
+[0:40:49] and the end result is to
+[0:40:53] reset the number of synaptic connections
+[0:40:56] back to the original value. But it
+[0:40:59] doesn't this process pays no attention
+[0:41:02] to whether the varicosity was induced
+[0:41:05] during memory or not. So that suggested
+[0:41:09] to us and this is where my career
+[0:41:12] started going in the wrong direction
+[0:41:14] that suggested to us that memory wasn't
+[0:41:17] stored at synapses.
+[0:41:20] Okay.
+[0:41:21] Now uh so if memor is not stored at
+[0:41:26] synapses then maybe when the memory
+[0:41:30] looks like it's erased maybe it's not
+[0:41:33] really erased. Maybe it's still there
+[0:41:36] but it's oult. So to test that idea we
+[0:41:40] went back to the animal and we carried
+[0:41:43] out behavioral training and we did the
+[0:41:46] reconsolidation blockade protocol. But
+[0:41:50] then at 72 hours we gave the animals
+[0:41:54] truncated sensitization training and the
+[0:41:57] truncated training is three bouts of
+[0:42:01] tail shocks. Now it's three bouts of
+[0:42:04] tail shocks produces so-called
+[0:42:07] intermediate memory. That is memory that
+[0:42:09] lasts for a few hours but it doesn't
+[0:42:11] last 24 hours. And then all the animals
+[0:42:15] were retested at 96 hours. So here are
+[0:42:18] results from those experiments. So the
+[0:42:22] red group is the group that got the five
+[0:42:24] bouts of serotonin and then the
+[0:42:27] anisommyiain at 48 hours without the
+[0:42:30] reminder treatment and they showed
+[0:42:32] behavioral sensitization that lasted uh
+[0:42:35] until you know uh through 96 hours. And
+[0:42:39] then there was the group that got the
+[0:42:42] reconsolidation blockade. So they got
+[0:42:45] the serotonin treatment. They showed
+[0:42:46] sensitization at 48 hours and then they
+[0:42:49] got the reminder stimulus and misomyiain
+[0:42:52] injection and at 72 hours the animal
+[0:42:55] showed no sensitization and it didn't
+[0:42:58] show any spontaneous recovery over the
+[0:43:00] next 24 hours. All right. Then there's
+[0:43:04] the group that got the serotonin
+[0:43:06] treatment, the reconsolidation blockade
+[0:43:09] protocol, and this uh truncated
+[0:43:12] training. And notice that at 72 hours,
+[0:43:16] this group showed no long-term memory.
+[0:43:19] But when it got the three bouts of
+[0:43:22] training, the long-term memory was fully
+[0:43:25] restored. Now, you might say, well,
+[0:43:27] maybe that's just due to this extra
+[0:43:29] training. But in control animals that
+[0:43:32] only got this three bouts of training,
+[0:43:34] they didn't show long-term
+[0:43:36] sensitization.
+[0:43:38] So this means that the animal's behavior
+[0:43:41] is you know even though this is similar
+[0:43:45] to the Tonogawa experiment in that the
+[0:43:49] animal looked like it had no memory but
+[0:43:52] the memory was there all along.
+[0:43:56] Okay.
+[0:43:58] Now, I'm just going to go over this
+[0:44:00] briefly, but um this we carried out
+[0:44:04] additional experiments and we showed
+[0:44:08] that the long-term memory depends upon
+[0:44:12] DNA methylation.
+[0:44:14] And I I I don't want to spend a lot of
+[0:44:17] time with this slide, but basically what
+[0:44:19] this slide shows is that if you block
+[0:44:24] DNA methylation, and this was done with
+[0:44:28] RG 108, which is a DNA methyl
+[0:44:30] transferase inhibitor,
+[0:44:33] you basically wipe out the memory and
+[0:44:37] you can't get the memory back with this
+[0:44:40] truncated training. Okay? And um uh that
+[0:44:47] suggests to us that there was something
+[0:44:49] more fundamental about inhibiting DNA
+[0:44:52] methylation. So that pointed us in the
+[0:44:55] direction of epigenetic changes possibly
+[0:44:58] being the basis for long-term memory. So
+[0:45:02] in thinking about this uh this is a
+[0:45:05] slide that shows
+[0:45:07] uh mechanisms involved in epigenetic
+[0:45:10] changes and you'll see that one of the
+[0:45:13] main mechanisms that's involved in uh
+[0:45:17] DNA methylation are non-oding RNAs. So
+[0:45:22] we thought well maybe what happens
+[0:45:23] during long-term memory is the
+[0:45:26] sensitization training triggers the
+[0:45:30] expression of non-oding RNAs. These
+[0:45:33] non-coding RNAs produce epigenetic
+[0:45:36] changes and the epigenetic changes
+[0:45:39] mediate the um uh long-term memory.
+[0:45:45] So we thought, okay, well gee, if that's
+[0:45:49] the case, then we should be able to
+[0:45:51] transfer the memory with the RNA.
+[0:45:54] So uh we took a plesia, we gave them
+[0:45:58] sensitization training, we dissected out
+[0:46:02] their central nervous systems, we ground
+[0:46:05] them up, we extracted we extracted and
+[0:46:09] purified RNA and then we injected the
+[0:46:13] RNA from the trained animals into
+[0:46:17] into untrained naivelesia.
+[0:46:20] And then we also use the train RNA and
+[0:46:24] dumped it on sensory neurons. And I'll
+[0:46:26] describe the results of those
+[0:46:28] experiments in a little bit. Okay, so
+[0:46:30] here's what we found. Uh these are
+[0:46:33] behavioral experiments. So we gave the
+[0:46:36] animals two rounds of tail shock
+[0:46:39] training
+[0:46:41] and then all the animals were tested for
+[0:46:44] sensitization at 48 hours and then all
+[0:46:48] the animals had uh their you know their
+[0:46:52] RNA was extracted from their central
+[0:46:55] nervous systems. So part B shows the
+[0:46:58] results uh of the behavioral training.
+[0:47:01] This is before the RNA injection. So
+[0:47:04] these are control animals that didn't
+[0:47:06] receive any tail shocks and these are
+[0:47:08] trained animals and you'll see the
+[0:47:10] training produced robust um
+[0:47:12] sensitization of the siphon withdrawal
+[0:47:14] reflex. D shows the results from the RNA
+[0:47:18] injection experiment. So animals that
+[0:47:22] received an injection of RNA from
+[0:47:24] trained animals 24 hours later showed
+[0:47:27] sensitization. animals that received RNA
+[0:47:31] injection from untrained animals did not
+[0:47:34] show sensitization.
+[0:47:38] Uh and this effect was blocked if we
+[0:47:41] gave the animals an injection of the DNA
+[0:47:45] uh methyl transferase inhibitor RG 108
+[0:47:49] immediately after the injection of the
+[0:47:52] trained animal. So this is very similar
+[0:47:55] to the actual memory itself. Now, one of
+[0:47:59] the things that have been known for some
+[0:48:01] time is that sensitization in the animal
+[0:48:04] is accompanied by long-term excitability
+[0:48:06] of the sensory neurons. So, uh this
+[0:48:10] shows experiments from Jack Burn's lab
+[0:48:13] in which sensory neurons are given a 1
+[0:48:16] second injection of two nanoas of
+[0:48:19] positive current. Control sensory
+[0:48:22] neurons will show burst of firing on the
+[0:48:25] onset of the current but will remain
+[0:48:28] depolarized
+[0:48:29] but will not fire action potentials well
+[0:48:33] uh during the rest of the current. By
+[0:48:36] contrast, if you look at sensory neurons
+[0:48:40] in a sensitized animal, they will fire
+[0:48:43] action potentials throughout the period
+[0:48:46] of depolarization.
+[0:48:48] So this effect that you see in control
+[0:48:51] sensory neurons is called spike
+[0:48:54] accommodation and the effect that you
+[0:48:56] see in sensory neurons is called
+[0:48:58] anti-accommodation and this accompanies
+[0:49:02] long-term sensitization this longterm
+[0:49:05] increase in sensory neuron excitability.
+[0:49:08] So a French postoc in my lab uh Alexi
+[0:49:12] Bedaris
+[0:49:13] uh he took sensory neurons in culture
+[0:49:18] and he exposed them either to vehicle
+[0:49:22] solution RNA from untrained allesia and
+[0:49:28] RNA from sensitized alesia. He incubated
+[0:49:31] them overnight in these solutions and
+[0:49:33] then tested them the next day. And what
+[0:49:37] he found was that the RNA from the
+[0:49:39] trained animals showed uh that the
+[0:49:42] sensory neurons showed enhanced
+[0:49:44] excitability
+[0:49:46] and the RNA from the control animals
+[0:49:48] sensory neurons didn't. And he also
+[0:49:51] found that this effect was specific to
+[0:49:56] sensory neurons. If you look at motor
+[0:49:57] neurons, the trained RNA didn't have uh
+[0:50:01] this effect.
+[0:50:04] All right. Now, I was really excited by
+[0:50:06] these results and I thought, you know,
+[0:50:09] uh
+[0:50:12] I'm never going to have to worry about
+[0:50:13] grant money again. However, it was the
+[0:50:18] opposite and I basically lost my grants
+[0:50:24] as a result. I mean, when my grants ran
+[0:50:26] out, I wasn't able to get them renewed.
+[0:50:28] And I and that's because I wanted to
+[0:50:30] study memory transfer. And memory
+[0:50:33] transfer had a very bad reputation and
+[0:50:36] it was due
+[0:50:39] you know to the field's opinion of the
+[0:50:42] research of this man the psychologist
+[0:50:44] James McConnell and as many most of you
+[0:50:48] will know because of Mike's work with
+[0:50:50] the plenarian he did a lot of pioneering
+[0:50:53] experiments on memory and plenarian but
+[0:50:56] the most notorious of these experiments
+[0:50:59] were experiments in which declassically
+[0:51:03] conditioned plenarians
+[0:51:05] and then ground them up and fed them to
+[0:51:10] naive plenarians.
+[0:51:12] And he reported that uh that the uh
+[0:51:19] animal worms that had eaten the train
+[0:51:22] plenarians showed uh memory.
+[0:51:28] Okay. So the field decided this idea was
+[0:51:31] all wrong and uh and there people had
+[0:51:36] trouble replicating these results and
+[0:51:39] eventually the idea of memory transfer
+[0:51:42] uh fell fell out of favor and the whole
+[0:51:45] idea that memories are encoded
+[0:51:47] molecularly fell out of favor along with
+[0:51:50] it and uh people turned to the synaptic
+[0:51:54] model which is where we are today.
+[0:51:57] All right. So conclusions from my
+[0:51:59] research. These are my conclusions. Uh
+[0:52:03] so long-term memory is not stored at
+[0:52:06] synaptic connections.
+[0:52:08] Long-term memory is stored inside the
+[0:52:10] nuclei of neurons either as epigenetic
+[0:52:13] changes or genomic changes or both. And
+[0:52:16] I'm I'm not t uh I'm not able to talk
+[0:52:19] about this today, but we have evidence
+[0:52:22] that long-term memory involves genomic
+[0:52:24] changes in aia.
+[0:52:28] Um now
+[0:52:31] we also believe that memory can be
+[0:52:33] transferred from one organism
+[0:52:35] [clears throat] to another by molecules.
+[0:52:37] We used RNA but uh Colleen Murphy's lab
+[0:52:42] has shown that you can transfer memory
+[0:52:44] and C elegance by retro uh
+[0:52:46] retrotransposons.
+[0:52:50] Okay. And so
+[0:52:53] what I think is that the function of
+[0:52:56] synaps synapses is not to store
+[0:52:59] long-term memory the way most people
+[0:53:01] believe, but it's simply to express it.
+[0:53:04] So the the the metaphor I always use is
+[0:53:08] let's say you have a concert pianist and
+[0:53:12] uh you he's in an accident, he loses his
+[0:53:14] hands. Well, you ask him play Beethoven
+[0:53:17] or Mozar or whatever, he's not going to
+[0:53:19] be able to do it. If you that doesn't
+[0:53:21] mean he doesn't have the memory of how
+[0:53:23] to play it and you can show that he has
+[0:53:25] the memory if you give him prosthetic
+[0:53:27] hands and he'll be able to play once
+[0:53:30] more. So that's what I think I think
+[0:53:32] functions uh synapses have the function
+[0:53:34] of those
+[0:53:36] pro prosthetic uh hands.
+[0:53:39] All right. Now I want to get to the get
+[0:53:43] to the um implications of this idea for
+[0:53:47] AI. So as I said all of modern AI, large
+[0:53:52] language model AI etc is all based on
+[0:53:56] the idea that when a a when a model
+[0:54:02] learns something you're simply changing
+[0:54:05] the weights of the synaptic connection
+[0:54:07] and the memory is in those changed
+[0:54:11] weights.
+[0:54:12] So we have just published a paper in
+[0:54:15] archives and the title of this paper is
+[0:54:18] neurons are all you need and what we are
+[0:54:22] proposing oh and I want to point out uh
+[0:54:25] one of the authors is my son Alan who's
+[0:54:29] not a neuroscientist and he's not an AI
+[0:54:32] person he's a [clears throat] business
+[0:54:34] person but he's very smart and he had a
+[0:54:40] lot to do with the development of this
+[0:54:42] All right. So the the point about the
+[0:54:46] idea behind this paper is something that
+[0:54:49] uh a system that we call Naresa which
+[0:54:52] stands for neural unit with retentive
+[0:54:55] self- adapting architecture.
+[0:54:58] And so what we argue is that
+[0:55:04] uh you neurons have memory. So a
+[0:55:10] standard neuron in an AI system is
+[0:55:13] stateless. It doesn't have memory. Okay?
+[0:55:16] Once it's trained, that's it. The memory
+[0:55:19] doesn't persist. In our system,
+[0:55:24] uh there are two components. There's a
+[0:55:27] persistent register called M and that
+[0:55:30] accumulates a running history of the
+[0:55:32] neurons activity across training. And
+[0:55:35] then there's a vault called C. And C
+[0:55:38] consolidates the neurons learn
+[0:55:40] configuration
+[0:55:42] once M crosses the commitment boundary.
+[0:55:46] And so the C persists and when enough M
+[0:55:52] accumulates the neurons weights are
+[0:55:55] consolidated into C and this uh C
+[0:56:00] represents a separate stable copy of
+[0:56:03] what the neuron has learned and
+[0:56:05] importantly
+[0:56:07] it survives the eraser of the original
+[0:56:10] rate weights and it can be extracted and
+[0:56:13] moved and so you
+[0:56:16] take the memory C outside of a trained
+[0:56:21] neuron and put it into an untrained
+[0:56:24] neuron and transfer the memory.
+[0:56:27] So this illustrates that here. So here
+[0:56:30] you have train model and each of these
+[0:56:32] shaded neurons are neurons that uh whose
+[0:56:37] weights are changed by learning and that
+[0:56:41] information gets put into this memory
+[0:56:44] packet and you can transfer that to a
+[0:56:47] fresh model and what this means is that
+[0:56:50] you can transfer the memory without
+[0:56:53] retraining the model. All AI systems now
+[0:56:59] if you want to transfer the memory you
+[0:57:01] have to retrain the model. How much you
+[0:57:03] have to retrain differs on what kind of
+[0:57:05] tricks you use but there's no direct way
+[0:57:09] of transferring the memory. And that's
+[0:57:11] why AI systems don't really have memory.
+[0:57:15] They don't have persistent memory. There
+[0:57:16] are all sorts of things they try to, you
+[0:57:19] know, you may have found if you started
+[0:57:21] using Claude early on that Claude
+[0:57:23] wouldn't remember your conversations
+[0:57:25] from a week ago. Now, Claude does a
+[0:57:28] better job of that, but that's it's not
+[0:57:30] really memory. It's a notepad. All
+[0:57:33] right. So, the other thing about uh
+[0:57:36] Naresa, and I'll wind up here. This is
+[0:57:39] the part that's very interesting to me.
+[0:57:42] As you train a naresa based system,
+[0:57:47] what you find is that neurons self-
+[0:57:52] select as to whether or not they're
+[0:57:55] going to take on the learning. And we
+[0:57:59] don't really understand what the basis
+[0:58:01] of this self- selection is, but it's
+[0:58:04] really analogous to uh what's believed
+[0:58:08] by many people to occur in the brain
+[0:58:10] where you get sparse encoding of memory
+[0:58:14] and this is something we're looking
+[0:58:15] into. Now the other thing about our
+[0:58:18] model is that catastrophic forgetting is
+[0:58:20] reduced and as I said it pro for the
+[0:58:24] first time we believe our system
+[0:58:27] provides artificial intelligence with
+[0:58:30] persistent memory.
+[0:58:34] Okay. So I think that's it. I can talk
+[0:58:38] about this. I was wondering if there'd
+[0:58:40] be any questions so I could talk about
+[0:58:41] this but I think I'll stop right there.
+[0:58:47] Super cool. Thanks, David. Um, a couple
+[0:58:50] of things. First of all, uh, could you
+[0:58:53] talk a little bit about I mean, I still
+[0:58:54] think this is one of the most important
+[0:58:56] parts of your amazing work is when you
+[0:59:00] when you inject the RNA
+[0:59:02] &gt;&gt; into into the recipient.
+[0:59:05] &gt;&gt; Yeah.
+[0:59:08] &gt;&gt; Where do you inject? How much? Can you
+[0:59:10] just confirm?
+[0:59:11] Oh
+[0:59:12] &gt;&gt; yeah. So we we just inject it into the
+[0:59:15] hemolymph. So uh uh you know mollis are
+[0:59:20] just effectively bags of hemolymph and
+[0:59:24] so they have arteries but they have an
+[0:59:28] open venus return. So you're inject when
+[0:59:32] you inject it into the hemolymph it
+[0:59:35] diffuses out and go and then enters the
+[0:59:38] arteries and gets delivered to the
+[0:59:41] nervous system.
+[0:59:43] &gt;&gt; Okay. So so the specificity of where it
+[0:59:47] came from and where it's going,
+[0:59:49] you know, it it doesn't seem to be
+[0:59:52] terribly critical, right? It it's sort
+[0:59:54] of like it's and and this I think is
+[0:59:56] really important because it comes up in
+[0:59:58] other contexts. The system is primed to
+[1:00:00] extract information from stuff that
+[1:00:02] floats on by. Right. Yeah. It's like
+[1:00:05] it's like it's so it's soaking up and
+[1:00:07] trying to extract meaning from stuff
+[1:00:09] that just sort of [laughter]
+[1:00:10] &gt;&gt; shows up.
+[1:00:11] &gt;&gt; Yeah.
+[1:00:12] &gt;&gt; Yeah. Now I think what the reason why we
+[1:00:16] succeeded is because we were looking at
+[1:00:18] sensitization. Okay. So sensitization
+[1:00:21] you can think of as a stateike change.
+[1:00:24] And so it would be interesting to see if
+[1:00:28] you could get the same thing with
+[1:00:30] classical conditioning and I wanted to
+[1:00:34] look at that and NIH the review panel
+[1:00:37] said we're not interested in funding you
+[1:00:39] to look at that. So I still don't know
+[1:00:41] if
+[1:00:42] &gt;&gt; if you could transfer classical
+[1:00:44] conditioning, but in uh her laboratory's
+[1:00:49] experiments, Colleen Murphy
+[1:00:52] uh transferred
+[1:00:54] uh a classically conditioned learning
+[1:00:58] between individual
+[1:01:00] uh segans using an uh in um a retroron.
+[1:01:09] So I think there is specificity in you
+[1:01:13] know I think there there there can be
+[1:01:16] specificity in the molecules
+[1:01:21] &gt;&gt; right right uh yeah I mean I'll make a
+[1:01:24] prediction I think this this is a more
+[1:01:26] general feature of the biology that it
+[1:01:29] wants to sort of squeeze the information
+[1:01:32] out of anything it can whether it you
+[1:01:35] know I just yeah I don't
+[1:01:39] So, so
+[1:01:39] &gt;&gt; you don't think it's like specific
+[1:01:41] encoding? You think it's some other
+[1:01:45] what?
+[1:01:46] &gt;&gt; Well, okay, I can give you two level.
+[1:01:49] So, so, so, so if we don't, if we don't
+[1:01:51] get too crazy um the only the minimal
+[1:01:54] the minimal thing that I expect is that
+[1:01:58] uh the information does not need to be I
+[1:02:01] mean, you already know it's not a
+[1:02:02] specific synaptic thing, but I don't
+[1:02:04] think it needs to be in a specific
+[1:02:05] neuron. I think I think uh this the
+[1:02:09] basically I'm going back to the
+[1:02:10] butterfly caterpillar thing and and you
+[1:02:12] know everything gets torn up re sort of
+[1:02:16] refactored. I I think it isn't in the g
+[1:02:18] in the topology of the system at all.
+[1:02:20] That's that's kind of a minimal thing. I
+[1:02:22] can say a crazier I can say a crazier
+[1:02:24] thing which is what I really suspect is
+[1:02:26] going on which has to do with
+[1:02:28] &gt;&gt; uh I I think all of these things are um
+[1:02:30] pointers. I think I think the
+[1:02:32] information isn't in the RNA so to speak
+[1:02:34] at all. I think these are these are
+[1:02:36] pointers into uh I don't know if you've
+[1:02:38] kept up with this platonic space model
+[1:02:40] that I've been putting up for about a
+[1:02:42] year and a half and I suspect the same
+[1:02:45] thing is true of individual memories as
+[1:02:47] it is of the of the behavior patterns
+[1:02:49] that I've been talking about. So, so I
+[1:02:51] wonder if in your computational model, I
+[1:02:54] wonder if this if this has the same
+[1:02:55] feature when you when you copy the
+[1:02:58] memory from from
+[1:03:01] sender to receiver,
+[1:03:02] &gt;&gt; do you need to do they need to have the
+[1:03:05] same topology? Do you need to put it in
+[1:03:07] the same place?
+[1:03:08] &gt;&gt; Oh, that's yeah. So, uh
+[1:03:16] yes. So, so by definition you're when we
+[1:03:21] do these trainings we're the fresh model
+[1:03:26] has the same basic architecture as the
+[1:03:29] trained model. So the only things that
+[1:03:33] are differing are the the f the fresh
+[1:03:37] model doesn't have the weight changes.
+[1:03:39] So that's because of the nature of how
+[1:03:43] you test these systems. you get these
+[1:03:46] package
+[1:03:48] models and then you alter them with um
+[1:03:52] your training. So, so yes, I would say
+[1:03:55] the same the architecture the ba the
+[1:03:59] basic architecture is the same.
+[1:04:02] &gt;&gt; So, we we haven't tried to take a
+[1:04:04] totally naive system and give it the
+[1:04:07] trained RNA. I don't even know if that
+[1:04:09] would work. I I so so my my prediction
+[1:04:12] and this is this is stuff that we're
+[1:04:14] working on too. Although we've got a
+[1:04:16] different model than you. So so I'll
+[1:04:17] make a prediction and and tell me if you
+[1:04:19] guys are able to do it. Uh I don't think
+[1:04:22] it has to be the same architecture. I
+[1:04:24] think I think it should be I think it
+[1:04:26] should be I mean part of the reason is
+[1:04:28] the biology the the butterfly
+[1:04:30] caterpillar thing is telling us the fact
+[1:04:33] &gt;&gt; not not only is the memory robust to
+[1:04:35] reconfiguration of the substrate but the
+[1:04:38] actual memories of the caterpillar are
+[1:04:40] of no use to the butterfly. The
+[1:04:41] butterfly has different things it's
+[1:04:43] interested in in terms of rewards. It
+[1:04:45] has it doesn't move the same way that
+[1:04:47] the caterpillar moves. Those memories
+[1:04:49] have to be remapped onto a completely
+[1:04:51] different uh you know architecture. So
+[1:04:54] the meaning has to be extracted but not
+[1:04:56] the specific.
+[1:04:59] &gt;&gt; So so my my prediction here is that if
+[1:05:02] you move your
+[1:05:04] &gt;&gt; uh those those memories uh that that set
+[1:05:08] of memories somewhere into the recipient
+[1:05:11] network whether it's the same or it's
+[1:05:12] different I think you can recover traces
+[1:05:15] of recall. It might not
+[1:05:17] &gt;&gt; be very yeah that would be I yeah that
+[1:05:20] would be interesting. We have not tried
+[1:05:22] to do that. I'm not sure.
+[1:05:25] I'm not sure. Well, I'd have to talk to
+[1:05:28] my colleagues, you know, whether we're
+[1:05:30] even able to do that. Yeah.
+[1:05:33] &gt;&gt; Yeah. Yeah. I I I think it should, you
+[1:05:34] know,
+[1:05:35] &gt;&gt; I mean, I think that's a really
+[1:05:36] interesting point, you know. I think
+[1:05:39] it's really something that should be
+[1:05:41] looked at.
+[1:05:42] &gt;&gt; Yeah. Yeah. Take take a look. I'm happy
+[1:05:43] to discuss some more about how to do it.
+[1:05:45] like like what I'm really interested in
+[1:05:47] is this whole business of um
+[1:05:50] interpreting
+[1:05:51] uh interpreting the the the physical
+[1:05:54] structure of a brain. So as as you know
+[1:05:57] you might have seen there's a recent
+[1:05:58] paper I'm going to have I'm going to
+[1:05:59] have to invite these guys to give a talk
+[1:06:01] to us soon but um there's a recent paper
+[1:06:03] where one language model is looking at a
+[1:06:06] list of weights from another one and
+[1:06:08] figures out what this thing is
+[1:06:10] basically. Yeah,
+[1:06:11] &gt;&gt; kind of infer, right? So, so this, you
+[1:06:14] know, this this drove me crazy for for
+[1:06:15] for decades where
+[1:06:18] &gt;&gt; neural decoding in neuroscience is
+[1:06:20] really hard. So, looking at looking at
+[1:06:22] another brain and figuring out what's
+[1:06:24] going on from readings, extremely
+[1:06:26] difficult, but looking but but looking
+[1:06:29] at your own brain, pretty good. Not not,
+[1:06:31] you know, not always perfect, but pretty
+[1:06:33] good. We we don't usually have a ton of
+[1:06:35] problems knowing what our own, you know,
+[1:06:37] engrams,
+[1:06:38] &gt;&gt; right? So, so, so what's going on here?
+[1:06:40] Why is it so much easier to read your
+[1:06:42] own engrams than it is to read somebody
+[1:06:44] else's?
+[1:06:45] &gt;&gt; And I I I think this whole this whole
+[1:06:47] issue of what it means to interpret them
+[1:06:50] and what are the data what what what
+[1:06:52] aspect of the structure are you really
+[1:06:55] uh looking at when you say ah that's the
+[1:06:57] fear of the dark you know as in study or
+[1:07:01] whatever. Um
+[1:07:02] &gt;&gt; you know I think that's really
+[1:07:03] interesting and I think with these with
+[1:07:05] these uh um networks we can get to some
+[1:07:09] of that. I don't think it's purely a
+[1:07:10] biological thing at all.
+[1:07:12] &gt;&gt; Yeah, that's interesting. So, um
+[1:07:18] yeah, let me So, you know, one of the
+[1:07:21] features of uh most large language
+[1:07:25] models is you can't look at the model
+[1:07:27] and say where the memory is.
+[1:07:30] &gt;&gt; Yeah,
+[1:07:31] &gt;&gt; you can't. There's no way. But our
+[1:07:34] system you can because you know we you
+[1:07:38] know it's it's you know we can say well
+[1:07:40] that that those neurons have that the
+[1:07:43] vault from that training those neurons
+[1:07:46] have the vault from that training etc.
+[1:07:49] Yeah, maybe. Right. So, so you know, you
+[1:07:52] put in the vault. Yeah. But if but but
+[1:07:55] the question is and and I you might want
+[1:07:57] to do the thing that that these guys
+[1:07:59] just published uh which is to have
+[1:08:01] another model look at the trained
+[1:08:03] network and say do you think it has the
+[1:08:05] memory or doesn't it?
+[1:08:06] &gt;&gt; Oh, that's who who are these what's this
+[1:08:09] paper?
+[1:08:10] &gt;&gt; Let me try to find it. It's it's from
+[1:08:13] the sea sale group at MIT. Um uh
+[1:08:17] &gt;&gt; let me see. But the but the the thing is
+[1:08:20] uh
+[1:08:22] like like
+[1:08:24] I I think I think once you and I mean I
+[1:08:26] think you're almost there anyway because
+[1:08:28] of because of all the work you've done
+[1:08:30] showing that it's not in in the
+[1:08:32] synapses. If you step back from the idea
+[1:08:35] that that it's the structure that you're
+[1:08:38] moving.
+[1:08:38] &gt;&gt; We we we have some stuff. It's basically
+[1:08:41] like it's a bag of ingredients [snorts]
+[1:08:44] and as long as the ingredients are
+[1:08:45] somewhere in there everything fine. It's
+[1:08:48] really not very picky about the ordering
+[1:08:49] which is super weird, right? Because the
+[1:08:51] whole the whole assumption of the whole
+[1:08:53] assumption of connectionist machine
+[1:08:54] learning is that you know the topology
+[1:08:56] is everything. You're training specific
+[1:08:58] connection. I think that's got I think
+[1:09:00] that's got to go. I think part of what's
+[1:09:02] going on here is that is not what what's
+[1:09:05] what's important.
+[1:09:06] &gt;&gt; So
+[1:09:08] yeah, I mean I had enough trouble. Yeah.
+[1:09:11] [laughter]
+[1:09:13] So, my feeling about that is I don't
+[1:09:15] know how far I want to chase that
+[1:09:18] because
+[1:09:19] &gt;&gt; Well, that's [laughter] a different Yes.
+[1:09:20] Yes. That's a different that's a
+[1:09:21] different story. But, you know, this is
+[1:09:23] me and you talking. I'm not I'm not
+[1:09:25] suggesting you say this in a in a grant
+[1:09:27] application.
+[1:09:30] &gt;&gt; But, no, I mean, I think that's an
+[1:09:32] interesting thing to look at. Yeah.
+[1:09:35] Yeah. Yeah. Yeah. Yeah. Yeah. I mean, so
+[1:09:37] what you're saying is you could have
+[1:09:39] different architectures, but they have
+[1:09:40] the same meaning.
+[1:09:42] &gt;&gt; I I think that uh that different
+[1:09:45] architectures have the ability to
+[1:09:47] squeeze salience out of memory engrams.
+[1:09:50] They they squeeze the meaning
+[1:09:52] [clears throat] out of it with they with
+[1:09:53] not the literal um it's not it's not the
+[1:09:57] fidelity of the information, it's the
+[1:09:58] salience. In other words,
+[1:09:59] &gt;&gt; interesting. Okay. And I think the the
+[1:10:02] butterfly is telling us that it has to
+[1:10:04] be that because you can't a butterfly
+[1:10:05] can't do anything with a with a specific
+[1:10:07] motor response that the caterpillar had
+[1:10:09] to have. It's a different body, you
+[1:10:11] know.
+[1:10:13] So, so I think what's going on here is
+[1:10:14] the ability of certain kinds of
+[1:10:16] substrates to interpret pointers that
+[1:10:19] they get that that they give and and
+[1:10:22] maybe there's something to do with, you
+[1:10:24] know, uh I mean, we we don't know yet
+[1:10:26] really what like all the specificity
+[1:10:28] like what's really important to be able
+[1:10:29] to to be able to interpret.
+[1:10:31] &gt;&gt; Yeah.
+[1:10:31] &gt;&gt; But I suspect that it's not the it's not
+[1:10:34] the the specific structure and it's not
+[1:10:35] which cell it's in. I don't think it's
+[1:10:37] any of that.
+[1:10:39] &gt;&gt; Yeah.
+[1:10:39] &gt;&gt; And
+[1:10:40] &gt;&gt; I guess Yeah. Okay. I guess that's a
+[1:10:42] hard cell for me because I always think
+[1:10:44] about like identified neurons and
+[1:10:47] allesia and how important those are.
+[1:10:50] &gt;&gt; I I hear you. But but and and maybe for
+[1:10:53] some things that's true. I mean there
+[1:10:55] might be regionalizations and whatnot,
+[1:10:57] &gt;&gt; but I think your own experiments on the
+[1:11:00] injection I mean this is why this is why
+[1:11:02] I was asking about the injections last
+[1:11:04] time we talked.
+[1:11:04] &gt;&gt; Yeah.
+[1:11:05] &gt;&gt; Yeah. that that's what's if if you let's
+[1:11:08] put it this way on the conventional view
+[1:11:10] if you were proposing uh that well I'm
+[1:11:13] just gonna inject it kind of anywhere
+[1:11:15] and I think it'll work.
+[1:11:16] &gt;&gt; Yeah. Are you kidding me? I would say
+[1:11:18] forget it. You have to find the right
+[1:11:19] neuron and put it in there and maybe in
+[1:11:22] C elegance or something you have a or or
+[1:11:24] in a you have a hope of doing that. You
+[1:11:26] telling me I just inject it in there
+[1:11:28] somewhere. It's fine.
+[1:11:29] &gt;&gt; Yeah. Yeah. Yeah. I know. I mean that
+[1:11:31] that right there like to me that's
+[1:11:33] &gt;&gt; well again I again I think you know I
+[1:11:37] think that's because it's sensitization.
+[1:11:42] So
+[1:11:43] if again I think a critical
+[1:11:47] a critical
+[1:11:49] uh
+[1:11:52] it would be critical if I could get some
+[1:11:54] kind of associative learning out of
+[1:11:56] this. Also, um, the that it's
+[1:12:00] interesting that you're going off on
+[1:12:02] this in this direction because most of
+[1:12:05] the criticisms I get from people is,
+[1:12:07] well, look, you think it's in the
+[1:12:08] nucleus, so how does the nucleus know
+[1:12:11] which synapses that need to be altered?
+[1:12:14] So, my response is that is I don't know,
+[1:12:17] but it does. But your response is it
+[1:12:20] doesn't need to, right?
+[1:12:21] &gt;&gt; I don't think I I that's Yeah, that's
+[1:12:24] that's
+[1:12:24] &gt;&gt; that would be your response. Yeah, which
+[1:12:27] is Yeah, that would be interesting. That
+[1:12:30] would be interesting.
+[1:12:31] &gt;&gt; See, I think the nucleus is able to
+[1:12:34] &gt;&gt; keep track of every not of every
+[1:12:37] synaptic connection because I don't
+[1:12:38] think it needs to, but I think it has a
+[1:12:41] way of knowing what are the, you know,
+[1:12:43] ones that are really important and it's
+[1:12:46] able to keep track of those.
+[1:12:49] &gt;&gt; But in your situation, you wouldn't,
+[1:12:51] that wouldn't be required.
+[1:12:53] &gt;&gt; No, no, I don't I don't think it's
+[1:12:54] required. And I think I think uh
+[1:12:58] if we if we do all kinds of and it's I
+[1:13:01] mean it's easier on the on the compute
+[1:13:02] side than in the biology but uh you know
+[1:13:05] swapping the nuclei around swapping the
+[1:13:07] cells around uh I think it should all
+[1:13:11] work. I I I don't know that it work for
+[1:13:13] complex but I bet if I if I you know if
+[1:13:16] if I had to bet somebody right now I
+[1:13:18] would say I think it's going to work. I
+[1:13:20] think it would work.
+[1:13:21] &gt;&gt; That's interesting.
+[1:13:22] &gt;&gt; Yeah.
+[1:13:22] &gt;&gt; Yeah. I you know that you know that I
+[1:13:27] that's not the way I see it but it's I
+[1:13:30] you know that it's really interesting to
+[1:13:33] look at you know
+[1:13:34] &gt;&gt; we should we should test it we should we
+[1:13:37] are we are working on moving memories I
+[1:13:40] mean I'll tell you the experiment that
+[1:13:41] we that we are in of doing which is
+[1:13:44] really nuts
+[1:13:45] &gt;&gt; um you know we make these anthrobots
+[1:13:47] yeah they come from epithelial adult
+[1:13:50] donors what I want to do what I want to
+[1:13:52] do is get hold of a smoker uh smokers uh
+[1:13:56] cells and I want to make uh uh I want to
+[1:13:59] make uh anthrobots and I want to know if
+[1:14:01] the anthrobots are uh attracted to
+[1:14:04] nicotine
+[1:14:05] &gt;&gt; because
+[1:14:06] &gt;&gt; oh smoker cells you mean cells from
+[1:14:08] smokers
+[1:14:08] &gt;&gt; from smokers
+[1:14:11] people addicted to nicotine
+[1:14:13] &gt;&gt; yeah because because look anthrobots
+[1:14:15] they don't have any neurons
+[1:14:16] &gt;&gt; and they don't have and they don't have
+[1:14:18] any muscles and and and if if it's if
+[1:14:21] and this is a big if we haven't done
+[1:14:22] this yet. It's a big if, but if it is
+[1:14:24] the case that they still show taxes
+[1:14:27] towards nicotine, it's a it's it's a
+[1:14:29] really clean example of this kind of
+[1:14:31] remapping. They don't have any of the
+[1:14:32] structures you would expect to be to be
+[1:14:34] carrying that be that that motor
+[1:14:36] program. You have you they have silly
+[1:14:39] &gt;&gt; well. Okay. So, yeah, but that doesn't
+[1:14:43] mean that the memory is not specific.
+[1:14:47] So, uh, you know, what about, you know,
+[1:14:50] I'm thinking about this in in like heart
+[1:14:53] heart transplant people where they
+[1:14:55] they've gotten, you know, a lot of
+[1:14:58] specificity and the heart doesn't need
+[1:15:01] to know, well, I'm I'm like I uh I love
+[1:15:06] Chicken McNuggets
+[1:15:08] and my former body, but it's got that
+[1:15:11] memory, right?
+[1:15:12] &gt;&gt; And and my model my model of all of that
+[1:15:14] is the same. I think all of these things
+[1:15:16] are just pointers. The memory isn't in
+[1:15:18] the heart. It's not in the it's not in
+[1:15:20] any of the phys the physical things
+[1:15:21] provide selectivity for tuning in to
+[1:15:24] patterns from this uh from this space
+[1:15:27] just like just like
+[1:15:28] &gt;&gt; okay so my explanation of that is that
+[1:15:33] when your brain is experiencing things
+[1:15:37] in addition to altering the strength of
+[1:15:40] synaptic connections it and whatever is
+[1:15:43] going on in the nucleus it's releasing
+[1:15:46] endocapsids that have RNA
+[1:15:49] &gt;&gt; and the RNA is getting out into the
+[1:15:52] blood and CSF and it can go throughout
+[1:15:54] the body. So that could be pretty
+[1:15:58] specific information that could be taken
+[1:16:01] up by each cell. So even though you look
+[1:16:03] at it and you say, "Well, why would the
+[1:16:05] heart want to be taking up endocapsids
+[1:16:09] about chicken McNuggets?" Well, it just
+[1:16:12] does. You know, that's the way it's set
+[1:16:13] up.
+[1:16:15] &gt;&gt; Yes. And that's and that's a that's a
+[1:16:17] totally plausible explanation. Um I I
+[1:16:21] would say that f first of all I think in
+[1:16:23] our scenario with the with the anthropot
+[1:16:25] thing I think we could control for that.
+[1:16:27] But
+[1:16:28] &gt;&gt; that would be re that would be
+[1:16:29] interesting. That would be re yeah that
+[1:16:32] would be interesting.
+[1:16:33] &gt;&gt; But the more important thing there is
+[1:16:34] just it's not even the specificity. It's
+[1:16:36] the remapping. It's the fact that you
+[1:16:38] have a behavior that requires nerve and
+[1:16:40] muscle to get you to go out and buy the
+[1:16:42] smokes. Right? Whereas whereas in the
+[1:16:44] anthrobots there is no nerve, there is
+[1:16:46] no muscle. What you have to do is
+[1:16:47] connect whatever the specificity bearing
+[1:16:50] molecule is. You have to connect it to
+[1:16:52] siliary motion and figure out a new way
+[1:16:54] to get around and go and go towards the
+[1:16:57] right.
+[1:16:57] &gt;&gt; Well, that's a that's okay. But what but
+[1:17:00] what I would argue is that what you're
+[1:17:02] transferring is the objective. See, and
+[1:17:06] and that's and that's the critical thing
+[1:17:08] when when the objective can that that's
+[1:17:11] in total agreement with what I was
+[1:17:12] saying is you're transferring an
+[1:17:14] objective that is completely, you know,
+[1:17:16] not relying on any implementation detail
+[1:17:19] for that objective.
+[1:17:20] &gt;&gt; Yeah. Yeah. But if Yeah, but if you
+[1:17:23] think about it like you know the the the
+[1:17:28] moss and caterpillars
+[1:17:30] if they the what they're what they're
+[1:17:35] getting is Yeah. Okay. So, you know,
+[1:17:37] when I heard this tone, I got a shot,
+[1:17:40] right? So, and then I crawl away when
+[1:17:44] I'm a caterpillar. When I'm a butterfly,
+[1:17:46] I just what I've learned is if I hear
+[1:17:49] that tone, it's danger. And that's and
+[1:17:52] that's what's transferred, but not the
+[1:17:54] implementation of what you do to get
+[1:17:56] away from that danger.
+[1:17:58] &gt;&gt; A agreed. Agreed. But that's that's the
+[1:18:00] tremendous thing is that what you're
+[1:18:02] passing is a generalization of the Yeah.
+[1:18:04] the message that
+[1:18:05] &gt;&gt; Well, that I agree. Yeah.
+[1:18:07] &gt;&gt; It's abstracted and then once it's
+[1:18:09] abstracted, you can remap it on
+[1:18:10] different architectures.
+[1:18:11] &gt;&gt; Well, I Yeah, that part I agree with.
+[1:18:13] But I I still think there's a I I still,
+[1:18:17] you know, I'm still
+[1:18:18] &gt;&gt; buying into this idea of molecular
+[1:18:20] specificity. And maybe that's wrong.
+[1:18:23] &gt;&gt; I don't know. That's that's okay. It's
+[1:18:24] not the I'm not so much negating that.
+[1:18:27] I'm I'm saying that what it's specific
+[1:18:29] for is a highlevel meaning of the
+[1:18:31] message which can then be mapped onto
+[1:18:33] all kinds of
+[1:18:34] &gt;&gt; Right. Well, that Yeah, I I you know, I
+[1:18:37] don't have a problem with that at all.
+[1:18:40] &gt;&gt; And even in the case of And I apologize,
+[1:18:41] I gota I got to get going. It's late
+[1:18:42] here, but but just just the last thing.
+[1:18:44] In the case of the heart transplants, I
+[1:18:46] I like this example a lot. Um, a couple
+[1:18:48] of the cases had uh so we need to think
+[1:18:52] about the decoding bit because a couple
+[1:18:54] of these cases had people switch
+[1:18:55] political orientations.
+[1:18:57] &gt;&gt; So what we're so so what you what what
+[1:19:00] we're saying here is that there's an
+[1:19:02] endocapsided, you know, particle that
+[1:19:05] that you know that when the cells look
+[1:19:06] at it, they go, "Oh, let's see. Three
+[1:19:09] three hydrocarbons over here." Oh, well
+[1:19:10] that's a that's a that's [laughter] a
+[1:19:11] Republican kind of thing. Like really,
+[1:19:14] you know, where's the where's the
+[1:19:16] decoding book for these things? I I get
+[1:19:18] fear of I get fear of the dark. I get I
+[1:19:20] get habituation, but for some of these
+[1:19:22] highle things like what would the
+[1:19:24] decoding book
+[1:19:25] &gt;&gt; it may not be may [laughter] not be that
+[1:19:28] high level.
+[1:19:29] &gt;&gt; I don't know. I there's some I I I think
+[1:19:32] I think the real answer to all of this
+[1:19:33] is going to turn all the basic stuff
+[1:19:35] upside down. Well, I think I Well, what
+[1:19:39] I tell people is we don't understand
+[1:19:41] anything. That's what I keep telling
+[1:19:42] people. Listen, before you run, do you
+[1:19:45] you know about this study, right?
+[1:19:47] &gt;&gt; Do you know about this study?
+[1:19:49] &gt;&gt; I do. I do not know this one. No,
+[1:19:50] actually,
+[1:19:51] &gt;&gt; you really need to take a look at this.
+[1:19:52] This is this is where they basically
+[1:19:55] repeated the squirrel experiment, but
+[1:19:57] they used transgenic mice.
+[1:19:59] &gt;&gt; Sweet. And what what they found was that
+[1:20:03] the animal goes they train the mice on
+[1:20:06] on contextual fear condition. They put
+[1:20:08] it into hibernation. They woke it up and
+[1:20:10] it remembered. But at the same time when
+[1:20:14] they're in hibernation, they lost over
+[1:20:16] 50% of the synaptic connections in the
+[1:20:19] hippocampus. And after they awoke, that
+[1:20:22] was restored. And it looks like the
+[1:20:24] connections were restored in the same
+[1:20:27] place. They can't really know that for
+[1:20:29] sure.
+[1:20:30] &gt;&gt; But there was a group of synapses that
+[1:20:32] they call clustered synapses.
+[1:20:35] &gt;&gt; Those didn't disappear, but there were,
+[1:20:38] you know, and so they think they believe
+[1:20:41] that that's sufficient to keep the
+[1:20:44] memory intact. What I think is they
+[1:20:46] didn't do the critical experiment where
+[1:20:49] they instead of hibernation they do
+[1:20:51] something where they get rid of every
+[1:20:53] synapse all these clustered synapses and
+[1:20:55] show is the memory still intact.
+[1:20:58] &gt;&gt; Yeah.
+[1:20:58] &gt;&gt; But they didn't do that. Anyway, you
+[1:21:00] should take a look at this paper. Back
+[1:21:02] to running.

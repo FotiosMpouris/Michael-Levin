@@ -1,0 +1,1294 @@
+[0:00:00] for more people from different
+[0:00:03] scientific background.
+[0:00:05] So the idea that that I thought to
+[0:00:07] present it like is a foundation for
+[0:00:10] aware systems or ever adapting systems.
+[0:00:16] And let's start from the very from the
+[0:00:18] very beginning.
+[0:00:20] So the very beginning the basis of
+[0:00:22] computer science start with Alan Turing
+[0:00:24] that in 1936
+[0:00:27] was giving the question
+[0:00:31] can he model how human calculator works
+[0:00:36] and these human calculators are adding
+[0:00:38] and multiplying vectors and multiplying
+[0:00:41] matrices.
+[0:00:43] And the question was how how they're
+[0:00:45] doing it so well.
+[0:00:47] And what Turing suggested
+[0:00:49] is that they have a brain
+[0:00:53] and they have a notebook.
+[0:00:56] But in order to do that they really need
+[0:00:59] some kind of a program that somebody
+[0:01:01] gave it to them. So without this program
+[0:01:03] nothing will happen. So let's say the
+[0:01:05] program is is to multiply two long
+[0:01:07] vectors. So you load how to multiply two
+[0:01:10] vectors. Now this is in their brain. So
+[0:01:13] you have like a processing area and the
+[0:01:16] memory area which is outside. And now
+[0:01:18] that you know how to multiply two
+[0:01:20] vectors any two vectors that will be
+[0:01:22] coming to you in the input
+[0:01:24] will be receiving a good output.
+[0:01:27] So by doing so
+[0:01:31] in fact Turing suggested that there can
+[0:01:35] be an idea of how to of how machine can
+[0:01:39] compute by separating processing region
+[0:01:42] from memory region. But the most
+[0:01:43] important part of that
+[0:01:45] is that there is a stored program.
+[0:01:48] So what it really gives us it to give us
+[0:01:50] something that we call in computer
+[0:01:52] science universality. So it tells us
+[0:01:54] there can be a universal computer that
+[0:01:56] can do any program that is given to it.
+[0:02:00] And in fact, this is really kind of the
+[0:02:02] proof of computers, and that's why we
+[0:02:04] consider it the foundations of all
+[0:02:06] computer science.
+[0:02:09] So there is an important concept that
+[0:02:11] Turing brought here in addition to the
+[0:02:13] universality, which is the computer
+[0:02:15] itself, is the concept of a program.
+[0:02:18] If you can clarify very well what going
+[0:02:21] to happen, this is a program. And that
+[0:02:24] kind of started people think about
+[0:02:26] computing in machines or what we call
+[0:02:28] today AI or how to model nature.
+[0:02:32] So let's think first for AI. For AI, we
+[0:02:35] need to think about Turing type of of
+[0:02:39] AI. So it means that we want to have
+[0:02:41] some kind of programs that is there in
+[0:02:43] advance. And we can think mainly of two
+[0:02:46] kinds that we have today.
+[0:02:48] One is the program do the rule-based
+[0:02:50] programs.
+[0:02:52] If fever is more than 38, then you do
+[0:02:54] some tests. So this is called many times
+[0:02:58] first wave AI by by
+[0:03:01] the government funding agencies.
+[0:03:03] And it also in fact covered the second
+[0:03:05] wave AI
+[0:03:07] which give you in run network
+[0:03:11] body
+[0:03:12] and a data set
+[0:03:14] and a training algorithm, let's say back
+[0:03:16] propagation typically, and then you
+[0:03:19] train on that.
+[0:03:21] And both of them are actually in fact
+[0:03:24] frozen once it's ready. So in neural
+[0:03:26] network, we're not thinking about it
+[0:03:28] very common in this way, but during the
+[0:03:31] training, the performance goes up.
+[0:03:34] And then nothing really can change
+[0:03:37] because that was the end of the
+[0:03:40] of the
+[0:03:42] learning. The problem with this type of
+[0:03:45] of neural networks AI and also first
+[0:03:48] wave AI that if you find something that
+[0:03:50] you're not ready for, the system is not
+[0:03:52] sure what to do. So this is kind of a
+[0:03:55] limitation, but there are other
+[0:03:57] limitations that come when we want to
+[0:03:59] think about the Turing machine like AI.
+[0:04:02] One is a data world. We need a very
+[0:04:05] large data set because we can't
+[0:04:07] train only in advance.
+[0:04:09] So if we turn only in advance, we have
+[0:04:10] to come with a lot.
+[0:04:12] The other issues that come and I think
+[0:04:15] is very relevant to today AI and very
+[0:04:17] relevant likely also to biology. When we
+[0:04:20] talk about multiple agent, multi-agent
+[0:04:22] systems,
+[0:04:23] nothing can be known in advance because
+[0:04:26] the the
+[0:04:28] the way that the agents are working
+[0:04:30] separately and together to the other
+[0:04:34] agent it's a surprise. It doesn't know
+[0:04:36] exactly what will
+[0:04:38] work before. So it's all the time as
+[0:04:40] things change. It looks like a changing
+[0:04:42] environment, changing of behavior just
+[0:04:44] because they're working separately.
+[0:04:47] And the third thing that we're have a
+[0:04:49] very hard time in AI is the
+[0:04:52] unsustainability of energy.
+[0:04:55] So this is as it comes for AI.
+[0:04:59] When we go when we think about
+[0:05:02] nature intelligence, so we want also
+[0:05:04] nature intelligence that will rely on
+[0:05:06] fixed programs and it works very well in
+[0:05:09] in the small level like maybe how two
+[0:05:14] cells are going to be connected. Maybe
+[0:05:16] there are very clear rules. So maybe in
+[0:05:18] the in the low level it's all very very
+[0:05:21] clear. But when we look a little bit at
+[0:05:23] the higher level, it doesn't seem to
+[0:05:26] work anymore because agents can be
+[0:05:28] non-predictable or they better be
+[0:05:30] non-predictable if they want to keep
+[0:05:32] their life. There is the adaptability to
+[0:05:35] the environment. There is no other way
+[0:05:36] to get safety and robustness.
+[0:05:39] So if you model only with with machinery
+[0:05:42] that has to be fixed in advance, we miss
+[0:05:45] maybe very important features of what
+[0:05:48] nature is able to do.
+[0:05:50] So perhaps just the notion of Turing
+[0:05:52] machine is itself is kind of good for
+[0:05:55] the basic rules, but if you want to look
+[0:05:58] in a higher level, it's not a perfect
+[0:06:01] for bio-modeling
+[0:06:03] which really bring us the notion of the
+[0:06:06] holy grail of AI and nature modeling
+[0:06:09] that you want to talk about things that
+[0:06:11] update continuously that aware of the
+[0:06:13] environment and that they're able to
+[0:06:15] take all kind of hands that we later
+[0:06:17] will be calling Oracle in order to
+[0:06:20] compute all kind of things that are
+[0:06:22] actually hidden there but are not being
+[0:06:25] seen
+[0:06:26] uh
+[0:06:27] simply.
+[0:06:29] So I start with the history
+[0:06:32] and this is history of of uh the field
+[0:06:35] of neural networks. So in the early '90s
+[0:06:38] we were all looking at at a neural
+[0:06:40] network. So this is called the recurrent
+[0:06:42] networks because it doesn't have uh just
+[0:06:45] forward is is today still in in language
+[0:06:48] models. So they're kind of a way
+[0:06:50] [snorts] to close loops
+[0:06:52] and we call it analog because the
+[0:06:53] neurons can have any values rather than
+[0:06:56] binary
+[0:06:57] and uh it it's it's really kind of
+[0:07:00] interesting when you compare it to
+[0:07:01] Turing machine because here you see if
+[0:07:03] the weights have the memories and the
+[0:07:06] nodes are doing the computation there is
+[0:07:08] really no separation between memory and
+[0:07:10] computation like in the Turing machine
+[0:07:12] like here you change like one one memory
+[0:07:15] and it already computes something else.
+[0:07:17] So there is no ability to separate. So
+[0:07:20] they had uh some suggestions that uh
+[0:07:25] this uh
+[0:07:27] neural network compute finite automata
+[0:07:29] which is a small subset of the Turing
+[0:07:32] machine which is really just kind of
+[0:07:34] like a a small finite going from state
+[0:07:38] to state.
+[0:07:40] So you know my my PhD advisor suggested
+[0:07:43] this a way to start
+[0:07:45] because we were looking at this proof
+[0:07:46] and we found that they all were not
+[0:07:49] accurate. So he said you know why don't
+[0:07:50] you take it as a first little exercise
+[0:07:53] and prove that you can simulate finite
+[0:07:55] automata with this neural network.
+[0:07:58] [snorts] So I wanted to do that uh
+[0:08:02] but in fact as I looked at it I realized
+[0:08:03] that we don't have to prove finite
+[0:08:05] automata
+[0:08:07] Turing machine
+[0:08:09] and this was beyond belief of the time
+[0:08:11] and I'll show you why.
+[0:08:13] So, Turing machine as we saw is is
+[0:08:16] really working on a sequence of bits.
+[0:08:18] So, you know the input is a sequence of
+[0:08:20] bits. After we have the loadable program
+[0:08:22] we we get the input is a sequence of
+[0:08:25] bits so the memories are processing this
+[0:08:28] and we have all the time everything is
+[0:08:29] is bits and the output will be bits. But
+[0:08:32] when we talk about um neural networks
+[0:08:36] every neuron is calculating some uh
+[0:08:39] affine function and apply some
+[0:08:40] nonlinearity on the top. So, we all all
+[0:08:43] the time have values that may be bounded
+[0:08:45] like in this case of neuron between zero
+[0:08:47] and one but these are numerical values.
+[0:08:49] So, the question is can we take sequence
+[0:08:52] of bits
+[0:08:54] and
+[0:08:55] do the same thing
+[0:08:57] a numerical value by using algebra. So,
+[0:09:00] this is really the question of Turing
+[0:09:02] machine simulation on on neural network.
+[0:09:06] [snorts] And the idea that uh
+[0:09:08] one can have
+[0:09:09] is you know we have here the head of the
+[0:09:12] of the Turing machine that looks at
+[0:09:14] every time at one um
+[0:09:17] one bit. So, what we can do we can look
+[0:09:19] at all the values on the left and to put
+[0:09:22] them here and all the values of the
+[0:09:24] right of the head and put it here
+[0:09:26] and consider this and this is numbering
+[0:09:28] base two. So, like this will be point
+[0:09:30] 10110. So, it looks great because now
+[0:09:34] instead of sequences we have values in a
+[0:09:36] continuum even in the 01. So, maybe we
+[0:09:40] can do everything on them.
+[0:09:43] It kind of look good in the first moment
+[0:09:46] but then we realize that actually
+[0:09:48] doesn't work and the reason that it
+[0:09:49] doesn't work
+[0:09:50] the very basic of everything is to read
+[0:09:53] what's here on the memory and you know
+[0:09:57] we don't really have a way if we have
+[0:09:58] analog
+[0:10:00] neurons it's not like very only zero and
+[0:10:03] then everything else. We don't really
+[0:10:05] know to separate between values that is
+[0:10:07] almost point one and value that is
+[0:10:09] really point one, which meant that we
+[0:10:11] cannot really separate between the value
+[0:10:14] here being zero or the value there being
+[0:10:17] one.
+[0:10:18] So it means that we really cannot even
+[0:10:20] read the very basic of the memory if we
+[0:10:23] go into this type of taking the
+[0:10:25] sequences and putting them on a
+[0:10:27] continuum.
+[0:10:29] So the idea was the solution that was
+[0:10:31] suggested was in instead of
+[0:10:34] moving everything and putting it a
+[0:10:36] continuum,
+[0:10:38] moving everything and putting it in
+[0:10:40] subset of the continuum which is well
+[0:10:42] defined
+[0:10:43] as fractals.
+[0:10:45] So the idea here, the simple idea will
+[0:10:48] be that instead of taking this and
+[0:10:51] writing them in base two,
+[0:10:53] we'll move them into base four and
+[0:10:55] instead of one we'll write three,
+[0:10:57] instead of zero we'll write one. So if
+[0:10:59] the top started in one
+[0:11:01] we'll have value that is more than three
+[0:11:03] quarters.
+[0:11:05] If the top started with zero we'll have
+[0:11:07] value that is more than one quarter but
+[0:11:10] less than half.
+[0:11:12] So what it really gives us that based on
+[0:11:14] the very very top value will either
+[0:11:17] reside here or reside here.
+[0:11:19] Now because this is a really a self
+[0:11:21] similar structure, if we have point
+[0:11:23] three and then one will go three to the
+[0:11:26] right,
+[0:11:27] point one to the left and point three
+[0:11:29] one three will reside here. So every
+[0:11:32] time we're kind of remaining on a
+[0:11:34] fractal, this particular fractal is
+[0:11:36] called Cantor for a set, but it doesn't
+[0:11:38] really matter which fractal we talking
+[0:11:40] about as long as we working on a
+[0:11:42] fractal, we really able to take working
+[0:11:45] on sequences and translate them to work
+[0:11:48] on a continuum because it's not really
+[0:11:49] the continuum, it's on fractals and
+[0:11:52] that's kind of what give us the
+[0:11:53] equivalent with Turing machine. And then
+[0:11:56] we can have the control part and stacks
+[0:11:58] and reading of the stack
+[0:12:00] and from here we can have undecidability
+[0:12:02] but recurrent neural networks whether a
+[0:12:04] neuron will become one, whether the
+[0:12:06] neuron will converge and we can put it
+[0:12:09] in a larger type of neural network that
+[0:12:11] has the Turing machine and encoder and
+[0:12:13] decoder and everything is here.
+[0:12:16] So that really kind of
+[0:12:18] show us that if we are working on the
+[0:12:21] fractals really RNN
+[0:12:24] really includes Turing machine. So if if
+[0:12:27] you want to have
+[0:12:29] equality we just have to prove that RNN
+[0:12:32] can be simulated by Turing machine which
+[0:12:34] should be very easy because Turing
+[0:12:36] machine really includes everything that
+[0:12:38] makes sense. So that's that's how we all
+[0:12:40] know it in computer science.
+[0:12:42] So
+[0:12:45] I tried and I couldn't prove it.
+[0:12:48] And and I realized then that there is
+[0:12:50] something really strange here
+[0:12:52] if in the neural network we have
+[0:12:54] real numbers
+[0:12:56] or values here on their memory. I don't
+[0:13:00] know how to take this large values and
+[0:13:03] put them into the Turing machine. It's
+[0:13:05] kind of like is part of the computation.
+[0:13:07] I don't know like really I go infinite
+[0:13:09] times to the right on the left on the on
+[0:13:13] the tape and that started kind of give
+[0:13:15] me a big headache.
+[0:13:17] And
+[0:13:19] then the notice and and I give here the
+[0:13:21] the final line is that we get equality
+[0:13:23] between RNN and Turing machine
+[0:13:26] only under strict assumption.
+[0:13:29] And otherwise RNN are strictly stronger
+[0:13:34] than Turing machine.
+[0:13:36] So we have here the Turing computation
+[0:13:39] and we here have the super Turing that
+[0:13:41] strictly transcend
+[0:13:43] classical computability and in order to
+[0:13:45] be on Turing computation we have to work
+[0:13:48] on fractals or remaining digital values.
+[0:13:51] We have to have the weights fixed.
+[0:13:53] So we have no learning or evolution
+[0:13:57] or very very simple way of well defined
+[0:14:00] a learning and evolution
+[0:14:02] or
+[0:14:04] we have to have also everything very
+[0:14:05] synchronous and very deterministic of
+[0:14:08] very very simple type of probabilistic
+[0:14:10] that we can actually write in the
+[0:14:12] deterministic version.
+[0:14:15] So here we have
+[0:14:16] Turing machine. Here we have something
+[0:14:18] that we'll call for now super Turing.
+[0:14:21] And in between
+[0:14:23] we start finding that we have a
+[0:14:24] continuum of computational hierarchy.
+[0:14:27] And
+[0:14:28] the some class will be more to the left
+[0:14:32] or more to the right depends of how
+[0:14:36] it able
+[0:14:37] to use information that is given to it
+[0:14:40] and update itself so that it will update
+[0:14:43] its computation.
+[0:14:45] So we we we looked for Kolmogorov
+[0:14:48] complexity and information theory. We
+[0:14:50] just added that instead of just
+[0:14:52] information we want also to have some
+[0:14:55] good processing time because if it's
+[0:14:56] something that happens now it's not
+[0:14:58] enough that I can use a few bits and
+[0:15:01] wait forever. So few bits linear time or
+[0:15:04] polynomial time and putting this
+[0:15:07] together the question is how I can the
+[0:15:10] question is now know where I'm getting
+[0:15:12] the information from but if I have extra
+[0:15:14] information how will I can use it to
+[0:15:16] update
+[0:15:17] and to change my program based on this
+[0:15:20] what you can call Oracle. And the
+[0:15:22] information itself can come from the
+[0:15:24] outside from the environment
+[0:15:26] or or it can come from information that
+[0:15:28] is hidden already in the in the analog
+[0:15:32] machine but we didn't notice that it was
+[0:15:35] there because it was some some
+[0:15:38] small bits and some far in precision
+[0:15:42] that we didn't really use for.
+[0:15:44] So if you want to think about Turing
+[0:15:46] versus super Turing in in a big way
+[0:15:49] we actually don't have to change all
+[0:15:51] these three. If we change only one of
+[0:15:54] them we already out of Turing. If you
+[0:15:56] move from discrete
+[0:15:58] to physical value we out of Turing.
+[0:16:01] If we go from deterministic to
+[0:16:03] probabilistic or randomness even
+[0:16:06] asynchronicity that has some something
+[0:16:08] that looks like numbers that is not
+[0:16:12] computable we get super Turing. If we
+[0:16:15] don't have fixed pre-programmed but go
+[0:16:17] to evolution
+[0:16:19] or or learning, then we're no longer.
+[0:16:22] And the fourth option here
+[0:16:24] is one that I particularly like. And
+[0:16:27] this is the one that says, you know, if
+[0:16:29] we have a Turing a Turing program,
+[0:16:33] but every so often I have another Turing
+[0:16:36] program and another, kind of like a
+[0:16:38] series that maybe zoom better and better
+[0:16:41] or get closer and closer, then each of
+[0:16:44] them is a Turing, but the sequence, the
+[0:16:47] series converge to super Turing. So
+[0:16:49] that's another another way. And actually
+[0:16:51] this is the way that uh Turing
+[0:16:53] suggested. Uh he didn't call it super
+[0:16:55] Turing, but he suggested that uh
+[0:16:59] that um Turing machine can in fact uh we
+[0:17:03] can think about them as converging to
+[0:17:06] undecidability by doing that. So kind of
+[0:17:09] on the same way we can go to super
+[0:17:11] Turing.
+[0:17:13] So just kind of to
+[0:17:15] to give us what is the super Turing,
+[0:17:16] just to give us this
+[0:17:18] feeling so that we can kind of
+[0:17:19] understand how strong it is.
+[0:17:22] So we can think that we have a Turing
+[0:17:25] machine or machine, we have computer,
+[0:17:28] and the computer gets an input,
+[0:17:31] but there is a some god outside
+[0:17:36] that every time when you get an input,
+[0:17:38] also give you one bit of
+[0:17:41] of
+[0:17:42] extra knowledge.
+[0:17:44] So if we just need to calculate from
+[0:17:46] input to 0 1,
+[0:17:49] if
+[0:17:50] that oracle give us one bit, in fact can
+[0:17:53] as well give us the output and we'll be
+[0:17:55] able to calculate everything in the
+[0:17:57] world. So I would say that this is too
+[0:17:59] strong of a model.
+[0:18:01] So just having for every input, you
+[0:18:03] know, somebody
+[0:18:04] whisper to us the exact output, this is
+[0:18:06] too strong. So let's go to a something
+[0:18:09] more uh a little bit more conservative.
+[0:18:12] And here I'll say, let's say that I get
+[0:18:13] an input and I'm getting one bit,
+[0:18:16] but the one bit is the same one bit for
+[0:18:19] all inputs of the same length. So if I
+[0:18:21] have input of of length 10 I have two to
+[0:18:23] the two to the 10th you know uh
+[0:18:26] different options of of a
+[0:18:28] input and for all of them I get one bit.
+[0:18:32] Um this one will give us something that
+[0:18:35] is a little bit better than Turing
+[0:18:36] machine because I have a little bit
+[0:18:38] extra knowledge that is dependent on the
+[0:18:41] input in this case on the length of the
+[0:18:43] input.
+[0:18:44] So, I know something a little bit better
+[0:18:46] but I think we can do better. So, for
+[0:18:49] super Turing we can do a little bit
+[0:18:51] better than that one.
+[0:18:52] And what you really can do in for the
+[0:18:55] super Turing
+[0:18:56] if this is a machine
+[0:18:58] and we have input of length n so we have
+[0:19:01] two to the n options of of different
+[0:19:04] inputs we can have
+[0:19:07] polynomial number of advice so instead
+[0:19:09] of one advice
+[0:19:11] we'll have poly of advice so what we
+[0:19:13] have here is a jump we have polynomial
+[0:19:16] number of advice
+[0:19:17] for exponential number of inputs.
+[0:19:21] So, it means that it's not just like the
+[0:19:23] first case that we have the input for
+[0:19:25] everything it's not as limited as the
+[0:19:27] second one that my input becomes larger
+[0:19:30] and larger but my advice still stay one
+[0:19:33] so I have something in between that as
+[0:19:35] my input become larger I have more
+[0:19:36] advice but not enough to give us the
+[0:19:40] value.
+[0:19:41] So, it's not a general oracle we call it
+[0:19:44] advice oracle advice is an oracle that
+[0:19:47] its amount is dependent on the length of
+[0:19:50] the input instead of on the actual all
+[0:19:52] values of the input.
+[0:19:53] And actually we call it analog p for our
+[0:19:57] theory but then we realize that it's
+[0:19:58] really what is called p/poly which is a
+[0:20:02] class that was suggested by Carp and
+[0:20:04] Lipton and they suggested this part for
+[0:20:07] computation where you do a lot of
+[0:20:10] processing in advance
+[0:20:13] and keep polynomial [snorts] number of
+[0:20:15] bits in your memory after this work but
+[0:20:17] then it allows you to do very fast
+[0:20:19] computation for a long time. So, it's
+[0:20:21] kind of like a a good preprocessing that
+[0:20:25] is there and help you later to do things
+[0:20:26] very fast.
+[0:20:30] Okay, still still here, Mike?
+[0:20:33] Okay.
+[0:20:34] So then it really comes with a question
+[0:20:38] of
+[0:20:39] if we have such a big difference between
+[0:20:41] rational weights and real weights
+[0:20:44] in neural networks. So we think about
+[0:20:46] rational as fractals, we think about
+[0:20:48] real as working on the whole continuum.
+[0:20:50] Does it really mean that we need to have
+[0:20:53] full precise infinitely precision
+[0:20:56] weights all the time? Because this is
+[0:20:58] scary. I don't know how we can get that,
+[0:21:00] but the answer is clearly no.
+[0:21:03] And we don't ever need to have the full
+[0:21:05] precision of the weights, and this all
+[0:21:07] comes because of
+[0:21:10] one simple lemma
+[0:21:12] that I'll show in the next slide. And
+[0:21:14] what it will tell us
+[0:21:16] that if at the end we just have to say
+[0:21:18] yes or no, just to make a decision at
+[0:21:20] the end,
+[0:21:21] then there is no way to discern real
+[0:21:24] weights with infinite precision then
+[0:21:27] then a weight that has only linearly
+[0:21:29] many bits. So there is no way to discern
+[0:21:32] it.
+[0:21:33] And we actually we'll say it here a
+[0:21:34] little bit more formally. I think it's
+[0:21:36] worth the formalism because this is like
+[0:21:38] the heart I think of of the whole super
+[0:21:41] terrain theory and of its relevance, I
+[0:21:44] think, to computing or perhaps to
+[0:21:47] biology.
+[0:21:48] So if we take
+[0:21:50] this is like a regular analog recurrent
+[0:21:53] neural network, we calculate here the
+[0:21:56] affine combination, we put some sigmoid
+[0:21:58] on the top which is a nonlinearity.
+[0:22:01] So let's say that I have this one and
+[0:22:03] the weights A, B and C are unbounded.
+[0:22:08] So I have unbounded neurons, but what I
+[0:22:11] can do is I can truncate them after K
+[0:22:14] many bits. So I'll truncate A, I'll
+[0:22:16] truncate B, I'll truncate C. And just to
+[0:22:19] make sure after I take it in the sigma,
+[0:22:21] I'll truncate again just to make sure
+[0:22:23] that all the time I have no more than K
+[0:22:25] bits.
+[0:22:27] And the lemma say
+[0:22:28] that in up to K steps of the
+[0:22:30] computation,
+[0:22:32] neural network with K truncated bits
+[0:22:37] and neural network that we have
+[0:22:39] infinitely many bits are
+[0:22:41] indistinguishable.
+[0:22:43] And and this is just not a hard proof.
+[0:22:46] It's it's really just,
+[0:22:49] you know, a little calculation.
+[0:22:51] And that tells us that what we have in
+[0:22:54] neural network is maybe more like chaos.
+[0:22:56] You know, they can go away, but they
+[0:23:00] have to have to have distance enough in
+[0:23:02] order to go away. If they're very close,
+[0:23:04] they'll go away very
+[0:23:06] you know, they will still stay around
+[0:23:07] for some time.
+[0:23:09] So with that, we can think
+[0:23:13] of super Turing computation as a really
+[0:23:16] good trick for finite system. It can be
+[0:23:19] brain or any other finite system that
+[0:23:22] have to interface with infinite system.
+[0:23:26] So
+[0:23:28] you know, I think that in the brain we
+[0:23:29] probably have a lot of Turing, you know,
+[0:23:33] how to compute, how to calculate, what's
+[0:23:37] the rules in order to connect.
+[0:23:39] So a lot of here is Turing.
+[0:23:42] But then there is on the top of it
+[0:23:44] overseeing, looking in a higher level,
+[0:23:47] ability to do some learning, which is
+[0:23:49] something more like super Turing.
+[0:23:51] So this is kind of a
+[0:23:54] instead of having a fixed
+[0:23:56] finite system to work with the infinite
+[0:23:59] system outside, we have a a finite
+[0:24:01] system, but we take out the word fixed.
+[0:24:04] So it's finite system, but we can change
+[0:24:06] it to what we need now. We need to zoom
+[0:24:09] more to one place. We need to put more
+[0:24:11] energy in another in one direction. So
+[0:24:14] we still keep the finite, but all the
+[0:24:16] time allocate them
+[0:24:18] differently.
+[0:24:20] There is another way to think about
+[0:24:21] super Turing.
+[0:24:24] And I don't I don't
+[0:24:26] show proof, but I I just kind of state
+[0:24:28] uh the result here.
+[0:24:30] We can look at input to output. So in in
+[0:24:32] Turing machine, we have this clear input
+[0:24:34] to output. Of also in neural net, we
+[0:24:35] have input and output. Also in any
+[0:24:37] system, we can think of input and
+[0:24:39] output. It may be input that never ends
+[0:24:42] all our life and output [snorts] that
+[0:24:43] doesn't end all our life, but you know
+[0:24:46] it's still kind of input and output. So
+[0:24:48] if you look at input and output and we
+[0:24:50] have inside the machinery computer
+[0:24:53] Turing machine will have aleph zero many
+[0:24:56] uh many function. So aleph zero is the
+[0:24:59] infinite of the integer of the infinite
+[0:25:02] of the rational numbers. And if we think
+[0:25:04] about super Turing computation, we still
+[0:25:07] have a finite machine, but if you look
+[0:25:09] at all the input to output, we actually
+[0:25:11] have exponential number of option two to
+[0:25:14] the aleph zero, which is a huge uh
+[0:25:17] infinite, which is really the infinite
+[0:25:19] of the real numbers. So just by taking
+[0:25:22] the word fixed when we look into in
+[0:25:24] input to output and just count how many
+[0:25:27] options we have to different input and
+[0:25:29] output, super Turing is is serious here.
+[0:25:33] And just kind of like I say this half
+[0:25:35] joke, but it's really half.
+[0:25:39] So the Turing test, he wanted us to
+[0:25:41] separate between the aleph zero and
+[0:25:43] humans.
+[0:25:44] And it's not always easy,
+[0:25:46] but I wanted to suggest that the super
+[0:25:48] Turing test is really the test between
+[0:25:50] human and two to the aleph zero.
+[0:25:53] And I will suggest that it's infinitely
+[0:25:56] harder or let say exponentially harder
+[0:25:59] will be more correct.
+[0:26:02] So with this at mind, I want to
+[0:26:04] introduce some other
+[0:26:06] super Turing classes
+[0:26:08] uh that I think maybe will be
+[0:26:10] interesting to you.
+[0:26:13] So the first one is a heavy neural
+[0:26:15] network or even a Turing machine
+[0:26:18] that has only you know small fixed
+[0:26:21] weights. So it's equivalent to Turing
+[0:26:23] machine, small neural network.
+[0:26:25] But what I do, I play on the side with
+[0:26:28] coin.
+[0:26:29] And the value of the coin will affect
+[0:26:31] the computation.
+[0:26:33] So in general, if I just take a coin
+[0:26:35] which is exactly perfectly half and
+[0:26:38] half, I don't get a lot of extra
+[0:26:41] information. I get what is called BPP,
+[0:26:43] which is a class
+[0:26:45] that is believed to be maybe stronger
+[0:26:47] than P that uses fair coin.
+[0:26:49] But maybe the coin is not fair.
+[0:26:52] And if the coin is not fair, and it
+[0:26:54] doesn't matter if the coin is inside or
+[0:26:56] outside, if I get just bits, so if you
+[0:26:58] think about it, this neural network has
+[0:27:01] only, you know, very small weights. It
+[0:27:04] doesn't change them. It just gets zero
+[0:27:06] or one bits either from the outside or
+[0:27:09] from inside. But if these bits came from
+[0:27:12] biased coin, over time we kind of can
+[0:27:16] estimate this biased coin. We can
+[0:27:18] consider it to be some kind of weaker
+[0:27:20] oracle.
+[0:27:22] And exactly the same type of of uh
+[0:27:25] computation
+[0:27:27] will be if we have
+[0:27:30] cells on neurons.
+[0:27:32] And they adapt either probabilistically
+[0:27:36] or asynchronously. So their the speed of
+[0:27:39] their of their firing [snorts]
+[0:27:42] has something that has some probability
+[0:27:45] or some asynchronicity between them. And
+[0:27:48] just the fact that their relative
+[0:27:50] asynchronicity
+[0:27:52] is not a clear rational value, just from
+[0:27:55] there, this is by itself enough to start
+[0:27:58] giving me some
+[0:28:00] kind of information that we can use as
+[0:28:02] oracle.
+[0:28:04] So if I want to
+[0:28:05] say it in in a computer science
+[0:28:07] terminology, this is a class that I
+[0:28:10] suggest it was not ever used before.
+[0:28:13] We call it stochastic P or we call it
+[0:28:15] BPP/log star, and I'll tell you what
+[0:28:18] this class. So this class is definitely
+[0:28:21] stronger than P.
+[0:28:23] It has
+[0:28:25] it has computation which is
+[0:28:26] non-recursive, so it can do things that
+[0:28:29] Turing machine cannot do even in
+[0:28:31] infinite time.
+[0:28:33] It's a very small subsets of analog P.
+[0:28:37] And it's equivalent
+[0:28:39] to a Turing machine
+[0:28:41] that has a fair coin, but in addition
+[0:28:45] has an oracle
+[0:28:47] that gives you not poly many
+[0:28:51] information, but long
+[0:28:53] in the number of inputs. So if we had an
+[0:28:55] input, it will give us only log many.
+[0:28:58] And it has another feature that the the
+[0:29:01] this star came to say that it's in a
+[0:29:04] prefix format. So if I have uh
+[0:29:08] if I have million computation steps and
+[0:29:11] billion computation step, the oracle
+[0:29:14] that is given to them,
+[0:29:16] the beginning of it is the same. The
+[0:29:18] prefix is the same. So it's if I kind of
+[0:29:20] like building longer and longer oracle
+[0:29:23] over time.
+[0:29:24] So this is BPP, something with
+[0:29:27] probability and something with oracle.
+[0:29:29] The oracle is definitely less strong
+[0:29:32] than the full oracle. And that's why we
+[0:29:34] are kind of like midway or part way
+[0:29:37] along uh the hierarchy.
+[0:29:39] Then there is another
+[0:29:41] kind of another set
+[0:29:44] of of things that we get uh beyond
+[0:29:47] Turing.
+[0:29:49] And this one coming either from
+[0:29:51] plasticity
+[0:29:53] or from multi-agents.
+[0:29:56] So we can think about the following very
+[0:29:58] very simple neural networks. Let's say
+[0:30:00] you have a neural networks and all the
+[0:30:02] weights are small rational. So it's kind
+[0:30:04] of like little program, nothing.
+[0:30:07] But
+[0:30:09] one weight,
+[0:30:11] at least, but one is enough for us,
+[0:30:13] can have two possible weights.
+[0:30:16] These weights don't have to be real
+[0:30:18] numbers.
+[0:30:19] Each of them is rational, but the
+[0:30:21] computation will be either with this
+[0:30:23] weight or with these weights. And what
+[0:30:25] give you information or what decides for
+[0:30:27] you and tell you which of the rational
+[0:30:30] weights you'll take is some kind of one
+[0:30:33] bit oracle
+[0:30:34] that is either coming from the
+[0:30:36] environment or that you calculate from
+[0:30:38] something internally. So it doesn't
+[0:30:40] matter where you got it, but just the
+[0:30:42] fact you have like a a little Turing
+[0:30:44] machine, just the fact that you one
+[0:30:47] weight can use with this value with this
+[0:30:49] value
+[0:30:51] is enough to go above Turing.
+[0:30:56] Then the other one
+[0:30:58] is if you go to multi-agent system.
+[0:31:00] Sorry, I had to have two and I guess
+[0:31:03] because of the space it gave me one
+[0:31:04] again.
+[0:31:06] So
+[0:31:08] the
+[0:31:10] we can think about multi-agent system.
+[0:31:11] So let's say that every agent is totally
+[0:31:14] little Turing. Every agent is totally
+[0:31:18] written by small program.
+[0:31:21] [snorts]
+[0:31:22] But when I have
+[0:31:24] multiple of them
+[0:31:26] and we think that one
+[0:31:29] agent consider everything else around it
+[0:31:32] to be its environment,
+[0:31:34] its environment is actually changing
+[0:31:38] in ways that
+[0:31:40] not all of them are written directly
+[0:31:42] inside the agent.
+[0:31:44] So it's an agent that doesn't say if
+[0:31:46] agent one is this and agent two is this
+[0:31:48] and agent three is this, but it tells
+[0:31:49] you something about the combination,
+[0:31:51] about the environment. So if that's what
+[0:31:54] we had,
+[0:31:55] you actually can use this combination.
+[0:31:58] It really comes as another oracle and
+[0:32:01] you get another information that you
+[0:32:02] didn't expect before. This last sentence
+[0:32:05] is something that I have a very strong
+[0:32:07] feeling about, but I I didn't prove
+[0:32:11] and I prepared the slides yesterday and
+[0:32:13] I said that I need to get it, but I
+[0:32:14] didn't get it ready.
+[0:32:16] So I'll just tell you what I kind of
+[0:32:17] believe strongly that if the agents
+[0:32:21] are different, at least two types, this
+[0:32:23] complexity jump far far
+[0:32:26] far faster along the super Turing
+[0:32:29] hierarchy
+[0:32:30] because when you have the same exact
+[0:32:33] thing, maybe you can have like internal
+[0:32:36] predictors
+[0:32:38] and kind of like try to make simulation
+[0:32:41] of what the other cells will do,
+[0:32:43] although it will take you forever. But
+[0:32:44] if you don't have the the
+[0:32:47] internal knowledge, it's not that they
+[0:32:49] are super but for me as a little agent,
+[0:32:51] I don't know how you work. So for me,
+[0:32:53] you are not Turing. I don't know how you
+[0:32:54] work.
+[0:32:56] So if you have like at least two kinds,
+[0:32:58] I think it it will jump very fast along
+[0:33:01] the hierarchy. I think it will go above.
+[0:33:04] I think that this one will go above
+[0:33:07] the stochastic and this one will be
+[0:33:09] under the stochastic, but not proved.
+[0:33:12] Feeling I'll have to show it.
+[0:33:15] And then I have here a suggestion
+[0:33:19] and this is kind of maybe something that
+[0:33:22] we can talk. I'm I'm I'm not very far
+[0:33:25] from the end. Maybe I can finish and
+[0:33:26] maybe we can discuss it.
+[0:33:29] Maybe
+[0:33:31] regeneration after injury or development
+[0:33:35] is very dependent on the environment
+[0:33:38] that we give, on the gradient or
+[0:33:40] direction of something that is given.
+[0:33:42] Perhaps this is really needed and
+[0:33:44] without that really cannot get it right.
+[0:33:47] Perhaps the program that is given in is
+[0:33:50] dependent on Oracle and that's why it's
+[0:33:53] such a small program
+[0:33:55] because it's already kind of designed to
+[0:33:57] be working under these cases and what it
+[0:34:00] does under different cases we don't
+[0:34:01] know.
+[0:34:03] And that 's why it's like so crucial to
+[0:34:05] work correctly.
+[0:34:07] Um
+[0:34:09] that's why the environment may be so
+[0:34:10] crucial because it is the Oracle
+[0:34:13] for this computation that needs to
+[0:34:15] occur.
+[0:34:16] So I may not know all the computation
+[0:34:19] that it can do under different Oracles,
+[0:34:21] but I may know that for this Oracle it
+[0:34:23] will do the right thing.
+[0:34:25] And there can maybe infinitely many
+[0:34:27] other Oracle and I don't know in advance
+[0:34:29] what it will do, but maybe I want one.
+[0:34:32] So maybe that's kind of like one thing,
+[0:34:35] maybe one trick of nature to have small
+[0:34:37] programs if it relies on its ability
+[0:34:41] to sense environment.
+[0:34:44] So,
+[0:34:44] this one I just kind of jump back to AI.
+[0:34:48] And I don't know if it's kind of it's
+[0:34:49] not really for biology, but I think it's
+[0:34:51] very interesting for AI, so I have here
+[0:34:53] something for AI. So, if you want to
+[0:34:55] think about super turing. So, the first
+[0:34:58] it I think it has three features. The
+[0:35:00] first one I will call it get the lesson.
+[0:35:03] [snorts] So, in the turing paradigm, if
+[0:35:04] you change input, you may change the
+[0:35:06] output.
+[0:35:08] But the program is fixed. In super
+[0:35:10] turing, if you change the input,
+[0:35:13] it may
+[0:35:14] modify the program.
+[0:35:17] That means that from here on
+[0:35:20] the future compute will be different.
+[0:35:23] So, it's kind of like get the lesson of
+[0:35:25] the input that you gave it
+[0:35:27] more than just to calculate the output.
+[0:35:29] So, this is feature number one.
+[0:35:33] Feature number two
+[0:35:36] is continual updates.
+[0:35:39] So, we no longer
+[0:35:41] rely fully on these static data sets and
+[0:35:44] then permanently freezing the parameter,
+[0:35:47] but we all the time draw targeted
+[0:35:49] information from the environment as we
+[0:35:51] need.
+[0:35:53] So, this basic of continual updates of
+[0:35:55] super turing, this was really the basis
+[0:35:58] of the
+[0:35:59] you know the lifelong learning machine,
+[0:36:01] a program that you're part of in DARPA,
+[0:36:04] which the idea was to find out when
+[0:36:06] things are not going well and to
+[0:36:09] put them in.
+[0:36:11] And kind of just to say in a short
+[0:36:14] that what we have in lifelong learning
+[0:36:17] is a little different than what still
+[0:36:19] many people call continual learning in
+[0:36:20] AI in AI. So, I just want to say it in
+[0:36:23] continual learning, you try to learn one
+[0:36:25] task to separate between zero and one
+[0:36:27] and then second task to separate between
+[0:36:29] two and three and a third task to
+[0:36:31] separate between four and five. And the
+[0:36:33] way that you do continual learning well
+[0:36:35] is you push the different tasks to
+[0:36:38] different parts of the network. And the
+[0:36:40] reason is because this way each of them
+[0:36:42] will be done without disturbing the
+[0:36:44] other one. But this is not enough
+[0:36:46] because in lifelong learning we actually
+[0:36:48] want to make use of one to help the
+[0:36:50] other. So if I learn zero against one I
+[0:36:53] want to make use this is already an
+[0:36:55] oracle for something. I want to make use
+[0:36:58] with the information of zero against one
+[0:37:00] to separate seven against zero.
+[0:37:03] So it's not a task, it's not a continual
+[0:37:05] learning but this is the basic of
+[0:37:07] lifelong that you want to use everything
+[0:37:09] that was done there [snorts] and and
+[0:37:13] that kind of makes a big difference.
+[0:37:15] And just to say kind of in the lifelong
+[0:37:17] learning the chief finding I think we
+[0:37:19] had is that we needed some kind of
+[0:37:21] replays
+[0:37:23] and we needed some kind of self-directed
+[0:37:25] learning.
+[0:37:27] And self-directed learning can be what
+[0:37:30] was here
+[0:37:31] you know try to make kind of internal
+[0:37:34] simulation of what's happened think
+[0:37:36] about what ordering makes sense.
+[0:37:38] And just to say you know from the
+[0:37:40] program manager side it was a very hard
+[0:37:43] program to work because all the time
+[0:37:47] companies took our people
+[0:37:50] and uh
+[0:37:51] and
+[0:37:52] they had to say that they invented that.
+[0:37:54] So this was a hard very hard one to keep
+[0:37:57] ongoing.
+[0:37:59] And the third
+[0:38:00] feature that I think is like maybe the
+[0:38:02] most crucial for current AI
+[0:38:06] um I think maybe is uh
+[0:38:10] you know when when you drive your car
+[0:38:14] on routine road let's say to work.
+[0:38:16] So I will I I I I'm a few minutes from
+[0:38:20] work I kind of drive on almost with
+[0:38:22] closed eyes but in January February when
+[0:38:24] I'm sliding I'm like holding and driving
+[0:38:28] very very slowly. So in general in
+[0:38:30] traditional computers they consume
+[0:38:32] uniform energy on every clock cycle
+[0:38:35] regardless
+[0:38:36] of how the task is complex.
+[0:38:39] In in nature and super turing we can
+[0:38:42] think about different cognitive effort
+[0:38:44] and different amount of attention.
+[0:38:46] So what super Tron can give us is that
+[0:38:48] it operates at high efficiency, but it
+[0:38:51] dynamically scale the resources for
+[0:38:53] resilience. So, that's what I was
+[0:38:55] saying, we have like fixed number of
+[0:38:57] everything and the question is how we
+[0:38:59] balance them. So, I I played a little
+[0:39:02] bit I played with reinforcement learning
+[0:39:04] that can have slow and fast
+[0:39:06] uh
+[0:39:08] slow and fast responses and just by
+[0:39:10] doing that I get very high accuracy,
+[0:39:13] much better than all the other methods
+[0:39:15] that try to have a temporal version,
+[0:39:17] much less energy, much less decisions.
+[0:39:20] There's something that will not even
+[0:39:21] work with regular reinforcement learning
+[0:39:23] and will work for us and will do better
+[0:39:25] than others and much less decision just
+[0:39:28] for that. The only thing we did is fast
+[0:39:30] and fast and and slow energy.
+[0:39:35] Another way is we can we can save on
+[0:39:37] communication and labels from teacher.
+[0:39:40] So, we can think about the edge
+[0:39:41] computing. In edge computing,
+[0:39:43] we know that we have we have AI in edge
+[0:39:46] computing.
+[0:39:47] The communication is exploding. If you
+[0:39:49] have lifelong learning, it will not
+[0:39:50] explode because we adapt and we don't
+[0:39:52] need to communicate all the time, but in
+[0:39:56] L L 2 M just like in machine learning,
+[0:39:59] we may need teacher
+[0:40:01] and that may be really
+[0:40:03] this may may be really hard. So, the
+[0:40:06] idea is can we leverage information from
+[0:40:09] other agents around us. They're not
+[0:40:11] perfect, but they they may know
+[0:40:12] something that we don't know and we
+[0:40:15] found that we get low energy, very
+[0:40:18] little labeling and very high
+[0:40:19] performance and the surprise that we had
+[0:40:22] and we now looking at it, we actually
+[0:40:24] even that we have
+[0:40:26] errors from other agents because they're
+[0:40:29] not perfect teacher. This errors
+[0:40:31] actually very useful and we get faster
+[0:40:35] lifelong learning than from teacher.
+[0:40:37] Somehow it give us something about the
+[0:40:39] future that is not right now, but it
+[0:40:41] prepare us in some way to future. It's a
+[0:40:44] strange thing, you know, my student is
+[0:40:46] now [snorts] looking at it and also we
+[0:40:49] kind of look at neural networks that
+[0:40:52] they don't need in every step to
+[0:40:54] multiply everything because every time
+[0:40:56] you may need only one or two or three
+[0:40:58] neurons to update.
+[0:41:00] it gives us a new idea for super turing
+[0:41:03] that we may want to do soon. It gives us
+[0:41:05] an idea that we can have small blocks of
+[0:41:07] neurons that we don't change what's
+[0:41:09] inside because each of them is very well
+[0:41:12] defined turing, but in between them, the
+[0:41:14] weights in between them we update.
+[0:41:17] So we get something that looks a little
+[0:41:19] bit like the mini column cortical area,
+[0:41:22] but we update in between and not inside
+[0:41:25] and maybe it can give us something
+[0:41:27] stable and still
+[0:41:30] very strong.
+[0:41:31] So these are the three, get the lesson,
+[0:41:35] continual updates
+[0:41:36] and
+[0:41:38] it's very important the dynamic use of
+[0:41:40] resources because it give us a lot of no
+[0:41:43] it's not just saving, it give us great
+[0:41:46] resilience and great accuracy.
+[0:41:48] So at the time Eduardo Something that
+[0:41:51] was my advisor like to kind of suggest
+[0:41:53] that analog
+[0:41:55] neural network will not be stronger than
+[0:41:57] ARNN which is kind of like our turing
+[0:42:00] method, but really it's really adaptive
+[0:42:02] and evolving computation
+[0:42:05] is really doing the same. So it seems to
+[0:42:07] be that
+[0:42:08] there is something very inherent in this
+[0:42:10] type of model of super turing. So I kind
+[0:42:13] of the way that I look at it today,
+[0:42:15] I think about super turing as
+[0:42:16] alternative paradigm
+[0:42:19] for something that is more nature
+[0:42:20] computing
+[0:42:22] and
+[0:42:23] it's all the use of oracles and these
+[0:42:25] oracles can be hidden, can be internal,
+[0:42:27] can be external, but just the fact that
+[0:42:30] we use this oracle in our seemingly
+[0:42:33] simple turing computation, we may get
+[0:42:36] superior capabilities.
+[0:42:41] That's it.
+[0:42:43] &gt;&gt; Super, thank you so much. That was very
+[0:42:45] interesting.
+[0:42:46] I have a couple of questions if I could
+[0:42:47] ask a couple of generic questions and
+[0:42:49] then we can sort of talk about uh
+[0:42:51] the you know opportunities for taking
+[0:42:53] this further.
+[0:42:54] Um
+[0:42:55] the first question is this can you talk
+[0:42:58] for a little bit about the church
+[0:42:59] touring thesis? I want to I I
+[0:43:02] I think we need to better understand
+[0:43:03] what is this thesis and you know what's
+[0:43:05] the what's the actual claim about these
+[0:43:07] kinds of um abstract
+[0:43:09] kinds of things and their relationship
+[0:43:11] to the physical world what you know how
+[0:43:13] how can they make this claim
+[0:43:15] &gt;&gt; Okay. So as I start I just want to say
+[0:43:18] the Turing never said the church touring
+[0:43:20] thesis in fact he actually wrote against
+[0:43:21] it.
+[0:43:23] Uh like his writing are totally a
+[0:43:24] contradict it but what what it says it
+[0:43:28] says that that in the Turing machine
+[0:43:30] which is like
+[0:43:31] program that you bring in advance a
+[0:43:34] program that you can write in in fixed
+[0:43:37] number of step because it's all digital
+[0:43:39] and then it works on a computer that is
+[0:43:41] all digital.
+[0:43:42] Um the idea is that if you want to have
+[0:43:45] a a machine and a program that you know
+[0:43:48] fully what it's doing
+[0:43:51] then um then you have to write it in
+[0:43:54] this way and load it in advance and the
+[0:43:56] suggestion of what is called church
+[0:43:58] Turing thesis which is really the church
+[0:44:00] thesis
+[0:44:01] I I think they wanted to be kind to
+[0:44:03] Turing but I don't think it's kind to
+[0:44:05] him.
+[0:44:06] Um so the the church thesis is really um
+[0:44:11] saying that if you want to have a
+[0:44:13] computer that does to your very
+[0:44:16] particular computation that you fully
+[0:44:18] know and understand in advance it cannot
+[0:44:21] be stronger than the Turing machine.
+[0:44:24] Which meant in other words if you want
+[0:44:26] to know what's happening
+[0:44:28] then you have to control the program and
+[0:44:30] make sure that it will not change ever.
+[0:44:34] That's kind of the the church thesis
+[0:44:36] saying and there is something very
+[0:44:38] correct about it that our current
+[0:44:41] computer is kind of based on you know
+[0:44:43] von Neumann or Turing it's the same in
+[0:44:45] terms of hardware um and just it's all
+[0:44:49] kind of based on bits
+[0:44:51] and it will do exactly what you give it
+[0:44:53] as a program.
+[0:44:54] And hence you don't have to expect
+[0:44:57] anything that will give you more than
+[0:44:59] what this program can do if you want to
+[0:45:01] have a computer that you totally in
+[0:45:04] control of.
+[0:45:06] &gt;&gt; [clears throat]
+[0:45:06] &gt;&gt; So so is there I thought there was some
+[0:45:08] also some kind of claim about physically
+[0:45:11] realizable computers that some idea that
+[0:45:13] which which seems very strange to me to
+[0:45:15] try to make how can you make claims
+[0:45:16] about the physical world from from these
+[0:45:19] formal models
+[0:45:20] &gt;&gt; I think it's I think it's
+[0:45:22] yeah I think this a recent I also
+[0:45:25] studied it in this way
+[0:45:27] &gt;&gt; Yeah.
+[0:45:27] &gt;&gt; and I I usually drop it out
+[0:45:31] because I also didn't see it in church.
+[0:45:34] So I don't know how it came about
+[0:45:36] it's not Turing and I didn't see the
+[0:45:39] physically realizable. I mean what do we
+[0:45:41] know physical realizable I mean these
+[0:45:43] people were not physicists they're
+[0:45:45] mathematicians.
+[0:45:47] I think they really kind of state that
+[0:45:49] if you want to have a computer in the
+[0:45:51] big sense
+[0:45:52] uh and you want to know what's there
+[0:45:55] then write it as a program and it will
+[0:45:57] do to you what you want and don't expect
+[0:45:59] more than what you can put in a program
+[0:46:02] to get as an output because everything
+[0:46:04] is under control. This is the engineer
+[0:46:07] the engineer computation and I think
+[0:46:10] it's it's stated and then people got
+[0:46:12] crazy and started having strong version
+[0:46:15] and stronger version but I don't know
+[0:46:18] why people will do that because it's
+[0:46:20] it's not mathematically um
+[0:46:23] it's not mathematically defensible. I
+[0:46:25] don't know how you can you know there is
+[0:46:28] no way I understand when you say thesis
+[0:46:31] you cannot prove or unprove but
+[0:46:33] this is very uh
+[0:46:35] this is I would say it extreme versions
+[0:46:39] of of computer science engineers.
+[0:46:42] &gt;&gt; I see okay yeah because because I I've
+[0:46:44] I've heard it many times with some sort
+[0:46:47] of physics claim behind it which is odd
+[0:46:49] to me that you think you can get to a
+[0:46:52] you know to a claim about all of physics
+[0:46:54] from from these kind of formal models it
+[0:46:56] doesn't seem that possible.
+[0:46:57] &gt;&gt; Yeah, just the fact that
+[0:46:59] &gt;&gt; that
+[0:46:59] &gt;&gt; Turing talks about oracle,
+[0:47:02] and and his oracle was a real
+[0:47:05] fully knowing oracle. Just the fact that
+[0:47:07] he talks about oracle means that he's
+[0:47:09] open to get something from the
+[0:47:10] environment that is not computational.
+[0:47:13] And he's talking so much about how the
+[0:47:14] brain is not Turing machine. I mean, he
+[0:47:16] doesn't call it Turing machine, they
+[0:47:17] call they had a different names for
+[0:47:19] that. But he say how much uh how much
+[0:47:22] he's interested in the brain and how
+[0:47:24] it's clear that the brain does not uh
+[0:47:27] work with that. And he called that he
+[0:47:28] said that the whole notion of of this
+[0:47:32] calculator that he called is to have
+[0:47:34] repeated repetitive unintelligent
+[0:47:37] calculations. These are his words,
+[0:47:39] repetitive unintelligent.
+[0:47:42] So he considered it all the time like
+[0:47:44] that. He never got confused.
+[0:47:47] I mean, as he wrote his his PhD thesis
+[0:47:50] which were about having memory and all
+[0:47:52] kind of you know subroutine and all the
+[0:47:54] practical thing we have today, he was
+[0:47:56] already considering also oracles at the
+[0:47:59] same time. I mean, he was not talking
+[0:48:01] about physics.
+[0:48:03] And he would be insulted if you told it
+[0:48:05] to him.
+[0:48:06] &gt;&gt; Okay. All right. That's that's what I
+[0:48:07] thought and just confirming. Okay. Um
+[0:48:10] all right. And then and then kind of a
+[0:48:11] key question is this. So so for example,
+[0:48:14] in your stochastic P or in general when
+[0:48:16] you're introducing the external input of
+[0:48:18] the coin or anything like that,
+[0:48:20] does performance require the coin to
+[0:48:23] have some sort of wisdom in the sense
+[0:48:25] that is there something in the pattern
+[0:48:27] of the coin that needs to have certain
+[0:48:29] properties related to your task or is it
+[0:48:32] enough to just sort of pierce the
+[0:48:34] envelope of the system and have truly
+[0:48:36] randomness unrelated to anything? Like
+[0:48:39] do you do you use do you require any
+[0:48:41] information within this oracle have to
+[0:48:43] know anything basically?
+[0:48:44] &gt;&gt; Okay.
+[0:48:45] So um I have
+[0:48:48] two answers because I don't know the
+[0:48:50] full answer.
+[0:48:51] Okay? So I I don't know.
+[0:48:53] And and then I have two answers which
+[0:48:56] I'm kind of going in between them.
+[0:48:59] So one in order go to a class, we
+[0:49:02] definitely don't need. Now we're in a
+[0:49:04] larger class.
+[0:49:05] If I want a very particular behavior in
+[0:49:08] advance, I would probably need to know
+[0:49:10] what it is. But if I want to have a
+[0:49:12] generally bright behavior, and it's not
+[0:49:15] dependent if I get it in the first
+[0:49:17] second or third bit, probably
+[0:49:21] just getting them is sufficient because
+[0:49:23] what it really does,
+[0:49:24] just getting the the coins is kind of
+[0:49:28] like we get some or you know some some
+[0:49:31] Oracle, what it really does to us, it
+[0:49:34] make the original small Turing system
+[0:49:39] to
+[0:49:40] um
+[0:49:42] to expand its horizon
+[0:49:44] and to start doing more things
+[0:49:47] and open by doing more things, by having
+[0:49:50] more options, you actually already
+[0:49:52] increase capabilities
+[0:49:54] and it will probably figure out
+[0:49:57] something that is similar to what it was
+[0:49:59] trying to do with more power. So I think
+[0:50:02] if there is like a goal to the program,
+[0:50:05] one way is to give it the steps and this
+[0:50:07] will be like
+[0:50:09] give me exactly the perfect order of
+[0:50:11] bits
+[0:50:12] and then it will kind of go right steps.
+[0:50:15] But if you don't have that, I think just
+[0:50:17] randomness is just kind of start
+[0:50:20] expanding. You open you you having a
+[0:50:22] larger search. You are now open a open
+[0:50:24] the search to a larger options, your
+[0:50:26] stronger machine which try to solve the
+[0:50:29] same problem.
+[0:50:31] So that's how I look at it.
+[0:50:34] Um and I mean this is kind of like what
+[0:50:36] the proof is really telling us. It
+[0:50:38] doesn't tell us that it's like the
+[0:50:40] immediate step because the immediate
+[0:50:42] step requires
+[0:50:43] an exact order of bits which only the
+[0:50:46] god can give us.
+[0:50:48] &gt;&gt; Got it. Okay. So all right, let me let
+[0:50:51] me turn off the recording for this part.
+[0:50:53] So uh

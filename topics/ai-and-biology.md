@@ -1,7 +1,7 @@
 ---
 title: "AI and biology"
 created: 2026-10-15
-updated: 2026-11-05
+updated: 2026-11-12
 type: topic
 tags: [#topic, #ai-and-biology]
 sources: [raw/transcripts/2026-10-15-S-seCBLDFsw.txt, raw/transcripts/2026-09-22-6W5qhMasROY.txt, raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-20-A8ro2GUU_UU.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
@@ -13,6 +13,8 @@ Two directions: AI as a tool for biology (protein-to-text models, Mambot, a lang
 
 ## Videos on this topic (newest first)
 
+- 2026-11-11 — [[2026-11-11-intracellular-memory-storage-and-ai-david-glanzman|Evidence for intracellular memory storage and its implications for AI]] (David L. Glanzman (guest talk to the Levin lab), with discussion with Michael Levin)
+- 2026-11-06 — [[2026-11-06-super-turing-computing-hava-siegelmann|Super Turing Computing]] (Hava T. Siegelmann (guest talk to the Levin lab), with discussion with Michael Levin)
 - 2026-10-31 — [[2026-10-31-thoughts-as-thinkers-within-without-us|Thoughts as Thinkers: biology & computer science of inspiration within & without us]] (Michael Levin (talk given in a joint session; he says he is presenting "together with Chris"))
 - 2026-10-29 — [[2026-10-29-biomedical-synthetic-biology-lior-nissim|Biomedical Synthetic Biology]] (Lior Nissim (guest talk to the Levin lab), with discussion)
 - 2026-10-17 — [[2026-10-17-languages-of-biology-de-novo-cell-design-jian-shu|Decoding and Translating the Languages of Biology: towards de novo cell design]] (Jian Shu (guest talk to the Levin lab))

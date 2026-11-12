@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05",
- "checked_at": "2026-11-05 9:25 AM ET",
+ "updated": "2026-11-12",
+ "checked_at": "2026-11-12 9:32 AM ET",
  "sources": {
   "video": "yt-dlp flat playlist of youtube.com/@drmichaellevin/videos + per-video upload_date",
   "paper": "Crossref works filtered by ORCID 0000-0001-7292-8084 (only works where his ORCID is attached)",
@@ -8,6 +8,31 @@
   "blog": "thoughtforms.life RSS feed"
  },
  "items": [
+  {
+   "kind": "post",
+   "date": "2026-11-12",
+   "title": "A beautiful animal",
+   "url": "https://x.com/drmichaellevin/status/2120856384027959612",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "video",
+   "date": "2026-11-11",
+   "title": "\"Evidence for intracellular memory storage and its implications for AI\" by David L. Glanzman",
+   "url": "https://www.youtube.com/watch?v=tzF9C2o1N8c",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 1:21:02",
+   "page": "2026-11-11-intracellular-memory-storage-and-ai-david-glanzman"
+  },
+  {
+   "kind": "video",
+   "date": "2026-11-06",
+   "title": "\"Super Turing Computing\" by Hava T. Siegelmann",
+   "url": "https://www.youtube.com/watch?v=VX81ItGTnbo",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 50:54",
+   "page": "2026-11-06-super-turing-computing-hava-siegelmann"
+  },
   {
    "kind": "video",
    "date": "2026-11-05",
