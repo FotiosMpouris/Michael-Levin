@@ -113,3 +113,7 @@
 - Feed: 2 videos (Glanzman "Evidence for intracellular memory storage and its implications for AI" 11/11, Siegelmann "Super Turing Computing" 11/6), 1 X post ("A beautiful animal" 11/12). No new Crossref papers or blog posts. Skipped X posts that are only a link or nature photography (11/5 and 11/6 link-only posts, 11/10 and 11/11 #naturephotography).
 - Captions pulled with the vaulted-cookie yt-dlp method for both videos; 2 video pages written, quotes checked word for word against the captions. Transcripts in raw/transcripts/. whats-new.md, index.md and topic hubs updated. Companies tracker: no change.
 - check.py --links: ERRORS 0 (one transient error on first run, clean on rerun). Published to inner-breeze-5fr8 (version 01M782YMWKB7WTGD8D42VJEE51), authenticated, first try, using the /tmp/fileshim fallback for the missing `file` utility.
+
+## [2026-11-19] weekly refresh
+- Feed: no new items. YouTube channel newest is still the 11/11 Glanzman talk; no new Crossref papers (ORCID) since 11/4; no new thoughtforms.life posts since 11/4. X: only #naturephotography posts since 11/12 (11/14, 11/16), skipped. No videos missing pages. Only feed checked_at updated.
+- check.py --links: ERRORS 0. Published to GitHub Pages (gh-pages da5b918, CNAME and .nojekyll kept).
