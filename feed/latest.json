@@ -1,19 +1,41 @@
 {
- "updated": "2026-11-12",
- "checked_at": "2026-11-19 9:29 AM ET",
+ "updated": "2026-11-22",
+ "checked_at": "2026-11-22 10:36 AM ET",
  "sources": {
-  "video": "yt-dlp flat playlist of youtube.com/@drmichaellevin/videos + per-video upload_date",
+  "video": "yt-dlp flat playlist of youtube.com/@drmichaellevin/videos + per-video upload_date; guest interviews and talks on other channels found by YouTube search and checked by hand (item has appearance: guest)",
   "paper": "Crossref works filtered by ORCID 0000-0001-7292-8084 (only works where his ORCID is attached)",
   "post": "X API user timeline, original posts only (replies/reposts and #naturephotography excluded)",
   "blog": "thoughtforms.life RSS feed"
  },
  "items": [
   {
+   "kind": "video",
+   "date": "2026-11-18",
+   "title": "Agency & Intelligence Across Scales | Levin, Friston & Chis-Ciure",
+   "url": "https://www.youtube.com/watch?v=EY0nrb7AXJs",
+   "source": "YouTube · Wandering Thoughts (Levin as guest)",
+   "note": "Roundtable with Karl Friston and Robert Chis-Ciure. Duration 1:25:28",
+   "page": "2026-11-18-agency-intelligence-across-scales-friston-chis-ciure",
+   "appearance": "guest",
+   "channel": "Wandering Thoughts"
+  },
+  {
    "kind": "post",
    "date": "2026-11-12",
    "title": "A beautiful animal",
    "url": "https://x.com/drmichaellevin/status/2120856384027959612",
    "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "video",
+   "date": "2026-11-12",
+   "title": "Criticality of a path through idea space and academia - Michael Levin | ERA Minicon 2026",
+   "url": "https://www.youtube.com/watch?v=poFvpVF2JyA",
+   "source": "YouTube · Emerging Researchers in Artificial Life (Levin as guest)",
+   "note": "Career talk recorded 2026-08-16 at the ERA MiniCon. Duration 1:10:28",
+   "page": "2026-11-12-building-your-compass-era-minicon",
+   "appearance": "guest",
+   "channel": "Emerging Researchers in Artificial Life"
   },
   {
    "kind": "video",
@@ -130,6 +152,28 @@
   },
   {
    "kind": "video",
+   "date": "2026-10-28",
+   "title": "Does a town have goals of its own? Michael Levin",
+   "url": "https://www.youtube.com/watch?v=t_Yhcd52LHo",
+   "source": "YouTube · Science Conversations (Levin as guest)",
+   "note": "Interview. Duration 49:56",
+   "page": "2026-10-28-does-a-town-have-goals-science-conversations",
+   "appearance": "guest",
+   "channel": "Science Conversations"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-28",
+   "title": "Where Does Genius Come From? | Michael Levin",
+   "url": "https://www.youtube.com/watch?v=XTL9PxDm5B8",
+   "source": "YouTube · Human Potential Lab (Levin as guest)",
+   "note": "Interview with Scott Barry Kaufman. Duration 1:02:31",
+   "page": "2026-10-28-where-does-genius-come-from-scott-barry-kaufman",
+   "appearance": "guest",
+   "channel": "Human Potential Lab"
+  },
+  {
+   "kind": "video",
    "date": "2026-10-26",
    "title": "\"Perturbing Complex Networks\" by Debanik Bhattacharjee",
    "url": "https://www.youtube.com/watch?v=9IWGvY04bCA",
@@ -216,6 +260,17 @@
    "title": "\"The details for our (@DrPatrickE) cell trainer platform are up!\" (links to drmichaellevin.org/resources/celltrainer)",
    "url": "https://x.com/drmichaellevin/status/2113071151031197841",
    "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "video",
+   "date": "2026-10-20",
+   "title": "Where Does Intelligence Live? | Michael Levin on Evolution, AI, and Platonic Space",
+   "url": "https://www.youtube.com/watch?v=fpIkuRr4MCQ",
+   "source": "YouTube · 632nm (Levin as guest)",
+   "note": "Interview. Duration 1:28:14",
+   "page": "2026-10-20-where-does-intelligence-live-632nm",
+   "appearance": "guest",
+   "channel": "632nm"
   },
   {
    "kind": "paper",
@@ -369,6 +424,17 @@
   },
   {
    "kind": "video",
+   "date": "2026-09-21",
+   "title": "Michael Levin: Bioelectricity, Aging, and the Future of Medicine",
+   "url": "https://www.youtube.com/watch?v=BWgJPmeW5g0",
+   "source": "YouTube · Arjun Khemani (Levin as guest)",
+   "note": "Interview. Duration 56:25",
+   "page": "2026-09-21-bioelectricity-aging-future-of-medicine-arjun-khemani",
+   "appearance": "guest",
+   "channel": "Arjun Khemani"
+  },
+  {
+   "kind": "video",
    "date": "2026-09-20",
    "title": "\"Measuring Machine Consciousness\" by Cameron Berg",
    "url": "https://www.youtube.com/watch?v=A8ro2GUU_UU",
@@ -426,6 +492,17 @@
    "title": "\"Here it is - the official, revised, peer-reviewed version of my Platonic Space paper.\" His most-viewed recent post (about 1.5M views).",
    "url": "https://x.com/drmichaellevin/status/2097681695856058801",
    "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "video",
+   "date": "2026-09-09",
+   "title": "Michael Levin redefining the rules of life, with Bernardo Kastrup",
+   "url": "https://www.youtube.com/watch?v=OlSyGUC3HaU",
+   "source": "YouTube · Bernardo Kastrup (Levin as guest)",
+   "note": "Conversation, from a live \"With Reality in Mind\" meeting. Duration 59:04",
+   "page": "2026-09-09-redefining-the-rules-of-life-bernardo-kastrup",
+   "appearance": "guest",
+   "channel": "Bernardo Kastrup"
   },
   {
    "kind": "post",

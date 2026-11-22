@@ -117,3 +117,11 @@
 ## [2026-11-19] weekly refresh
 - Feed: no new items. YouTube channel newest is still the 11/11 Glanzman talk; no new Crossref papers (ORCID) since 11/4; no new thoughtforms.life posts since 11/4. X: only #naturephotography posts since 11/12 (11/14, 11/16), skipped. No videos missing pages. Only feed checked_at updated.
 - check.py --links: ERRORS 0. Published to GitHub Pages (gh-pages da5b918, CNAME and .nojekyll kept).
+
+## [2026-11-22] guest interviews and talks on other channels
+- Added summary pages for 6 appearances by Levin on other people's YouTube channels: Wandering Thoughts roundtable with Karl Friston and Robert Chis-Ciure (2026-11-18), ERA MiniCon career talk (uploaded 2026-11-12, recorded 2026-08-16), Science Conversations (2026-10-28), Human Potential Lab with Scott Barry Kaufman (2026-10-28), Arjun Khemani (2026-09-21), Bernardo Kastrup (2026-09-09). Upload dates from yt-dlp.
+- Captions pulled with the vaulted-cookie yt-dlp method. All transcripts read in full; every quote checked word for word against the captions with a script and linked to its timestamp. Transcripts in raw/transcripts/.
+- Spelling: "Mambot" changed to "Mombot" in 5 existing pages to match the lab's own blog (thoughtforms.life).
+- New entity pages: karl-friston, robert-chis-ciure. Feed: 7 guest items added to feed/latest.json (appearance: guest), including the existing 2026-10-20 632nm page. index.md, whats-new.md, topic hubs (list lines now use a colon instead of a dash), the Levin profile and the companies tracker (his Morphoceuticals simulator remark, 2026-09-21) updated.
+- YouTube search sweep (2026-09-01 to 2026-11-22) for interviews, podcasts, conversations and talks: skipped "This May Be The Most Important Video You'll Watch This Year" (A Curious Birb, 2026-09-02; a documentary about Levin, not an appearance), "No.1 Biopsychist: Michael Levin's Platonic Minds" (Giant's Shoulder, 2026-09-28; John Vervaeke interview that only mentions Levin) and a Fox News clip about Mark Levin (name match only).
+

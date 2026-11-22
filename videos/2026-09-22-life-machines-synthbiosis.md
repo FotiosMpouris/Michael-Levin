@@ -19,7 +19,7 @@ sources: [raw/transcripts/2026-09-22-6W5qhMasROY.txt]
 
 ## In one paragraph
 
-A compressed tour of the lab's program: goals encoded bioelectrically, memory in xenobots, anthrobots from human cells, learning in tiny gene-network models, and the Mambot robot scientist.
+A compressed tour of the lab's program: goals encoded bioelectrically, memory in xenobots, anthrobots from human cells, learning in tiny gene-network models, and the Mombot robot scientist.
 
 ## Main ideas (plain words)
 
@@ -27,11 +27,11 @@ A compressed tour of the lab's program: goals encoded bioelectrically, memory in
 - Against the standard view that cells 'know nothing', Levin says set points are real because the lab can read and write them bioelectrically.
 - Xenobot signaling data differ from null models about as much as human fMRI data do; unpublished work suggests xenobots can hold at least two memories for at least 24 hours.
 - Small gene-regulatory-network models (a handful of equations) can learn — a 'free gift from math', not from physics or evolution. Even simple sorting algorithms show unexpected competencies.
-- Mambot: 'somewhere between a tool and a colleague' — a robot that builds xenobots, observes them, and revises its hypothesis, i.e., the full loop of science in morphospace. He closes with three disclosures of companies that have licensed the lab's technology.
+- Mombot: 'somewhere between a tool and a colleague' — a robot that builds xenobots, observes them, and revises its hypothesis, i.e., the full loop of science in morphospace. He closes with three disclosures of companies that have licensed the lab's technology.
 
 ## Why it matters
 
-Best short introduction to send someone new. Mambot is an AI system running the full experiment loop.
+Best short introduction to send someone new. Mombot is an AI system running the full experiment loop.
 
 ## Key quotes (word for word from YouTube's auto-generated captions)
 

@@ -1,0 +1,1389 @@
+[00:00:00] Cuz he said, "Um, giving a good lecture
+[00:00:01] is a violent act." Well, what's What
+[00:00:03] What do you mean? What's the algorithm?
+[00:00:04] Oh my god, there is no algorithm. You
+[00:00:06] know, remembering that it's really
+[00:00:08] nobody's job but yours to make your
+[00:00:09] ideas absolutely irresistible. I was
+[00:00:12] thinking about all this
+[00:00:13] You know, platonic space stuff,
+[00:00:14] whatever. I never talked about it until
+[00:00:15] 25. You know?
+[00:00:17] &gt;&gt; Yeah.
+[00:00:18] &gt;&gt; Almost 40 years. When
+[00:00:20] When you get a letter from the town
+[00:00:22] Uh,
+[00:00:23] who who who wrote the letter? It's
+[00:00:27] &gt;&gt; So, hello everyone.
+[00:00:29] Uh, today I'm joined by Michael Levin, a
+[00:00:31] biologist at Tufts University. His work
+[00:00:35] uh looks at how cells communicate, how
+[00:00:37] they build and repair bodies, uh, and
+[00:00:40] what they can tell us about
+[00:00:41] intelligence. Uh, Mike, correct me if
+[00:00:44] I'm wrong about anything.
+[00:00:46] Uh, I wanted
+[00:00:48] the questions to be visual for better
+[00:00:50] comprehension, so I prepared some
+[00:00:52] slides. I'll be sharing them as well.
+[00:00:55] A lot of this comes from your
+[00:00:56] conversation with uh Chris Fields, Karl
+[00:00:59] Friston, and another about free energy
+[00:01:01] minimization, and about behavior
+[00:01:04] uh as navigating those uh arbitrary
+[00:01:07] spaces.
+[00:01:08] Uh, so the first question uh, is that
+[00:01:11] uh,
+[00:01:12] there's something from particles to
+[00:01:14] compounds to cells, organs, bodies,
+[00:01:17] groups of people, and ecosystems that
+[00:01:20] possibly we can expand that even larger
+[00:01:23] to larger square scale. And at every
+[00:01:25] level, we can see uh we can
+[00:01:28] say that there's some kind of uh uniform
+[00:01:31] collective uh, that forms. So, there are
+[00:01:34] some elements that can be uh,
+[00:01:37] different from each other, but they are
+[00:01:40] interacting, and through those
+[00:01:42] interactions
+[00:01:43] through the interfaces. No, not not
+[00:01:46] through internal uh, very their internal
+[00:01:49] models, if we we can say that like if we
+[00:01:52] uh use Markov blanket
+[00:01:54] uh term here.
+[00:01:55] Uh, and I as I understand
+[00:01:58] you describe the substrates as an
+[00:02:01] interface. Um, Correct me then again if
+[00:02:04] I'm wrong and I'd say
+[00:02:05] &gt;&gt; The only thing is so so far everything's
+[00:02:08] fine. The only thing I wanted to say is
+[00:02:09] that you know the claim that each of
+[00:02:12] these levels
+[00:02:14] has some some sort of
+[00:02:17] some some degree of of of intelligence
+[00:02:20] is an empirical claim. So it's not a
+[00:02:22] definition, it's not philosophy. It's In
+[00:02:25] other words you have to look right for
+[00:02:26] any given system you have to you have to
+[00:02:28] do experiments and you have to ask at
+[00:02:29] every level what the kind of
+[00:02:31] competencies does it have in what space
+[00:02:33] and so on. So I just want to be clear
+[00:02:34] this is not a definitional kind of a
+[00:02:36] thing. It's you know it's an
+[00:02:38] experimental claim.
+[00:02:39] &gt;&gt; Yeah, that that's that's right.
+[00:02:41] And um
+[00:02:44] So I would say that we can see the
+[00:02:46] substrate as a collective itself.
+[00:02:49] Like for example the neurotransmitters
+[00:02:52] and receptors if it fits. There is an
+[00:02:54] interaction and there can be a network
+[00:02:58] that appears through those interfaces
+[00:03:01] that can interact. When the aim elements
+[00:03:03] cannot interact
+[00:03:05] in some interesting way
+[00:03:07] then there is possibly
+[00:03:09] nothing like
+[00:03:12] this is
+[00:03:13] like from the Chris Fields there's no
+[00:03:15] interesting behavior we can observe
+[00:03:18] possibly. So so in any case at at every
+[00:03:22] level we can see some kind of goal.
+[00:03:26] And I think goals that
+[00:03:29] I'm not sure if goals exist out there.
+[00:03:33] When a system keeps getting back to the
+[00:03:35] same state and gets around obstacles
+[00:03:38] we can call this a goal. So I think
+[00:03:42] maybe this is like kind of an attractor
+[00:03:44] in the platonic space that shows up in
+[00:03:47] this substrate and
+[00:03:50] systems that keep something stable about
+[00:03:53] themselves we can call as agents and
+[00:03:56] then if all intelligence is collective
+[00:03:59] intelligence then every agent is made of
+[00:04:03] other agents of collectives of other
+[00:04:05] agents that interact
+[00:04:07] on their levels.
+[00:04:08] Uh so, I think that these interactions
+[00:04:12] can add up or cancel out like for
+[00:04:14] example coupled metronomes that end up
+[00:04:17] in sync.
+[00:04:18] Uh so, if we observed an experiment on
+[00:04:22] each level, could we find rules and
+[00:04:25] build a simulation that will predict
+[00:04:27] what a collective converges to or and
+[00:04:29] how to steer it? So, for for example, I
+[00:04:32] know you've been investigating that in
+[00:04:34] cells
+[00:04:36] that's
+[00:04:37] the
+[00:04:38] what just what you just told me that you
+[00:04:41] have to do experiments to observe what
+[00:04:44] uh rules we can determine from those
+[00:04:47] interactions.
+[00:04:49] Uh and my um my question is that
+[00:04:55] basically, what what do you think about
+[00:04:56] that? But
+[00:04:57] uh if we can separate the internal model
+[00:05:00] from the the internal extraction
+[00:05:02] interactions from the external
+[00:05:04] interactions, then we can just uh
+[00:05:08] neglect the internal thing and just look
+[00:05:10] at the how collective interacts, how
+[00:05:14] uh what rules apply on this scale. So, I
+[00:05:17] think that on each different scale, we
+[00:05:19] can have different rules
+[00:05:22] uh that appear from the interactions.
+[00:05:24] Uh
+[00:05:24] and I think
+[00:05:27] there could be something shared in terms
+[00:05:30] of these
+[00:05:34] in terms of how in different substrates
+[00:05:36] then they can appear like some rules I
+[00:05:41] think can be transferred from one
+[00:05:43] substrate to another. And therefore, if
+[00:05:46] we can transfer that, we can simulate
+[00:05:50] that in uh
+[00:05:51] like in a computer in some
+[00:05:55] simulated environment to speed up the
+[00:05:57] process of exploring how this how this
+[00:06:00] network uh
+[00:06:02] Did you
+[00:06:03] Did you observe that something like that
+[00:06:05] on in your work? I know you have this
+[00:06:07] mom bought that experiments on uh on
+[00:06:10] cells. Uh
+[00:06:12] So, what what do you think?
+[00:06:15] &gt;&gt; Yeah. Um I I I think all of that is
+[00:06:18] reasonable, but uh
+[00:06:20] I think that rules is a formalism that
+[00:06:24] works better at the lower end of the of
+[00:06:26] the spectrum of persuadability. In other
+[00:06:29] words,
+[00:06:30] when you get to more competencies and
+[00:06:32] higher intelligence components,
+[00:06:35] uh rules, I think, don't end up being a
+[00:06:38] very good fit. You end up needing to
+[00:06:40] think more about motivations, priors, uh
+[00:06:43] the inner perspective of the system.
+[00:06:45] It's not so much rules uh
+[00:06:48] as much as I mean and and it's a
+[00:06:50] spectrum. It's not like you can give up
+[00:06:51] all rules, of course not, but it rules
+[00:06:54] the ability to specify external rules
+[00:06:57] for how things are going to behave
+[00:06:59] becomes increasingly more impoverished
+[00:07:01] in terms of um
+[00:07:02] the sort of
+[00:07:04] meaningful interaction that you can have
+[00:07:06] with systems as you go up. So,
+[00:07:08] I think we have to be open to the idea
+[00:07:10] that it is it's it's it might be rules
+[00:07:14] uh you know, sort of at the low end of
+[00:07:15] the hierarchy, but and I don't mean the
+[00:07:17] I don't mean the size scale here that
+[00:07:19] you have drawn here. I don't mean that.
+[00:07:20] I mean the the sort of cybernetic
+[00:07:22] hierarchy from the lowest kind of
+[00:07:24] competencies to the the high-level
+[00:07:26] metacognition and so on. Uh I I think
+[00:07:28] that at some point you stop you have to
+[00:07:30] you have to move from talking about
+[00:07:32] rules to talking about uh motivations
+[00:07:35] and goals and uh priors and stresses and
+[00:07:39] preferences and all of that kind of
+[00:07:41] stuff.
+[00:07:42] &gt;&gt; [snorts]
+[00:07:42] &gt;&gt; And in or in order to have a meaningful
+[00:07:44] interaction with your with your system.
+[00:07:47] &gt;&gt; The spectrum of persuadability is
+[00:07:49] Levin's scale of how you change what a
+[00:07:51] system does. A mechanical clock, you
+[00:07:54] open it and move the gears. A
+[00:07:56] thermostat, you change the set point. A
+[00:07:59] dog, you train it with treats. A person,
+[00:08:02] you give [clears throat] them a good
+[00:08:03] argument. The further along, the less
+[00:08:05] you need to know what's inside.
+[00:08:08] &gt;&gt; Yeah, but wouldn't you call that a rule
+[00:08:11] as some kind like if I I think of a rule
+[00:08:14] like
+[00:08:15] as of a symbolic representation of some
+[00:08:17] behavior. So,
+[00:08:20] I think we can have some abstract rules
+[00:08:22] like the plasmonic patterns
+[00:08:25] you're talking about. So, there's
+[00:08:27] something persist like among the
+[00:08:31] and appears among different substrates.
+[00:08:34] So, there's something shared that
+[00:08:35] repeats itself.
+[00:08:38] And I I I mean that something that can
+[00:08:41] be experimentally observed can be called
+[00:08:45] a rule.
+[00:08:46] &gt;&gt; Yeah,
+[00:08:48] I understand I understand the idea and
+[00:08:50] and it's not a bad idea. It's just that
+[00:08:54] I think they will I think when when you
+[00:08:56] have effective policies at the at the
+[00:08:59] higher levels, they don't look like
+[00:09:00] rules anymore.
+[00:09:02] Rules are when you can specify in
+[00:09:04] advance, you know the states, you know
+[00:09:06] the state space in advance, you know the
+[00:09:08] number of inputs in advance, you know
+[00:09:10] where when we talk about rules, we think
+[00:09:11] of I don't know some sort of
+[00:09:14] truth table or or a cellular automaton
+[00:09:17] the transition or something.
+[00:09:19] That's fine for lower level things, but
+[00:09:21] it just becomes impoverished for
+[00:09:24] scenarios where each action changes the
+[00:09:27] number of players, for example, in a in
+[00:09:29] a physarum um
+[00:09:30] whether it decides to split or merge,
+[00:09:32] now the table is completely payoff table
+[00:09:34] is different because you have more or
+[00:09:35] less players. Uh
+[00:09:38] you get um
+[00:09:40] context sensitivity, you get to the you
+[00:09:42] have systems that can change their own
+[00:09:45] structure and change their own mind,
+[00:09:46] which means the rules all change. So,
+[00:09:48] you got this recursive stuff going on.
+[00:09:50] It
+[00:09:51] It just [clears throat] It just isn't
+[00:09:52] well captured by
+[00:09:54] the formalisms we have for for for rules
+[00:09:57] that work for well-defined simpler
+[00:10:00] systems.
+[00:10:01] &gt;&gt; Physarum is a slime mold, that yellow
+[00:10:04] blob. The whole blob is one huge cell
+[00:10:07] with millions of nuclei and no neurons.
+[00:10:10] still in a maze it finds the shortest
+[00:10:13] path between two bits of food. And
+[00:10:15] Levin's lab showed it can sense heavier
+[00:10:17] objects from a distance and grow towards
+[00:10:19] them.
+[00:10:21] &gt;&gt; So it you you basically means that it's
+[00:10:24] it will be
+[00:10:26] very difficult or impossible to write
+[00:10:28] them down some symbolically. What
+[00:10:31] happens on those in network
+[00:10:32] interactions?
+[00:10:34] &gt;&gt; I I think that I think that the tools we
+[00:10:36] have now for writing down symbolic rules
+[00:10:39] will will fail consistently when we get
+[00:10:41] to these systems. And we we we see this
+[00:10:44] all the time, you know, if you uh
+[00:10:46] I mean this is a this is a dumb example,
+[00:10:48] but but we all know that writing down
+[00:10:49] rules so so this for example bites us
+[00:10:52] when we try to do alignment. You know,
+[00:10:54] you say you say to your kids you know,
+[00:10:56] you should tell the truth, don't lie.
+[00:10:58] And so then dinner time, hey grandma,
+[00:11:00] you look really fat today. No, no, not
+[00:11:02] that kind of truth, different truth. And
+[00:11:04] so you know, you say well, what's what
+[00:11:06] what do you mean? What's the algorithm?
+[00:11:07] Oh my god, there's there's no algorithm.
+[00:11:08] You know, so there are plenty of things
+[00:11:10] that that and it's not just because it's
+[00:11:12] complexity and it's not just because
+[00:11:13] you're going to run write down an
+[00:11:14] enormous table of all the different
+[00:11:16] things. But
+[00:11:18] for high-level intelligences
+[00:11:21] when you take certain actions, it
+[00:11:23] completely changes it can change the
+[00:11:25] problem space, it can change the number
+[00:11:26] of states, it can change the number of
+[00:11:27] players.
+[00:11:29] We we don't really have good frameworks
+[00:11:32] yet for
+[00:11:34] handling that in a formal model and
+[00:11:36] still calling it a rule. It becomes more
+[00:11:37] like it becomes more like
+[00:11:39] psychoanalysis. So if you do right at
+[00:11:41] the at the far end of the curve, it's
+[00:11:43] not rules and it's not training and it's
+[00:11:45] not any of the things of behavior
+[00:11:46] science. It's more it's more it's more
+[00:11:48] psychoanalysis basically and love and
+[00:11:50] friendship and those things. And and
+[00:11:52] good luck writing down any rules for
+[00:11:54] that. If if you can you can try, but
+[00:11:56] they will fail more often than they will
+[00:11:58] succeed. And it's
+[00:11:59] it's not because the
+[00:12:02] system is random or that it doesn't make
+[00:12:04] any sense. It's just that it's not rules
+[00:12:06] anymore. It's not fixed transitions
+[00:12:08] between states like we do for for
+[00:12:11] cellular automata things like that. And
+[00:12:13] also, I think you
+[00:12:17] there's a there's something else that
+[00:12:18] happens, which is that
+[00:12:20] you just imagine you have a bumpy
+[00:12:21] landscape, right? So, so some kind of a
+[00:12:23] some kind of a bumpy landscape. If you
+[00:12:25] have a bowling ball on this landscape,
+[00:12:28] you can write down third-person rules.
+[00:12:30] In other words, you as an external
+[00:12:33] observer knows all there is to know
+[00:12:35] about what the ball is going to do,
+[00:12:36] right? That that's it. If you have a
+[00:12:38] mouse on that landscape, then your
+[00:12:40] third-person view of the landscape is
+[00:12:43] almost irrelevant. What matters is the
+[00:12:44] mouse's view of the landscape. And so,
+[00:12:46] now you have to take the perspective of
+[00:12:48] the system and say, "What does it look
+[00:12:49] like to me? What is my Umwelt? What do I
+[00:12:50] care about? Did I get punished or
+[00:12:52] rewarded at here? Does it look like
+[00:12:54] something else that I recognize from
+[00:12:56] before?"
+[00:12:57] It it you you have to start to take the
+[00:12:58] first-person perspective of the system.
+[00:13:01] So, um
+[00:13:02] when you when you when we do rules, we
+[00:13:04] don't normally ask ourselves, "So, how
+[00:13:07] does the cellular automaton feel about
+[00:13:09] the you know, rule number four?" We we
+[00:13:11] don't we don't have to do that because
+[00:13:13] we're dealing with a system that has a
+[00:13:14] minimal inner perspective. Um although
+[00:13:18] although Randy Beer had this this
+[00:13:20] amazing paper called the cognitive
+[00:13:21] domain of the of the glider in the game
+[00:13:24] of life, where he did exactly that. He
+[00:13:26] asked, "What do you see as a glider in
+[00:13:28] the game of life? What what is your
+[00:13:30] first-person inner perspective?"
+[00:13:32] So, I'm you know, again, it's a it's a
+[00:13:34] continuum. I'm not saying that magically
+[00:13:36] at some point the rules stop working.
+[00:13:38] I'm I'm saying that
+[00:13:40] there is a spectrum, and at the higher
+[00:13:42] end of the spectrum, it's all about
+[00:13:44] having a mutually like Richard Watson
+[00:13:46] would say, a mutually vulnerable
+[00:13:48] relationship, not a not a truth table of
+[00:13:51] of transition states.
+[00:13:53] &gt;&gt; Umwelt is biologist Jakob von Uexküll's
+[00:13:55] word for a creature's own world. A
+[00:13:58] tick's whole world is three things: the
+[00:14:01] smell of butyric acid from mammal skin,
+[00:14:03] warmth, and hair.
+[00:14:06] And Conway's Game of Life is a grid
+[00:14:08] where cells live or die by a few simple
+[00:14:10] rules. A glider is five cells crawling
+[00:14:13] across it diagonally.
+[00:14:16] &gt;&gt; Yeah. Yeah.
+[00:14:18] This is basically I I think maybe rule
+[00:14:20] is not the best kind of word for for
+[00:14:23] that.
+[00:14:24] Do you think it's So, do you think the
+[00:14:27] knowledge you're acquiring through
+[00:14:29] interactions with cells by persuading
+[00:14:33] them to do something?
+[00:14:36] Can this be transferable in this
+[00:14:38] knowledge to be transferred transferable
+[00:14:40] into other kinds of networks?
+[00:14:43] &gt;&gt; Well, I'm sorry. Say that again. Which
+[00:14:45] knowledge is transferable?
+[00:14:47] &gt;&gt; Uh when you try to, for example, to say
+[00:14:52] a group of cells to
+[00:14:55] to make two two heads or two
+[00:14:58] two tails. For example, you're trying to
+[00:15:01] persuade by manipulating the bioelectric
+[00:15:05] patterns of the cells and therefore
+[00:15:09] and after afterwards they they even stay
+[00:15:12] in in this in this condition. So, they
+[00:15:14] learn. So,
+[00:15:17] so basically they adapted for this kind
+[00:15:19] of external behavior and they
+[00:15:22] the rule could be how to manipulate
+[00:15:25] manipulate
+[00:15:27] the networks
+[00:15:29] that can
+[00:15:31] if we can transfer this
+[00:15:34] this way of manipulations to to other
+[00:15:36] network kind kind of network, not
+[00:15:38] cellular cellular cellular.
+[00:15:42] &gt;&gt; Yeah, you know, when we do it, we mostly
+[00:15:45] aren't aren't touching the rules. We
+[00:15:48] mostly don't um
+[00:15:51] We mostly don't change the rules. That's
+[00:15:54] Occasionally there are some
+[00:15:55] Occasionally you would want to do that
+[00:15:57] with
+[00:15:58] you know,
+[00:15:59] some kind of um
+[00:16:01] uh synthetic biology or something change
+[00:16:03] the
+[00:16:05] pathways, molecular pathways, and so on.
+[00:16:06] We normally we don't do that. We we try
+[00:16:09] to we try to rewrite goal states. We try
+[00:16:11] to give stimuli. We try to train.
+[00:16:14] So, everything is everything is in
+[00:16:16] software and so to speak but more
+[00:16:19] specifically in terms of experience. We
+[00:16:21] give we give systems experiences that we
+[00:16:24] hope via our models of what the systems
+[00:16:26] are remembering what they're what their
+[00:16:29] goals are, what their capabilities are
+[00:16:30] and so on. It's communication. It's
+[00:16:32] instances of communication. We don't try
+[00:16:34] to change the rules.
+[00:16:35] &gt;&gt; Planarians are small flatworms. Cut one
+[00:16:38] into pieces and each piece grows back
+[00:16:40] into a whole worm. Levin's lab gave the
+[00:16:43] pieces a short drug treatment that
+[00:16:45] scrambles the electrical signals between
+[00:16:47] cells. The genes weren't touched and the
+[00:16:50] middle piece grew a head at each end.
+[00:16:53] &gt;&gt; Yeah, just to be clear, I'm not saying
+[00:16:55] the rules that internal to the cell to
+[00:16:57] the cell. I I understand that they all
+[00:17:00] work as a collective. They all work
+[00:17:03] through their interact- interactions.
+[00:17:06] So, you're
+[00:17:07] manipulating this whole stage of
+[00:17:10] connections as I I I understand that.
+[00:17:14] Uh so, the way they're organized and
+[00:17:17] they way they are interacting with each
+[00:17:19] other. Is that that
+[00:17:21] the right way to to see that?
+[00:17:23] &gt;&gt; Yeah, and and it's not just um it's not
+[00:17:26] just within cells. The same thing is
+[00:17:28] true at the tissue and organ level. You
+[00:17:30] could set up rules, biomechanical
+[00:17:32] gradients, you could you could change
+[00:17:35] rules, you know, the stiffness at the
+[00:17:37] tissue level, tension and and traction
+[00:17:39] forces. Um
+[00:17:41] you could do things at the organ level
+[00:17:43] and so on. Again, so there are these
+[00:17:45] these bottom-up and top-down approaches.
+[00:17:47] So, lots of people are are in fact
+[00:17:49] trying to modify the rules. This is what
+[00:17:51] pretty much everybody else in the field
+[00:17:53] is doing. So, genetic engineering,
+[00:17:55] synthetic biology, for protein design,
+[00:17:57] all that stuff. That all of that is
+[00:17:58] changing the rules. Uh and it's great
+[00:18:01] and there are certain things you can get
+[00:18:02] that way, but I think the vast majority
+[00:18:04] of what we want is not going to be
+[00:18:05] reachable that way
+[00:18:07] because it it
+[00:18:08] it treats the systems
+[00:18:11] significantly
+[00:18:12] on that the cognitive spectrum. It
+[00:18:13] treats them as as very low level as a
+[00:18:16] very low level dumb machines and it And
+[00:18:18] and that leaves too much on the too much
+[00:18:20] on the table.
+[00:18:21] &gt;&gt; So, what would we say because you were
+[00:18:23] describing the rules on the level of the
+[00:18:25] inside of of the cell and we can
+[00:18:28] describe the rules and go deeper
+[00:18:30] [clears throat] to the chemicals to the
+[00:18:33] to the particles and then we can go up.
+[00:18:36] We can go as you said to the organs to
+[00:18:39] the to the body and then collective of
+[00:18:41] people.
+[00:18:43] So, I think there should be
+[00:18:45] like different maybe different
+[00:18:48] rules on each level. And then we need to
+[00:18:51] make experiments on each level not
+[00:18:54] not like it it is very hard to say
+[00:18:57] to extrapolate from the inside of the
+[00:19:00] cell to the how it interacts with other
+[00:19:04] cells as I understand. And then it's
+[00:19:06] hard hard to extrapolate from one person
+[00:19:09] to the collective of persons of people
+[00:19:11] cuz they interact in in context in
+[00:19:16] through their interactions. It
+[00:19:18] everything changes all the time
+[00:19:20] the collective adapts.
+[00:19:23] I think that there is some analogy that
+[00:19:26] can be transferred between all these
+[00:19:28] level levels and we can by by
+[00:19:30] experimenting with that we can observe
+[00:19:33] what kind of rules on each level and how
+[00:19:36] we can
+[00:19:37] manipulate on each level and
+[00:19:41] I'm just I'm not sure whether what is
+[00:19:44] transferable but if that's
+[00:19:48] Could we say that it is some kind of
+[00:19:50] platonic pattern
+[00:19:52] that's
+[00:19:53] like
+[00:19:54] the idea of that intelligence is
+[00:19:56] collective all intelligence is
+[00:19:58] collective intelligence. So, everything
+[00:20:00] is made of parts of interactions of
+[00:20:02] their parts and it goes recursively
+[00:20:07] to both
+[00:20:08] scales down and up.
+[00:20:10] &gt;&gt; Yeah, I think I think I think that's
+[00:20:11] that's reasonable. I mean one of the
+[00:20:13] things that I'm working on is
+[00:20:15] this this kind of thing where
+[00:20:18] if we
+[00:20:19] if we take seriously my idea that
+[00:20:23] physical embodiments are basically
+[00:20:24] pointers into a space of policies and
+[00:20:29] in for navigating certain problem
+[00:20:31] spaces.
+[00:20:32] And
+[00:20:33] and and so
+[00:20:35] then there should be some kind of we
+[00:20:37] should be able to work out some kind of
+[00:20:38] pointer arithmetic by which we can
+[00:20:41] combine combine point So this is this is
+[00:20:44] the intersection of collective
+[00:20:45] intelligence and
+[00:20:47] my ideas on
+[00:20:48] on platonic space that basically
+[00:20:51] when you when [clears throat] we create
+[00:20:53] collective intelligence is is in terms
+[00:20:55] of embodiment so we we collect smaller
+[00:20:59] interfaces into into a large general
+[00:21:01] one. What happens and what how how do we
+[00:21:03] figure out in advance what kind of large
+[00:21:05] scale pattern we're going to pull down
+[00:21:06] into the collective? Yeah, so so I'm
+[00:21:09] this is of course what one of the things
+[00:21:11] I'm working on now is trying to work out
+[00:21:14] some kind of entry is some some kind of
+[00:21:16] useful pointer arithmetic where we can
+[00:21:18] combine
+[00:21:20] the pointers to the policies at the
+[00:21:21] lower scale and or or actually vice
+[00:21:23] versa. It's just as just as important to
+[00:21:25] go to go in the other direction. And try
+[00:21:27] to understand how you combine pointers
+[00:21:29] to give to to to give rise to
+[00:21:33] bigger pointers that you can actually
+[00:21:35] predict ahead of time what kind of
+[00:21:37] pattern they're going to be pointing
+[00:21:38] into.
+[00:21:39] So stay tuned for that. Um none of this
+[00:21:41] is published yet. It's still work work
+[00:21:43] in progress.
+[00:21:45] &gt;&gt; Platonic space is Levin's name for a
+[00:21:47] space of non-physical patterns like the
+[00:21:49] facts of maths. Nobody made seven prime.
+[00:21:52] It just is. He thinks it also holds
+[00:21:55] patterns of behavior even kinds of
+[00:21:57] minds. In programming a pointer holds an
+[00:22:00] address where something lives and
+[00:22:02] pointer arithmetic is maths with those
+[00:22:04] addresses.
+[00:22:07] &gt;&gt; Uh
+[00:22:08] yeah, this this is great. I I I'm just
+[00:22:10] thinking that would it be a great would
+[00:22:12] it be a good idea to try to as I said
+[00:22:16] try to look at the element one element
+[00:22:18] without its interactions
+[00:22:21] uh to try to say something about the
+[00:22:23] collective. I think we need to always to
+[00:22:26] to look at the same level that we are
+[00:22:28] like experiment with the same level. If
+[00:22:30] we are if we are going to
+[00:22:33] investigate how the human collectives
+[00:22:35] work and how if we can predict anything
+[00:22:39] about the human collectives,
+[00:22:41] maybe we need to make experiments on
+[00:22:43] this but not on on a human on on a on
+[00:22:45] one person or like
+[00:22:48] we can say something about statistics
+[00:22:50] about how one person can
+[00:22:53] can do
+[00:22:56] maybe let's let's go to the to the next
+[00:22:58] slide because it is it is about idea. We
+[00:23:01] probably could call another thing
+[00:23:03] as a platonic pattern.
+[00:23:05] Sometimes
+[00:23:08] and this is about ideas. Sometimes an
+[00:23:10] idea can become a meme, a really popular
+[00:23:13] idea. And if you look at the ideas that
+[00:23:15] spread so fast, they are usually pretty
+[00:23:18] simple. And if you look at the ideas
+[00:23:22] and I'd say they could be also be seen
+[00:23:26] as beautiful.
+[00:23:28] Beauty is subjective. Not everyone
+[00:23:30] appreciates the same thing, but I think
+[00:23:33] beauty is really connected to simplicity
+[00:23:35] and of the model and how we
+[00:23:39] and at the same time novelty. So
+[00:23:41] simplicity and novelty gives our brain
+[00:23:43] something to update our internal
+[00:23:47] internal model
+[00:23:49] to cover more reality and that's feels
+[00:23:52] pleasurable.
+[00:23:54] So I think there's some some combination
+[00:23:56] of novelty and simplicity
+[00:23:58] that makes it beautiful and that helps
+[00:24:01] those ideas spread
+[00:24:03] and persist in space of ideas.
+[00:24:06] And because ideas can be represented
+[00:24:09] symbolically with language.
+[00:24:11] For example,
+[00:24:13] they can be connected logically and I'd
+[00:24:16] say there could be some attractors,
+[00:24:19] something that pulls different ideas in
+[00:24:22] and
+[00:24:23] helps them spread wider and faster than
+[00:24:25] others.
+[00:24:27] So
+[00:24:29] yeah, if we if you have an attractor in
+[00:24:31] a structure like that, can we say that a
+[00:24:33] collective of humans can have a an
+[00:24:37] can have some idea or or some attractor
+[00:24:40] of ideas as a goal? Like can we look at
+[00:24:42] that as a goal of collective of humans?
+[00:24:45] And does it mean that
+[00:24:48] it doesn't mean it won't change? Like
+[00:24:50] this goal could be just like a local
+[00:24:53] minimum and then we can go deeper to to
+[00:24:57] move to another one to the another
+[00:24:58] state.
+[00:25:00] Sometimes those ideas can be useful,
+[00:25:02] sometimes not really, but the overall,
+[00:25:05] can you can you say that this is
+[00:25:08] this can also be described as a plat as
+[00:25:11] a part of platonic space?
+[00:25:14] &gt;&gt; Yeah, I mean, I I think so. The only
+[00:25:17] thing is again, um this is an empirical
+[00:25:19] claim, so you have to do experiments.
+[00:25:21] So, um the problem is it's difficult to
+[00:25:26] do experiments at larger scales because
+[00:25:28] it just
+[00:25:29] you know, physically it becomes it
+[00:25:31] becomes really hard. Um
+[00:25:33] So, so I I don't know, but it seems very
+[00:25:36] logical, you know, when
+[00:25:38] you get a letter from the town,
+[00:25:40] uh
+[00:25:41] who who who wrote the letter? It's not
+[00:25:43] the the clerk at the town hall. There's
+[00:25:45] no no point to you know, yelling at
+[00:25:46] them. Uh whatever this letter from the
+[00:25:48] town is, it comes from the town and it
+[00:25:51] might even be possible that there's
+[00:25:52] nobody no single person in the town that
+[00:25:54] knows anything about it or cares
+[00:25:55] anything about it or even agrees with
+[00:25:57] it. Uh we don't but but so the question
+[00:26:00] is
+[00:26:01] what happens when we make a social
+[00:26:03] structures, financial structures,
+[00:26:05] corporate structures? Do they have their
+[00:26:07] own goals?
+[00:26:09] I think it's very plausible that they
+[00:26:10] do, but again, you'd have to do
+[00:26:11] experiments but just like we do for
+[00:26:13] smaller systems and see.
+[00:26:15] Um
+[00:26:16] you know, people people email me all the
+[00:26:18] time say, "Oh my god, then the whole
+[00:26:19] solar system is is a giant mind."
+[00:26:22] Maybe, but you can't just say that. You
+[00:26:24] had to have to do experiments and
+[00:26:25] actually um a a friend of mine who's a
+[00:26:27] physicist and I we tried to design a
+[00:26:29] gravitational synapse the size of a
+[00:26:31] solar system where, you know, you sort
+[00:26:34] of shoot that shoot the asteroids into
+[00:26:36] it and
+[00:26:37] uh it's like bits going in and then you
+[00:26:39] get this you know sort of heavy and the
+[00:26:41] heavy and thing and so on. So, you could
+[00:26:43] try to design these whether they exist I
+[00:26:44] have no idea. So, you can't you know,
+[00:26:46] may maybe I just Yeah, I think I think
+[00:26:50] uh it's it's hard to do experiments at
+[00:26:52] the large scale.
+[00:26:53] &gt;&gt; Hebb and comes from Donald Hebb, a
+[00:26:55] Canadian psychologist. In 1949, he
+[00:26:58] suggested how brains learn. When one
+[00:27:01] neuron keeps helping another fire, the
+[00:27:03] synapse between them, their point of
+[00:27:05] contact, gets stronger. Short version,
+[00:27:08] neurons that fire together wire
+[00:27:10] together.
+[00:27:12] &gt;&gt; Yeah, definitely. And also
+[00:27:15] experiments on the collective of humans
+[00:27:16] is
+[00:27:17] as well.
+[00:27:19] I I I
+[00:27:20] I try to think about any experiment we
+[00:27:23] can do but apart from the
+[00:27:26] polling probably but again, would this
+[00:27:29] would the polling
+[00:27:32] show any any useful information?
+[00:27:35] &gt;&gt; Yeah, I mean every there's lots of ways
+[00:27:37] to get useful information but definitive
+[00:27:38] information only comes from perturbative
+[00:27:40] experiments. So, watching you know,
+[00:27:44] watching things
+[00:27:46] anything can look agentic or not.
+[00:27:49] You know, watching things doesn't help.
+[00:27:51] You have to you have to do perturbative
+[00:27:52] experiments. You have to put barriers in
+[00:27:54] between them and their goals. You have
+[00:27:55] to change the you know, the the action
+[00:27:57] space and all of that. These are all
+[00:27:59] which again, in the case of humans
+[00:28:01] collective humans is not
+[00:28:04] most of that stuff isn't ethical to do.
+[00:28:05] May maybe there are, you know, some kind
+[00:28:08] of
+[00:28:08] experiments that you can do in
+[00:28:11] I don't know, in corporate culture or
+[00:28:12] something to get some data on this but
+[00:28:14] but mostly that's that's impractical and
+[00:28:16] and you know, it wouldn't be right.
+[00:28:19] &gt;&gt; Yeah,
+[00:28:20] um
+[00:28:21] this is kind of speculative but can you
+[00:28:23] say that propaganda is kind of a tool to
+[00:28:26] that can be used to manipulate
+[00:28:28] collectives
+[00:28:30] in terms of ideas?
+[00:28:32] Cuz it seems like it like it too.
+[00:28:34] &gt;&gt; Yeah, I don't know
+[00:28:37] whether
+[00:28:38] instances I I don't know and so I'm not
+[00:28:41] I'm not a historian. I'm not sure
+[00:28:42] whether there are examples of propaganda
+[00:28:45] in the past that were not targeted to
+[00:28:47] individuals because the because the
+[00:28:49] other way to do propaganda is to simply
+[00:28:51] try to get every individual human in a
+[00:28:53] population to buy into some idea. That's
+[00:28:55] not the same as as talking to the
+[00:28:57] collective, right? Uh I I give you an
+[00:28:59] example of something that we try to do
+[00:29:02] um right before our labs got shut down
+[00:29:05] for COVID um is something that we were
+[00:29:07] doing to try to communicate with uh ant
+[00:29:09] colonies. Not the ants, the ant
+[00:29:11] colonies. Now, that's hard and so this
+[00:29:14] was my idea was the following.
+[00:29:16] Uh it was we had ants in the lab and
+[00:29:18] what we wanted to do was set up an
+[00:29:20] apparatus where there are
+[00:29:22] two two areas, A and B.
+[00:29:25] Uh there's camera there's a camera
+[00:29:27] watching area A and depending on the
+[00:29:29] number of ants that hang around area A
+[00:29:33] based on that, it drops off um droplets
+[00:29:36] of food in the area B. So no individual
+[00:29:39] ant could ever have the experience of
+[00:29:41] standing here and getting some food, but
+[00:29:43] the colony if it were to learn the
+[00:29:45] appro- you know, the the relationship
+[00:29:47] could send a bunch of ants to go stand
+[00:29:48] over on this thing so that somebody else
+[00:29:50] could collect the food and they would
+[00:29:51] have the food.
+[00:29:52] So that that sort of thing, right? It's
+[00:29:54] it's um
+[00:29:55] predicated on this idea that that the
+[00:29:57] collective can know things that none of
+[00:29:59] the parts know and sometimes maybe you
+[00:30:02] can have some sort of clever
+[00:30:03] experimental design that would that
+[00:30:05] would do that. So
+[00:30:06] uh whether you can do some kind of
+[00:30:08] propaganda that
+[00:30:09] nobody in the population believes but
+[00:30:13] the collective somehow acts as though it
+[00:30:15] were true. Yeah, I think that's
+[00:30:16] possible. I mean, you know, I
+[00:30:18] I think it's possible. I I grew up in
+[00:30:21] the society where I I never met anybody
+[00:30:23] that liked what was going on but somehow
+[00:30:24] everybody maintained like some somehow
+[00:30:26] it was maintained. I I didn't meet a
+[00:30:28] single person who thought it was great
+[00:30:29] but Yeah. Somehow it was maintained. So
+[00:30:31] so maybe that's it. So maybe that's
+[00:30:33] possible.
+[00:30:35] &gt;&gt; But wouldn't you have to get it up to
+[00:30:36] show it?
+[00:30:38] &gt;&gt; Yeah, thank you so much for that. I have
+[00:30:41] probably a brief question about how
+[00:30:44] the platonic space can evolve. You said
+[00:30:47] multiple times that
+[00:30:48] uh you think it can change, but if we
+[00:30:51] see uh the platonic space as a space of
+[00:30:54] possibilities,
+[00:30:56] uh like restricted possibilities, then I
+[00:30:59] think it could grow like a tree without
+[00:31:02] removing any branches completely, but uh
+[00:31:05] but if I understood it correctly, you uh
+[00:31:07] say
+[00:31:09] you're implying something else. Can you
+[00:31:11] elaborate on how it can change in
+[00:31:13] future?
+[00:31:15] &gt;&gt; So, so the first thing to be clear is
+[00:31:17] that what whatever I say now, I don't
+[00:31:20] have strong claims about it, okay? There
+[00:31:22] are things that I feel very strongly
+[00:31:24] about because we have data and we can
+[00:31:26] reason about it. Now, now we're entering
+[00:31:28] some things that uh I suspect, but I
+[00:31:31] don't have a proof for, so take it with
+[00:31:34] with the
+[00:31:35] grain of salt that it deserves.
+[00:31:37] Uh the way I see it is not as an
+[00:31:40] enumeration of a tree of possibilities.
+[00:31:42] It's not like the chess tree you know,
+[00:31:45] the fan out tree of all possible chess
+[00:31:46] moves or anything like that. I don't
+[00:31:48] That's not how I see it.
+[00:31:50] I I I see it as a space of
+[00:31:53] um possible possible patterns, but these
+[00:31:57] patterns are
+[00:31:59] distinct
+[00:32:00] subsystems that they themselves their
+[00:32:03] properties can change over time.
+[00:32:05] In other words, I think that the the
+[00:32:07] only way this makes sense to me and I
+[00:32:09] fully understand this is a very weak you
+[00:32:12] know, sort of sort of argument, but but
+[00:32:14] if people ask me what I think, so so
+[00:32:16] there it is.
+[00:32:17] Um the only reason it seems to make
+[00:32:19] sense to me for why this the patterns in
+[00:32:22] that space are under such strong
+[00:32:23] positive pressure to ingress. It's like
+[00:32:25] we we really don't need to do much to
+[00:32:27] get them to ingress. You make something,
+[00:32:28] boom, there it is. Like they it's it's
+[00:32:30] it seems to me that they're they're
+[00:32:31] under extreme pressure to sort of you
+[00:32:33] any can you poke a hole and I see this
+[00:32:35] building any building any kind of
+[00:32:37] interface from a simple machine to a
+[00:32:38] biobot or an embryo
+[00:32:40] or you know an AI, whatever you build,
+[00:32:42] you're basically providing a little
+[00:32:44] you're poking a little hole, you're
+[00:32:45] making a little interface into that
+[00:32:46] space. As soon as you do that, boom, you
+[00:32:49] immediately get this in some cases flood
+[00:32:51] a whole ecosystem of of of patterns. Why
+[00:32:55] why is this happening?
+[00:32:56] My suspicion is that it's happening
+[00:32:59] because ingressing into the physical
+[00:33:01] world provides them with the opportunity
+[00:33:03] to to to grow and change over time.
+[00:33:07] Maybe not all of them, maybe the digits
+[00:33:08] of EE are sort of the rocks of that
+[00:33:10] world that just kind of sit there. Maybe
+[00:33:12] they don't. I don't know, but there
+[00:33:14] there may be things that are kind of
+[00:33:15] more more stable. But then there are
+[00:33:17] other things, especially the ones that
+[00:33:19] we could recognize as kinds of minds, I
+[00:33:20] think they change over time. And I'm not
+[00:33:23] I'm not ready yet to with a full sort of
+[00:33:25] chemistry of that space. I can't tell
+[00:33:27] you exactly how they change or whatever,
+[00:33:29] but we're working on it. At some point I
+[00:33:31] hope I hope to have that, but we don't
+[00:33:33] have it yet. Um but that's what I think.
+[00:33:35] I think that and and so and so can the
+[00:33:38] space grow? I think it can in the sense
+[00:33:41] that I think patterns in that space can
+[00:33:43] spawn off other smaller patterns. And in
+[00:33:46] some cases those patterns are sort of
+[00:33:48] fleeting thoughts that kind of dissipate
+[00:33:50] back into the into the space. Maybe they
+[00:33:52] they they come and go, but you could
+[00:33:54] have other patterns that are more like
+[00:33:56] um
+[00:33:56] uh they're more persistent. They're more
+[00:33:58] like obsessive or compulsive thoughts
+[00:34:00] that that they really try to persist.
+[00:34:02] Uh and then maybe you have bigger
+[00:34:04] thoughts like personality fragments that
+[00:34:06] have goals and and preferences, but
+[00:34:08] they're not full personalities,
+[00:34:10] whatever. So and I'm and I'm sure those
+[00:34:11] are you know I'm sure it's a it's an
+[00:34:12] extremely rich space with lots of
+[00:34:14] bizarre kinds of things that we would
+[00:34:17] find hard to recognize.
+[00:34:18] And uh yeah, and I think I think it's a
+[00:34:20] kind of it's a kind of ecosystem of its
+[00:34:22] own, but but I'm not ready with any kind
+[00:34:24] of a
+[00:34:25] a consistent chemistry of what exactly
+[00:34:27] is going on there. But I think I think
+[00:34:28] over time the the the the relevance of
+[00:34:31] of the physical world is that it
+[00:34:33] provides an opportunity for for growth
+[00:34:35] and change, I think.
+[00:34:38] &gt;&gt; All right.
+[00:34:39] &gt;&gt; That's my that's my conjecture.
+[00:34:40] &gt;&gt; Yeah.
+[00:34:41] Okay, thank you.
+[00:34:43] Biobots are tiny living machines made of
+[00:34:45] ordinary cells. Xenobots come from frog
+[00:34:48] embryo skin cells and robots from human
+[00:34:51] airway cells. Both assemble themselves
+[00:34:54] and move around and robots even helped
+[00:34:56] repair scratched neurons in a dish.
+[00:34:59] Evolution never selected for these
+[00:35:00] bodies. For Levin that's an argument for
+[00:35:03] platonic space.
+[00:35:05] So
+[00:35:07] there's one personal thing I think
+[00:35:11] I'd like to ask you. So you've talked
+[00:35:13] about keeping some ideas
+[00:35:16] to yourself or maybe to not a large
+[00:35:19] group of
+[00:35:20] colleagues and working on things that
+[00:35:23] weren't well received for some time
+[00:35:25] and I think it's changing right now
+[00:35:29] with a very fast pace but
+[00:35:33] I think there are many people in the
+[00:35:35] world right now with ideas that really
+[00:35:37] want to explore novel ideas that
+[00:35:41] they get little support
+[00:35:44] because of dogma or status quo or
+[00:35:47] anything.
+[00:35:48] Especially
+[00:35:50] with AI I guess and other stuff. So what
+[00:35:53] helped you get started and keep doing
+[00:35:57] this kind of work?
+[00:35:58] Can you tell us your story how you were
+[00:36:01] able to persist with that?
+[00:36:04] Yeah
+[00:36:05] I will I can say a few things. First of
+[00:36:07] all for for for everybody else I think
+[00:36:09] it's really critical for people to
+[00:36:11] honestly ask themselves what are they
+[00:36:15] hoping will happen with their ideas.
+[00:36:17] Like is it important that other people
+[00:36:19] buy into your idea and if so why? What
+[00:36:21] are you asking them to do it with with
+[00:36:23] with your idea? It kind of rephrases it
+[00:36:26] because there's a lot of people
+[00:36:28] that that have ideas and are sort of
+[00:36:29] bitter about
+[00:36:31] their ideas not being well received but
+[00:36:32] I think it helps to remember that you're
+[00:36:35] asking them to do things that they're
+[00:36:37] not currently doing. They don't owe you
+[00:36:39] that. It's on you actually to to make it
+[00:36:42] in it it irresistible for them to do so.
+[00:36:45] That puts the burden on you. I you know,
+[00:36:46] I I've I've met a lot of a lot of people
+[00:36:49] who are um
+[00:36:50] uh sort of really really resentful and
+[00:36:53] and uh around how little their brilliant
+[00:36:56] ideas have have you know, received a
+[00:36:58] positivity. And and they may well be
+[00:37:00] brilliant ideas. But but I think it's
+[00:37:02] really important that that you're asking
+[00:37:04] them to spend time, maybe money, maybe
+[00:37:06] change, maybe step away from their own
+[00:37:08] ideas. You know, I get emails all the
+[00:37:10] time from people who want me to drop
+[00:37:11] what I'm doing and take up their idea.
+[00:37:13] Cool, but you should work on your own
+[00:37:15] idea. I
+[00:37:16] they have mine, you have yours. It's
+[00:37:18] fine. So So [clears throat] I think I
+[00:37:19] think that's really important. And I
+[00:37:21] think I think that helps it helps keep
+[00:37:23] you grounded and it helps keeping keep
+[00:37:25] people from from becoming angry and and
+[00:37:27] bitter at the community by by
+[00:37:28] remembering that it's really nobody's
+[00:37:30] job but yours to make your ideas
+[00:37:32] absolutely irresistible so that people
+[00:37:34] can't help but take them up. And
+[00:37:38] then the question is what what exactly
+[00:37:40] are you asking them to do? So So in my
+[00:37:42] case,
+[00:37:43] I I personally
+[00:37:45] I mean people don't don't realize it but
+[00:37:47] but I I'm an introvert. I don't actually
+[00:37:49] like being sort of out in public at all.
+[00:37:52] The only reason I do it is because
+[00:37:54] it's it just so happens that part of my
+[00:37:57] mission is getting this stuff into the
+[00:37:58] clinic. I want these ideas to help
+[00:38:00] patients. I want them to resolve some of
+[00:38:02] the medical suffering out there. And
+[00:38:04] that is not something I could do in my
+[00:38:06] basement with or without AI. So if I if
+[00:38:08] if if it was, that's exactly where I
+[00:38:10] would be, but I don't believe that's
+[00:38:11] possible, unfortunately.
+[00:38:13] This kind of thing. And so
+[00:38:15] this kind of thing requires the buy-in
+[00:38:16] of others. It requires the buy-in of
+[00:38:18] lots of other smart people who work at
+[00:38:19] bedside and and and and in different
+[00:38:22] parts of the you know, the the
+[00:38:24] the the biological sciences.
+[00:38:26] So
+[00:38:27] that's that's part of it is to figure
+[00:38:28] out what is it that you actually want
+[00:38:30] and who who are you asking to give up
+[00:38:32] what part of their life to to help you
+[00:38:33] with your idea. That's So So So my
+[00:38:35] journey started I was a I was a kid
+[00:38:38] and I wrote I read sorry, I read a
+[00:38:41] couple of books on premature discovery.
+[00:38:43] And it was basically historical books
+[00:38:45] about what happened to people that were
+[00:38:46] too far ahead of their time and there's
+[00:38:48] some fascinating cases.
+[00:38:50] And
+[00:38:51] what I got out of that was was again
+[00:38:54] this idea that you really have to
+[00:38:57] there's a there's a
+[00:38:58] blog post that I have talking about how
+[00:39:01] I how I advise some of my most creative
+[00:39:03] students to bifurcate their mind, kind
+[00:39:04] of split it in half, and have a part
+[00:39:06] that's absolutely
+[00:39:08] pristine and creative and nobody gets to
+[00:39:11] touch it in in in the way that the way
+[00:39:13] you do that is by
+[00:39:14] never asking does this make sense to
+[00:39:16] others, what's the impact, how is it
+[00:39:18] going to be received? So half of your
+[00:39:19] mind doesn't do that at all. You just
+[00:39:21] reserve it for the creative ideas that
+[00:39:23] make sense to you that you find
+[00:39:24] beautiful and all that. Then there's the
+[00:39:26] other half of your mind which is the
+[00:39:27] complete opposite where you say, "Okay,
+[00:39:29] look, this is my audience. I have a
+[00:39:31] mental model of my audience. I have a
+[00:39:33] theory of mind about them. What do I
+[00:39:35] need to say to them to get them to do
+[00:39:37] whatever it is that I want that I'm
+[00:39:38] asking them to do, you know? Are they
+[00:39:40] going to understand it? Are they going
+[00:39:41] to appreciate it? Are they going to be
+[00:39:42] freaked out about it? Like what's the
+[00:39:43] deal?" So these are very different
+[00:39:45] phases.
+[00:39:47] And so and so what I sort of decided
+[00:39:50] early on was that I was going to A
+[00:39:52] cultivate that kind of system, B that
+[00:39:55] I think it's very important to have a
+[00:39:56] thick skin, you know, this this idea
+[00:39:59] that
+[00:40:00] nobody's actually trying to suppress you
+[00:40:02] or get you you know or to keep you down
+[00:40:03] or anything like that. Everybody's
+[00:40:05] fighting their own battles. Everybody in
+[00:40:07] the audience has a million problems that
+[00:40:09] you are the last thing on their on their
+[00:40:10] list. And all you can do is bring them
+[00:40:12] something that will make them them
+[00:40:15] happier and and you know in some way
+[00:40:16] help them move their agendas and if you
+[00:40:18] can do that, then then maybe they'll
+[00:40:20] travel with you for some part of the
+[00:40:22] journey, not because they owe you
+[00:40:23] anything but because you you have a you
+[00:40:26] have aligned goals for some part of or
+[00:40:28] some part of the trip.
+[00:40:30] And
+[00:40:31] so so what I so the third thing I sort
+[00:40:34] of realized is that
+[00:40:36] I would have a I have a I have an agenda
+[00:40:38] of things that I would like to
+[00:40:39] investigate.
+[00:40:41] And I have to estimate at any given
+[00:40:43] moment how much of this does it make any
+[00:40:45] sense to talk about publicly. Now this
+[00:40:47] goes back to I mean we're talking mid
+[00:40:50] 80s at this point like this is a long
+[00:40:52] time ago. So I was thinking about all
+[00:40:54] this
+[00:40:55] you know platonic space stuff whatever.
+[00:40:57] I never talked about it until 25, you
+[00:40:59] know, it's been
+[00:41:00] almost 40 years. And and and that's
+[00:41:02] because it wouldn't have made any sense
+[00:41:04] to talk about this stuff
+[00:41:06] because because we didn't have the data
+[00:41:07] to make it actionable, you know,
+[00:41:09] Pythagoras and Plato already said
+[00:41:10] everything that was to say about it
+[00:41:12] until recently and and there was no
+[00:41:14] point in um to trying to talk about it
+[00:41:17] too early. There was no point in
+[00:41:20] writing another book for the new age
+[00:41:21] bookshelf about crazy stuff. I believe
+[00:41:23] there's no there's enough of that.
+[00:41:24] There's no need.
+[00:41:25] What what I try to do is to stick pretty
+[00:41:29] closely to what's now actionable in our
+[00:41:31] lab. Things that either we've already
+[00:41:33] done or that we are now
+[00:41:35] the way it works for me is if I'm if I'm
+[00:41:37] paying someone to do research at a
+[00:41:38] particular area by the time I can see it
+[00:41:41] on my, you know, sort of financial
+[00:41:43] set of bills for my lab then I know it's
+[00:41:46] actionable. Right? Then I know I know
+[00:41:48] we're actually doing work. It isn't just
+[00:41:49] philosophy. It isn't just opinions.
+[00:41:50] Somebody's actually doing work on it.
+[00:41:52] Then then I can talk about it.
+[00:41:54] And so yeah, so over the over the years
+[00:41:56] I've had a kind of a mental knob that I
+[00:41:58] sort of turn a little bit each time. I'm
+[00:42:01] completely shocked at how far we've
+[00:42:03] gotten. I never thought it would get
+[00:42:04] this far. I was sure that this will all
+[00:42:06] you know
+[00:42:07] either crash and burn or be shut down or
+[00:42:08] something long long ago.
+[00:42:11] But yeah, very sort of slowly and
+[00:42:12] carefully
+[00:42:14] I would say things that I thought other
+[00:42:17] people at least some other people would
+[00:42:18] find useful
+[00:42:20] and and that would let us do the next
+[00:42:22] set of work. I mean lab work is very
+[00:42:24] expensive unfortunately. So this meant
+[00:42:26] you know, first writing grants and
+[00:42:28] talking about ion channel genes in
+[00:42:30] development knowing full well that I
+[00:42:31] wasn't just studying genes in
+[00:42:33] development but but I knew I couldn't
+[00:42:34] you know sort of freak anybody out by
+[00:42:36] talking about this
+[00:42:37] this other stuff. And then five years
+[00:42:39] later I was able to write grant
+[00:42:41] applications that say, you know, it's
+[00:42:42] not just genes in development. It's
+[00:42:44] actually
+[00:42:45] it's actually voltage gradients in
+[00:42:46] development. And then they said, well
+[00:42:48] that's crazy but he did the genes in
+[00:42:49] development stuff so maybe maybe it's
+[00:42:51] okay. And then 5 years after that I was
+[00:42:53] able to say, "No, it's actually really
+[00:42:54] computations and development." And
+[00:42:56] people say, "Well, that's crazy, but you
+[00:42:57] know, he did the the the voltage stuff,
+[00:42:59] so maybe." And then eventually I was
+[00:43:00] able to say, "Yeah, no, it's cognition
+[00:43:02] actually. It's it's it's actually it's
+[00:43:03] actually behavior science."
+[00:43:05] And I could not have said these things
+[00:43:06] early on. It wouldn't have It wouldn't
+[00:43:08] have I mean, people did say them a long
+[00:43:10] time ago, but they had nothing no
+[00:43:11] evidence of for it, and so it it it went
+[00:43:13] nowhere. So, that's my strategy and
+[00:43:16] to be very clear, I don't know that um I
+[00:43:18] have an optimal path at all. I'm just
+[00:43:20] doing the best I can. I don't know there
+[00:43:21] could have been a lot of things maybe I
+[00:43:23] should have said earlier. Maybe there's
+[00:43:24] a bunch of stuff I say now which I
+[00:43:25] should have kept my mouth shut for
+[00:43:26] another 10 years. I have no idea. We
+[00:43:28] only get we don't for for for this this
+[00:43:30] kind of thing we only get one
+[00:43:31] experiment, so we sort of do the best we
+[00:43:33] can. But but that's but that's for the
+[00:43:35] the useful part of this is just kind of
+[00:43:37] my advice for other people with
+[00:43:38] unconventional ideas,
+[00:43:40] which is think really hard about what
+[00:43:41] you're asking people to give up in order
+[00:43:43] to uh to do your stuff, and what are you
+[00:43:45] showing them that would make sense for
+[00:43:48] them to for them to do that. And nothing
+[00:43:50] is personal. Nobody's against you. It's
+[00:43:52] just everybody's fighting their own
+[00:43:54] battle.
+[00:43:55] &gt;&gt; Yeah, it it it it it appears to be like
+[00:43:57] a some kind of friction from the
+[00:43:59] collective when you try to inject new
+[00:44:02] ideas. You have to to to fight that in
+[00:44:05] in a way. Like it's an like an obstacle,
+[00:44:08] you know, that that's it needs to
+[00:44:09] overcome
+[00:44:11] uh
+[00:44:12] yeah.
+[00:44:13] &gt;&gt; Yeah, there's there's there's massive
+[00:44:14] there's massive inertia because because
+[00:44:16] changing your mind is stressful because
+[00:44:19] because it's so it's ultimately it's the
+[00:44:20] paradox of change. If you significantly
+[00:44:23] change your mind, you're not the same as
+[00:44:24] you used to be. You're that person
+[00:44:25] doesn't exist
+[00:44:26] anymore. You're never the same. And and
+[00:44:28] the more you have to change your mind,
+[00:44:30] the more that person doesn't exist. And
+[00:44:32] and that's stressful and it's scary, and
+[00:44:34] people don't like to do it. Plus there's
+[00:44:35] pressures of life. Everybody's you know,
+[00:44:37] kind of trying to
+[00:44:38] get their own thing going. So, so yeah,
+[00:44:40] absolutely there's a resistance. Um
+[00:44:43] and uh yeah, your your job is to not
+[00:44:46] take it personally the fact that other
+[00:44:47] people uh you know, are focused on other
+[00:44:50] things and to bring them something that
+[00:44:53] makes it makes it makes it irresistible
+[00:44:55] what you're doing. That's
+[00:44:56] &gt;&gt; Yeah, evidence basically evidence what
+[00:44:58] what you do what you're doing.
+[00:45:00] &gt;&gt; Yeah, you know, evidence is so it's
+[00:45:01] funny. I used to think you know, when
+[00:45:03] we're when we were when we're young and
+[00:45:05] we sort of I I had this very naive
+[00:45:07] picture that we are told in the in the
+[00:45:09] kids science books you're told well,
+[00:45:11] here's the cycle of science and when you
+[00:45:13] when evidence comes that
+[00:45:16] contradicts the prior paradigm we all
+[00:45:18] adjust our paradigm and you know, so we
+[00:45:19] do that circle. Yeah, that's not exactly
+[00:45:22] unfortunately
+[00:45:24] how it works. Evidence is just part of
+[00:45:26] it. You you need the evidence but it's
+[00:45:27] not sufficient. It's necessary but it's
+[00:45:28] not sufficient.
+[00:45:30] Unfortunately you you you have to have
+[00:45:32] evidence
+[00:45:33] but you also have to have
+[00:45:37] I don't know how you would call it.
+[00:45:38] You have to have a story that allows
+[00:45:41] people that allows people to incorporate
+[00:45:43] that evidence into into their worldview
+[00:45:46] without without being too painful. You
+[00:45:49] need some kind of you need some kind of
+[00:45:51] a delivery vehicle and and this is this
+[00:45:54] is one reason I mean I practice like
+[00:45:56] I do the open science and I give talks
+[00:45:58] with roughly similar slides sometimes
+[00:46:00] shuffled in different ways because I'm
+[00:46:02] always trying to craft a different story
+[00:46:05] that makes it easier for someone who
+[00:46:07] doesn't agree with me to go as far down
+[00:46:10] that path as as as possibly can make
+[00:46:12] sense to them, right?
+[00:46:13] And and yeah, pure evidence I think is
+[00:46:16] not enough. Um
+[00:46:18] I think I think we as humans and just in
+[00:46:20] general any kind of finite cognitive
+[00:46:23] agent is has all kinds of other um
+[00:46:28] sort of meta rules as far as how they
+[00:46:29] how they change their mind. And changing
+[00:46:32] your mind
+[00:46:33] you know, this not not everybody can can
+[00:46:35] just change their mind in fundamental
+[00:46:37] ways because of evidence. Some people
+[00:46:38] can but it's not that common. I I don't
+[00:46:40] think it's that common.
+[00:46:41] &gt;&gt; Yeah, people do really like to be think
+[00:46:44] of themself as as individual as static
+[00:46:47] as something stable that it does not
+[00:46:49] change but it's never never true.
+[00:46:52] We [snorts] always change. We are we
+[00:46:53] just we
+[00:46:55] we don't maybe we don't remember the
+[00:46:58] states previous states before, but yeah.
+[00:47:01] &gt;&gt; Yeah. Somebody, I forget who it was,
+[00:47:03] somebody gave a talk on how to give
+[00:47:05] talks, and one of the things he started
+[00:47:07] out with is he said, "Um giving a good
+[00:47:09] lecture is a violent act." And what he
+[00:47:11] meant is that if you do a good job,
+[00:47:13] you're literally reaching into the mind
+[00:47:15] of your audience and changing them in a
+[00:47:17] way that
+[00:47:18] maybe they didn't consent to, maybe they
+[00:47:20] wish they you know you all of us have
+[00:47:22] experiences about hearing things we wish
+[00:47:24] we never heard. You know, you can't you
+[00:47:25] can't unhear certain ideas. Um if you're
+[00:47:28] really intelligent, then
+[00:47:29] sometimes you can be susceptible to the
+[00:47:31] thought that breaks the thinker. You
+[00:47:32] know, you can come across something that
+[00:47:34] sends you into some kind of spiral of
+[00:47:35] depression, not because there's any
+[00:47:37] organic disease in the brain, but
+[00:47:39] because because you're a deep thinker
+[00:47:40] and and the implications of it, whatever
+[00:47:43] are destabilizing to you.
+[00:47:45] Um
+[00:47:46] yeah, uh these are all these are all
+[00:47:48] important factors of how individuals and
+[00:47:50] then collectives and you know, back to
+[00:47:52] your back to your original question, you
+[00:47:54] know, the scientific community as a
+[00:47:55] collective
+[00:47:56] does it have independent you know, some
+[00:47:58] kind of independent um
+[00:48:00] existence as an agent? Maybe I I I don't
+[00:48:02] know.
+[00:48:03] &gt;&gt; I I do think it it it has. I I do think
+[00:48:06] that because we we actually
+[00:48:09] we try to impose our view on what is the
+[00:48:12] goal. We try to observe some kind of
+[00:48:14] behavior and label it. So, as a goal.
+[00:48:17] So, therefore, through the interactions
+[00:48:20] between of the collectives, we can infer
+[00:48:23] some new goals, but not always we can
+[00:48:26] see them, not always we can label, but
+[00:48:28] sometimes we can.
+[00:48:30] Uh but I I it's basically like your
+[00:48:34] if I correct me if I'm wrong, like your
+[00:48:36] polycomputing idea.
+[00:48:39] Uh it all happens at the same time. And
+[00:48:42] even the the levels the
+[00:48:44] the levels cannot maybe not interacting
+[00:48:47] between themselves. Like the particles
+[00:48:49] level particles level level of chemicals
+[00:48:52] level of the cells, they don't interact
+[00:48:56] between the levels, but in I mean, they
+[00:48:59] interact only on the same level
+[00:49:01] of the the same scale
+[00:49:04] if you can say
+[00:49:05] uh
+[00:49:06] and and again through their interfaces
+[00:49:09] through the ways they can interact.
+[00:49:12] Yeah, so
+[00:49:13] &gt;&gt; Um unfortunately I've got to I've got to
+[00:49:15] &gt;&gt; Yeah, thank you. Thank you so much for
+[00:49:16] your time.
+[00:49:18] &gt;&gt; Yeah, thank you very much. Yeah, thanks.
+[00:49:19] &gt;&gt; I hope we can something again.
+[00:49:23] &gt;&gt; [snorts and gasps]
+[00:49:24] &gt;&gt; Sure, yeah. Keep
+[00:49:25] Keep in touch. Yeah.
+[00:49:27] &gt;&gt; Thank you. Goodbye.
+[00:49:28] &gt;&gt; Yeah, be well.
+[00:49:29] &gt;&gt; Be well.
+[00:49:30] &gt;&gt; Bye.
+[00:49:37] &gt;&gt; [music]

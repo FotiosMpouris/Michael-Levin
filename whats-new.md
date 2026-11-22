@@ -1,7 +1,7 @@
 ---
 title: What's new
 created: 2026-10-15
-updated: 2026-11-12
+updated: 2026-11-22
 type: hub
 tags: [#whats-new]
 sources: []
@@ -9,7 +9,20 @@ sources: []
 
 # What's new
 
-Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), newest first. Updated 2026-11-12.
+Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), plus interviews and talks where Levin is a guest on other channels, newest first. Updated 2026-11-22.
+
+## 2026-11-22: Levin as a guest on other channels
+
+Six interviews and talks on other people's YouTube channels, from 2026-09-09 to 2026-11-18, now each have a summary page. Captions came through for all six. The 2026-10-20 632nm interview already had a page and is now in the feed too.
+
+| Published | Video | Channel and who | In brief |
+|---|---|---|---|
+| 2026-11-18 | [[2026-11-18-agency-intelligence-across-scales-friston-chis-ciure|Agency & Intelligence Across Scales]] | Wandering Thoughts: Levin with [[karl-friston|Karl Friston]] and [[robert-chis-ciure|Robert Chis-Ciure]] | A roundtable linking Friston's free energy principle to xenobots and anthrobots. Levin asks where the properties of never-selected beings come from and describes inferring a "xenobot home world"; Friston answers with boundary conditions and scale; Chis-Ciure reports search-efficiency numbers for amoebas and planaria. Levin leaves after about 58 minutes. |
+| 2026-11-12 | [[2026-11-12-building-your-compass-era-minicon|Building Your Compass: a path through idea space and academia]] | ERA MiniCon (Emerging Researchers in Artificial Life): a talk, recorded 2026-08-16 | A career talk for young researchers: his path from *The Body Electric* at 17 to his Tufts lab, a tour of the main results, why he waited until 2025 to talk about Platonic space, and frank advice on rejection, grant writing and running a lab. |
+| 2026-10-28 | [[2026-10-28-does-a-town-have-goals-science-conversations|Does a town have goals of its own?]] | Science Conversations: interview | Why rules fit simple systems but not smart ones, communicating with cells instead of rewriting their rules, unpublished "pointer arithmetic" in Platonic space, whether towns and companies have goals, and advice for people with unconventional ideas. |
+| 2026-10-28 | [[2026-10-28-where-does-genius-come-from-scott-barry-kaufman|Where Does Genius Come From?]] | Human Potential Lab: interview with Scott Barry Kaufman | Intelligence as a spectrum, bioelectricity as cognitive glue, free lunches, a spectrum of inspiration up to Ramanujan, and the Platonic space, where bodies and machines are interfaces rather than makers of minds. |
+| 2026-09-21 | [[2026-09-21-bioelectricity-aging-future-of-medicine-arjun-khemani|Bioelectricity, Aging, and the Future of Medicine]] | Arjun Khemani: interview | The boredom theory of aging, bioelectric changes with age, decoding and rewriting pattern memories, a fruit-fly lifespan study in progress, and why he expects medicine to look more like "somatic psychiatry" than chemistry. |
+| 2026-09-09 | [[2026-09-09-redefining-the-rules-of-life-bernardo-kastrup|Michael Levin redefining the rules of life]] | Bernardo Kastrup: conversation from a live "With Reality in Mind" meeting | The genome as prompts, why he thinks the physical world is not causally closed and physicalism is not viable, his "experience or memory" question for Kastrup, a cell-training platform for drug conditioning, Mombot, and the boredom theory of aging. |
 
 ## Week of 2026-11-12: new in the feed
 
@@ -81,7 +94,7 @@ Captions could not be fetched that week. The three videos below now have summary
 | 2026-10-10 | [[2026-10-10-thermodynamics-control-fundamental-niche|Thermodynamics, Control, & Fundamental Niche]] | M. Kearney, I. Shames, R. Schouten, P. Egré, R. Evans (guests); Levin and lab in discussion | An ecologist, two control engineers and a philosopher present early work linking an organism's heat and water budget (thermodynamics) with control theory (how it regulates itself) to define the 'fundamental niche' — the range of conditions where it can survive. |
 | 2026-10-09 | [[2026-10-09-neuroscience-beyond-neurons|Neuroscience Beyond Neurons: Communicating with Unconventional Minds]] | Michael Levin | Levin argues neuroscience is really the science of how minds work in any substrate, and walks through the evidence that cells and tissues show the hallmarks of intelligence — and that bioelectricity is how we can talk to them. |
 | 2026-09-24 | [[2026-09-24-discussion-marsha-hewitt-platonic-space|Discussion with Marsha Hewitt (Platonic Space and related ideas)]] | Michael Levin and Marsha Hewitt | A philosopher of religion who teaches Levin's 'Ingressing Minds' paper talks with him about Platonic space, religion, psychoanalysis, and why these ideas unsettle people. |
-| 2026-09-22 | [[2026-09-22-life-machines-synthbiosis|Life, Machines, and a Foundation for Synthbiosis]] | Michael Levin | A compressed tour of the lab's program: goals encoded bioelectrically, memory in xenobots, anthrobots from human cells, learning in tiny gene-network models, and the Mambot robot scientist. |
+| 2026-09-22 | [[2026-09-22-life-machines-synthbiosis|Life, Machines, and a Foundation for Synthbiosis]] | Michael Levin | A compressed tour of the lab's program: goals encoded bioelectrically, memory in xenobots, anthrobots from human cells, learning in tiny gene-network models, and the Mombot robot scientist. |
 | 2026-09-21 | [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]] | Michael Levin | Levin's case that the debate about AI misses what biology already shows about minds: 'life' and 'machine' are categories that won't survive the decade, and competency comes from more sources than engineering, evolution and training. |
 | 2026-09-20 | [[2026-09-20-measuring-machine-consciousness-cameron-berg|Measuring Machine Consciousness]] | Cameron Berg (Reciprocal Research), guest talk | Cameron Berg presents early empirical work on whether AI systems have the structure and function associated with consciousness, aiming to replace 'vibes' with measurable indicators. |
 | 2026-09-13 | [[2026-09-13-andrey-vyshedskiy-evolution-of-language|A Conversation with Andrey Vyshedskiy about the Evolution of Language and Brain Development]] | Michael Levin and Andrey Vyshedskiy | Neuroscientist Andrey Vyshedskiy explains his theory that complex, syntactic imagination depends on brain networks built by conversation in early childhood, and what that implies for human evolution and for children who miss the window. |
@@ -89,7 +102,7 @@ Captions could not be fetched that week. The three videos below now have summary
 
 ## Threads worth watching
 
-- **Mambot** — a robot scientist that designs, builds and studies xenobots, running the full experiment loop in morphology (see [[2026-09-22-life-machines-synthbiosis|Synthbiosis talk]] and [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]]).
+- **Mombot** — a robot scientist that designs, builds and studies xenobots, running the full experiment loop in morphology (see [[2026-09-22-life-machines-synthbiosis|Synthbiosis talk]] and [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]]).
 - **Platonic space as an experimental program** — Levin says several postdocs are now running experiments on it ([[2026-10-11-mind-body-interface-levin-kofman|Mind-Body Interface]]).
 - **Talking to biology in English** — a language layer over gene regulatory networks ([[2026-09-03-bohorquez-serruya-information-across-levels|Bohórquez and Serruya]]).
 - **Commercialization** — Levin now discloses four licensees; see [[companies-tracker|Companies tracker]].

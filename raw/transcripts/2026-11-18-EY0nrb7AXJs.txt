@@ -1,0 +1,2252 @@
+[00:00:00] Hey guys, welcome to another episode of
+[00:00:02] pondering thoughts. Today I'm joined by
+[00:00:05] Professor Michael Levin, Professor Karl
+[00:00:07] Friston, and Dr. Robert from the
+[00:00:10] University of Sussex. So thank you so
+[00:00:13] much for joining me guys. It's a
+[00:00:14] pleasure to be able to talk to you and
+[00:00:15] to learn from you.
+[00:00:17] I want to encourage all three of you to
+[00:00:20] take the conversation into any
+[00:00:22] interesting tangents that might come.
+[00:00:26] Um but I thought it might be a good
+[00:00:29] start to try to understand how all of
+[00:00:32] your guys' work intersects. A kind of
+[00:00:36] big picture question I had in mind is to
+[00:00:39] connect the previous two episodes
+[00:00:42] um we've done with Professor Levin and
+[00:00:44] Professor Friston. And so
+[00:00:46] we talked about active inference,
+[00:00:49] Professor Friston, on our first episode
+[00:00:51] and I was wondering how we can
+[00:00:55] understand the code-directed behavior of
+[00:00:59] cells that we talked about, Professor
+[00:01:02] Levin,
+[00:01:03] through a framework of active inference.
+[00:01:07] And Robert, um both Professor Levin and
+[00:01:10] Professor Friston have talked highly of
+[00:01:12] you and so I'd be also interested in
+[00:01:15] your ideas around this question. So I'll
+[00:01:19] leave it open to you any any of the
+[00:01:21] three of you. I'm happy to start
+[00:01:23] whoever wants to take the initiative.
+[00:01:26] &gt;&gt; I think Robert should take the
+[00:01:28] initiative in linking the with Mike.
+[00:01:31] &gt;&gt; [laughter]
+[00:01:33] &gt;&gt; Am I now
+[00:01:34] uh it's my turn now, Karl?
+[00:01:36] &gt;&gt; It is your turn now.
+[00:01:38] &gt;&gt; In the in the TMB.
+[00:01:40] So
+[00:01:42] I've been
+[00:01:43] um a chair for Karl's theoretical
+[00:01:46] neurobiology group for two years. So I I
+[00:01:49] do have some
+[00:01:51] some insights from from Karl's work and
+[00:01:54] I've been working with Mike for about a
+[00:01:57] year and a half now, I think. And we are
+[00:02:00] now actively developing the
+[00:02:02] the story behind the platonic spaces.
+[00:02:06] And if I were to
+[00:02:09] to propose a linchpin, knowing very well
+[00:02:12] that Karl has spoken before on the
+[00:02:15] platonic nature of thing,
+[00:02:17] I would say that
+[00:02:20] in the context of the free energy
+[00:02:22] principle,
+[00:02:24] especially in the somewhat Karl calls
+[00:02:28] it, if I recall, deflationary definition
+[00:02:30] of things,
+[00:02:32] the ways in which the scales relate to
+[00:02:36] each other.
+[00:02:37] And Karl, I'm sure will will explicate
+[00:02:41] much more about the the specific
+[00:02:44] dynamics that occurs.
+[00:02:47] Something that exists at a certain scale
+[00:02:50] is fast relative to the scale above and
+[00:02:54] slow relative to the scale below.
+[00:02:56] And I am curious
+[00:02:59] in the context of of Mike's
+[00:03:02] of Mike's research, how would Karl
+[00:03:05] in,
+[00:03:06] for example, xenobots,
+[00:03:09] which, if I understood his points
+[00:03:12] correctly in several papers,
+[00:03:15] um the xenobots do not have a genome
+[00:03:19] selected for what they are. They have a
+[00:03:21] frog's genome.
+[00:03:22] And the genome is something that's so
+[00:03:25] slow that it never
+[00:03:27] moves.
+[00:03:28] It stops moving as you as you mentioned
+[00:03:31] on some point, Karl.
+[00:03:33] And I [clears throat] I'm curious, where
+[00:03:34] would the xenobots ability or capacity,
+[00:03:38] the forms, I suppose that Mike Mike
+[00:03:40] would call them,
+[00:03:42] emerge from
+[00:03:44] if they are not in the genome?
+[00:03:48] &gt;&gt; So I will certainly speak to that and
+[00:03:50] but you've introduced the notion of
+[00:03:52] platonic. Uh so I'm going to pass the
+[00:03:55] baton to Mike just to sort of frame
+[00:03:58] frame [laughter]
+[00:03:59] um
+[00:04:00] which is great cuz I I'd love to talk
+[00:04:02] about this But it might be just useful
+[00:04:03] for for the listeners just understand
+[00:04:06] the deep questions on the table from the
+[00:04:09] point of point of view of some platonic
+[00:04:10] forms and the like.
+[00:04:13] &gt;&gt; Yeah.
+[00:04:15] I think that
+[00:04:17] before [clears throat] before we make
+[00:04:18] any commitments to platonic space or
+[00:04:20] anything else, we can just
+[00:04:23] think about a
+[00:04:25] a generic question, which is that where
+[00:04:27] do novel systems properties come from?
+[00:04:29] So when when whenever we make or find
+[00:04:32] anything that has certain specific
+[00:04:34] properties, we typically have three ways
+[00:04:37] that nowadays that we try to explain
+[00:04:39] those properties. Either it was
+[00:04:41] engineered specifically to do certain
+[00:04:43] things or maybe it was evolved slash
+[00:04:45] selected to do those things or maybe it
+[00:04:46] was trained to do those things. And some
+[00:04:49] combination, one or more of those things
+[00:04:51] are thought to to be the explanation for
+[00:04:53] what you see.
+[00:04:54] So we've been interested in
+[00:04:56] creating model systems that the stress
+[00:04:58] test that assumption. And one of those
+[00:05:00] systems, and we have numerous systems
+[00:05:02] like it, one of them is is Xenobot. So
+[00:05:03] just for anybody who doesn't know,
+[00:05:05] we take wild type cells out of let's say
+[00:05:08] a frog embryo. We do the same thing with
+[00:05:10] humans
+[00:05:12] in in a in a saltwater medium, which is
+[00:05:15] basically not different from the medium
+[00:05:17] that they're normally in. And they
+[00:05:18] self-assemble into this little creature
+[00:05:20] that is able to move around on its own
+[00:05:22] and do all kinds of interesting things.
+[00:05:24] It has a novel
+[00:05:26] transcript home with hundreds of
+[00:05:28] differentially expressed genes. It has
+[00:05:29] novel behaviors that the normal embryos
+[00:05:32] don't do. It has it it it responds to
+[00:05:34] sound. It that does all sorts of
+[00:05:36] interesting things.
+[00:05:37] Kinematic self-replication and so on. So
+[00:05:40] the question on the table is, can we
+[00:05:42] develop a predictive science of where
+[00:05:45] the goal of novel systems with the goals
+[00:05:48] and properties and capabilities and just
+[00:05:50] very specifically where do they come
+[00:05:51] from? Because I don't think it's enough
+[00:05:53] to say that, well, life is complex and
+[00:05:55] somehow at the same time you were
+[00:05:56] selecting for frogs and humans, you also
+[00:05:58] got Xenobots and Anthrobots. That's okay
+[00:06:01] after the fact, after somebody produces
+[00:06:03] them and shows you what they do. But we
+[00:06:04] have to do better because we make all
+[00:06:06] sorts of novel beings, novel structures,
+[00:06:08] humans,
+[00:06:10] cyborgs, AI's, whatever.
+[00:06:12] I would like to understand the space
+[00:06:14] from which their properties are drawn
+[00:06:15] and the conditions in which certain
+[00:06:17] properties appear and not others. So so
+[00:06:20] so that's the question, right? And and
+[00:06:21] and I do not like the standard emergent
+[00:06:24] answer where you just sort of shrug your
+[00:06:25] shoulders and say, well, surprise, it
+[00:06:27] was emergent. So that's that. I would
+[00:06:28] like to think that upstream of that is
+[00:06:31] some sort of structured space that we
+[00:06:32] can study from which these properties
+[00:06:34] are are pulled. And I'll I'll stop here
+[00:06:36] and then later I can I can talk a little
+[00:06:38] bit about what we've done with this with
+[00:06:39] this information.
+[00:06:43] &gt;&gt; Brilliant.
+[00:06:44] Right. So to just
+[00:06:46] address Robert's question and just to
+[00:06:49] foreground his
+[00:06:52] appeal to scale, I think scale
+[00:06:54] invariance is going to be very important
+[00:06:56] here in our discussion.
+[00:07:00] But to
+[00:07:02] ask the question, what would it mean to
+[00:07:05] understand the
+[00:07:07] the different kinds of self-organization
+[00:07:10] that we can see and how do we explain
+[00:07:12] them in terms of how they emerged?
+[00:07:15] I would read that from the point of view
+[00:07:17] of a physicist
+[00:07:20] trying to think about self-organization
+[00:07:23] as what are the boundary conditions
+[00:07:26] that explain what things are allowable
+[00:07:28] and what things are not?
+[00:07:30] And if you can identify the right kind
+[00:07:33] of boundary conditions,
+[00:07:35] do they plausibly
+[00:07:37] point to self-organization that has the
+[00:07:41] attributes of the kind that Michael was
+[00:07:42] just just rehearsing, the kind of
+[00:07:44] attributes that
+[00:07:46] you would bring a
+[00:07:47] a teleology like selection or training
+[00:07:51] or learning
+[00:07:52] to explain post hoc once you've observed
+[00:07:55] these kinds of behaviors.
+[00:07:57] And
+[00:07:58] from a deflationary to celebrate
+[00:08:01] Robert's introduction of that word
+[00:08:03] perspective,
+[00:08:05] I would say yes.
+[00:08:06] And then the quest becomes, what are
+[00:08:08] these boundary conditions?
+[00:08:10] Um,
+[00:08:11] and the approach that the free energy
+[00:08:13] principle would take would be to note
+[00:08:16] that you have to be able to specify what
+[00:08:21] it would mean for something to exist
+[00:08:23] over a non-trivial amount of time. In
+[00:08:26] other words, first of all, you have to
+[00:08:28] define explicitly what it is to be a
+[00:08:31] structure. And if I was talking in the
+[00:08:33] 1950s, this would be a dissipative
+[00:08:35] structure in the in the sense of
+[00:08:38] Um,
+[00:08:40] what it means to be a structure and how
+[00:08:42] a structure can be separated from the
+[00:08:44] environment in which it is immersed. It
+[00:08:46] could be salt water, it could be a whole
+[00:08:48] host of other
+[00:08:49] um,
+[00:08:51] xenobots or cells. Um, and then um, ask
+[00:08:56] yourself, well,
+[00:08:58] in so doing, am I
+[00:09:01] what implicit boundary constraints have
+[00:09:03] I invoked or appealed to? And the first
+[00:09:06] obvious one is that this self, this
+[00:09:10] thing, this structure has some
+[00:09:12] characteristic states that are defined
+[00:09:14] simply in virtue of the fact that there
+[00:09:16] are lots of states it can't be in. In
+[00:09:19] other words, there are lots of more way
+[00:09:20] there are lots more ways of being dead
+[00:09:22] or dissipated than there are of being
+[00:09:24] alive.
+[00:09:26] Um,
+[00:09:26] and that basically
+[00:09:29] um,
+[00:09:30] leads to the argument that if something
+[00:09:32] persists in a set of characteristic
+[00:09:35] states that has you know, non-trivial
+[00:09:38] dynamics, mathematically has a
+[00:09:41] non-equilibrium steady state. Um, what
+[00:09:44] does what what boundary conditions must
+[00:09:46] it conform to? Um, and this is not going
+[00:09:49] to please anybody apart from me, but the
+[00:09:52] um, the the boundary condition in
+[00:09:54] question
+[00:09:55] is it simply inherits from one thing we
+[00:09:58] know is conserved, which is a
+[00:09:59] probability of something of anything in
+[00:10:03] this instance the structure or where in
+[00:10:06] state space this structure is. Um, and
+[00:10:09] that simple conservation, noting that
+[00:10:11] the if anything is conserved in the
+[00:10:15] universe, it's probability mass.
+[00:10:18] [sighs]
+[00:10:18] Just knowing that means that you can now
+[00:10:21] bring something called the
+[00:10:22] Helmholtz-Hodge decomposition to the
+[00:10:24] table. So for me, the boundary
+[00:10:26] condition, the constraints that are
+[00:10:29] implicit in something existing in some
+[00:10:32] characteristic states just is the
+[00:10:35] Helmholtz-Hodge decomposition.
+[00:10:37] And that's I think quite insightful
+[00:10:39] because that tells you quite a lot. Um,
+[00:10:42] if you impose this as a boundary
+[00:10:45] condition, you can talk about
+[00:10:47] immediately the kinds of behaviors that
+[00:10:49] this structure should exhibit.
+[00:10:53] And the non-trivial behaviors are due to
+[00:10:56] a decomposition in terms of um a
+[00:10:59] gradient flow
+[00:11:01] and a non-dissipative, sometimes called
+[00:11:04] solenoidal flow,
+[00:11:06] which tells you immediately that any
+[00:11:08] structure that exists under these
+[00:11:11] boundary conditions
+[00:11:12] must, first of all, or will look as if
+[00:11:16] it is gathering itself up,
+[00:11:17] self-organizing in such a way to resist
+[00:11:21] the dissipation due to random
+[00:11:24] fluctuations in the universe.
+[00:11:28] Furthermore,
+[00:11:29] and importantly, because of this
+[00:11:32] non-dissipative, solenoidal, sometimes
+[00:11:35] called conservative uh dynamics,
+[00:11:37] it'll look as if it's moving around in
+[00:11:39] state space.
+[00:11:41] Um, and by moving around, I mean quite
+[00:11:43] trivially, it'll look as if it has some
+[00:11:45] oscillations.
+[00:11:46] And if we now put Robert's scale
+[00:11:48] invariance into play,
+[00:11:50] um then it will also look as if it has
+[00:11:53] a kind of oscillation, a kind of orbit,
+[00:11:55] a kind of dynamics that is evident at
+[00:11:58] multiple scales. So I'm talking here
+[00:12:00] about very fast electrochemical
+[00:12:02] oscillations, for example, or even right
+[00:12:05] down to the quantum level where it's
+[00:12:06] measurable, um
+[00:12:08] right through um biorhythms right
+[00:12:11] through to life cycles. So, that means
+[00:12:14] just finding the identifying the right
+[00:12:17] kind of constraint immediately tells you
+[00:12:20] that anything that exists in this sense
+[00:12:23] subject to these boundary conditions
+[00:12:25] must confine itself to some
+[00:12:27] characteristic states, technically a
+[00:12:29] pullback attractor that has a very
+[00:12:31] particular form
+[00:12:33] which disallows lots of states that it
+[00:12:35] could not be in. And this particular
+[00:12:36] form requires it to have a motility. It
+[00:12:40] requires it to move around and it also
+[00:12:43] requires it to revisit the states it was
+[00:12:45] once in.
+[00:12:46] That's another way of if you like
+[00:12:48] intuiting why it has to have this
+[00:12:50] circular solenoidal non-dissipative or
+[00:12:52] conservative conservative aspect.
+[00:12:56] So, the free energy principle would say
+[00:12:58] that
+[00:12:59] it is sufficient
+[00:13:00] if not terribly enlightening
+[00:13:03] to identify
+[00:13:06] structures of
+[00:13:09] that exist
+[00:13:11] with
+[00:13:13] with the pullback attractors
+[00:13:15] that
+[00:13:16] are another one way of writing down the
+[00:13:18] fact that this system, this structure
+[00:13:20] has a non-equilibrium steady state. And
+[00:13:22] there are all sorts of interesting
+[00:13:23] corollaries here. First of all, you're
+[00:13:26] breaking detailed balance, which means
+[00:13:27] you've got a time irreversibility, which
+[00:13:30] means that things that exist also cannot
+[00:13:32] be reversed in time.
+[00:13:34] So, they actually go through life cycles
+[00:13:39] unlike sort of, you know, 20th century
+[00:13:41] physics at equilibria. If I gave you
+[00:13:43] something at equilibrium, say a cup of
+[00:13:45] coffee, you couldn't tell me
+[00:13:47] when the cup of coffee once it had
+[00:13:49] cooled down and was at thermal
+[00:13:50] equilibrium. You couldn't tell me
+[00:13:52] whether it was recently made, made 20
+[00:13:54] years ago, or made
+[00:13:56] made tomorrow. Whereas if I've got if I
+[00:14:00] stir the coffee and introduce this
+[00:14:02] solenoidal flow, this non-dissipative
+[00:14:04] flow, then you can tell me, oh yes,
+[00:14:06] you've recently stirred this cup of
+[00:14:08] coffee, or if it's still, oh it was
+[00:14:10] stirred a long time ago. So, there's
+[00:14:12] some some really fundamental aspects of
+[00:14:15] the nature of things
+[00:14:17] that conform to
+[00:14:19] um the constraints that just in
+[00:14:21] existing, they have to have both this
+[00:14:23] non-dissipative and dissipative
+[00:14:24] dynamics. And I could whitter on about
+[00:14:26] what happens when you when you increase
+[00:14:28] the scale, which I hope we will talk
+[00:14:30] about when we move from a single cell or
+[00:14:32] a single structure to structures of
+[00:14:34] structures, multicellular organization
+[00:14:36] uh because as the scale increases, it
+[00:14:38] has a enormous implication for the
+[00:14:41] um the distinction well for the relative
+[00:14:43] contributions of these dissipative
+[00:14:45] dynamics and these non-dissipative
+[00:14:47] dynamics.
+[00:14:52] &gt;&gt; I I have a an interesting small question
+[00:14:55] on this kind of I always wondered
+[00:14:57] whether in this definition of existence
+[00:15:00] that that you propose via boundary
+[00:15:01] condition, so a blankets uh if you want
+[00:15:04] to to inter mark of blankets if you want
+[00:15:06] to introduce that and um
+[00:15:08] possessing an attracting set,
+[00:15:11] does the universe exist under this
+[00:15:13] definition?
+[00:15:16] &gt;&gt; Well, anything that you can name um as a
+[00:15:18] natural kind must have a mark of
+[00:15:20] blanket. So yes, the universe would
+[00:15:23] exist.
+[00:15:23] &gt;&gt; Does that universe have a mark mark of
+[00:15:25] blanket as a whole? I mean
+[00:15:27] &gt;&gt; Uh well,
+[00:15:28] yes yes absolutely uh but I'm going to
+[00:15:31] elude the trap you're setting for me by
+[00:15:34] by
+[00:15:36] reminding you we are talking about
+[00:15:38] something that is scale invariant. So
+[00:15:40] it's the universe all the way up and all
+[00:15:42] the way down. There's no edge of the
+[00:15:44] universe. You can't get a higher scale.
+[00:15:46] There's always a higher scale. So this
+[00:15:48] is a very this is sort of
+[00:15:51] more of a biological physics or a
+[00:15:53] natural physics, a natural science that
+[00:15:56] is um scale specific uh but also is
+[00:15:59] carefully attending to the scale above
+[00:16:02] and the scale below
+[00:16:03] for the things that are doing the
+[00:16:04] measurement um through their mark of
+[00:16:06] blanket. You know in in our in our
+[00:16:08] world, of course, it's things of a
+[00:16:10] certain size, but we can look at very
+[00:16:12] small things, not too small. Uh we can
+[00:16:15] get down to small particles because of
+[00:16:17] quantum physics uh
+[00:16:18] and not too big, uh, because we don't
+[00:16:20] have the right kind of telescopes. So
+[00:16:22] we're we're we're always sort of telling
+[00:16:24] stories about the universe at a
+[00:16:27] particular scale in relation to the
+[00:16:28] scale above them and the scale below.
+[00:16:33] &gt;&gt; I was just being cheeky with this.
+[00:16:35] &gt;&gt; Yes, you were.
+[00:16:36] &gt;&gt; [laughter]
+[00:16:37] &gt;&gt; Um, before I ask anything else,
+[00:16:39] Professor Levin, do you have anything to
+[00:16:41] add to uh what was said?
+[00:16:45] &gt;&gt; Yeah, yeah, I wanted to um
+[00:16:48] [clears throat]
+[00:16:48] follow up on something that Carl was
+[00:16:50] saying before before this this last
+[00:16:52] thing. So so here here's so I'm so I'm
+[00:16:55] interested in in what you guys think
+[00:16:57] about this because I think I think it
+[00:16:58] relates to this issue of boundary
+[00:17:00] conditions and so on.
+[00:17:01] So
+[00:17:02] uh
+[00:17:03] one of the things that I'm really
+[00:17:04] interested in is
+[00:17:06] an alternative so so we think about
+[00:17:08] what's allowable and a lot of in biology
+[00:17:10] people talk about constraints, right?
+[00:17:12] The the power the importance of
+[00:17:13] constraints and things like that. So I'm
+[00:17:15] interested in the flip side of this
+[00:17:16] which are enablements or free lunches.
+[00:17:18] In other words, it's not just things you
+[00:17:20] can't do, it's things that
+[00:17:22] it's it's patterns that you've managed
+[00:17:24] to um
+[00:17:26] acquire that cannot be traced back to
+[00:17:29] specific selections, specific training
+[00:17:30] or specific design. But these patterns
+[00:17:33] are um they're useful for navigating
+[00:17:35] some problem space. They happen to have
+[00:17:37] utility of some sort and of course
+[00:17:39] evolution and engineers can can take
+[00:17:40] advantage of them. So so I'm interested
+[00:17:43] in quantifying quantifying these kinds
+[00:17:45] of things. And one way to do that, for
+[00:17:47] example, in our computational model is
+[00:17:49] we ask, okay, if it's doing certain
+[00:17:52] things that I think we never asked it to
+[00:17:53] do, if I did ask it to do those things
+[00:17:56] in conventional ways, so I would write
+[00:17:58] an algorithm or I would do an
+[00:17:59] evolutionary algorithm or something,
+[00:18:01] what would that cost me? What would be
+[00:18:02] the conventional price? And of course
+[00:18:04] you never know what the what the
+[00:18:06] the absolute lowest is, but we can we
+[00:18:08] can make a you know, we can make a
+[00:18:09] guess. And so what would be the price of
+[00:18:11] these things that the system is is doing
+[00:18:12] without without me having spent any of
+[00:18:14] those any of those costs? So let me just
+[00:18:17] talk about how that plays out in in
+[00:18:18] Xenobots because I think it becomes
+[00:18:20] interesting. So, so so here's what we
+[00:18:22] have on xenobots. We have a a
+[00:18:24] transcriptional analysis of what genes
+[00:18:26] they are expressing differently than the
+[00:18:29] cells would under normal conditions. In
+[00:18:31] the case of anthrobots, it's about 9,000
+[00:18:33] genes. So, like half the genome is
+[00:18:35] different. In the case of xenobots, it's
+[00:18:36] a few hundred genes.
+[00:18:38] And we also have a number of
+[00:18:40] uh properties such as what kind of
+[00:18:44] what kind of salt conditions, what kind
+[00:18:46] of pH, what kind of things the pressure
+[00:18:48] they can tolerate, things like that. So,
+[00:18:49] you have some description of of this.
+[00:18:52] And once you have that description, you
+[00:18:53] can do something interesting, which is a
+[00:18:55] kind of reverse ecology. You can ask the
+[00:18:57] following hypothetical question. If
+[00:18:59] these things had evolved under standard
+[00:19:01] conditions, if we if this was a a
+[00:19:03] natural being that we found somewhere,
+[00:19:06] what would the selection forces have had
+[00:19:08] to be to result in that set of gene
+[00:19:10] expressions? So so sometimes you can
+[00:19:12] work backwards and you can say, okay,
+[00:19:13] based on this pathway, this is what the
+[00:19:16] pH, the temperature, the oxygen level,
+[00:19:18] the the nutrient level of the war in in
+[00:19:20] in effect, what you're what you're
+[00:19:21] trying to reconstruct is the xenobot
+[00:19:23] home world.
+[00:19:24] You're you're you're looking at the
+[00:19:25] properties now and you're doing what
+[00:19:27] evolution was supposed to do for us,
+[00:19:29] which is to give a tight specificity
+[00:19:31] between the properties that a creature
+[00:19:32] has now and the set of environmental
+[00:19:34] conditions that got got got you there to
+[00:19:36] begin with.
+[00:19:37] So so I did that. I made um
+[00:19:39] a pipeline that attempts to sort of roll
+[00:19:42] backwards and and guess what the
+[00:19:44] selection pressures would have been. So
+[00:19:46] it paints a picture of a world. It isn't
+[00:19:48] this world. It's not terribly different,
+[00:19:49] but but it's different. You know, there
+[00:19:51] are significant differences. And now you
+[00:19:53] can ask yourself, what is the what is
+[00:19:54] the status of this thing?
+[00:19:56] On the one hand,
+[00:19:57] it isn't this world, so it's not it's
+[00:19:59] not that, but it's also not just some
+[00:20:02] crazy random story you could tell
+[00:20:04] because it actually fits very specific
+[00:20:06] properties that are measurable. So
+[00:20:07] what's the So so I was thinking about it
+[00:20:09] first as a kind of counterfactual
+[00:20:11] history and you sort of start fooling
+[00:20:13] around with you know, alternate
+[00:20:15] the timelines and weird things like
+[00:20:17] that. But then I thought maybe maybe
+[00:20:18] there's something different going on.
+[00:20:19] Maybe this is not their past. Maybe this
+[00:20:21] is their future. In other words,
+[00:20:24] as they're being created, of all the
+[00:20:25] different kinds of things they could
+[00:20:26] have done, for some reason they have
+[00:20:28] some uh I don't know if it's inductive
+[00:20:30] bias or or or some priors or I don't
+[00:20:32] know what it what it is, but there's
+[00:20:33] some reason why they are preparing to
+[00:20:35] live in a particular world whose
+[00:20:37] properties we can now specify at least
+[00:20:39] to some extent. And
+[00:20:41] lots more work to be done about can we
+[00:20:43] can we infer some of them from knowing
+[00:20:44] others? This is still very early days.
+[00:20:46] I'm making no no real claims here. But I
+[00:20:48] think but I think it's interesting to
+[00:20:49] think about
+[00:20:51] what is the specific environment towards
+[00:20:54] which they are prepping, so to speak. Um
+[00:20:57] why that one? Why not some other one? Of
+[00:20:59] course, as engineers, we would like to
+[00:21:01] know can we give them experiences that
+[00:21:03] would prep them for a different world?
+[00:21:04] Maybe one in which they had to I don't
+[00:21:06] know collect uranium from seawater or
+[00:21:07] something. You know like useful things
+[00:21:09] that you could sort of push them
+[00:21:10] towards. But I'm I'm just interested
+[00:21:12] what what what Carl and Robert have to
+[00:21:13] say about this when when you see when
+[00:21:15] you can
+[00:21:16] sort of infer the kind of pressures or
+[00:21:19] the kind of environment that looks fit
+[00:21:20] for a particular being, except they've
+[00:21:22] never been in that world. How do we How
+[00:21:24] do we think about these things?
+[00:21:29] &gt;&gt; Well, while while Robert is thinking um
+[00:21:32] I'll just pick up on on on two um
+[00:21:36] key questions there and key themes. You
+[00:21:39] mentioned free lunch. I'd like to just
+[00:21:41] again for everybody's benefit just to um
+[00:21:44] you know unpack what you know what what
+[00:21:47] sort of commitments a free lunch
+[00:21:49] perspective brings to the table. But um
+[00:21:52] just in relation to this
+[00:21:54] really intriguing notion that you know
+[00:21:56] there um
+[00:21:58] this thing has um
+[00:22:00] demonstrates an adaptive fitness for its
+[00:22:02] future.
+[00:22:03] I think that's a beautiful idea. Um and
+[00:22:05] it's exactly consistent with the
+[00:22:09] application of the scale invariance
+[00:22:12] that Robert introduced to the um the
+[00:22:16] evolution of or the um contextualization
+[00:22:21] of dynamics at one scale by the scale
+[00:22:23] above.
+[00:22:24] So the
+[00:22:26] one key thing when you um
+[00:22:28] look at the nature of the scale
+[00:22:30] invariance, you can look at this from
+[00:22:32] the point of view of um there being some
+[00:22:36] dynamics that has these boundary
+[00:22:38] conditions that produces some
+[00:22:40] non-dissipative behavior in the context
+[00:22:42] of dissipative effects, random
+[00:22:44] fluctuations that has this biotic aspect
+[00:22:47] to it.
+[00:22:48] But it's always contextualized by
+[00:22:50] something that is at a higher scale,
+[00:22:53] more coarse-grained and crucially
+[00:22:54] coarse-grained in time. So, it changes
+[00:22:56] really, really slowly. So, for example,
+[00:22:59] it could be the genotype uh
+[00:23:01] contextualizing,
+[00:23:02] providing what Owen Haken would say
+[00:23:04] would be control parameters, parameters
+[00:23:07] of the dynamics of the flow at the lower
+[00:23:09] level. And of course, that flow will
+[00:23:11] evolve during the lifetime of of the
+[00:23:13] fate say phenotype that is
+[00:23:15] contextualized by the scale above.
+[00:23:18] The
+[00:23:18] the nice thing about that notion is from
+[00:23:20] the point of view of the scale below,
+[00:23:24] say the phenotype,
+[00:23:26] um the uh there's no um the the the past
+[00:23:30] and the future are the same.
+[00:23:32] And this in physics would be called um
+[00:23:34] an adiabatic approximation.
+[00:23:36] So, because the the higher scale,
+[00:23:40] the description of this universal at
+[00:23:42] this scale, at the higher scale is
+[00:23:45] changing so slowly because of the um the
+[00:23:48] the um
+[00:23:51] this if you like coarse-grained or time
+[00:23:53] dilation uh that is implicit in
+[00:23:56] technically the renormalization group,
+[00:23:58] it means that
+[00:23:59] the
+[00:24:00] the there is no difference between the
+[00:24:01] past and the future. Another common
+[00:24:03] sense way of saying this is that um I'm
+[00:24:05] acting now in this context.
+[00:24:08] But notice the context is the same as
+[00:24:10] the past and in the future at any one
+[00:24:13] point in time that I am acting in this
+[00:24:15] particular context. And if you now read
+[00:24:18] the higher scale as basically providing
+[00:24:22] the boundary conditions or the
+[00:24:24] constraints on the dynamics at the lower
+[00:24:26] scale, And think you have a perfectly, a
+[00:24:29] mathematically um um licensed
+[00:24:34] argument of exactly the kind that the
+[00:24:38] higher scale is basically providing uh a
+[00:24:41] specification of all plausible or
+[00:24:44] allowable spaces for or attracting sets
+[00:24:48] for the lower scale to explore. And what
+[00:24:51] it will explore will be different for
+[00:24:52] every your every [clears throat]
+[00:24:53] individual. But that is contextualized
+[00:24:56] by something that has no sense of time
+[00:24:59] at the lower scale. I think I repeat
+[00:25:02] license is exactly this notion that um
+[00:25:05] you are equipped to say I am a xenobot
+[00:25:08] and I am equipped with a certain uh um
+[00:25:11] epi
+[00:25:12] genomic constraints. Now my genome does
+[00:25:15] not change during my lifetime, but it
+[00:25:18] does specify the constraints on all the
+[00:25:21] plausible outcomes at my particular
+[00:25:23] scale. And in that sense it does exactly
+[00:25:26] specify um the um
+[00:25:30] the the the
+[00:25:32] how well I can adapt to my futures uh
+[00:25:35] because my futures are pre-specified by
+[00:25:37] the allowable uh by the um by the
+[00:25:41] allowable
+[00:25:42] states, the attracting set that I could
+[00:25:45] potentially could potentially explore.
+[00:25:48] So I I I think that
+[00:25:50] that notion of counterfactual histories
+[00:25:52] and counterfactual futures is exactly
+[00:25:55] what you'd expect uh or what you could
+[00:25:58] articulate in terms of the adiabatic
+[00:26:00] approximation inherent in this scale
+[00:26:03] invariant is scale invariant future. One
+[00:26:06] more final point before I
+[00:26:09] pass back to to Robert. Um the
+[00:26:13] you know
+[00:26:14] you've we're talking about sort of
+[00:26:16] adaptation um and something that we
+[00:26:18] haven't really mentioned thus far in
+[00:26:21] relation to one particular application
+[00:26:23] of the free energy principle, namely
+[00:26:25] active inference um is the fact that um
+[00:26:29] it's that that you could always
+[00:26:31] interpret these fast dynamics at any
+[00:26:33] particular scale uh in
+[00:26:36] as how the the structure in question
+[00:26:39] stands in relation to the environment it
+[00:26:41] it finds itself. So basically the free
+[00:26:44] energy principle and its implementation
+[00:26:46] or interpretation in terms of active
+[00:26:47] inference and self-evidencing and
+[00:26:49] modeling and you know measuring uh and
+[00:26:52] aligning itself with the with the
+[00:26:53] environment just is a statement of how
+[00:26:56] good
+[00:26:57] this particular structure
+[00:26:59] speaks to or is aligned or can
+[00:27:01] synchronize with this environment. And
+[00:27:04] of course the environment um is
+[00:27:07] parameterized or contextualized by the
+[00:27:10] scale above you know
+[00:27:14] So again you've got exactly this notion
+[00:27:16] that of you know there are a set of
+[00:27:20] possible environments and I am as a
+[00:27:22] structure at any one scale um um um now
+[00:27:27] um able to align myself with all of
+[00:27:30] these i.e. adapt to all of these
+[00:27:32] environments and all the possible
+[00:27:33] environments in the past and in the
+[00:27:35] future from my point of view are
+[00:27:37] contextualized by the by the scale
+[00:27:39] above.
+[00:27:40] So that would be an argument of a purely
+[00:27:41] mathematical sort that rests upon the
+[00:27:44] renormalization group that would be the
+[00:27:45] mathematical expression of this scale
+[00:27:48] invariance the same kind of physics
+[00:27:50] being um
+[00:27:52] invoked to describe um the dynamics at
+[00:27:56] each and every scale with just a
+[00:27:57] rescaling of time and space and course
+[00:27:59] graining and the like.
+[00:28:04] &gt;&gt; Taking a cue from from Karl's um
+[00:28:08] notion of of scale invariance and and
+[00:28:10] the fact that in in in the free energy
+[00:28:12] principle the form of the law is itself
+[00:28:15] invariant at every scale the language
+[00:28:16] and form of
+[00:28:18] of the equations.
+[00:28:19] In a paper in 2025 with Mike we tried to
+[00:28:22] quantify
+[00:28:24] a notion via a notion that is scale-free
+[00:28:28] what we called at the time uh search
+[00:28:30] efficiency in problem spaces.
+[00:28:33] It was this idea of trying to formalize
+[00:28:36] how more much more efficient
+[00:28:39] certain biological structures not
+[00:28:42] necessarily
+[00:28:43] uh anchored to a single scale, so it it
+[00:28:45] was meant to be scale-free from
+[00:28:47] construction,
+[00:28:48] are compared to a baseline.
+[00:28:51] In this sense, it was an initial attempt
+[00:28:55] to quantify what the freelance would be.
+[00:28:58] Although in in that attempt, in that
+[00:29:00] paper, we did not specifically consider
+[00:29:03] where the notion or where the source of
+[00:29:06] efficiency was, where it was in the
+[00:29:08] phylogenetic selection, where it was in
+[00:29:10] some some training that occurred via
+[00:29:13] some experimental condition, whether it
+[00:29:15] it was in something that was engineered
+[00:29:17] if if the the the biological scale
+[00:29:19] happened to be like that. So we did not
+[00:29:21] ask, okay, where does the efficiency
+[00:29:23] come from?
+[00:29:24] But what we found was and in analyzing
+[00:29:26] planaria, regenerative hydra generative
+[00:29:29] planaria exposed to barium and amoebas.
+[00:29:33] Amoebas being much much smaller,
+[00:29:35] we found
+[00:29:37] and as a baseline, we use
+[00:29:40] somewhat a problematic, I think now in
+[00:29:43] retrospect, notion of a random walk.
+[00:29:47] We found
+[00:29:48] two to three orders of magnitude more
+[00:29:51] efficient search compared to a suitably
+[00:29:53] defined random walk for a problem space
+[00:29:55] of a of a of a of an amoeba.
+[00:29:58] But for a planaria,
+[00:30:00] even under conservative estimations, we
+[00:30:02] found 21 or something like that orders
+[00:30:06] of magnitude more efficient even when we
+[00:30:09] are conservative. And the notion, the
+[00:30:11] formal notion, the formal measure of
+[00:30:13] such efficiency there was the log of the
+[00:30:16] of the
+[00:30:17] cost of a blind search divided by the
+[00:30:20] cost of an agential or agentic search of
+[00:30:22] a of a
+[00:30:23] what we would call probably a biological
+[00:30:25] search.
+[00:30:26] So
+[00:30:27] in this sense, we have this intuition
+[00:30:30] that there is something there that
+[00:30:34] is surprising, the endless forms
+[00:30:36] beautiful of biology.
+[00:30:38] And we want to know why that is the
+[00:30:40] case.
+[00:30:41] And
+[00:30:43] we need a way to quantify that.
+[00:30:46] And now we are working with Mike on a on
+[00:30:49] a crazy idea
+[00:30:51] of trying to see whether we can found
+[00:30:53] ways in which
+[00:30:55] the patterns the
+[00:30:58] what Mike likes to call the dressing
+[00:31:00] patterns
+[00:31:01] are themselves enrich of embodiments
+[00:31:03] that we would
+[00:31:05] find and we would we would call them
+[00:31:08] we would call them
+[00:31:09] probably in what would
+[00:31:12] when we try to do a xeno organ.
+[00:31:15] So as an as a sort of
+[00:31:20] pattern looking for a body
+[00:31:23] whether that could be interpreted from
+[00:31:25] the perspective of the body
+[00:31:27] as an externalized organ.
+[00:31:30] And the the difficulty here would be
+[00:31:33] obviously that
+[00:31:35] a pattern is not something that just
+[00:31:37] subsists independently of instantiation
+[00:31:40] of particular instantiation.
+[00:31:42] However
+[00:31:44] if it can be shown that the pattern
+[00:31:46] subsists
+[00:31:47] across changes of let's say the target
+[00:31:50] body that is supposed to be an organ for
+[00:31:53] and other conditions in the in the
+[00:31:55] environment, I think a notion of
+[00:31:59] free lunch as something that is a a
+[00:32:02] novelty that no selection
+[00:32:05] selected for no natural selection was
+[00:32:07] exist for no design and no
+[00:32:11] learning induce task or training
+[00:32:15] exists for. I think that's a that's a
+[00:32:17] good to to approach the issue.
+[00:32:23] &gt;&gt; Yeah, I mean
+[00:32:24] so so Carl asked for a for a definition
+[00:32:26] of of a of a clarification for a free
+[00:32:29] lunch and so
+[00:32:30] you know the the most sort of
+[00:32:32] deflationary minimal
+[00:32:35] definition that I can give is simply the
+[00:32:36] following. When when you have set of
+[00:32:38] measured competencies
+[00:32:40] and uh
+[00:32:42] you try to you have a ledger where you
+[00:32:45] write down the effort that it took to
+[00:32:48] produce it. And so you total up
+[00:32:49] everything that you can understand that
+[00:32:52] was input by engineering. Um sorry if
+[00:32:55] it's it's back whatever this is it's
+[00:32:57] back.
+[00:32:58] Yeah, thank you. Um
+[00:33:00] so so so you you total up how much
+[00:33:02] effort was put in by direct design, by
+[00:33:05] any kind of a selection force, and by
+[00:33:07] any kind of experience with the problem
+[00:33:09] space or learning.
+[00:33:11] And whatever you have left over needs to
+[00:33:13] be explained, right? So so pretty much
+[00:33:15] my only claim is that the standard way
+[00:33:17] we have of um estimating how much effort
+[00:33:20] it's going to take for something
+[00:33:22] interesting to appear, we we don't we we
+[00:33:26] don't have all the ways, right? There's
+[00:33:27] there's something missing
+[00:33:29] uh that we normally don't count. So so
+[00:33:31] the first thing you can just say is that
+[00:33:33] well it's just a name for whatever's
+[00:33:34] left over that we don't you know we we
+[00:33:35] haven't we don't account for in our
+[00:33:37] normal in our in our normal accounting.
+[00:33:40] This idea is is old. So for example you
+[00:33:43] know Stu Kaufman talked about order for
+[00:33:45] free and um
+[00:33:48] Walter great Walter with his tortoises
+[00:33:51] and so on said that well like look at
+[00:33:52] this extremely minimal circuit that does
+[00:33:54] these these like behavior like things.
+[00:33:57] So so so we we know that you can get
+[00:33:59] complexity, you can get
+[00:34:00] unpredictability, you can get
+[00:34:02] interesting things from simple systems.
+[00:34:05] But my bigger claim is is something
+[00:34:07] else. Not not only do our standard ways
+[00:34:09] of paying for effort, you know the
+[00:34:11] things with the things that if you were
+[00:34:13] to ask an engineering company to produce
+[00:34:15] for you, these are the things they would
+[00:34:16] charge you for. We're going to have to
+[00:34:18] do this much coding, we're going to have
+[00:34:19] to do this much
+[00:34:21] evolutionary algorithms, we're going to
+[00:34:22] have to train this thing, you know you
+[00:34:24] would get build for these things in a
+[00:34:25] very practical way. Um whatever's left
+[00:34:27] over
+[00:34:29] uh what what what I see now through our
+[00:34:31] experiments is that sometimes what you
+[00:34:34] get are patterns that are basically just
+[00:34:36] order for free or they're the kinds of
+[00:34:38] static things you get from from
+[00:34:40] mathematics and so on.
+[00:34:41] But sometimes what you get are things
+[00:34:43] that are actually encoding
+[00:34:45] problem solving
+[00:34:47] strategies or policies. And the way you
+[00:34:49] know that is through experiment. In
+[00:34:51] other words, you take those patterns and
+[00:34:52] you give them a body and you ask a
+[00:34:54] creative questions such as behavior
+[00:34:56] scientists would what is this thing good
+[00:34:58] for? If you have the digits of some
+[00:34:59] mathematical constant or something, give
+[00:35:01] them a body and see what is the
+[00:35:03] behavioral policy that's embedded in
+[00:35:04] these things. And so it turns out that
+[00:35:08] sometimes what you get are things that
+[00:35:10] are somewhere on the cybernetic
+[00:35:12] spectrum. They are not static patterns.
+[00:35:14] They are in some way an encoded policy
+[00:35:16] for doing interesting things that
+[00:35:19] at some level of sophistication. You
+[00:35:21] know, I'm not saying these are human
+[00:35:22] level kinds of things, but but they have
+[00:35:24] they have interesting behaviors that are
+[00:35:26] recognizable to any behavior scientist.
+[00:35:28] So so then the free lunch becomes
+[00:35:30] something slightly different. It's not
+[00:35:31] just something that was left over in
+[00:35:33] your accounting. It not only was left
+[00:35:35] over in your accounting, but it is also
+[00:35:38] something like the kinds of competencies
+[00:35:40] that we see in cognitive systems, at
+[00:35:42] least in in simple ones. And then you
+[00:35:45] have to ask yourself
+[00:35:47] well, the space of these kinds of things
+[00:35:49] and what's in that space becomes some
+[00:35:51] sort of a
+[00:35:53] some sort of a taxonomy of kinds of
+[00:35:55] minds, right? The the the you know, what
+[00:35:58] what what are the competencies that you
+[00:35:59] can that you can pull down in some way
+[00:36:01] that's different than those three ways?
+[00:36:03] And that starts to tell you about the
+[00:36:05] the behavior of novel beings, be they
+[00:36:07] you know,
+[00:36:09] bio bots or AIs or or whatever it is,
+[00:36:11] right? That that's how I see this as a
+[00:36:12] space of as a space of kinds of minds,
+[00:36:14] some extremely minimal, some barely do
+[00:36:16] anything, some are random walks, but
+[00:36:18] some are really clever and interesting.
+[00:36:20] And and that's and that's what I see.
+[00:36:21] And I guess I guess the final thing I
+[00:36:23] would just comment on
+[00:36:24] what Robert was talking about is is the
+[00:36:26] different between patterns patterns and
+[00:36:28] agents. So
+[00:36:30] in my head, this is a very scale free
+[00:36:32] thing kind of like what Carl was talking
+[00:36:34] about in the following way. If from the
+[00:36:36] perspective of creatures that live in
+[00:36:38] the core of the earth, so imagine they
+[00:36:40] come up to the surface, they're
+[00:36:42] incredibly dense. They have gamma rays
+[00:36:44] for agents. They, you know, very long
+[00:36:45] lived.
+[00:36:47] They don't see us as agents. What they
+[00:36:49] see is a thin sort of gas that surrounds
+[00:36:51] the the planet.
+[00:36:53] They might notice that within this gas
+[00:36:55] there's some kind of little eddies that
+[00:36:57] sort of hold themselves together for for
+[00:36:58] about a hundred years or so. And maybe
+[00:37:00] they maybe one of them will even make a
+[00:37:02] hypothesis that you know they they look
+[00:37:04] kind of agentic. These little eddies
+[00:37:05] they these these patterns, I mean
+[00:37:07] literally patterns in an excitable
+[00:37:09] medium. They they almost look like
+[00:37:10] they're doing something. And the other
+[00:37:11] ones will make fun of them and say that
+[00:37:12] that's crazy. We are actual beings. You
+[00:37:15] know, patterns in a medium can't be
+[00:37:16] agents. They're you know, they're just
+[00:37:18] patterns. So I I do think it's there's a
+[00:37:20] scale invariance here. I think it's
+[00:37:22] somewhat whether you're whether you're
+[00:37:24] data or a machine is in the eye of the
+[00:37:25] beholder. I don't think there's a
+[00:37:27] principal difference. And I think this
+[00:37:29] thoughts as thinkers spectrum is
+[00:37:32] interesting for these, but I'm curious
+[00:37:33] what Carl and Robert have to say.
+[00:37:37] &gt;&gt; Yeah, I love that's the third time I've
+[00:37:39] heard you talk about these dense beings
+[00:37:41] surfacing. That's beautiful.
+[00:37:43] I think I actually saw you present that
+[00:37:46] with with some lovely graphics as well,
+[00:37:47] which
+[00:37:50] which I would recommend to anybody who
+[00:37:52] wants to
+[00:37:53] have have a visual impression of these.
+[00:37:55] But that's a beautiful example of this
+[00:37:56] scale invariance, isn't it?
+[00:37:59] The the the you know, at my scale of the
+[00:38:01] dense being for example,
+[00:38:03] you know, that's where I would conceive
+[00:38:06] of as agency. But all the constituent
+[00:38:09] fast fluctuations, you know, the the
+[00:38:11] cells in my brain that all the synapses
+[00:38:13] that come and go minute by minute, they
+[00:38:15] are not agents from my perspective. So
+[00:38:18] we're talking now about you know
+[00:38:21] a scale that allows for
+[00:38:25] certainly a multicellular kind of
+[00:38:27] organization or at least a deep
+[00:38:29] hierarchical structure to the
+[00:38:32] internal to the structures that that
+[00:38:34] that we're talking about. And
+[00:38:36] a couple of points really sort of
+[00:38:44] &gt;&gt; of perspective. First of all, the notion
+[00:38:46] that
+[00:38:47] um and I'm not sure that I'm reading
+[00:38:50] this right, but um
+[00:38:52] you can tell me if I'm not. Um, but the
+[00:38:54] notion that the embodiment
+[00:38:57] is basically um an installation of some
+[00:39:02] pattern
+[00:39:04] into the structure itself through uh
+[00:39:06] immersing a structure in a particular
+[00:39:09] world or in a particular context fits
+[00:39:12] exactly with um the one of the the the
+[00:39:18] corollaries of active inference and the
+[00:39:20] free energy principle that in many
+[00:39:22] senses can be read
+[00:39:24] as a 21st century reinvention of the
+[00:39:27] good regulator theorem from cybernetics,
+[00:39:29] namely that to be in a world to which I
+[00:39:33] am open, i.e. to be a regulator that I
+[00:39:36] can act upon that world just to is to be
+[00:39:39] a good model of that environment. And
+[00:39:41] what that means mathematically also from
+[00:39:44] the point of view of of active inference
+[00:39:47] is that the cause effect structure in
+[00:39:49] this context,
+[00:39:51] which is not yet physically realized,
+[00:39:54] but can be written down mathematically
+[00:39:56] in terms of a probabilistic cause effect
+[00:39:58] structure or some um you know in terms
+[00:40:01] of say um
+[00:40:03] random dynamical attractors um becomes
+[00:40:06] installed and perhaps ingressed into the
+[00:40:10] the structure that is actually realized
+[00:40:13] when immersed in this cause effect
+[00:40:15] structure or in this universe or this
+[00:40:17] context that has this cause effect
+[00:40:19] structure. So I I would see you know a
+[00:40:22] really um close alignment with that
+[00:40:25] notion of um ingression, if I read it
+[00:40:29] properly, of some potentially realizable
+[00:40:33] cause effect structure which is a
+[00:40:35] pattern into an embodied physically
+[00:40:37] realized pattern simply because you have
+[00:40:41] now
+[00:40:42] read the self-organization of this
+[00:40:45] structure
+[00:40:46] in terms of the good regulator theorem
+[00:40:49] or in terms of the free energy
+[00:40:50] principle. So that would be another
+[00:40:51] aspect of storytelling about, you know,
+[00:40:55] this looks like ingression in the same
+[00:40:57] way that I would tell the story. This
+[00:40:59] looks as if this um
+[00:41:02] you know, this little structure has in
+[00:41:04] implicit in its anatomy
+[00:41:06] um the cause effect structure which is
+[00:41:10] trying to model and trying to predict,
+[00:41:12] you know, right from things like um
+[00:41:14] the very fact that you and
+[00:41:17] can see things at a distance means that
+[00:41:20] the sort of call the probabilistic cause
+[00:41:21] effect structure
+[00:41:23] um has to be installed into a certain
+[00:41:28] kind of anatomy. And I would imagine
+[00:41:31] that things that see things at a
+[00:41:33] distance have have neurons simply
+[00:41:36] because neurons have long range
+[00:41:38] connections. They cover distances
+[00:41:40] literally in the metric space, whereas
+[00:41:42] things that can't see things at a
+[00:41:44] distance don't need neurons. You can do
+[00:41:46] it all with um you know, with with local
+[00:41:49] message passing and organelles certainly
+[00:41:52] at a single
+[00:41:53] uh so that would be one instance of um
+[00:41:57] if I'm using the word correctly,
+[00:41:58] ingressing or installing
+[00:42:00] a pattern which is read as a
+[00:42:02] probabilistic cause effect structure
+[00:42:04] into the physical thing itself that has
+[00:42:08] uh enshrouded by a markov blanket. But
+[00:42:10] but in um what it is enshrouding is
+[00:42:13] basically a good regulator which is just
+[00:42:16] the right structure for this particular
+[00:42:19] world or set of worlds that are
+[00:42:21] contextualized by you know, by by by the
+[00:42:23] scale by the scale above. I don't know
+[00:42:26] if that makes sense and whether I'm
+[00:42:27] using ingression in the in the right
+[00:42:29] kind of way, but uh
+[00:42:30] that's how I would use it if forced to
+[00:42:32] do so.
+[00:42:35] &gt;&gt; I I I think that's that's super
+[00:42:37] interesting um and yeah, I mean with the
+[00:42:40] with with only the addition that I think
+[00:42:42] typically what we get is a whole
+[00:42:43] ecosystem of patterns. I think in most
+[00:42:46] systems that we care about, you end up
+[00:42:48] with lots of different patterns at
+[00:42:50] different at different scales. But I'm
+[00:42:52] I'm really interested in this in this
+[00:42:54] causal
+[00:42:55] causal effect structure thing because
+[00:42:58] that's one of the debates that that rage
+[00:43:00] in this around this concept is a lot of
+[00:43:03] people don't think of for example
+[00:43:05] mathematical structures as as causal. So
+[00:43:07] so people think they're descriptive or
+[00:43:09] they're made up by humans or some kind
+[00:43:10] of you know
+[00:43:12] social construct or something and so so
+[00:43:14] they this this idea of
+[00:43:17] how to how to make sense of
+[00:43:20] specific patterns in that space as being
+[00:43:23] causal as being regulators which I think
+[00:43:26] is exactly the I call them controllers
+[00:43:27] but it's like that's exactly what it is.
+[00:43:30] This this notion that that in fact
+[00:43:33] they they are the explanation for why
+[00:43:36] many things happen in biology and and I
+[00:43:38] assume in in physics but certainly in
+[00:43:40] computer science for sure. So
+[00:43:42] so I think I think that's a really
+[00:43:43] interesting point about the the
+[00:43:44] causality aspect of this I think I think
+[00:43:46] I need to sort of think about it more
+[00:43:48] and maybe we can even
+[00:43:50] develop some of this in a in a model.
+[00:43:54] &gt;&gt; Can I just ask and and I've
+[00:43:57] when you were defining the sort of you
+[00:43:59] know the importance of the free lunchy
+[00:44:02] part the stuff that can't be explained
+[00:44:04] the stuff that you're measuring in terms
+[00:44:05] of the
+[00:44:07] you know how efficiently can this thing
+[00:44:09] do this kind of thing which incidentally
+[00:44:12] would be in my world cast as as finding
+[00:44:14] the path of least action and then you'd
+[00:44:15] score that in terms of the path integral
+[00:44:17] of the
+[00:44:18] the you know say the variation of free
+[00:44:20] energy would be an obvious thing here to
+[00:44:21] measure that that efficiency how well
+[00:44:24] suited
+[00:44:25] adaptable is this structure to this
+[00:44:27] environment and that would be a that
+[00:44:29] would be again isomorphic with the you
+[00:44:31] know the whole premise that
+[00:44:33] structure learning or the the evolution
+[00:44:36] of different structures has to
+[00:44:39] has to have this kind of efficiency but
+[00:44:41] it only in relation to the
+[00:44:43] counterfactual world in which it's in
+[00:44:45] which it founds it finds itself. But
+[00:44:47] this coming back to this sort of
+[00:44:49] the free lunchiness you were talking
+[00:44:51] about before and I think it 's a really
+[00:44:53] interesting perspective, that you can
+[00:44:55] try and quantify
+[00:44:57] um the um
+[00:45:00] the adaptiveness or the um the the the
+[00:45:04] if you like the cognitive faculties of
+[00:45:06] any given structure by saying how much
+[00:45:09] would it cost me to pay this production
+[00:45:12] company to build one of these things to
+[00:45:14] either to do you know engineer them
+[00:45:16] using differential evolution or
+[00:45:17] artificial life or to actually sort of
+[00:45:19] sit down and you know and design it. Um
+[00:45:22] and um
+[00:45:25] the metrics by which I would um judge
+[00:45:29] the cost and the quality
+[00:45:31] you seem to be implying were the kind of
+[00:45:33] metrics that inherit from um biological
+[00:45:37] sciences and you know things like sort
+[00:45:39] of um
+[00:45:41] um
+[00:45:44] competencies of a cognitive or a
+[00:45:45] behavioral sort or possibly even a sort
+[00:45:48] of thermodynamic sort. Um
+[00:45:51] my question is um
+[00:45:54] is
+[00:45:55] is do you want to have everything being
+[00:45:58] a free lunch? And most of the free lunch
+[00:46:02] has acquired some semantics from
+[00:46:05] biologists or theoretical you know
+[00:46:07] evolutionary theorists and the like, but
+[00:46:09] in reality it's all free lunch and some
+[00:46:12] people some disciplines have learned to
+[00:46:14] call these things um you know you know
+[00:46:18] utility or um um your efficiency or you
+[00:46:22] know
+[00:46:23] you know
+[00:46:24] or you know wherever you look there
+[00:46:25] there'll be somebody who who likes to to
+[00:46:27] say oh there must be some objective
+[00:46:29] function here that is being optimized.
+[00:46:32] Some people say this is the definition
+[00:46:33] of a normative account that you're
+[00:46:35] identifying an optimization and
+[00:46:37] therefore if something sort of if
+[00:46:39] there's a cross-cutting optimize
+[00:46:41] objective function that people keep
+[00:46:43] spotting again and again and again like
+[00:46:45] value or utility then it it acquires its
+[00:46:48] semantics and it becomes an explanation
+[00:46:51] whereas from the point of view of the
+[00:46:52] physicist there's no optimization. There
+[00:46:54] is a cause-effect structure and things
+[00:46:56] that are
+[00:46:57] embedded in that. And it looks as if
+[00:47:00] they're optimizing something. And it's
+[00:47:02] easy to
+[00:47:03] uh but um you know that's the that
+[00:47:06] wouldn't be if you like you know that's
+[00:47:08] not causal. The cause-effect structure
+[00:47:10] is just what it is. It's just a
+[00:47:11] probabilistic specification of the
+[00:47:13] dynamics that you know of the physics of
+[00:47:15] this of this world at this particular
+[00:47:17] scale.
+[00:47:18] Um so I'm asking you would it be okay if
+[00:47:22] I wanted to reiterate your argument to
+[00:47:24] say that everything is a free lunch?
+[00:47:27] A proportion of free lunch has now been
+[00:47:30] hijacked and inappropriately ascribed a
+[00:47:33] causal aspect because it can be
+[00:47:35] described as optimizing something.
+[00:47:38] &gt;&gt; Yeah that's that's super interesting and
+[00:47:40] it relates to um I got an email from
+[00:47:42] from Chris Fields a few days ago saying
+[00:47:44] something similar to the extent that if
+[00:47:47] you take my criteria seriously then then
+[00:47:49] he says
+[00:47:50] many many things in in in
+[00:47:53] he was specifically talking about
+[00:47:54] physics are things that in fact are not
+[00:47:57] explainable the way you know under those
+[00:47:59] three categories. So um it makes sense
+[00:48:02] to me. I I've had enough
+[00:48:04] sort of
+[00:48:06] nasty emails about much much much you
+[00:48:08] know much smaller claims so I'm so I'm
+[00:48:10] not making this this this you know
+[00:48:11] incredibly expansive claim at this point
+[00:48:14] yet. All I've said was was the following
+[00:48:16] that
+[00:48:17] in some cases in a few cases and we've
+[00:48:19] demonstrated just a handful of cases
+[00:48:21] both biological and computational where
+[00:48:23] it looks like the standard explanation
+[00:48:26] does not give you the engineering power
+[00:48:28] that you would like. Very practically
+[00:48:29] just does I don't know what the
+[00:48:30] ontological status of anything is. I'm
+[00:48:32] just talking about you know if we're
+[00:48:34] going to build build things and and
+[00:48:35] predict things and control things.
+[00:48:37] However however I fully agree with you
+[00:48:39] that once once that door is cracked a
+[00:48:42] little bit and it turns out that there
+[00:48:45] is there exists at least for some things
+[00:48:47] another way to look at what's going on
+[00:48:50] then you start looking at all the
+[00:48:51] conventional things and saying well we
+[00:48:53] assumed this was all going to be told by
+[00:48:56] some kind of selection forces that we
+[00:48:57] just didn't know what the what they were
+[00:48:59] but we thought there must be, because
+[00:49:00] what else could it possibly be? Well,
+[00:49:02] once once there's a fourth option on the
+[00:49:04] table, then you start to re-looking at
+[00:49:05] everything. And that's in fact I I, you
+[00:49:07] know, I have been doing that at least on
+[00:49:09] the biological side is saying
+[00:49:11] now now I think it's it's it's it's much
+[00:49:13] more prevalent than my, you know, measly
+[00:49:15] few examples. And maybe it is almost
+[00:49:17] everything, or maybe it is everything. I
+[00:49:19] don't know. That's it it's it's
+[00:49:21] interesting that you and Chris both both
+[00:49:22] said that.
+[00:49:23] &gt;&gt; Well, I'm very pleased to hear I'm I've
+[00:49:25] been in Chris's camp. That's always very
+[00:49:27] reassuring.
+[00:49:28] &gt;&gt; Right.
+[00:49:29] Yeah.
+[00:49:30] &gt;&gt; Mike, uh so in the way Karl presented
+[00:49:34] the story of
+[00:49:35] of structured learning ultimately, the
+[00:49:37] fact that some some phenotypes in virtue
+[00:49:42] of the good regulator theorems and and
+[00:49:44] and the wisdom of of the organism being
+[00:49:47] a model of the environment,
+[00:49:49] embed into them certain factorizations
+[00:49:52] that are profitably model modelable as
+[00:49:54] occurring in the environment. So, for
+[00:49:56] example, the fact that we would
+[00:49:59] presumably model our world beyond the
+[00:50:02] Markov blanket as separating the
+[00:50:05] identity of a thing, of an object and
+[00:50:07] the position. So, you have a
+[00:50:09] factorization there, which Karl would
+[00:50:11] probably say
+[00:50:13] leads to an anatomical recapitulation of
+[00:50:15] this factorization in, for example, the
+[00:50:18] ventral and dorsal streams.
+[00:50:20] That's just one example of the way in
+[00:50:22] which you embed a structure that is
+[00:50:26] what you might call, Mike, an a pattern
+[00:50:29] that ingressed. And ultimately, what we
+[00:50:32] end up observing are the history of the
+[00:50:35] successful ingressions
+[00:50:37] that are embedded in the different ways
+[00:50:40] in which anatomy and physiology in the
+[00:50:43] biological case are are ultimately set
+[00:50:45] up around an unstructured.
+[00:50:47] And
+[00:50:48] another another interesting thing that
+[00:50:51] that uh
+[00:50:53] comes to mind is the fact that if a
+[00:50:55] world has symmetries,
+[00:50:57] which we suspect our world has and we we
+[00:51:00] know it has, you would, for example,
+[00:51:02] see, for example, a tendency to increase
+[00:51:05] hemispherization across evolutionary
+[00:51:07] time scale. And we we observe that in in
+[00:51:10] brains over as the brain complexity
+[00:51:13] grew, the hemispherization also
+[00:51:15] increased. We in humans, for example,
+[00:51:17] being stronger than
+[00:51:19] due to the colossal anatomy and and the
+[00:51:21] way the commissure are are
+[00:51:23] are set up.
+[00:51:25] It's stronger than, for example, in
+[00:51:26] other species.
+[00:51:27] &gt;&gt; Mhm.
+[00:51:28] &gt;&gt; So
+[00:51:29] in a sense,
+[00:51:30] as Carl was saying, if we are to to make
+[00:51:34] everything a free lunch, then ultimately
+[00:51:37] also everything was at some point an
+[00:51:39] ingressing pattern that just happens to
+[00:51:42] be successful and we we observe it. So
+[00:51:45] then
+[00:51:47] what's what else is left for this notion
+[00:51:51] of a free lunch and the notion of an
+[00:51:53] ingressing pattern that seeks an
+[00:51:55] embodiment?
+[00:51:56] And I I suspect
+[00:51:59] it will be exactly those cases that you
+[00:52:01] that you mentioned, Mike, where
+[00:52:03] we see failures of the usual explanation
+[00:52:06] without
+[00:52:08] expecting that failure to be cashed out
+[00:52:11] in in some
+[00:52:13] ultimately arcane or
+[00:52:16] some some new physics, some something
+[00:52:19] something extraordinary that is is is at
+[00:52:22] play. It will ultimately be a change of
+[00:52:25] our advantage point as the observers
+[00:52:28] because this is one one thing that we
+[00:52:30] have not explicitly discussed today. The
+[00:52:33] fact we mentioned scale invariance and
+[00:52:35] scale freeness and so on, but we did not
+[00:52:38] emphasize the
+[00:52:40] imperative role of the observer and the
+[00:52:42] and the the modeling strategies that are
+[00:52:45] imposed by an observer. And ultimately
+[00:52:47] you something exists in to the extent
+[00:52:51] that it is measured by something else as
+[00:52:53] I recall Carl was saying in on the
+[00:52:56] nature of things,
+[00:52:57] if I'm not mistaken, Carl.
+[00:53:01] Something for something to exist, it
+[00:53:02] must be measurable, right, Carl? And not
+[00:53:05] necessarily in the mathematical sense of
+[00:53:07] a measure of theory, but in the sense of
+[00:53:09] having a probability mass, probability
+[00:53:12] distribution.
+[00:53:14] &gt;&gt; Absolutely. And the Markov blanket.
+[00:53:17] &gt;&gt; Oh, of of obviously, obviously,
+[00:53:19] obviously. You are quite the idealist,
+[00:53:21] Karl. You'd be surprised how close you
+[00:53:23] are to an idealism.
+[00:53:24] &gt;&gt; Right. [laughter]
+[00:53:25] I think that's a compliment. I'm not I
+[00:53:27] don't know how to really tell me what
+[00:53:28] the difference is, but
+[00:53:30] can I just pick up on um just to sort of
+[00:53:32] link that notion of um ingressing
+[00:53:35] symmetries? Um so symmetries was you
+[00:53:38] know
+[00:53:39] read there in the vernacular literally
+[00:53:40] having having sort of mirror symmetry in
+[00:53:42] the in the way that we walk around and
+[00:53:44] our brains are
+[00:53:45] deposed. Um mathematically a symmetry
+[00:53:48] just means an invariance or an
+[00:53:49] equivariance. Um and um what that means
+[00:53:53] is that you'd expect to see um in the
+[00:53:57] anatomy of anything from you know from
+[00:53:58] from from a cell to a xenobot to to a
+[00:54:01] worm to to me and you, you'd expect to
+[00:54:03] see um the those kinds of symmetries um
+[00:54:08] appear as factors in literally in the
+[00:54:12] structure of of you know of the
+[00:54:14] biological organism. And what that would
+[00:54:16] look like is very much a sort of
+[00:54:18] Fodorian modularity, a functional
+[00:54:20] segregation and specialization. So I'm
+[00:54:23] just mindful you know I can't remember
+[00:54:25] whether it was this conversation or
+[00:54:26] previously that
+[00:54:28] how do things know what to do in my
+[00:54:30] body? You know how does a liver cell
+[00:54:31] know you know to be a liver cell? Well,
+[00:54:34] that's just from the point of view of
+[00:54:37] this um good regulator theorem read in
+[00:54:41] terms of installing the right kinds of
+[00:54:43] symmetries. It's just that this has now
+[00:54:46] become functionally specialized because
+[00:54:49] this is part of this is how it you you
+[00:54:52] ingress the cause-effect structure
+[00:54:54] simply because there is a statistical
+[00:54:58] independence between what I'm the liver
+[00:55:01] is doing, what the brain is doing, what
+[00:55:02] the and what the heart is doing. And so
+[00:55:06] and this kind of factorization also
+[00:55:08] speaks to the efficiency you were
+[00:55:09] talking about before, the statistical
+[00:55:11] efficiency, coarse graining, simplifying
+[00:55:14] your model of the world, minimizing its
+[00:55:16] complexity, noting that we're always in
+[00:55:18] a complexity arms race,
+[00:55:20] but for any given level of accuracy to
+[00:55:23] to maximize the to minimize the surprise
+[00:55:26] or maximize the marginal likelihood or
+[00:55:28] the adaptive fitness, you also have to
+[00:55:29] keep things as simple as parsimonious
+[00:55:32] parsimonious as possible.
+[00:55:35] There's one thing which is
+[00:55:37] decided to say before
+[00:55:39] stop wittering.
+[00:55:41] You know, just in terms of people or
+[00:55:43] Mike particularly
+[00:55:46] worrying about the the cause effect
+[00:55:49] structure
+[00:55:51] encompassing all kinds of possibilities.
+[00:55:54] I think that's absolutely the case and
+[00:55:55] of course the actual
+[00:55:58] struct cause effect structure that you
+[00:55:59] co-create at any given scale will be
+[00:56:03] unique to to to that point in time. So
+[00:56:07] you know, it's a space of possibilities
+[00:56:10] simply because the the universe on the
+[00:56:12] outside is usually constituted by other
+[00:56:14] things like me, which means I'm like
+[00:56:17] econiche construction. I am actually
+[00:56:19] building the you know, the context that
+[00:56:21] I'm trying to model. You know, so there
+[00:56:24] is now a circular causality that creeps
+[00:56:26] creeps into the game.
+[00:56:30] There
+[00:56:31] the the the kind of cause effect
+[00:56:34] structure that I was referring to is
+[00:56:37] something that Robert referred to right
+[00:56:38] at the beginning when when he referred
+[00:56:40] to a Langevin equation. All that is and
+[00:56:44] all the physics including quantum
+[00:56:46] physics
+[00:56:48] quantum mechanics, statistical
+[00:56:50] mechanics, classical mechanics, and the
+[00:56:52] Bayesian mechanics of the free energy
+[00:56:54] principle
+[00:56:55] all start with just writing down a cause
+[00:56:58] effect structure in terms of some
+[00:57:00] abstract state of the universe at this
+[00:57:03] scale determines in some lawful way the
+[00:57:06] probability of motion or dynamics of
+[00:57:09] that state.
+[00:57:11] And that's it.
+[00:57:12] You know, that is causality.
+[00:57:15] You know, this is nothing to do with
+[00:57:16] Granger causality or um the the sort of
+[00:57:19] kind of causality you get in in
+[00:57:21] philosophy courses. This is the
+[00:57:22] causality of physics. That this state
+[00:57:25] causes this motion
+[00:57:27] uh and
+[00:57:28] probabilistically with plus some random
+[00:57:29] fluctuations. So to my mind that that
+[00:57:32] that is an extremely expressive kind of
+[00:57:35] cause effect structure. It is the
+[00:57:37] definition of a probabilistic pattern.
+[00:57:39] You know, uh and it hasn't committed to
+[00:57:41] any spacetime. Well, actually that's a
+[00:57:44] bit of a trick because the motion
+[00:57:45] doesn't depend upon time. Uh but
+[00:57:48] ignoring that dependency, you know, it's
+[00:57:50] up for grabs of how you how you read
+[00:57:52] this particular cause effect structure.
+[00:57:54] You can read it as a physicist, you can
+[00:57:55] read it as a biologist, you can read it
+[00:57:57] as a behaviorist, you can read you know
+[00:57:59] and so on and so forth. But underneath
+[00:58:01] it's just a pattern.
+[00:58:05] &gt;&gt; Super interesting guys. I apologize. Um
+[00:58:07] I need to uh
+[00:58:09] I need to go to
+[00:58:10] something here.
+[00:58:13] But by all means if if you're able to
+[00:58:15] continue I will listen with great
+[00:58:17] interest to the recording. So I'm not
+[00:58:19] I'm not
+[00:58:20] you know
+[00:58:21] suggesting
+[00:58:22] this is really good but I've got to I've
+[00:58:23] got to go.
+[00:58:25] &gt;&gt; No problem. Thank you for joining us uh
+[00:58:27] Professor Lewis.
+[00:58:27] &gt;&gt; you so much. It was
+[00:58:29] fascinating as as always. Thank you
+[00:58:30] guys.
+[00:58:31] &gt;&gt; Good to see you.
+[00:58:33] &gt;&gt; Um Robert um
+[00:58:35] do you have anything to add to the
+[00:58:37] latest thing or before I ask something
+[00:58:40] to both of you?
+[00:58:41] &gt;&gt; No no. You can you can go ahead.
+[00:58:44] &gt;&gt; Um so just [clears throat] for
+[00:58:47] my own kind of uh
+[00:58:50] understanding but maybe listeners also
+[00:58:52] are a little bit confused and I want to
+[00:58:54] make sure when I use this terminology I
+[00:58:57] use it with as much accuracy as
+[00:59:01] possible. Um
+[00:59:03] [clears throat]
+[00:59:04] what is the difference when we're
+[00:59:06] talking about agency, intelligence,
+[00:59:09] sentience, and consciousness? So these
+[00:59:12] four terms specifically.
+[00:59:15] Um,
+[00:59:16] sometimes I feel people use them and
+[00:59:19] they understand different things when
+[00:59:21] they use them. Um, so I'd like to
+[00:59:24] understand what we mean, let's say when
+[00:59:27] we talk about intelligence, let's say
+[00:59:29] biological intelligence. I was looking
+[00:59:32] at your latest paper with Professor
+[00:59:35] Levin, Cognition All the Way Down to
+[00:59:38] Point O. And so
+[00:59:41] um,
+[00:59:42] [clears throat] if I understand and
+[00:59:43] correct me, tell me just if I'm in the
+[00:59:45] right kind of ballpark, we should think
+[00:59:49] about biological intelligence or in
+[00:59:51] terms of
+[00:59:53] some
+[00:59:54] efficient search
+[00:59:56] through problem spaces, be it
+[00:59:59] physiological, morphological, or
+[01:00:01] behavioral across multiple scales. Am I
+[01:00:05] on the right lines saying that?
+[01:00:08] &gt;&gt; Very good. It's It's right on the money.
+[01:00:11] &gt;&gt; Yes.
+[01:00:12] Could you unpack that a little bit more
+[01:00:15] um
+[01:00:17] and and kind of contrast what that
+[01:00:21] definition of intelligence entails and
+[01:00:23] what additional or different properties
+[01:00:26] um things such as agency, sentience, or
+[01:00:30] consciousness
+[01:00:32] uh an organism would require in order
+[01:00:34] for us to say it has those kind of
+[01:00:37] things?
+[01:00:38] &gt;&gt; Certainly.
+[01:00:39] Being also mindful of the of of Karl's
+[01:00:42] time and since
+[01:00:44] I happen to sometimes be a philosopher,
+[01:00:47] it's dangerous to ask me to go on
+[01:00:49] definitions. So so I'll try to to be
+[01:00:52] brief.
+[01:00:53] In that specific paper that you
+[01:00:55] mentioned in the Cognition All the Way
+[01:00:57] Down,
+[01:00:58] we operated with a Jamesian notion of
+[01:01:02] intelligence
+[01:01:04] in the sense of William James in
+[01:01:05] Principles of Psychology where he
+[01:01:08] defined intelligence more conceptually
+[01:01:12] rather than formally as the ability to
+[01:01:15] reach the same end or the same goal by
+[01:01:18] different means. Same goal, variable
+[01:01:20] means.
+[01:01:21] And
+[01:01:22] obviously
+[01:01:24] if you were to ask uh
+[01:01:26] someone working in machine learning,
+[01:01:28] someone working in developmental
+[01:01:30] biology, someone working in in
+[01:01:33] mathematics, you'd probably get very
+[01:01:36] different senses of intelligence,
+[01:01:37] someone working in psychology, for
+[01:01:38] example.
+[01:01:40] We used in in that paper um the legacy
+[01:01:43] of Newell and Simon Simon
+[01:01:46] Ford from from computer science and we
+[01:01:49] tried to formalize intelligence as an
+[01:01:52] efficiency metric. So it was not
+[01:01:54] necessarily only the fact that you can
+[01:01:56] reach a goal but also how efficient you
+[01:01:59] are in the reach of that goal
+[01:02:01] assuming a model of the problem space
+[01:02:04] where it is
+[01:02:06] the task and the trajectory, which is a
+[01:02:09] sequence of states made by some changes
+[01:02:12] like some operators is well formed.
+[01:02:15] So we have that notion of of
+[01:02:17] intelligence and we
+[01:02:20] in the in the diverse intelligence uh
+[01:02:23] research program we try to project that
+[01:02:26] on the dynamics of certain biological
+[01:02:28] processes. And the examples I uh we gave
+[01:02:32] in that paper were
+[01:02:34] amoeba movement
+[01:02:37] like towards a towards a nutrient source
+[01:02:40] and planarian head regeneration upon uh
+[01:02:43] barium
+[01:02:45] uh
+[01:02:45] induction.
+[01:02:47] And we found out
+[01:02:49] a according to that model quite
+[01:02:50] impressive efficiency
+[01:02:52] for this notion of biological crossing.
+[01:02:55] Now whether that notion of intelligence
+[01:02:57] is an all encompasses the definitive
+[01:02:59] notion
+[01:03:00] is a different question. The point there
+[01:03:03] was only to show that the usual story of
+[01:03:07] intelligence is here, is in the head,
+[01:03:10] and intelligence is is a symbolic
+[01:03:13] property, if you want, of only certain
+[01:03:15] kinds of processes that we usually
+[01:03:17] associate with the human minds or minds
+[01:03:20] in general as in brained. We wanted to
+[01:03:23] challenge that.
+[01:03:24] That was the specific
+[01:03:27] if you want strategic goal of of that
+[01:03:29] notion of intelligence and the way we we
+[01:03:31] formalized it. And that notion of
+[01:03:33] intelligence is very different from
+[01:03:35] sentience which I will let Karl define
+[01:03:38] and also agency because it's more within
+[01:03:41] his
+[01:03:42] within his ballpark.
+[01:03:44] But I will say just one word about
+[01:03:46] consciousness and the fact that
+[01:03:48] consciousness and intelligence according
+[01:03:51] to
+[01:03:53] um
+[01:03:54] widely
+[01:03:55] seen view
+[01:03:57] are
+[01:03:58] to a certain extent dissociable. Some
+[01:04:00] people say they are doubly dissociable.
+[01:04:03] And it also depends on how you define
+[01:04:05] consciousness, but the the usual
+[01:04:07] definition of consciousness in
+[01:04:10] in the field would be the felt
+[01:04:13] experience.
+[01:04:15] People talk of qualia, but that need not
+[01:04:17] be the term we use. It is if you want
+[01:04:21] the thing that goes away in anesthesia
+[01:04:23] or dreamless sleep, the thing that the
+[01:04:25] thing that comes back when you are when
+[01:04:27] you are awakening from from sleep or
+[01:04:30] anesthesia,
+[01:04:31] the contents in your experience are
+[01:04:34] themselves felt experiences.
+[01:04:37] Thoughts, I would say, are also
+[01:04:39] experiential in nature.
+[01:04:41] Recollections, memories are
+[01:04:42] experiential. The the feeling of a déjà
+[01:04:44] vu, right? It shows that something that
+[01:04:47] never occurred in reality
+[01:04:50] feels like a memory.
+[01:04:52] So there is a feeling of having a
+[01:04:54] memory. There is a feeling of tasting
+[01:04:57] a can of in this case Diet Coke.
+[01:05:00] There is a there is a feeling of
+[01:05:03] of listening to to
+[01:05:08] Mozart
+[01:05:09] if you are.
+[01:05:10] And that
+[01:05:12] is
+[01:05:14] a certain notion of phenomenal
+[01:05:16] consciousness is called.
+[01:05:17] Other people define it differently, but
+[01:05:19] it's important for the viewers to
+[01:05:21] understand that intelligence need not
+[01:05:23] entail consciousness, consciousness need
+[01:05:25] not entail intelligence, or at least it
+[01:05:27] does not entail a level of intelligence
+[01:05:29] that we would usually associate with
+[01:05:31] with what we call intelligence in
+[01:05:33] humans. And
+[01:05:35] the last point on this,
+[01:05:36] the fact that AI exhibits
+[01:05:39] what we perhaps anthropomorphically call
+[01:05:42] intelligence is not a license to
+[01:05:45] attribute experience in the sense of
+[01:05:47] phenomenal consciousness.
+[01:05:52] &gt;&gt; So
+[01:05:58] Well,
+[01:05:59] um
+[01:06:00] so I'll just I'll just rehearse what has
+[01:06:02] been said um
+[01:06:03] from a um
+[01:06:05] a mathematical perspective um but I'm
+[01:06:08] not going to even bother with
+[01:06:09] intelligence.
+[01:06:11] Just to endorse um this notion that
+[01:06:13] intelligence is
+[01:06:15] um
+[01:06:17] is something which may or may not well
+[01:06:20] is does not imply consciousness um
+[01:06:23] and um I think um
+[01:06:26] the question about um agency actually
+[01:06:29] puts another interesting dimension into
+[01:06:32] the way that we so would describe things
+[01:06:34] or tell stories about things. You know,
+[01:06:36] what's the difference between an
+[01:06:38] autonomous process and an agent?
+[01:06:41] Um and I you know, I don't think there's
+[01:06:44] any
+[01:06:44] um universally accepted um notion um but
+[01:06:48] in my world um
+[01:06:51] I would
+[01:06:53] consider something that had authentic
+[01:06:55] agency
+[01:06:58] to be something that in Roberts's words
+[01:07:01] had explicit goals in mind
+[01:07:05] by which I mean it had the ability to
+[01:07:08] select among different futures
+[01:07:10] to reach some intended outcome.
+[01:07:13] So I would say that lots of things can
+[01:07:16] behave and show autonomous behavior like
+[01:07:18] thermostats and viruses and the like
+[01:07:21] um but only a few natural kinds actually
+[01:07:25] act intentionally in the sense that they
+[01:07:28] they have chosen this path
+[01:07:31] through their personal future towards
+[01:07:34] this outcome that a priori they think
+[01:07:37] they um you know that they should given
+[01:07:39] the kind of thing that they are.
+[01:07:41] And immediately that that that that
+[01:07:42] speaks to
+[01:07:44] um another key point that Robert brought
+[01:07:46] up right at the beginning
+[01:07:49] which is another aspect of
+[01:07:51] um scaling laws but here deployed
+[01:07:55] in terms of um what happens when things
+[01:07:59] get bigger.
+[01:08:00] And what happens when things get bigger
+[01:08:02] say we move from a single cell to a
+[01:08:05] multicellular organization
+[01:08:07] that and we now draw our mark of blanket
+[01:08:10] around the periphery
+[01:08:13] around the epithelia of this structure.
+[01:08:16] What that means is that the internal
+[01:08:18] states with some suitable coarse
+[01:08:20] graining
+[01:08:21] now become sequestered
+[01:08:24] from the blanket states that are doing
+[01:08:26] the control
+[01:08:28] that those are the things that are
+[01:08:29] influencing the environment and also um
+[01:08:33] the sensory states and registering the
+[01:08:34] consequence of that influence.
+[01:08:36] Um and that basically means that there
+[01:08:39] are some internal states that now can be
+[01:08:42] read if you want to you it's a physicist
+[01:08:44] you don't have to do this but if you
+[01:08:45] want to tell a story to psychologists or
+[01:08:48] evolutionary theorists or um behavioral
+[01:08:51] um behaviorists then you can tell a
+[01:08:53] story
+[01:08:54] um that now the internal states look as
+[01:08:57] if
+[01:08:58] they are doing uh inferring their own
+[01:09:01] future.
+[01:09:03] That's because their actual actions are
+[01:09:06] no longer available to them.
+[01:09:08] So they now become
+[01:09:10] hidden causes
+[01:09:12] or vicarious causes of their sensory
+[01:09:15] observations.
+[01:09:17] And as soon as they become random
+[01:09:19] variables or hidden variables that means
+[01:09:22] that you can now interpret the internal
+[01:09:25] states as making inferences about
+[01:09:28] their own actions or the actions of the
+[01:09:30] thing to which they are internal.
+[01:09:33] Which means that if you are in machine
+[01:09:35] learning or control theory, um you can
+[01:09:38] now describe this thing as moving beyond
+[01:09:41] controllers inference to planning as
+[01:09:43] inference.
+[01:09:44] So now you've got this bright line
+[01:09:47] between autonomous things
+[01:09:49] which may or may not be intelligent um
+[01:09:52] and um
+[01:09:54] authentic agents that have this
+[01:09:56] intentional aspect that have to select
+[01:09:58] their particular future because they're
+[01:10:01] inferring the consequences of their
+[01:10:03] actions. So I think that's an important
+[01:10:06] uh distinction particularly in relation
+[01:10:08] to Robert's notion and you know could
+[01:10:10] could could we um where would we place
+[01:10:14] artificial intelligence, large language
+[01:10:16] models? And at the moment
+[01:10:18] we could certainly put them at the level
+[01:10:20] of controllers inference and say that
+[01:10:22] they are autonomous and that they do
+[01:10:24] generate material, they generate
+[01:10:26] predictions, they respond to prompts
+[01:10:28] much like a thermostat does. Um but they
+[01:10:31] don't plan
+[01:10:32] because they don't have any um they
+[01:10:35] don't have an internal generative model
+[01:10:39] um of the consequences of their actions
+[01:10:41] in the future. So they they don't have
+[01:10:43] any intentions. Um so they can act
+[01:10:47] but they have no intentions. Whereas you
+[01:10:49] and I have intentions. And then the next
+[01:10:51] level would be um action on the inside
+[01:10:54] and then we get into phenomenology and
+[01:10:56] the um the regulation usually read in
+[01:11:00] terms of the deployment of um precision
+[01:11:03] or attention um which um some people
+[01:11:07] think then give rise to I think what
+[01:11:10] Robert absolutely I was you know I think
+[01:11:12] it's quite important um
+[01:11:15] when he talked about the felt
+[01:11:16] experience, the the feeling of something
+[01:11:20] I think that's that that that that that
+[01:11:21] that is quite central and sort of
+[01:11:23] slightly a move away from the
+[01:11:25] qualitative experience, the the qualia
+[01:11:27] you find in philosophy of mind. I think
+[01:11:29] you're and this is very reminiscent
+[01:11:31] Robert of of Mark Solms's argument, you
+[01:11:33] know, it's it's a feeling that counts.
+[01:11:36] Um and the most if you like um
+[01:11:40] the formulation that is most sympathetic
+[01:11:43] to most theories such as global neuronal
+[01:11:45] workspace theory or global workspace
+[01:11:47] theory
+[01:11:48] acted in
+[01:11:50] and Mark Solms's constructions um
+[01:11:53] and also the neuropsychology and you
+[01:11:55] know the sleep psychology and
+[01:11:58] understanding levels of consciousness in
+[01:11:59] the sense of anesthesia and sleep for
+[01:12:01] example.
+[01:12:02] It seems that um once you've got the
+[01:12:05] capacity to contextualize
+[01:12:08] your attention or your precision
+[01:12:10] waiting, your um your internal modeling
+[01:12:14] and planning
+[01:12:15] um then that would be the the
+[01:12:18] prerequisite for the feeling. The
+[01:12:20] ability to ignite if you like this
+[01:12:24] particular inferential process or drill
+[01:12:27] down or attend to this as opposed to
+[01:12:29] that. That ability to actively act on
+[01:12:32] the inside, so Thomas Metzinger and his
+[01:12:35] colleagues might call this sort of
+[01:12:36] mental action um rendering that which
+[01:12:39] was phenomenally a transparent now
+[01:12:41] opaque simply because you can turn the
+[01:12:43] knob on how opaque your window on your
+[01:12:47] own processing is um in the sense of
+[01:12:50] smart glass. Uh so once you got some
+[01:12:52] control
+[01:12:54] over your own inferential processing and
+[01:12:57] belief updating um that you can
+[01:13:00] associate with the dynamics on the
+[01:13:02] inside, then you may have
+[01:13:05] you that would be if like a prerequisite
+[01:13:07] for feeling um so I you know
+[01:13:10] that as far as I understand it would be
+[01:13:12] a summary of what Robert was implying in
+[01:13:16] a way that is sympathetic to the
+[01:13:18] accounts of people like Mark Solms
+[01:13:20] who've been to the table from a sort of
+[01:13:22] from a very different perspective.
+[01:13:25] &gt;&gt; Uh Robert, do you have anything to add
+[01:13:27] to that?
+[01:13:29] &gt;&gt; Only only the perhaps minor point, Karl,
+[01:13:32] that maybe the audience is
+[01:13:35] amenable to be confused when we talk
+[01:13:37] about the internal states inferring the
+[01:13:41] exterior and the my tank of inference as
+[01:13:44] in the psychological sense on which we
+[01:13:46] are doing perhaps symbolic sense of
+[01:13:49] inference. So maybe you want to say that
+[01:13:52] that's not necessarily
+[01:13:53] &gt;&gt; No, you you spotted that so you could
+[01:13:55] you could explain the distinction.
+[01:13:58] &gt;&gt; So in in the sense in which Karl means
+[01:14:01] inference here is the
+[01:14:04] statistical physicist sense of of
+[01:14:06] inference or the statistic statistician
+[01:14:08] sense of inference, not the the way in
+[01:14:10] which we think of an inference as some
+[01:14:12] some
+[01:14:14] mo motion between some symbols like a
+[01:14:18] premise and there is another premise and
+[01:14:20] there is an argument and there is a
+[01:14:21] conclusion and that's the argument and
+[01:14:23] the logic between that is the inference
+[01:14:25] that you make as a sort of of a
+[01:14:28] step by step symbolic procedure. That is
+[01:14:32] not the inference in the way in which
+[01:14:33] the internal states are encoding
+[01:14:36] probability distribution over the
+[01:14:38] external states in the sense of the
+[01:14:40] states that they can be read as if, not
+[01:14:43] that they infer. So you you would
+[01:14:46] measure the some some internal states in
+[01:14:48] in some particular system you observe
+[01:14:51] and you you see some
+[01:14:53] homuncular symbolic system inferring the
+[01:14:55] states of what is beyond the the mark of
+[01:14:58] blanket of that of those internal states
+[01:15:00] of that system of interest. That's not
+[01:15:02] the case. It is something that you can
+[01:15:05] read
+[01:15:06] as a modeler, as an observer by seeing
+[01:15:09] the way in which given the statistical
+[01:15:11] independence of the external and the
+[01:15:13] internal states, you can model the
+[01:15:15] evolution of the internal states as
+[01:15:18] recapitulating that of the external
+[01:15:20] states of the environment, not that
+[01:15:22] they, the internal states themselves,
+[01:15:25] the physical magnitudes are doing
+[01:15:26] anything
+[01:15:28] like symbolic inference in the way we
+[01:15:29] think of inference in the human case.
+[01:15:33] &gt;&gt; Yeah, excellent.
+[01:15:35] So yeah, that was nicely put and sort of
+[01:15:38] draws a bright line between
+[01:15:41] inductive inference you might find in
+[01:15:42] philosophy and the kind of abductive
+[01:15:45] inference that is inherent in
+[01:15:46] probabilistic mechanics you find in
+[01:15:48] physics.
+[01:15:49] Yeah, so I apologize
+[01:15:51] when people like me and to a certain
+[01:15:53] extent Robert use the words like
+[01:15:54] surprise, belief and the like, they mean
+[01:15:58] it in a very technical mathematical
+[01:15:59] sense, in the sense of Bayesian belief
+[01:16:02] updating you would find in
+[01:16:04] in mathematics or belief propagation in
+[01:16:07] various
+[01:16:09] statistical tools where the belief is
+[01:16:11] just a conditional probability
+[01:16:13] distribution that has sufficient
+[01:16:14] statistics and we're associating those
+[01:16:16] sufficient statistics like a mean and
+[01:16:18] variance with the biophysical state, the
+[01:16:21] internal state of any dissipative
+[01:16:23] structure.
+[01:16:24] At no point is it
+[01:16:26] meant to imply a propositional or
+[01:16:29] inductive or personal kind of belief.
+[01:16:33] You know, this is not declarative. Of
+[01:16:35] course, if you have something that is
+[01:16:37] self-conscious, then one might start to
+[01:16:39] argue that there is
+[01:16:41] something [laughter] that becomes
+[01:16:43] declarative, but that's the next level
+[01:16:45] up I think from from being able to feel.
+[01:16:50] &gt;&gt; That's that's very interesting.
+[01:16:52] I would have time, but I had one kind of
+[01:16:54] last topic that I I wanted to touch upon
+[01:16:57] and
+[01:16:59] understand better and it's
+[01:17:02] the notion of emergence. So
+[01:17:06] I'll attempt to kind of
+[01:17:09] give kind of my basic understanding of
+[01:17:11] emergence and and you guys come
+[01:17:14] correct me.
+[01:17:15] I
+[01:17:16] I understand it as we have
+[01:17:19] many relatively simple components and
+[01:17:22] then those components interact with each
+[01:17:25] other and produce some higher level
+[01:17:28] property or pattern. Now
+[01:17:34] please do kind of nudge me to
+[01:17:36] the the right direction if I'm off with
+[01:17:39] that, but just to
+[01:17:40] um
+[01:17:41] add the kind of
+[01:17:44] further question to that. I'm curious if
+[01:17:48] once that
+[01:17:51] higher level pattern exists, if it's
+[01:17:55] come influence the components that
+[01:17:58] created it. And I'm also curious if
+[01:18:02] emergence can be quantified. Robert, I
+[01:18:04] know you're involved when it comes to
+[01:18:07] this kind of stuff uh um
+[01:18:09] heavily. So yeah.
+[01:18:14] &gt;&gt; Um
+[01:18:15] so
+[01:18:17] let me let me just briefly say that
+[01:18:19] emergence is one of those somewhat
+[01:18:23] canny as in kind of worms concepts where
+[01:18:26] people mean very many things by
+[01:18:28] emergence
+[01:18:29] and it has been sometimes used as a as a
+[01:18:32] source of
+[01:18:36] easy escape from a of a
+[01:18:38] you say something is emergence as if
+[01:18:41] something as if that statement the
+[01:18:43] emergence is something more than a
+[01:18:45] placeholder for a for an explanation.
+[01:18:49] The [clears throat]
+[01:18:50] more vernacular sense of emergence is
+[01:18:53] something that might be surprisingly
+[01:18:56] arriving from the arrangement of some
+[01:18:57] micro components that has a sense of
+[01:18:59] novelty to it.
+[01:19:01] That is how people understand emergence.
+[01:19:04] But in in our lab, for example, in the
+[01:19:06] work of of Lionel Barnett, in the work
+[01:19:08] of
+[01:19:10] they tried to quantify the notion of
+[01:19:12] emergence in a different way. They have
+[01:19:14] different constructs that they propose
+[01:19:16] like dynamical independence
+[01:19:18] and and so on. So
+[01:19:21] this idea that something emerges
+[01:19:25] means ultimately that you you see
+[01:19:29] at some
+[01:19:30] coarse grain
+[01:19:31] scale of observation
+[01:19:34] something that is model
+[01:19:36] being constituted at the other finer
+[01:19:38] grain from some
+[01:19:41] multiple
+[01:19:43] partitions of constituents that are
+[01:19:44] compatible with a single form at a
+[01:19:47] higher level. So for example, if you
+[01:19:49] think of a traffic jam, which is a
+[01:19:51] standard example of emergence, a traffic
+[01:19:53] jam is something that would emerge from
+[01:19:55] a certain disposition of of individual
+[01:19:57] car irrespective of the identity of of a
+[01:20:00] specific car or a flock of birds and in
+[01:20:03] the way they they organize their flight.
+[01:20:05] Those are just very
+[01:20:08] easy examples of emergence.
+[01:20:11] But then some some some people try to
+[01:20:13] propose that consciousness would be
+[01:20:15] something that would emerge out of brain
+[01:20:17] activity or it would emerge out of
+[01:20:20] insert your favorite theoretical
+[01:20:22] construct you want to put forward. And
+[01:20:24] the last thing I say and then I give
+[01:20:27] this to Carl
+[01:20:28] is that
+[01:20:30] to me the notion of emergence if it's
+[01:20:32] not properly quantified, if it's not
+[01:20:34] properly made hypothesis to be tested
+[01:20:40] construct to be modeled precisely, it is
+[01:20:43] just an empty placeholder. And when I
+[01:20:46] hear when I see the notion emergence
+[01:20:48] wrote something is emergent out of
+[01:20:50] something else, I am immediately
+[01:20:53] skeptical of the
+[01:20:55] understanding that's it's transmitted to
+[01:20:58] me in that statement.
+[01:21:01] &gt;&gt; Professor Levin also we briefly touched
+[01:21:03] on it on the first episode we did and
+[01:21:06] he was describing
+[01:21:08] that that part of what you were saying
+[01:21:10] about emergence being used as a it's
+[01:21:12] kind of easy escape.
+[01:21:14] So yeah, that makes sense. Professor
+[01:21:16] Friston?
+[01:21:18] &gt;&gt; Oh, well, I'm I it's a very reassuring
+[01:21:21] because I've never really used the word
+[01:21:22] emergence. I remember the
+[01:21:25] the last chapter of the Particular
+[01:21:26] Physics book and Maxwell Maxwell
+[01:21:29] Ramstead was very kind and he wrote he
+[01:21:31] wrote a whole paragraph on to an
+[01:21:33] emergence which I still don't really
+[01:21:35] understand.
+[01:21:36] But now you've just given me permission
+[01:21:38] never to use the word again. Um, I am I
+[01:21:41] am from the
+[01:21:43] from the point of view of things like
+[01:21:44] the renormalization group, I should also
+[01:21:46] mention um synergetics as an important
+[01:21:50] application of this in terms of um
+[01:21:54] in terms of the slaving principle.
+[01:21:56] There's also a mathematical version
+[01:21:57] called center manifold theory. So this
+[01:22:00] the way that different scales talk to
+[01:22:02] each other is a really central and
+[01:22:03] ubiquitous theme um in maths and
+[01:22:06] physics. But there's no teleology.
+[01:22:08] There's there's no you don't need to use
+[01:22:09] the word emergence just to have these
+[01:22:11] different levels of description and look
+[01:22:13] for symmetries or invariance in terms of
+[01:22:16] the dynamics or the laws or the um
+[01:22:19] Lagrangians that operate consistently at
+[01:22:22] different scales. Um, apart from the
+[01:22:26] work of George Ellis on top-down and
+[01:22:28] bottom-up causation, who just come at
+[01:22:30] this from a sort of physics perspective
+[01:22:32] um and um that's
+[01:22:35] you know apart from that though um I I
+[01:22:38] agree entirely with Robert. It you know
+[01:22:40] probably best not to use the word unless
+[01:22:42] you're a philosopher and like arguments.
+[01:22:46] &gt;&gt; Indeed.
+[01:22:48] &gt;&gt; That makes a lot of sense. Um, I was
+[01:22:50] just kind of a closing question. And
+[01:22:52] I I have a
+[01:22:55] I have a bit of a
+[01:22:57] a bit of trouble understanding some of
+[01:22:59] the ideas around
+[01:23:00] um uh scales. So how does information uh
+[01:23:04] uh
+[01:23:06] travel travel maybe travels the wrong
+[01:23:07] word but uh move across
+[01:23:11] uh scales?
+[01:23:14] &gt;&gt; Um, mathematically you you apply
+[01:23:17] something called um an RG operator. RG
+[01:23:21] stands for the renormalization group and
+[01:23:23] it's very simple.
+[01:23:24] You effectively do two things to a
+[01:23:27] particular scale.
+[01:23:29] The first is to sort of group things
+[01:23:30] together
+[01:23:32] lump them lump things together
+[01:23:35] and then effectively take mixtures of
+[01:23:37] the things you've lumped together to
+[01:23:39] reduce the dimensionality. So you've got
+[01:23:41] a grouping and a reduction operator so
+[01:23:43] it's another way of reading the um the
+[01:23:45] RG operator.
+[01:23:47] Uh it's very, very simple. Um you know,
+[01:23:50] I'm just trying to think if if if I can
+[01:23:52] persuade Robert to go through the the
+[01:23:53] traffic jam uh
+[01:23:56] example. But if you wanted to think
+[01:23:58] about how you would um summarize for
+[01:24:01] somebody um traffic flow, you you
+[01:24:04] wouldn't you wouldn't list you know on a
+[01:24:06] news report for example um the position
+[01:24:09] and the velocity of every constituent
+[01:24:11] car, you would take you would group
+[01:24:14] together all the cars on the A24
+[01:24:17] and then you would take the average
+[01:24:19] velocity. Oh, it's 3 mph and then you
+[01:24:22] report that. So you you've applied uh
+[01:24:25] a reduction and grouping operator in the
+[01:24:27] spirit of the renormalization group. So
+[01:24:29] you've now described your system in
+[01:24:31] terms of one number that applies to all
+[01:24:34] the individual cars on the A24. And then
+[01:24:37] that number will change over time and
+[01:24:38] then you've got now another set of
+[01:24:41] dynamics and equations of motion and a
+[01:24:43] cause effect structure um that you can
+[01:24:46] then treat at that particular scale
+[01:24:48] which inherits from but also
+[01:24:50] contextualizes the scale below.
+[01:24:53] &gt;&gt; That makes a little sense. Do you guys
+[01:24:55] have anything else that you would like
+[01:24:56] to talk about before we end the episode?
+[01:25:00] &gt;&gt; No, I need a cigarette now.
+[01:25:02] &gt;&gt; [snorts]
+[01:25:02] &gt;&gt; No, I'm sure me and Carl could find many
+[01:25:04] things to talk about, but it's it's a
+[01:25:05] bit late, so probably
+[01:25:08] can call it the day here.
+[01:25:09] &gt;&gt; Cool. Well, thank you both so much for
+[01:25:11] taking the time to have a conversation.
+[01:25:13] I'll send you both a link once the
+[01:25:16] episode is out. And yeah, hope you have
+[01:25:18] a pleasant rest of your day, guys. Thank
+[01:25:20] you so much.
+[01:25:20] &gt;&gt; Thank you, Kyriakos, for making this
+[01:25:22] possible.
+[01:25:23] &gt;&gt; Bye, Kyriakos.
+[01:25:24] &gt;&gt; Bye, Carl. Bye, Kyriakos.
+[01:25:25] &gt;&gt; Bye. Love to see you. Bye-bye.

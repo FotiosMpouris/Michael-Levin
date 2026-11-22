@@ -1,7 +1,7 @@
 ---
 title: Michael Levin
 created: 2026-06-15
-updated: 2026-10-16
+updated: 2026-11-22
 type: entity
 tags: [#bioelectricity, #morphogenesis, #xenobots, #philosophy-of-mind]
 sources: [https://drmichaellevin.org/, https://drmichaellevin.org/people/, https://thoughtforms.life, https://x.com/drmichaellevin, raw/transcripts/2026-06-15-LCqJKGnRcbA.txt]
@@ -59,6 +59,18 @@ Full list: [Peer-reviewed papers on the lab site](https://drmichaellevin.org/pub
 - The "cognitive light cone": the size of the goals a system can pursue measures how much of a self it is. See [[cognitive-lightcone]].
 - A "Platonic space" of patterns that minds and bodies draw on. He presents this as a hypothesis. See [[platonic-space]] and [[platonic-space-and-ingressing-minds]].
 - From the 2026-06-15 interview (transcript: `raw/transcripts/2026-06-15-LCqJKGnRcbA.txt`): he describes the lab as roughly three-quarters wet-lab work on regenerative-medicine applications. That is his description, not an audited figure.
+
+## Recent interviews and talks on other channels (His words)
+
+Besides his own channel, he appears often as a guest. Pages on this site, newest first:
+
+- 2026-11-18: [[2026-11-18-agency-intelligence-across-scales-friston-chis-ciure|Agency & Intelligence Across Scales]], a roundtable with [[karl-friston|Karl Friston]] and [[robert-chis-ciure|Robert Chis-Ciure]] (Wandering Thoughts)
+- 2026-11-12: [[2026-11-12-building-your-compass-era-minicon|Building Your Compass]], a career talk for early-career researchers (ERA MiniCon, recorded 2026-08-16)
+- 2026-10-28: [[2026-10-28-does-a-town-have-goals-science-conversations|Does a town have goals of its own?]] (Science Conversations)
+- 2026-10-28: [[2026-10-28-where-does-genius-come-from-scott-barry-kaufman|Where Does Genius Come From?]], with Scott Barry Kaufman (Human Potential Lab)
+- 2026-10-20: [[2026-10-20-where-does-intelligence-live-632nm|Where Does Intelligence Live?]] (632nm)
+- 2026-09-21: [[2026-09-21-bioelectricity-aging-future-of-medicine-arjun-khemani|Bioelectricity, Aging, and the Future of Medicine]] (Arjun Khemani)
+- 2026-09-09: [[2026-09-09-redefining-the-rules-of-life-bernardo-kastrup|Michael Levin redefining the rules of life]], with Bernardo Kastrup (Kastrup's channel)
 
 ## How strong the claims are (Our reading)
 

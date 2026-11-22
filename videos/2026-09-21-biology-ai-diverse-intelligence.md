@@ -27,7 +27,7 @@ Levin's case that the debate about AI misses what biology already shows about mi
 - Bodies are layered ecosystems of goal-seeking agents (molecules, cells, tissues, organs). The 'cognitive light cone' is the size of the largest goal a system can represent.
 - Bioelectricity is ancient — used by bacterial biofilms long before brains; brain electrophysiology is just bioelectricity.
 - Training gene-network models raises 'causal emergence' — a measurable sense in which the whole knows more than its parts.
-- Mambot is, to his knowledge, the first robot scientist working in morphology. He discloses four companies that have licensed the lab's work.
+- Mombot is, to his knowledge, the first robot scientist working in morphology. He discloses four companies that have licensed the lab's work.
 
 ## Why it matters
 

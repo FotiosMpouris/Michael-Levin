@@ -1,10 +1,10 @@
 # Michael Levin Wiki — Index
 
-Last updated: 2026-11-12
+Last updated: 2026-11-22
 
 ## Start here
 
-- [[whats-new|What's new]] — latest videos from the Levin lab channel
+- [[whats-new|What's new]]: latest videos from the Levin lab channel and his guest interviews elsewhere
 - [[companies-tracker|Companies tracker]] — spinouts, licensees, funders (research, not advice)
 
 ## Topics
@@ -37,9 +37,21 @@ Last updated: 2026-11-12
 - 2026-09-03 — [[2026-09-03-bohorquez-serruya-information-across-levels|Conversation #1 with Diego Bohórquez and Mijail D. Serruya: How Information Moves Levels in Bodies]]
 - 2026-09-02 — [[2026-09-02-deciphering-visceral-instincts-bohorquez|Deciphering Visceral Instincts]]
 
+## Interviews and talks on other channels (Levin as guest)
+
+- 2026-11-18 [[2026-11-18-agency-intelligence-across-scales-friston-chis-ciure|Agency & Intelligence Across Scales]] (Wandering Thoughts, with Karl Friston and Robert Chis-Ciure)
+- 2026-11-12 [[2026-11-12-building-your-compass-era-minicon|Building Your Compass: a path through idea space and academia]] (ERA MiniCon talk, recorded 2026-08-16)
+- 2026-10-28 [[2026-10-28-does-a-town-have-goals-science-conversations|Does a town have goals of its own?]] (Science Conversations)
+- 2026-10-28 [[2026-10-28-where-does-genius-come-from-scott-barry-kaufman|Where Does Genius Come From?]] (Human Potential Lab, with Scott Barry Kaufman)
+- 2026-10-20 [[2026-10-20-where-does-intelligence-live-632nm|Where Does Intelligence Live?]] (632nm)
+- 2026-09-21 [[2026-09-21-bioelectricity-aging-future-of-medicine-arjun-khemani|Bioelectricity, Aging, and the Future of Medicine]] (Arjun Khemani)
+- 2026-09-09 [[2026-09-09-redefining-the-rules-of-life-bernardo-kastrup|Michael Levin redefining the rules of life]] (Bernardo Kastrup)
+
 ## Entities
 
 - [[michael-levin]] — Professor at Tufts, pioneer of bioelectricity research
+- [[karl-friston]]: Free energy principle and active inference; roundtable with Levin, 2026-11-18
+- [[robert-chis-ciure]]: Works with Levin on Platonic space and on measuring intelligence as search efficiency
 - [[xenobots-anthrobots]] — Synthetic living machines, demonstrated learning and self-organization
 
 ## Concepts
@@ -62,6 +74,7 @@ Last updated: 2026-11-12
 
 ## Recent Ingests
 
+- 2026-11-22: 6 guest interviews and talks on other channels (2026-09-09 to 2026-11-18), plus entity pages for Karl Friston and Robert Chis-Ciure
 - 2026-10-15: 10 most recent @drmichaellevin videos (2026-09-03 to 2026-10-15) + companies tracker
 
 - 2026-06-15: "Mind May Be Older Than the Brain" (Philosophy Everyday, video LCqJKGnRcbA)

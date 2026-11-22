@@ -1,0 +1,1739 @@
+[00:00:00] Michael, thanks for joining me.
+[00:00:01] &gt;&gt; Yeah, happy to be here. How are you?
+[00:00:02] &gt;&gt; Good. Um I think your view of aging is
+[00:00:05] that it's not just damage accumulating
+[00:00:07] over time, right? There's also some loss
+[00:00:10] of the information that tells the body
+[00:00:12] what it's supposed to be, what you call
+[00:00:13] morphological information.
+[00:00:15] Um is that basically right?
+[00:00:17] &gt;&gt; Yeah, so you know, there's there's a
+[00:00:19] couple of different aspects to this
+[00:00:21] aging thing. We have to think about what
+[00:00:23] the proc- what the fundamental cause is
+[00:00:25] and then also what are the downstream
+[00:00:27] effects. So, there's a ton of downstream
+[00:00:29] effects that we can talk about. But, one
+[00:00:32] of the
+[00:00:33] uh
+[00:00:36] you know, uh real real fundamental
+[00:00:38] questions is what causes it in the first
+[00:00:40] place and the standard theories are
+[00:00:42] basically in two camps. It's either
+[00:00:45] physics, which is a like an accumulation
+[00:00:47] of errors and over time, you know,
+[00:00:49] entropic noise, or or it's something
+[00:00:51] evolution- evolutionary/ecological
+[00:00:54] that is for some for some reason it's
+[00:00:55] beneficial to to have us dead at a
+[00:00:57] certain point, right? And so,
+[00:01:00] so we've been we've been working on both
+[00:01:01] ends of it. So, on the one hand, we have
+[00:01:03] a new theory of the origin of aging,
+[00:01:05] which is places the problem neither at
+[00:01:08] the physics end or the biology end, but
+[00:01:10] actually at the cognition end that we
+[00:01:11] could talk about that. So, it's
+[00:01:12] basically a a you know, we call it the
+[00:01:14] boredom theory of aging. That's one way
+[00:01:16] to think about it. Uh and then on the
+[00:01:18] downstream side, yeah, I think I think
+[00:01:20] one of the things that happens is a
+[00:01:23] you kind of a blurring of the
+[00:01:25] information that's normally needed for
+[00:01:27] to to upkeep a complex three-dimensional
+[00:01:29] organism because materials are always
+[00:01:31] coming and going, cells are always
+[00:01:32] coming and going. And uh you can't
+[00:01:35] really maintain the ship of Theseus that
+[00:01:36] is our body if you don't know where
+[00:01:39] everything is supposed to go in that
+[00:01:40] pattern.
+[00:01:41] Which we've been studying that's at
+[00:01:43] least partially bioelectrical. And that
+[00:01:45] that pattern we know gets gets more
+[00:01:47] diffuse over time, so.
+[00:01:50] &gt;&gt; Do you actually know that the
+[00:01:51] bioelectric pattern changes with age and
+[00:01:53] um
+[00:01:54] Another way to put it I guess is like is
+[00:01:57] there evidence that the
+[00:01:59] like uh the
+[00:02:00] the information specifying the target
+[00:02:02] morphology itself is degrading or rather
+[00:02:06] than the cells simply accumulating
+[00:02:08] damage and becoming worse at executing
+[00:02:10] it.
+[00:02:10] &gt;&gt; Both are both are possible. These are
+[00:02:12] not mutually exclusive. Um what we do
+[00:02:15] know Here's here's what we know, and of
+[00:02:17] course we There's a lot more that needs
+[00:02:19] to be done, but the first thing we know
+[00:02:20] is that
+[00:02:22] we've we've looked at mortal and and the
+[00:02:25] immortal hydra. So So hydra that ages
+[00:02:28] versus the ones that don't a strain that
+[00:02:30] doesn't, which is most of them, and we
+[00:02:32] definitely see differences. There are
+[00:02:34] definitely bioelectrical differences
+[00:02:35] that that that come up when when the
+[00:02:37] hydra is aging. We've also done it in
+[00:02:40] human cells senescing in vitro. So
+[00:02:43] again, as cells cells
+[00:02:45] senesce and die in in in vitro, there's
+[00:02:49] there are bioelectrical changes.
+[00:02:50] However, we also saw that
+[00:02:53] when these human cells do senesce
+[00:02:56] and they get older, if you try to shift
+[00:02:58] them with using drugs, you try to shift
+[00:03:00] them to a different voltage, they don't
+[00:03:02] shift as well. So like they're more
+[00:03:04] resistant. So it may be both. It may be
+[00:03:07] that yes, you're losing some bioelectric
+[00:03:08] information, but also the cells are
+[00:03:10] becoming worse at acting on it, and so
+[00:03:13] they're just not as they're not as
+[00:03:15] responsive to various cues that that
+[00:03:18] cause them to acquire bioelectric states
+[00:03:19] in the first place. So they might be
+[00:03:21] they might be losing plasticity or
+[00:03:23] something like that. Again, you know,
+[00:03:25] that that's in vitro data. So so all of
+[00:03:27] this has to be has to be done in vivo at
+[00:03:29] some point, but
+[00:03:31] &gt;&gt; Got it. Yeah. I'm really fascinated by
+[00:03:33] the two-headed planaria that you've been
+[00:03:35] able you've been able to induce,
+[00:03:37] where you can basically, you know,
+[00:03:38] change the animal change what the animal
+[00:03:40] regenerates without changing anything in
+[00:03:42] the genome, which I think is amazing. Um
+[00:03:45] but
+[00:03:46] you know, similar question like how how
+[00:03:47] do you know that we're we're actually
+[00:03:49] rewriting some sort of memory there
+[00:03:52] um, rather than uh, like I think it's
+[00:03:54] the memory of the body plan, right? The
+[00:03:56] the morphology that it's taking place.
+[00:03:59] Um, and maybe couldn't you just I guess
+[00:04:01] these two things aren't also mutually
+[00:04:03] exclusive, but couldn't you just be
+[00:04:04] pushing it pushing the system into a
+[00:04:06] different stable attractor.
+[00:04:08] Um, and yeah.
+[00:04:10] &gt;&gt; Well, first Well, first of all, pushing
+[00:04:12] the system into a into a different
+[00:04:13] stable attractor is a pretty good
+[00:04:15] description of memory. So So, that's
+[00:04:18] that's not a bad that that's not a bad
+[00:04:20] description of of how memory works at
+[00:04:22] all. And And so, in in Hopfield models
+[00:04:24] and other other kinds of models, that's
+[00:04:25] exactly what Yeah, yeah. And by And we
+[00:04:28] And we study memories in gene regulatory
+[00:04:29] networks that work exactly the same way
+[00:04:31] that they're they're basically um,
+[00:04:33] specific you you you past experiences
+[00:04:36] chase you into a region of the state
+[00:04:38] space where you respond differently to
+[00:04:41] future stimuli. I mean, that's that's
+[00:04:42] basically a a kind of a kind of memory.
+[00:04:45] Um, but but the other thing about the
+[00:04:47] planaria, which is I think a deeper
+[00:04:49] issue, is is the entire question of
+[00:04:52] Is there a memory of a of a goal state?
+[00:04:54] Because when you fund it when when you
+[00:04:58] early on you you got you take your first
+[00:04:59] biology class,
+[00:05:01] and they tell you about
+[00:05:03] salamanders are regenerating their limbs
+[00:05:05] or embryos you know, cut in half and
+[00:05:07] they give the
+[00:05:08] give give the the resulting complete
+[00:05:10] body and and the twins and so on. And
+[00:05:12] the first thing that students always ask
+[00:05:14] is, "How does it know? How does it know
+[00:05:16] what to build? How does it know when to
+[00:05:17] stop?" right? And what you're told
+[00:05:19] immediately is, "Don't ask that
+[00:05:21] question. That's not a good question.
+[00:05:22] We're going to do nothing here knows
+[00:05:23] anything. We're going to do everything
+[00:05:25] We're going to We're going to explain
+[00:05:26] all the stuff in terms of chemistry,
+[00:05:28] which is specifically a formal model of
+[00:05:31] uh,
+[00:05:31] objects that don't know anything and
+[00:05:33] don't have any goals. That's what what
+[00:05:35] they What nobody tells you at that time
+[00:05:37] is that this is not some sort of a
+[00:05:39] fundamental result. This is an axiom.
+[00:05:41] It's an assumption. It's a Now, you
+[00:05:43] could sort of imagine at the start of
+[00:05:46] when science was first getting off the
+[00:05:47] ground that this was a pretty important
+[00:05:49] assumption to do because the alternative
+[00:05:52] was that people people would just say,
+[00:05:53] "Well, you know,
+[00:05:55] God wanted it this way and that's why it
+[00:05:56] does it." So, that that doesn't really
+[00:05:58] help. And so, we said, "Okay, we're
+[00:05:59] going to try to get away from that and
+[00:06:00] see how far we can get by making models
+[00:06:02] where there is no
+[00:06:04] master plan. Let's let's let's let's see
+[00:06:06] how how well we do." So, that's great
+[00:06:08] and that was that was useful at the
+[00:06:09] time.
+[00:06:10] But,
+[00:06:11] the thing is that back then
+[00:06:13] you really only had two options. You
+[00:06:14] could be you could be dumb like rocks or
+[00:06:16] you could be smart like humans and
+[00:06:17] angels and that was it. Those were your
+[00:06:18] two options. But, since the 1940s, we've
+[00:06:21] had a good science of all the stuff in
+[00:06:24] between and that's cybernetics and then
+[00:06:26] of course behavior science. So, you
+[00:06:28] don't have to be completely
+[00:06:30] stupid and and have no goals and no
+[00:06:32] nothing in order to not have to be a
+[00:06:35] human or above level self-reflective
+[00:06:37] intelligence. There are many things in
+[00:06:39] between starting with thermostats and
+[00:06:40] and everything else.
+[00:06:42] So, this idea that nothing
+[00:06:45] in the system knows anything is an axiom
+[00:06:47] and I think I think it's very important
+[00:06:48] to to to lose that axiom and actually do
+[00:06:50] experiments instead of making
+[00:06:51] assumptions about
+[00:06:54] what other levels of cybernet of the
+[00:06:56] cybernetic hierarchy are appropriate. In
+[00:06:58] other words, I think I think it's really
+[00:07:00] limiting to assume you're going to do
+[00:07:01] all of biology by only using the lowest
+[00:07:04] level of that hierarchy where nothing
+[00:07:05] knows anything and nothing has any
+[00:07:06] goals.
+[00:07:07] So,
+[00:07:09] so the question becomes how do you know
+[00:07:12] if these things actually have a pattern
+[00:07:13] memory to which they're going to build
+[00:07:15] because the standard story of biology in
+[00:07:18] these kinds of cases is not that. It's
+[00:07:20] that it's it's emergence and complexity
+[00:07:22] theory. The idea is that everything is a
+[00:07:24] feed-forward process. Everything follows
+[00:07:26] local rules and eventually complex
+[00:07:29] things happen and we call it emergence
+[00:07:32] because you get some kind of complex
+[00:07:33] outcome. So, so the reason so the reason
+[00:07:35] I say that the planarian actually have a
+[00:07:37] pattern memory is the way you know that
+[00:07:40] there's a goal state it's a it's a
+[00:07:42] homeostat. The way you know that it's
+[00:07:43] it's it has a goal state is you have to
+[00:07:45] be able to find the mechanism by which
+[00:07:48] you store the set point because every
+[00:07:49] goal-directed mechanism has to have a
+[00:07:51] set point. That is the memory. So, it
+[00:07:53] has to know what the goal is and then it
+[00:07:55] has to You have to be able to enter You
+[00:07:57] have to be able to read and interpret
+[00:07:59] that goal state. So, you have to You
+[00:08:00] have to decode it and you have to be
+[00:08:02] able to rewrite it and show that when
+[00:08:03] you rewrite it
+[00:08:04] uh the system the system executes the
+[00:08:07] new goal. Yeah, that's the you know,
+[00:08:09] those are the those are the criteria.
+[00:08:10] So, that's exactly what we did in cases
+[00:08:12] of the planaria and and other
+[00:08:14] other cases uh that's what happened. So,
+[00:08:16] so we showed that actually there's a
+[00:08:18] bioelectrical pattern in the body that
+[00:08:20] stores the number of heads. Apparently,
+[00:08:23] it also stores the shape of the head,
+[00:08:24] but we haven't decoded that very well
+[00:08:26] yet, but but we have decoded the number
+[00:08:28] of heads.
+[00:08:29] And uh
+[00:08:31] you can you can see it. You can You can
+[00:08:33] see the the the the pattern memory. You
+[00:08:35] can You can decode it and you can
+[00:08:37] rewrite it. That is how we make the
+[00:08:38] two-headed worms is that we uh open and
+[00:08:41] close ion channels and gap junctions to
+[00:08:43] rewrite that pattern and when you
+[00:08:44] rewrite that pattern and turn it into a
+[00:08:46] two-headed pattern, that's exactly what
+[00:08:48] the cells build. So, so that's so that's
+[00:08:50] it. And and and furthermore, you know
+[00:08:53] it's a it's it's not only a um
+[00:08:56] a goal-driven process, but it actually
+[00:08:57] is a long-term memory because when you
+[00:08:59] take the two-headed worms and you cut
+[00:09:01] them into pieces, you continue to get
+[00:09:03] two-headed worms. It's permanent. Once
+[00:09:05] you've I mean, you could set it back if
+[00:09:07] you want to. You can re- We can rewrite
+[00:09:08] them back into a one-headed state. But
+[00:09:10] as long as as long as the bioelectric
+[00:09:12] pattern is is um
+[00:09:15] is is is not not changed by us, this the
+[00:09:18] tissue holds it. You know, it's a it's
+[00:09:20] it's stored. So, it's it has all the
+[00:09:22] features of memory. It's labile, meaning
+[00:09:23] you can change it, but it's stable,
+[00:09:25] right? And it has discrete outcomes, so
+[00:09:27] there are your attractors. I mean,
+[00:09:28] reasonable enough.
+[00:09:30] Yeah.
+[00:09:31] &gt;&gt; I'm super curious. When you say like
+[00:09:32] decode the bioelectric pattern, uh what
+[00:09:34] does that look like exactly in the lab?
+[00:09:37] &gt;&gt; Well, what it looks like is uh and and
+[00:09:39] the the broader uh effort is called
+[00:09:41] cracking the bioelectric code. So, the
+[00:09:43] idea is that what we want to do in the
+[00:09:45] in the general case is understand when
+[00:09:47] you're looking at a particular kind of
+[00:09:49] bioelectric pattern,
+[00:09:51] what will be in the interpretation of
+[00:09:53] cells? When cells see that pattern, what
+[00:09:54] are they going to build? Because because
+[00:09:56] we need to understand this so that when
+[00:09:57] we want to build new things, whether it
+[00:09:59] be to repair birth defects or to build
+[00:10:02] uh healthy new organs for regenerative
+[00:10:04] medicine or some kind of bioengineering,
+[00:10:06] um maybe you want to make a um a useful
+[00:10:09] living machine that's never existed
+[00:10:10] before or something.
+[00:10:12] Um you want to know, okay, so what kind
+[00:10:14] of pattern maps So, it's the mapping
+[00:10:16] between the bioelectrical pattern and
+[00:10:18] the resulting form and function. So, so
+[00:10:20] what that looks like is taking lots of
+[00:10:23] measurements of of bioelectrical
+[00:10:25] patterns, large-scale bioelectrical
+[00:10:27] patterns under health and disease
+[00:10:30] conditions and different species,
+[00:10:31] different model systems,
+[00:10:33] and then uh
+[00:10:35] making hypotheses about what those are
+[00:10:37] saying to the cells, and then testing
+[00:10:38] those hypotheses by making targeted
+[00:10:40] changes in the bioelectrics and looking
+[00:10:43] to see if you correctly predicted what
+[00:10:44] the what what the resulting anatomy is
+[00:10:47] going to be, and then building a
+[00:10:48] computer model. So, this is what we are
+[00:10:49] now. At the beginning, when we first
+[00:10:52] started doing this, so back in
+[00:10:54] 98 or so or so when I first started
+[00:10:56] doing this,
+[00:10:57] we were still doing screens. We had no
+[00:10:59] idea what we were like like I I I knew
+[00:11:01] something interesting was going to
+[00:11:02] happen. Everybody else thought it was
+[00:11:03] nuts, but but what I didn't have is a is
+[00:11:07] a model where I could say, "This is how
+[00:11:08] we're going to make a leg or an eye or a
+[00:11:10] heart or anything like that." So, we
+[00:11:12] were just doing screens to see whether
+[00:11:14] this even worked.
+[00:11:15] And now we're to the point where we have
+[00:11:18] computational platforms that
+[00:11:20] predict specific drugs that repair very
+[00:11:23] complex birth defects of the of the of
+[00:11:25] the brain, the you know, the face, the
+[00:11:28] heart, the gut. And uh
+[00:11:30] and and you know, we're we're we're much
+[00:11:32] better along now. We still uh there's a
+[00:11:34] million things that we don't know and
+[00:11:36] there's still an incredible amount of
+[00:11:38] work left to be done
+[00:11:40] to acquire the kind of data sets in
+[00:11:42] physiology that we have for omics. So,
+[00:11:44] proteomics, transcriptomics, genomics,
+[00:11:46] all those things are much easier because
+[00:11:49] you can do all that on dead material.
+[00:11:51] So, you can take your cell and
+[00:11:52] fractionate it and kill it and and
+[00:11:54] sequence all the stuff that's in it. So,
+[00:11:56] that's great. But, bioelectricity
+[00:11:58] doesn't work like that. The minute you
+[00:11:59] kill a cell, it's gone. All that's all
+[00:12:01] that information is is gone. It's the
+[00:12:03] it's the software that disappears when
+[00:12:05] when the when the hardware stops it
+[00:12:07] stops running. So, that's been much
+[00:12:09] harder. But, now we have
+[00:12:12] you know, somewhat better tools and and
+[00:12:14] now now that information is flowing.
+[00:12:16] But, still we need way more.
+[00:12:18] &gt;&gt; Mhm.
+[00:12:19] Going back to aging, something I'm I've
+[00:12:22] always found a bit strange is that
+[00:12:23] development in most organisms seems
+[00:12:26] incredibly competent, right? You start
+[00:12:28] with one cell and somehow build an
+[00:12:29] entire human being.
+[00:12:31] Then, once the thing is built,
+[00:12:33] we kind of gradually become worse and
+[00:12:35] worse at maintaining it. And this kind
+[00:12:38] of you were hinting at you boredom
+[00:12:39] boredom theory of aging.
+[00:12:41] May- maybe you want to talk about that.
+[00:12:43] &gt;&gt; Sure. Well, I mean the first thing is
+[00:12:45] that we don't all become worse. Most
+[00:12:47] most of us become worse, but planaria
+[00:12:49] don't. And and hydra don't and there may
+[00:12:52] be other creatures that don't. But, but
+[00:12:54] it's also we know we know it's possible
+[00:12:56] that not to not to succumb to that.
+[00:12:59] So, so here's the boredom theory of
+[00:13:01] aging. Um
+[00:13:02] Uh
+[00:13:03] let's
+[00:13:04] I like to start it thinking about it
+[00:13:06] this way. Um
+[00:13:08] Imagine Imagine that you your pet snake
+[00:13:12] and your dog go to heaven, you know,
+[00:13:13] like the Christian version of heaven
+[00:13:15] where it's going to be around forever.
+[00:13:18] Um there's no decay, there's no and
+[00:13:20] there's no entropic processes, there's
+[00:13:21] no bacteria, there's no decay, there's
+[00:13:23] no
+[00:13:23] you know, nothing nothing is falling
+[00:13:24] apart.
+[00:13:25] So, you're going to be there forever.
+[00:13:27] So, what happens? Well,
+[00:13:29] the snake probably is going to be fine
+[00:13:31] doing snake things for a trillion years
+[00:13:32] and beyond probably fine. Uh the dog, I
+[00:13:36] don't know. We could assume maybe that
+[00:13:37] if it's a nice environment and it gets
+[00:13:39] to, you know, chase rabbits on the farm
+[00:13:41] all day, then maybe every day is the
+[00:13:42] same as every other day and it's fine.
+[00:13:44] The human, though,
+[00:13:45] um I don't know. It seems to me that
+[00:13:47] you'll keep yourself busy for the first
+[00:13:49] 10,000 years or whatever, but
+[00:13:51] eventually, like a billion years in, are
+[00:13:54] you sane? Is it possible for a
+[00:13:57] high-level uh intelligence to And And if
+[00:14:00] you think you can you can you know, keep
+[00:14:02] busy for a billion years, fine. Let's
+[00:14:03] talk about a trillion years or or
+[00:14:05] whatever. Right, there's some It seems
+[00:14:07] reasonable to me that at some point uh
+[00:14:10] a cognitive system like that is going to
+[00:14:12] fall apart. Now, what's interesting
+[00:14:14] about it is that if that's true,
+[00:14:17] then what's the problem? It's not
+[00:14:18] organic disease. There's nothing
+[00:14:19] physically wrong with with your with
+[00:14:22] your brain. And we already know there's
+[00:14:24] such a thing as
+[00:14:25] uh the thought that breaks the thinker
+[00:14:27] in a way, like,
+[00:14:28] you know, if you're if you're certain
+[00:14:30] high-IQ individuals, you know, they come
+[00:14:32] across, I don't know, Hume's problem of
+[00:14:33] induction or something and like, "Oh my
+[00:14:35] god." It just like sends them into a
+[00:14:36] spiral of, you know, despair and then
+[00:14:39] then then they get depressed and then
+[00:14:40] they, you know, then then then then the
+[00:14:42] depression markers come up in their
+[00:14:43] brain and all, you know, all these then
+[00:14:45] then the physical stuff gets going. But
+[00:14:47] the But the trigger for that wasn't any
+[00:14:49] kind of disease process. It wasn't
+[00:14:51] physics and it wasn't biology. It was It
+[00:14:53] was thought It was thought, right? And
+[00:14:56] so So, we already know that that for a
+[00:14:58] for a complex cognitive system,
+[00:15:01] it doesn't have to There doesn't have to
+[00:15:02] be a physical or a
+[00:15:04] a physical issue. It doesn't have to be
+[00:15:05] biological or physics. You can have
+[00:15:07] other kinds of
+[00:15:09] um
+[00:15:10] disease conditions that are purely at
+[00:15:12] that level, that are purely cognitive
+[00:15:14] in, you know, in in their in their
+[00:15:16] origin.
+[00:15:17] So,
+[00:15:18] So, we ask the question uh
+[00:15:22] what happens to a goal-seeking system
+[00:15:24] after it's completed its goal?
+[00:15:26] If it's really simple, so your
+[00:15:28] thermostat uh has only one loop and as
+[00:15:31] long as the the hardware
+[00:15:34] isn't broken, it presumably will keep
+[00:15:36] doing that for forever, right? No no no
+[00:15:38] problem.
+[00:15:39] But
+[00:15:40] but if you're a little bit more complex
+[00:15:42] than that, if you're if you're a kind
+[00:15:44] like a kind of collective intelligence
+[00:15:45] that has multiple components that are
+[00:15:47] working together, and my story of how
+[00:15:51] collective intelligences are held
+[00:15:52] together is from this 2019 paper that
+[00:15:55] that that basically says that
+[00:15:58] collective systems are held together by
+[00:16:00] goals. So, they are they are upkept to
+[00:16:02] the to the degree that the collective
+[00:16:05] can can represent a goal that's
+[00:16:06] compelling to all the parts. It
+[00:16:07] basically the whole the whole has to
+[00:16:09] align all of the parts to do things that
+[00:16:11] they otherwise wouldn't do, and it's the
+[00:16:12] and it's the overall goal that holds it
+[00:16:14] together. So,
+[00:16:15] um so so if you're a little bit more
+[00:16:17] complex than that, um
+[00:16:20] what happens if you
+[00:16:22] uh if you complete your goal and then
+[00:16:24] and then you don't have a new goal. So,
+[00:16:26] we we
+[00:16:28] we had a simulation where we had
+[00:16:31] individual cells working together,
+[00:16:34] and the collective had a goal. It had a
+[00:16:36] goal to build a frog face. That was the
+[00:16:38] uh this is uh
+[00:16:41] this is uh the work of Ben Hardel and
+[00:16:43] Leo Pio Lopez in my group. So, we were
+[00:16:45] we were
+[00:16:46] simulating development exactly the way
+[00:16:48] that I sug- gested that it works, which
+[00:16:51] is it's a collective intelligence
+[00:16:52] operating in morphospace. And it was it
+[00:16:54] was fine. You look, you know, there's
+[00:16:56] this kind of curve over time, and you
+[00:16:57] see that Okay, so here's the
+[00:16:58] developmental process, and and the thing
+[00:17:01] begins to look like a frog face, and
+[00:17:03] eventually it makes a really good frog
+[00:17:04] face. And then there's a period of
+[00:17:05] adulthood, and it's sort of flat, and it
+[00:17:07] looks like it like upkeeps the the frog
+[00:17:09] face for a while.
+[00:17:10] And then the whole thing starts to fall
+[00:17:12] fall apart. And at first, and I we we at
+[00:17:15] it like, "Well, why is this thing
+[00:17:17] suddenly like nothing new has happened?
+[00:17:18] We haven't There's So, in our in a So,
+[00:17:20] so here's the important thing. In our
+[00:17:21] model there is no entropic decay and
+[00:17:25] there is no evolutionary pressure to
+[00:17:26] fall apart. The None of those things are
+[00:17:29] there. So, where is this coming from?
+[00:17:31] And what we noticed is that after a
+[00:17:33] while we told it we gave it a goal
+[00:17:36] during during development of forming
+[00:17:39] a
+[00:17:40] forming a good a good structure, but we
+[00:17:42] didn't tell it what to do after that.
+[00:17:43] And this is very different from
+[00:17:45] theories. There are theories that say
+[00:17:46] that the genes that are important early
+[00:17:48] on in development end up being being
+[00:17:50] deleterious later on. They end up being
+[00:17:52] harmful later on. This isn't that. This
+[00:17:54] isn't There are no harmful components
+[00:17:57] here. It's not that It's not that the
+[00:17:58] things you need early eventually take
+[00:17:59] you apart. It's that
+[00:18:01] the It's that It's that you have a you
+[00:18:04] have a
+[00:18:05] compelling goal early on,
+[00:18:08] but then then there there isn't a new
+[00:18:10] one. And so, what happens after a while
+[00:18:13] is that all of the individual cells the
+[00:18:16] the the thing disbands, basically. The
+[00:18:17] cells stop trying to make a frog face
+[00:18:19] and they just like the whole thing falls
+[00:18:20] apart. So, that's really interesting in
+[00:18:22] the absence of of selection [snorts]
+[00:18:24] forces or noise,
+[00:18:27] this is what it demonstrates that
+[00:18:28] there's a there's a goal-seeking system
+[00:18:30] that that eventually
+[00:18:32] will will disband for no for no reason
+[00:18:34] other than that the goal has stopped
+[00:18:36] being compelling. Now,
+[00:18:38] we since then got some interesting data
+[00:18:40] from we analyzed uh
+[00:18:43] human tissues from different age
+[00:18:46] subjects.
+[00:18:47] And we looked at we used the technique
+[00:18:49] called phylostratigraphy, which
+[00:18:50] basically looks at the gene expression
+[00:18:52] and these these are public data that
+[00:18:54] anybody can analyze.
+[00:18:56] Gene expression in tissues in the body
+[00:18:58] from young and old patients.
+[00:19:00] And phylostratigraphy basically tries to
+[00:19:04] estimate the age of of each gene. So,
+[00:19:06] when during evolution, not not the
+[00:19:08] organismal age, but evolutionary age.
+[00:19:10] So, each gene, roughly when during our
+[00:19:12] evolutionary history did this did this
+[00:19:14] gene first show up, you know?
+[00:19:16] And so, what what we found is that when
+[00:19:18] you're young,
+[00:19:19] all of your tissues are and all of the
+[00:19:22] cells in your tissues are expressing
+[00:19:26] genes mostly from
+[00:19:28] the the position that we have on the on
+[00:19:31] the evolutionary tree, which is modern
+[00:19:33] Homo sapiens, and all of the cells agree
+[00:19:35] that that's what you are and that that's
+[00:19:36] the genes you should be expressing.
+[00:19:38] But, in some not all, but in some
+[00:19:40] tissues in uh in older patients,
+[00:19:44] first of all,
+[00:19:46] the the transcri- the
+[00:19:49] uh fibo- um
+[00:19:50] uh phylogenetic age of these of these
+[00:19:53] genes starts to go backwards. So, they
+[00:19:54] start expressing genes that are like way
+[00:19:56] back on the you know, in evolutionary
+[00:19:58] history, and they stop agreeing with
+[00:20:00] each other. So, your cells in in many
+[00:20:03] many tissues, your cells simply don't
+[00:20:05] agree anymore on where you are on the
+[00:20:07] tree of life. So, again, it's this like
+[00:20:08] dissociation we call that atavistic
+[00:20:10] dissociation because it's basically
+[00:20:12] they're dissociating from each other.
+[00:20:14] They don't have a shared vision of what
+[00:20:16] they were. And if you think about it,
+[00:20:18] it's it's really a mirror of development
+[00:20:20] because in development, you look at an
+[00:20:22] embryo
+[00:20:24] uh and there's like I don't know, a
+[00:20:25] million cells at at a certain point, and
+[00:20:27] you look at that and you say, "Oh,
+[00:20:28] there's there's an embryo." One embryo.
+[00:20:30] Well, what is there one of? Like you're
+[00:20:32] looking at a million cells. What exactly
+[00:20:33] is there one of? What there's one of in
+[00:20:35] that case
+[00:20:37] is a uh commitment to all the sh- all
+[00:20:39] the cells have a shared vision of where
+[00:20:41] in anatomical morphospace they're going
+[00:20:43] to go. They have the same set point.
+[00:20:46] They all they all agree. They've all
+[00:20:47] been aligned to agree that this is And
+[00:20:49] so so, they all have to get aligned, and
+[00:20:52] so they make an embryo.
+[00:20:53] And then eventually
+[00:20:55] they they no longer are compelled by
+[00:20:58] this uh by this uh
+[00:21:00] uh
+[00:21:01] uh shared memory of what it is that
+[00:21:02] they're supposed to be doing, and they
+[00:21:03] all they all fall apart. And you can see
+[00:21:05] this morphologically in our model, and
+[00:21:07] you can see this transcriptionally
+[00:21:09] um
+[00:21:09] in uh in in this in this data from human
+[00:21:12] tissues.
+[00:21:13] &gt;&gt; Yeah, you've described cancer as uh
+[00:21:16] cells sort of uh narrowing their
+[00:21:18] cognitive light cone.
+[00:21:20] Um and you know, they stop acting as
+[00:21:23] part of this larger organism and start
+[00:21:25] pursuing more local goals.
+[00:21:27] Um
+[00:21:27] I guess aging could be something similar
+[00:21:30] just happening much more gradually,
+[00:21:32] correct?
+[00:21:33] &gt;&gt; Yeah, I I mean I I Yes, I think that
+[00:21:35] both cancer and aging are are um
+[00:21:38] fundamentally diseases of
+[00:21:40] multicellularity.
+[00:21:41] Um more sort of the taking one step
+[00:21:44] further, I think they're diseases of of
+[00:21:46] collective intelligence. If you're going
+[00:21:49] to be a collective intelligence, you're
+[00:21:51] you're susceptible to certain failure
+[00:21:53] modes, ways that those processes go
+[00:21:55] wrong. So, there are What keeps you
+[00:21:57] together as a collective intelligence is
+[00:21:59] a kind of mind meld where all your
+[00:22:01] components have to be sharing
+[00:22:02] information in a way that
+[00:22:04] doesn't let them have too much
+[00:22:05] individuality. You know, everybody has
+[00:22:07] kind of the same vision of what's going
+[00:22:08] on. And so, uh
+[00:22:11] there's that uh there's that connection,
+[00:22:13] and then there's the um
+[00:22:16] you know, so so there's the there's the
+[00:22:18] informational linkage between the
+[00:22:20] between the pieces and the some other
+[00:22:22] stuff, stress sharing, and some other
+[00:22:23] things.
+[00:22:24] And yeah, there are several there are
+[00:22:25] several ways for that to go wrong.
+[00:22:28] And one way is what you see in in
+[00:22:30] cancer, and another way is what you see
+[00:22:32] in aging, but I think the process of
+[00:22:35] continued regeneration, which I think
+[00:22:37] all of this is regeneration. So,
+[00:22:38] development is just a kind of
+[00:22:40] regeneration from one cell. That's
+[00:22:41] That's what I think development is. It's
+[00:22:43] just regenerating from one cell the
+[00:22:44] whole body from one from one cell. Um
+[00:22:47] all of all of those kind of processes,
+[00:22:48] so so metamorphosis,
+[00:22:50] um
+[00:22:51] regulative development, uh regen you
+[00:22:54] know, actual regeneration from damage,
+[00:22:56] all of those things
+[00:22:58] are
+[00:23:00] self
+[00:23:01] self-reinforcing processes that resist
+[00:23:04] aging and cancer on a on a you know as
+[00:23:06] long as for as long as they can.
+[00:23:08] &gt;&gt; Yeah, you said development is just a
+[00:23:10] regeneration from one cell. One of the
+[00:23:11] coolest facts that I think about aging
+[00:23:14] is that all organisms reliably keep
+[00:23:16] producing young offspring, right? So,
+[00:23:18] the germline is effectively ageless.
+[00:23:21] And what is what is actually being reset
+[00:23:24] there in the germline? And maybe could
+[00:23:27] we induce
+[00:23:29] some version of that reset in somatic
+[00:23:31] tissues without taking them all the way
+[00:23:33] back to the embryonic state?
+[00:23:34] &gt;&gt; Yeah, it's a good question. I I don't
+[00:23:36] know what it is, of course. People work
+[00:23:38] on it. So, not not us in particular, but
+[00:23:40] there are there are other labs that that
+[00:23:43] that work on this.
+[00:23:44] Yes, I think it's a it's a super
+[00:23:46] important point that the
+[00:23:49] um
+[00:23:49] uh
+[00:23:52] babies are not born at the age of their
+[00:23:54] parents. They go back to they start off
+[00:23:55] at zero. So, that's that's really I
+[00:23:57] think important. And I really think it
+[00:23:59] it speaks against this entropic theory
+[00:24:02] of aging, you know, cuz cuz you would
+[00:24:03] expect right you would expect
+[00:24:06] errors to accumulate. We do have to keep
+[00:24:08] in mind that um
+[00:24:09] the germplasm isn't exactly unchanged. I
+[00:24:13] mean, the process of evolution is
+[00:24:14] telling you that over time you know you
+[00:24:17] certainly don't have the same germplasm
+[00:24:18] as you did a billion years ago.
+[00:24:21] So, it does change over time, but it's
+[00:24:22] not the same it's not quite the same as
+[00:24:24] as aging. So, you know, whether whether
+[00:24:26] you could keep it exactly the same I'm
+[00:24:28] actually not sure.
+[00:24:30] One of the
+[00:24:32] That's you know that that's an
+[00:24:33] interesting question is whether whether
+[00:24:35] without without evolutionary change
+[00:24:37] whether whether the germplasm would
+[00:24:39] would fizzle out as well. And the reason
+[00:24:41] I say that is because
+[00:24:42] uh what we found in our model is that
+[00:24:45] So, so well okay, take a step back. So,
+[00:24:47] I've told you the story of
+[00:24:50] the boredom theory of aging. Why why can
+[00:24:52] planaria apparently live forever? You
+[00:24:54] know, what what happens to them? Why why
+[00:24:56] aren't why isn't their organism bored
+[00:24:58] with with with their body plan?
+[00:25:00] Partially, I think it's because they
+[00:25:02] give every 2 weeks or so, they give
+[00:25:03] themselves this massive challenge. They
+[00:25:05] they rip themselves in half and they
+[00:25:07] regenerate, right? So so we actually
+[00:25:09] tested this in our in our model and we
+[00:25:12] showed that yeah, if you if you induce
+[00:25:13] damage and ask the system to regenerate,
+[00:25:15] that puts off aging. You know, so
+[00:25:17] basically like refreshing the goal,
+[00:25:19] refreshing the commitment to the goal
+[00:25:21] sort of sort of puts off the the decay
+[00:25:23] process.
+[00:25:24] So maybe in the long term, maybe
+[00:25:26] evolution plays that role for the germ
+[00:25:27] plasm in the long term. I don't know,
+[00:25:29] this is just off the top of my head. I'm
+[00:25:30] thinking out out but but it's possible
+[00:25:33] that that it plays a similar that that
+[00:25:35] evolution plays a similar role on a much
+[00:25:37] longer time scale.
+[00:25:38] But yeah, I don't I don't know if we'd
+[00:25:40] be able to roll it back that way.
+[00:25:43] &gt;&gt; Yeah.
+[00:25:44] Um I saw on X that you were recently
+[00:25:46] with David Sinclair. How do you think
+[00:25:48] about the relationship between
+[00:25:50] epigenetic partial reprogramming
+[00:25:52] um and the kind of bioelectric control
+[00:25:55] that you work on? Could Could the
+[00:25:57] bioelectric signals um provide the
+[00:25:59] higher level higher level instructions
+[00:26:02] um you know, telling reprogrammed cells
+[00:26:03] what they're supposed to become or what
+[00:26:05] structure they're supposed to maintain?
+[00:26:07] &gt;&gt; That that's my prediction. Uh so so
+[00:26:10] yeah, Dave and I have talked
+[00:26:12] we we we've talked long ago as well
+[00:26:14] about doing some some experiments uh to
+[00:26:17] kind of
+[00:26:18] look at the
+[00:26:19] uh look at the interactions between
+[00:26:22] between this the system that he sees and
+[00:26:23] ours.
+[00:26:24] Uh I don't know which one is sort of
+[00:26:28] upstream [snorts]
+[00:26:28] of the other. My my strong suspicion is
+[00:26:31] it's the bioelectrics and that's simply
+[00:26:33] because that's in the whatever 25 30
+[00:26:36] years I've been doing this, every time
+[00:26:37] we look, it it's turned out that that
+[00:26:40] there's a there's a bioelectric uh
+[00:26:41] switch upstream of the downstream
+[00:26:43] molecular biology. So that would be my
+[00:26:46] bet if I had to if I had to bet right
+[00:26:48] now, that's what I would say, but but we
+[00:26:49] don't know. And uh it's entirely
+[00:26:52] possible that it's the other way around,
+[00:26:53] but I I suspect that's what it is.
+[00:26:57] &gt;&gt; Yeah, maybe it's early
+[00:26:59] &gt;&gt; It's Yeah, we'll we'll find out. We We
+[00:27:01] do know that We do know that
+[00:27:02] bioelectrical change can trigger, for
+[00:27:03] example, can can regulate H stack
+[00:27:06] activity and can regulate certain kinds
+[00:27:09] of chromatin modification. So, I
+[00:27:10] wouldn't be surprised if we find that
+[00:27:12] kind of epistases.
+[00:27:14] &gt;&gt; Mhm.
+[00:27:15] Um maybe it's still early stages, but is
+[00:27:17] there an experiment that could falsify
+[00:27:20] this idea that, you know, manipulating
+[00:27:21] bioelectric patterning
+[00:27:23] can meaningfully reverse aging?
+[00:27:26] &gt;&gt; Yeah, we're we're doing it We're We're
+[00:27:29] doing it now.
+[00:27:32] And actually, I know at least one other
+[00:27:33] one other person in a different lab
+[00:27:35] who's doing it, too.
+[00:27:36] Uh
+[00:27:37] basically
+[00:27:40] if if if if what's happening during
+[00:27:42] aging is that the bioelectric pattern is
+[00:27:44] becoming more blurry. It's becoming less
+[00:27:47] distinct.
+[00:27:48] Then one thing you might imagine doing
+[00:27:49] is sharpening it. What you know, trying
+[00:27:52] to
+[00:27:53] trying to maintain the the pattern more
+[00:27:55] crisp and sharpen the boundaries between
+[00:27:57] between tissue compartments and sharper.
+[00:28:00] So, the the the interesting thing is
+[00:28:02] that we've showed we have about, I don't
+[00:28:03] know, five or so papers showing how to
+[00:28:06] do that in a birth defects context. In
+[00:28:08] other words, there are birth defects
+[00:28:10] that are caused by a blurry bioelectric
+[00:28:12] pattern.
+[00:28:13] And if you artificially strengthen that
+[00:28:16] pattern, then despite like really nasty
+[00:28:18] mutations like notch mutations which are
+[00:28:20] like crazy
+[00:28:22] strong for for brain defects and then
+[00:28:23] face defects and so on.
+[00:28:25] If you if you sharpen the pattern, then
+[00:28:29] you have normal normal morphogenesis,
+[00:28:30] normal behavior, and then so on. So, we
+[00:28:33] are applying that same strategy to to
+[00:28:36] aging assays. And we have and this is
+[00:28:39] this is in collaboration with Mitch
+[00:28:41] McVey and the biology department here at
+[00:28:43] Tufts, who also studies aging studies
+[00:28:45] that are flies. So, we've made some
+[00:28:48] we've made some fruit flies that are
+[00:28:51] bioelectrically altered and we're
+[00:28:52] studying their lifespan. So, stay tuned.
+[00:28:54] I don't have a I don't have a full
+[00:28:56] answer yet, but uh uh I'm very hopeful
+[00:28:58] and
+[00:29:00] October
+[00:29:01] 7th, I think, or six six or seven maybe
+[00:29:03] six, I'm supposed to be at an aging
+[00:29:05] conference at the Harvard Medical School
+[00:29:07] and I'm going to I'm hopefully show some
+[00:29:08] of this data by then. We should have We
+[00:29:10] should have some answers by then. Yeah.
+[00:29:12] &gt;&gt; Yeah, I'm looking forward to it. Um what
+[00:29:14] do you make of aging clocks um and
+[00:29:16] biological age? Uh like
+[00:29:18] you know, people increasingly talk about
+[00:29:19] like reversing biological age or
+[00:29:21] measuring their biological age. Um and
+[00:29:25] is that is that just like a a biomarker
+[00:29:27] that happens to predict the age or is
+[00:29:29] there like some causally uh related
+[00:29:32] factor uh with with these clocks?
+[00:29:34] &gt;&gt; I I'm not the best person to ask about
+[00:29:36] that. Uh I'm not an expert on the
+[00:29:37] clocks. Um
+[00:29:39] I think uh there there are people who
+[00:29:41] sort of focus on that and I think I
+[00:29:43] think they're the they're the ones that
+[00:29:44] are the ones to ask. Yeah, I don't know.
+[00:29:47] Um
+[00:29:48] &gt;&gt; You know, I guess what would convince
+[00:29:49] you that something's actually
+[00:29:50] rejuvenated?
+[00:29:51] &gt;&gt; Well, it's a it's a it's a tough problem
+[00:29:53] because what you would really like is
+[00:29:55] you is you what happens in this field
+[00:29:56] that there isn't a there isn't a great
+[00:29:58] model system because what happens is if
+[00:30:00] you do it
+[00:30:01] if you have a nice fast experiment in a
+[00:30:03] C. elegans or something like that,
+[00:30:04] people say, "Well, that's too quick. You
+[00:30:06] know, these things don't live very long.
+[00:30:07] It's not like a human or it's not
+[00:30:09] complex enough." If you want to do it in
+[00:30:10] a human, then then you know, we're going
+[00:30:12] to be waiting what 100 years or more to
+[00:30:15] to get it done. So, I guess people are
+[00:30:16] doing dog trials and and things like
+[00:30:18] that. I I think what you really want to
+[00:30:20] see is
+[00:30:22] So, so there's a so there's a trade-off
+[00:30:24] between the most impressive data and the
+[00:30:25] and how long it's going to take you to
+[00:30:27] to to to get it, right? So, I I think
+[00:30:29] what people want to see is animals that
+[00:30:32] look young or or humans that look young
+[00:30:35] at a
+[00:30:36] um
+[00:30:39] uh at a at a at a at an age where they
+[00:30:42] shouldn't. So, so if you show me a
+[00:30:43] 5-year-old mouse that's you know, spry
+[00:30:45] and running around then obviously
+[00:30:47] something has happened. So, I think I
+[00:30:49] think that's what that's what people
+[00:30:50] looking for. But I I'm not saying that
+[00:30:52] that changes in clocks are not
+[00:30:54] meaningful. I I don't I don't know. I
+[00:30:56] I'm I'm assuming that there are good
+[00:30:57] markers that are that are pretty
+[00:30:59] meaningful. But I think what people want
+[00:31:01] to see is they want to see a they want
+[00:31:02] to see a spry animal at an age where
+[00:31:04] that shouldn't happen.
+[00:31:05] &gt;&gt; Yeah, definitely. Um the thing about
+[00:31:07] your approach that almost seems magical
+[00:31:08] to me is that
+[00:31:10] perhaps we don't have to individually
+[00:31:11] repair these trillions of cells, right?
+[00:31:14] Um maybe we can just specify the
+[00:31:16] uh the correct large-scale state and uh
+[00:31:20] let cells do much of the work uh and
+[00:31:22] much of the repair themselves. And um
+[00:31:25] I guess what's the biggest engineering
+[00:31:27] bottleneck for you guys? Is it
+[00:31:29] discovering the correct target pattern?
+[00:31:32] Is it like reading the current state or
+[00:31:34] re- rewriting uh new one?
+[00:31:37] &gt;&gt; Yeah, um
+[00:31:39] so so the So, before that I want to just
+[00:31:41] [clears throat] mention one one thing
+[00:31:42] which I think is is is important.
+[00:31:44] And so you you you said it was magical
+[00:31:46] and it is magical, but I want to point
+[00:31:48] out how how
+[00:31:49] uh how common this magic is that that
+[00:31:52] people don't seem to um pay enough
+[00:31:54] attention to.
+[00:31:56] This idea that that we're going to
+[00:31:58] operate uh top-down. We're going to talk
+[00:32:01] to the cells the to the to the tissues
+[00:32:04] and organs, not to the individual cells,
+[00:32:05] not to the genes, right? This is a a
+[00:32:08] very different approach and this is how
+[00:32:09] we do it when we when we induce an
+[00:32:10] ectopic eye, we don't tell the system
+[00:32:13] how to make an eye. We have no idea how
+[00:32:14] to make an eye. We don't talk about the
+[00:32:16] the many what the stem cells are
+[00:32:18] supposed to do or which genes are
+[00:32:19] supposed to turn on. We don't have any
+[00:32:20] idea about all that. Um we have a
+[00:32:23] high-level prompt that talks to the to
+[00:32:25] the collective intelligence of the cells
+[00:32:26] that says build an eye here. And
+[00:32:28] individual cells have no idea what an
+[00:32:29] eye is, but the collective absolutely
+[00:32:31] does and and you can talk to it. So, so
+[00:32:33] this this idea that we're going to talk
+[00:32:35] to the high-level collective and let the
+[00:32:37] details sort themselves out. It s- It
+[00:32:39] sounds magical and it sounds to- totally
+[00:32:42] wild, but the only reason it works we we
+[00:32:44] did not invent this but nature invented
+[00:32:46] it first. The only reason this works is
+[00:32:48] because that is how all of biology
+[00:32:50] works. And I'm going to give you um a
+[00:32:52] couple of examples for this and then
+[00:32:53] then I'll come back to the to the
+[00:32:55] barriers that that you asked about.
+[00:32:57] Uh
+[00:32:57] fir- First of all, let's let's talk
+[00:32:58] about the cognitive side of things.
+[00:33:01] When I'm talking to you right now, in
+[00:33:03] order for you to understand and remember
+[00:33:05] the things I'm saying, I do not have to
+[00:33:07] worry about all the synapses and the
+[00:33:09] synaptic proteins that have to be moved
+[00:33:11] around in your brain. We humans were
+[00:33:14] training dogs and horses thousands of
+[00:33:16] years before we knew any neuroscience at
+[00:33:17] all. Why is that possible? How can I How
+[00:33:20] can I make you remember these incredibly
+[00:33:22] like complex concepts without going in
+[00:33:24] there and making sure that all the
+[00:33:27] synaptic you know, proteins are where
+[00:33:29] they need to be.
+[00:33:30] All I'm doing is sending you a a
+[00:33:32] high-level very informationally thin
+[00:33:35] actually prompt, you will take care of
+[00:33:37] all the hard parts. Just like the horse
+[00:33:39] and the dog will take care of all the
+[00:33:40] hard parts of rearranging their the
+[00:33:42] rewiring their their their you know,
+[00:33:43] memory circuits from from the rewards
+[00:33:45] and punishments that that that that your
+[00:33:48] the trainer provides. So, that top-down
+[00:33:50] control is is everywhere in biology.
+[00:33:53] When you When you wait the here here's
+[00:33:54] the here's the here's the craziest thing
+[00:33:57] that no nobody ever talks about.
+[00:33:58] When you wake up in the morning,
+[00:34:00] you you are a goal-seeking system. You
+[00:34:02] have goals. You have research goals,
+[00:34:03] financial goals, social goals.
+[00:34:05] You have thoughts that are incredibly
+[00:34:07] abstract. These goals do not exist in
+[00:34:10] three-dimensional space. They don't
+[00:34:11] exist in physiological space which you
+[00:34:13] or transcriptional space which is what
+[00:34:14] your cells know. They exist in weird
+[00:34:16] spaces that might be linguistic space or
+[00:34:18] social space or or you know, financial
+[00:34:21] or chess space or something like that
+[00:34:23] like like really strange you know,
+[00:34:25] uh kinds of um spaces. And yet, in order
+[00:34:28] for you to get up out of bed and and
+[00:34:30] execute on those goals which is what we
+[00:34:32] do and why we're here you know
+[00:34:34] successfully surviving through evolution
+[00:34:36] because we can we can execute our goals.
+[00:34:38] In order to do that,
+[00:34:40] ions have to cross muscles muscle cell
+[00:34:43] membranes in your body. You would never
+[00:34:45] be able to act on those goals if your
+[00:34:47] goals didn't make the chemistry dance.
+[00:34:49] The real explanation for why a potassium
+[00:34:51] or a sodium or a calcium ion went to you
+[00:34:54] know one way versus another which made
+[00:34:56] you which made your muscles move is not
+[00:34:59] because they were pushed by some other
+[00:35:00] ion. It's the the the real reason is
+[00:35:03] because you you wanted to do XYZ and and
+[00:35:06] this is what and this is voluntary
+[00:35:07] motion.
+[00:35:09] And so this this this transduction, the
+[00:35:11] ability of bioelectrical networks, and I
+[00:35:13] think this is no accident that that
+[00:35:14] evolution loves bioelectricity for this
+[00:35:16] kind of stuff. Uh the electrical network
+[00:35:19] in your body is this incredible thing
+[00:35:22] that transduces very abstract high-level
+[00:35:25] representations into chemistry. That's
+[00:35:27] what it does. And um
+[00:35:31] you know, uh this this this idea that
+[00:35:34] it's it's not it's not some weird yoga
+[00:35:36] trick, you know, mind over over matter
+[00:35:38] um you know, mind-body medicine and
+[00:35:41] things like that. It's it's it's an
+[00:35:43] everyday miracle. It's an absolute
+[00:35:44] miracle and it's an everyday miracle.
+[00:35:46] It's the miracle of voluntary motion.
+[00:35:48] And it's this idea that we are we are
+[00:35:50] designed as a as a transducer of
+[00:35:53] incredibly abstract goal states that
+[00:35:55] actually changes the way the chemistry
+[00:35:57] moves. It doesn't violate physics or
+[00:35:59] chemistry. That that is how the whole
+[00:36:00] system works.
+[00:36:03] So, um oh and then one one more one more
+[00:36:05] cool example and then and then you'll
+[00:36:06] see what what what I'm talking about all
+[00:36:08] this.
+[00:36:09] So, imagine uh they did this this was
+[00:36:11] back in the '50s, I think. It's not our
+[00:36:13] work. Uh
+[00:36:14] you have a you have a an aquatic
+[00:36:16] amphibian like a like a axolotl or a
+[00:36:18] newt or something. And they take the
+[00:36:20] they take a tail and they graft it to
+[00:36:22] the to the flank of the animal.
+[00:36:25] And what happens then is that over time
+[00:36:27] that thing remodels into a limb.
+[00:36:30] Now, if you focus on the cells at the
+[00:36:32] tip of that tail, right? Like the the
+[00:36:34] cells at the end.
+[00:36:35] They're tail tip cells sitting at the
+[00:36:38] end of a tail. Why are they turning into
+[00:36:39] fingers?
+[00:36:40] There's nothing locally wrong. There's
+[00:36:42] no damage. There's no injury. There's
+[00:36:43] nothing locally wrong. Why are they
+[00:36:45] turning into fingers? What why why is
+[00:36:47] the molecular biology I mean they're
+[00:36:48] turning on different genes. There's no
+[00:36:49] no doubt massive remodeling of the
+[00:36:51] transcriptional
+[00:36:52] maybe epigenetic landscape. Why Why are
+[00:36:55] they doing all this? There's nothing
+[00:36:56] locally There's no There's no
+[00:36:58] short-range reason why they should do
+[00:36:59] this. It's because our bodies
+[00:37:02] and this is why our brains can do this
+[00:37:03] is because our bodies did it first,
+[00:37:05] brains did it later. Our bodies are a
+[00:37:07] transduction system where an abstract
+[00:37:09] high-level gold state, the idea that the
+[00:37:12] the the memory that you need a limb in
+[00:37:14] the middle of your body, not a tail,
+[00:37:16] is eventually transduced into the
+[00:37:18] molecular networks that turn you into a
+[00:37:20] a limb instead of a tail.
+[00:37:23] So So, my point in all of this is that
+[00:37:25] biology is full of This is This is not
+[00:37:27] just a weird thing that my lab is going
+[00:37:29] to do to these cells. This is how
+[00:37:31] biology normally controls itself. That
+[00:37:33] kind of top-down control by by an
+[00:37:36] abstract pattern at a different space,
+[00:37:37] in this case anatomical space, that has
+[00:37:39] to
+[00:37:40] uh filter down to result in all the
+[00:37:43] coordinated molecular biology.
+[00:37:45] That's the only reason if if this wasn't
+[00:37:48] all over the place in biology, I would
+[00:37:50] never think this would work, you know?
+[00:37:52] It's I mean it's it's wild to think that
+[00:37:53] all of those things will get handled.
+[00:37:55] And yet, they get handled. And that's um
+[00:37:57] all over the place in in in biology
+[00:37:59] because that's how uh
+[00:38:01] complex systems regulate their own
+[00:38:03] parts. And actually, we have a we have
+[00:38:05] an interesting piece of data on this
+[00:38:06] where
+[00:38:07] you can
+[00:38:08] So So, two-headed worms
+[00:38:10] and you can make a a second head in
+[00:38:12] planaria with a conventional way, which
+[00:38:13] is to manipulate the wind pathway. So,
+[00:38:16] beta-catenin and wind, you can you can
+[00:38:17] manipulate that pathway and you can get
+[00:38:18] a second head.
+[00:38:20] But if you do that, the head that you
+[00:38:21] get isn't properly scaled to the rest of
+[00:38:24] the body. Because apparently because
+[00:38:27] you've
+[00:38:29] controlled the part that says head or
+[00:38:30] tail, but you but you didn't handle the
+[00:38:33] other stuff like like scaling, right?
+[00:38:35] And so
+[00:38:36] but but if you do it bioelectrically,
+[00:38:38] you get a head that's perfectly scaled
+[00:38:39] to the rest because because that that's
+[00:38:41] a that's a
+[00:38:42] one or more levels above.
+[00:38:44] And so when you hit it at that level,
+[00:38:45] yes, you get the the head-tail identity,
+[00:38:47] but you also get the the size control
+[00:38:49] and and various other things.
+[00:38:51] So So that's the name of the game here
+[00:38:53] is to find the highest possible control
+[00:38:55] knob. And and the what what biology is
+[00:38:58] really good at is turning those kind of
+[00:39:00] prompts into progressively lower and
+[00:39:03] lower level set of events that you then
+[00:39:06] don't need to worry about.
+[00:39:09] &gt;&gt; What's your theory of consciousness? I
+[00:39:10] guess you're describing this reality to
+[00:39:12] abstractions, which I totally agree
+[00:39:14] with. You know, there is
+[00:39:16] a certain reality to your goals
+[00:39:19] and like just abstractions that we
+[00:39:21] create, right? Mathematics
+[00:39:23] and like all the knowledge that we have
+[00:39:25] and it leads to real world
+[00:39:27] real world implications.
+[00:39:29] Not just in biology, but like even like
+[00:39:31] it has physical implications, right?
+[00:39:33] Like if you This is like David Deutsch's
+[00:39:36] example.
+[00:39:37] His His idea is if if an alien
+[00:39:39] civilization is here looking looking
+[00:39:41] down on Earth
+[00:39:42] and like before humans, you know, they
+[00:39:44] can kind of like predict things
+[00:39:46] normally. It's like zoologist, geology
+[00:39:49] and like physics and like, you know,
+[00:39:51] but once humans come on on the scene
+[00:39:54] biological knowledge, you have
+[00:39:57] this unpredictability of the growth of
+[00:39:58] knowledge
+[00:39:59] and like the certain things that you you
+[00:40:02] can you cannot explain even if you know
+[00:40:04] the entirety of physics.
+[00:40:06] Um
+[00:40:07] And the
+[00:40:08] just because like the growth of
+[00:40:09] knowledge is entirely unpredictable, you
+[00:40:11] can't
+[00:40:12] if you'd have uh
+[00:40:14] you know, if you knew it today then
+[00:40:16] if you could predict the growth of
+[00:40:17] knowledge, then you'd have known it
+[00:40:18] today. So, it's like inherently
+[00:40:19] predictable.
+[00:40:20] Um but it's
+[00:40:22] uh but yeah, I I I think
+[00:40:24] I guess like
+[00:40:25] a lot of these things might seem less
+[00:40:27] mysterious if you have a good theory of
+[00:40:29] consciousness.
+[00:40:31] &gt;&gt; So, okay. Uh well, a couple of things.
+[00:40:34] So, so first of all, um
+[00:40:36] you know,
+[00:40:38] when you say ascribe reality, so so I
+[00:40:40] I'm an engineer and I I don't know when
+[00:40:43] people ask me what the ontological
+[00:40:44] status of things I I I don't know what
+[00:40:46] to do with any of that. What I know is
+[00:40:48] what I know is
+[00:40:49] if something if if I if something is
+[00:40:52] such that I have to worry about it or I
+[00:40:53] can take advantage of it in in doing
+[00:40:56] what I do, then it's real. That's that
+[00:40:57] that's it. And that's that's as real as
+[00:40:59] anything gets. And uh and I think that
+[00:41:02] certain abstractions
+[00:41:05] Basically,
+[00:41:06] so so another thing that that I think is
+[00:41:08] really fundamentally wrong is when
+[00:41:10] people say, "So, so so when you say
+[00:41:13] cells learn, is that a metaphor or is
+[00:41:15] that real?" And like in science,
+[00:41:16] everything What do we have other than
+[00:41:18] metaphors? Everything's a metaphor.
+[00:41:20] Pathways, you don't think pathways are a
+[00:41:21] metaphor? Every You know, what physics
+[00:41:23] will tell us that the electrons are are
+[00:41:25] are metaphor. Everything is a Everything
+[00:41:27] is a is a metaphor. It's a package of
+[00:41:28] properties that, you know, you sort of
+[00:41:30] work with and you see if and you see how
+[00:41:32] far it gets you and then eventually you
+[00:41:34] reach the limit and you have a better
+[00:41:35] metaphor.
+[00:41:36] So, so absolutely I think these things
+[00:41:38] are real to the extent that they have
+[00:41:40] causal power. They You need to have them
+[00:41:42] in your model. If you if you don't have
+[00:41:44] them in your model, then you don't know
+[00:41:46] what you you don't really understand the
+[00:41:47] system. So, I think these things these
+[00:41:49] these including goal states are
+[00:41:51] absolutely real in the in the most
+[00:41:53] important sense of the word real. They
+[00:41:54] make a difference to to to how we do
+[00:41:57] engineering and everything else.
+[00:41:59] That's the first thing. The second thing
+[00:42:00] is
+[00:42:01] uh you also said um mathematical truths
+[00:42:04] as as as abstractions that
+[00:42:07] that humans invent or something. I
+[00:42:09] forget exactly what you said, but but I
+[00:42:10] just want to point out that from from
+[00:42:12] from my end and we can go into this if
+[00:42:14] you want as as I have been writing about
+[00:42:16] this in the last year and a half. I I
+[00:42:18] think I don't think these are I don't
+[00:42:20] think mathematics is a human creation. I
+[00:42:22] I think that mathematical truths are are
+[00:42:24] very fundamental for reasons that we can
+[00:42:26] talk about.
+[00:42:27] And and I don't I don't think we had any
+[00:42:30] choice in in constructing. We have a
+[00:42:31] choice in which ones we discover, but we
+[00:42:33] don't
+[00:42:34] we don't have a choice in in what the
+[00:42:36] truths actually are.
+[00:42:37] And and that actually becomes really
+[00:42:38] important for biology that's not just
+[00:42:40] that's not that's not just philosophy.
+[00:42:41] That's that that ends up being very
+[00:42:43] important I think for for biology.
+[00:42:45] Then the other thing is
+[00:42:47] David Deutsch's point. Um
+[00:42:49] Yeah,
+[00:42:50] I agree with him except that I don't
+[00:42:53] think it's about humans and I don't
+[00:42:54] think it was true prior to the arrival
+[00:42:56] of humans or technology.
+[00:42:58] I think it was true
+[00:43:00] from the very beginning as soon as
+[00:43:02] at the very least and probably earlier
+[00:43:04] than that, but at the very least when
+[00:43:06] replicators got off the ground and you
+[00:43:08] got an evolutionary process. That that
+[00:43:11] was it. At that point already physics
+[00:43:12] can't tell you what you're going to get
+[00:43:13] whether whether you're going to get you
+[00:43:15] know tigers or I don't know what
+[00:43:17] whatever they have on other planets.
+[00:43:19] You you know, you could not have I don't
+[00:43:21] think you could have predicted that.
+[00:43:22] So so that's so that's really
+[00:43:24] fundamental.
+[00:43:25] I guess the the final thing is so theory
+[00:43:28] of consciousness. We can talk about
+[00:43:30] consciousness if you want. But
+[00:43:33] I don't think you need to talk about
+[00:43:35] consciousness for any of the things that
+[00:43:37] I've told you today. So all of the stuff
+[00:43:39] that I've told you today was straight-up
+[00:43:42] third-person science meaning that
+[00:43:44] we didn't talk we didn't talk about
+[00:43:47] first-person perspective for any of
+[00:43:48] these things. You don't need to to have
+[00:43:50] a you don't need to have a first-person
+[00:43:52] perspective to be a to be a system
+[00:43:55] that that stores goal states and pursue
+[00:43:59] tries to reduce error between the
+[00:44:00] current state and the target state and
+[00:44:02] makes decisions and all of that. All of
+[00:44:04] that can be fleshed out by theories that
+[00:44:07] do not take consciousness into account
+[00:44:09] at all.
+[00:44:10] That doesn't mean that that's a that's a
+[00:44:13] that's a methodological
+[00:44:15] approach, meaning that
+[00:44:17] I I've I've gotten,
+[00:44:19] you know, to the point that we that
+[00:44:20] we've gotten in our lab without without
+[00:44:23] a good theory of consciousness, without
+[00:44:24] talking about consciousness at all, and
+[00:44:25] that was on purpose. It's because
+[00:44:27] consciousness is a very difficult,
+[00:44:28] unique problem.
+[00:44:30] The minute you start talking about it,
+[00:44:31] you get dragged into all sorts of stuff
+[00:44:33] that, you know, we we it was it was
+[00:44:34] bioelectricity is weird enough and and
+[00:44:36] the cognition the basal cognition that I
+[00:44:38] talk about and and cells learning and
+[00:44:40] collective intelligence even even before
+[00:44:42] you get to consciousness. All of those
+[00:44:43] things are sufficiently weird to people
+[00:44:45] that, you know, we don't need to drag
+[00:44:47] that into it. Having said all that,
+[00:44:50] uh I do think that uh
+[00:44:52] in the end, um
+[00:44:54] because because the one example, we
+[00:44:56] really have an n of one example of
+[00:44:59] consciousness and that's ourselves.
+[00:45:01] Everything else is inferred from
+[00:45:02] physiology and behavior. The only thing
+[00:45:05] you know about consciousness the only
+[00:45:06] thing
+[00:45:08] whose consciousness you can test is
+[00:45:10] yourself.
+[00:45:11] So so it's one out of one and and so so
+[00:45:13] one out of one of things that you
+[00:45:14] actually can can test properly it turns
+[00:45:17] out is conscious. Now, on the one hand,
+[00:45:19] well, that's 100% of the things I've
+[00:45:21] been able to test. On the other hand,
+[00:45:23] that's only a that's only a denominator
+[00:45:25] of one, so that's not much. So, you can
+[00:45:27] decide uh what what conclusion you draw
+[00:45:30] from that, but
+[00:45:33] if we're interested in
+[00:45:35] the fact that brain our brain is in some
+[00:45:38] sense associated with consciousness,
+[00:45:40] which it seems like it is,
+[00:45:42] then you have to ask yourself, what is
+[00:45:44] it about the brain
+[00:45:46] that
+[00:45:47] that is
+[00:45:49] you know, that's that's conducive to
+[00:45:50] this. And my my in in my model, there's
+[00:45:54] there's nothing unique about the brain.
+[00:45:55] I think I think there are a lot of
+[00:45:57] systems that do what brains do, and I
+[00:45:59] think more broadly
+[00:46:01] different kinds of cognition go all the
+[00:46:02] way down. So, there are examples of of
+[00:46:07] learning and goal-directedness in
+[00:46:09] extremely minimal systems. I think I
+[00:46:11] think it goes it goes all the way down.
+[00:46:13] I don't think it's it's special for for
+[00:46:15] for brains.
+[00:46:16] And so, you have to you have to ask
+[00:46:18] yourself what what's the you know,
+[00:46:19] what's the special feature that that
+[00:46:21] you're looking at? And I think I'm not
+[00:46:23] sure
+[00:46:24] you know,
+[00:46:25] it's it's kind of an assumption that um
+[00:46:28] the
+[00:46:31] the null hypothesis is that things are
+[00:46:32] not conscious and you have to make a
+[00:46:33] strong argument for why they're
+[00:46:35] conscious. I'm not sure that's the case.
+[00:46:37] I I don't know that it's even coherent
+[00:46:39] to have processes that are that are not
+[00:46:41] conscious. I'll give you a simple simple
+[00:46:43] example. People talk about for example,
+[00:46:45] unconscious processing in the brain you
+[00:46:48] know, like like like subliminal reading
+[00:46:49] and and things like that. You say,
+[00:46:51] "Okay, well, you you know, we we showed
+[00:46:53] you a stimulus and it was unconscious."
+[00:46:55] Right? How how do you know it was
+[00:46:56] unconscious? Well, I asked the I asked
+[00:46:58] the subject and he said it was he said
+[00:46:59] he didn't have any awareness of it.
+[00:47:01] Right, you asked the language user in
+[00:47:03] the body. You asked the the the the
+[00:47:05] component of the body that's able to
+[00:47:08] that's able to answer you in in in
+[00:47:09] language.
+[00:47:11] But, there are lots of other cognitive
+[00:47:13] subsystems in the body and you have no
+[00:47:15] idea whether the processes that that ran
+[00:47:18] when that stimulus was presented,
+[00:47:20] whether they had an inner experience.
+[00:47:22] You don't have any way of knowing that.
+[00:47:23] Everything we know about consciousness
+[00:47:25] is calibrated against human verbal
+[00:47:26] reports. And that means that everything
+[00:47:29] is basically
+[00:47:31] basically rests on what we get from
+[00:47:34] exactly one type of
+[00:47:36] one type of being, which is which is
+[00:47:38] usually the left hemisphere that can
+[00:47:39] that can talk. And that's a that's a
+[00:47:42] that that's an awfully minimal
+[00:47:44] foundation on which to um
+[00:47:46] on which to to to rest any conclusions.
+[00:47:48] So, I'm I'm not sure
+[00:47:51] you know, there's all kinds of there's
+[00:47:52] all kinds of things that sound like
+[00:47:54] they're like they're possible and then
+[00:47:55] when you dig in it turns out that it's
+[00:47:56] just logically impossible, you know? Um
+[00:47:59] and and it may well be that thinking
+[00:48:01] about that unconscious processes may be
+[00:48:03] incoherent entirely. It may not be
+[00:48:05] possible to to have a process that that
+[00:48:07] doesn't have some degree, some minimal
+[00:48:09] degree of first-person experience. And
+[00:48:11] we wouldn't know that because all of our
+[00:48:12] conclusions on this on this topic come
+[00:48:15] from our the N of N of 1, our own
+[00:48:17] experience and then inference from other
+[00:48:20] other language language users, human
+[00:48:22] language users.
+[00:48:23] &gt;&gt; Mhm.
+[00:48:24] So, you've shown that you can change
+[00:48:26] what an organism is trying to build.
+[00:48:28] Could you ever do that Could you ever do
+[00:48:30] something analogous with higher-level
+[00:48:32] goals in humans, say like in
+[00:48:34] preferences, behavioral goals?
+[00:48:37] &gt;&gt; Yeah, it's a good question. I I don't
+[00:48:38] know. Uh I don't see an obvious way of
+[00:48:42] doing it, although other people
+[00:48:43] certainly do. You know, different kinds
+[00:48:45] of
+[00:48:46] inception of false memories,
+[00:48:48] brainwashing,
+[00:48:49] I mean people have been doing this for
+[00:48:51] for a really long time. Right?
+[00:48:53] Uh trying to get trying to get others
+[00:48:56] to to to change their goals. Um
+[00:48:59] then then of course there's the less
+[00:49:01] exotic versions, which are which is
+[00:49:03] education,
+[00:49:05] uh literature, culture, all of those
+[00:49:07] things are designed these are all tools
+[00:49:09] specifically optimized to radically
+[00:49:11] change the the behavior and the
+[00:49:13] preference preferences of people.
+[00:49:16] Somebody I forget who it was, somebody
+[00:49:17] gave a talk on how to give talks, you
+[00:49:20] know, how to give lectures.
+[00:49:22] And the first thing he said is that
+[00:49:23] giving a good talk is a violent act. And
+[00:49:26] what he meant is that if you do your job
+[00:49:27] correctly, you are basically reaching
+[00:49:30] into the mind of your audience and
+[00:49:33] forcing them to have thoughts they
+[00:49:34] didn't otherwise have. And if you're
+[00:49:36] convincing, if you're a good speaker, if
+[00:49:38] you have a good argument,
+[00:49:39] you may have situations where somebody
+[00:49:42] says, "Wow, I really did not want to
+[00:49:44] believe this. I didn't want to have that
+[00:49:46] thought, but now that I've heard it,
+[00:49:48] it's I can't refute it. It's super
+[00:49:50] compelling. Now I think differently."
+[00:49:52] And and they don't have a choice about
+[00:49:53] that. Once you've heard it, you know, so
+[00:49:54] some things can't be unheard, uh
+[00:49:57] and so on.
+[00:49:58] So, so there's lots of techniques. I
+[00:50:00] don't know anything specifically
+[00:50:02] bioelectrical for for for that kind of
+[00:50:04] stuff. But, it is interesting to think
+[00:50:06] about why our particular architecture is
+[00:50:09] a is a first-order architecture in the
+[00:50:11] sense that
+[00:50:12] uh
+[00:50:13] you can work to solve problems to get
+[00:50:16] your goals,
+[00:50:18] and you can pick new goals, but it's
+[00:50:21] extremely hard to change your
+[00:50:22] preferences, right? In other words, it
+[00:50:25] may it may you know, uh imagine if we
+[00:50:27] were a different kind of organism which
+[00:50:29] could
+[00:50:30] uh
+[00:50:31] set goals according to our preferences,
+[00:50:32] but also you had a metacognitive loop
+[00:50:34] that could reach in and change our
+[00:50:35] preferences. So, like,
+[00:50:38] you know, uh
+[00:50:39] I I look around and I see all I see all
+[00:50:41] these people having a great time
+[00:50:42] watching football. I I don't care about
+[00:50:44] football a lot at all, but it looks
+[00:50:45] [snorts] like people are getting a great
+[00:50:47] uh you know, amount of happiness from
+[00:50:48] it, and it would be really nice if I I
+[00:50:50] would make that change, and I would say,
+[00:50:51] "Okay, now now I love football." like
+[00:50:52] and and and and just and and change it
+[00:50:55] and really, you know, have a new source
+[00:50:56] of
+[00:50:57] uh have a new source of joy. Um but, we
+[00:50:59] find it very difficult. Maybe through
+[00:51:00] years of of of therapy or or meditation
+[00:51:03] or something, you can change it, but
+[00:51:04] it's really hard. And the question is,
+[00:51:06] why? Why is it so hard? Why can we
+[00:51:07] change our first-order uh
+[00:51:10] uh goal states, but we can't uh do it in
+[00:51:11] second or third or or whatever else
+[00:51:13] order? And and and is it possible to to
+[00:51:16] to be a being, so maybe maybe on other
+[00:51:18] planets there are other kinds of beings
+[00:51:20] that um that have deeper control over
+[00:51:22] their psychology, and maybe they can
+[00:51:24] change some number of levels levels up
+[00:51:26] at will. I don't you know, I don't know
+[00:51:28] if that's possible.
+[00:51:29] &gt;&gt; Yeah.
+[00:51:30] Final big question. When you imagine
+[00:51:32] medicine 30 or 50 years from now,
+[00:51:35] um what assumption we make about the
+[00:51:36] body today, do you think we'll see most
+[00:51:38] primitive?
+[00:51:40] &gt;&gt; Oh, uh yeah. I mean, what I think is
+[00:51:44] going to uh
+[00:51:45] really
+[00:51:47] uh really change radically is is this
+[00:51:49] idea that
+[00:51:50] the body is a
+[00:51:53] that the the best way to handle
+[00:51:55] system level phenotypes in the body is
+[00:51:57] through chemistry. I think the future
+[00:52:00] medicine is going to look a lot more
+[00:52:01] like somatic psychiatry than it's going
+[00:52:03] to look like chemistry. We're going to
+[00:52:05] we're going to have a a much better
+[00:52:06] appreciation of the intelligence, the
+[00:52:09] problem solving, the priors, the
+[00:52:11] agendas, the different learning
+[00:52:12] capacities, the the memories. All that
+[00:52:15] all those kinds of tools from cognitive
+[00:52:17] and behavioral science, we're going to
+[00:52:19] be applying them far outside the brain
+[00:52:21] to all of the structures of the body.
+[00:52:23] And
+[00:52:25] future medicine is going to be a lot
+[00:52:26] more about resetting goal states, about
+[00:52:29] communicating
+[00:52:31] novel
+[00:52:32] novel high-level stimuli,
+[00:52:36] wiping past memories, rearranging
+[00:52:38] priors. Yeah, really communication with
+[00:52:40] that collective intelligence, not trying
+[00:52:42] to micromanage the hardware, you know,
+[00:52:43] as we do now with drugs. Trying to
+[00:52:46] trying to hit specific receptors and
+[00:52:47] things like that. The targets are all
+[00:52:49] going to be high-level high-level
+[00:52:50] cognitive targets. That's that's that's
+[00:52:53] what that that I think is going to be
+[00:52:54] the biggest change.
+[00:52:55] &gt;&gt; Nice. And the conjecture is that that
+[00:52:56] could also aid with solving aging. So,
+[00:52:59] um
+[00:53:00] &gt;&gt; Yeah, I think so I think so. I think all
+[00:53:02] of these things have the same
+[00:53:03] fundamental So, so
+[00:53:05] birth defects,
+[00:53:07] traumatic injury,
+[00:53:08] degenerative disease, aging, cancer,
+[00:53:11] all of those things have the same
+[00:53:13] fundamental thing in common, which is
+[00:53:15] that they exist because of our inability
+[00:53:18] to communicate new anatomical goals to
+[00:53:20] groups of cells. If we had ways to tell
+[00:53:22] groups of cells what to build, all of
+[00:53:24] those problems would go away. There's
+[00:53:26] there's some other things in biomedicine
+[00:53:27] that
+[00:53:29] wouldn't be solved, but but the vast
+[00:53:31] majority of it would be solved. And and
+[00:53:33] I think that's that's the issue, and I
+[00:53:35] think we're within striking distance now
+[00:53:37] both with understanding
+[00:53:40] the kind of intelligence that we're
+[00:53:41] dealing with and developing the tools
+[00:53:43] and this is something that we're doing
+[00:53:44] in our lab is there's a lot of focus on
+[00:53:46] building new tools to communicate with
+[00:53:48] cells and tissues to actually
+[00:53:51] to actually be able to
+[00:53:53] not only give them give them commands
+[00:53:55] and instructions but ask questions and
+[00:53:57] and and be able to communicate novel
+[00:53:59] goals to these systems. I think when
+[00:54:01] those things become mature and it's just
+[00:54:02] the beginning of the technology. When
+[00:54:04] those things become mature
+[00:54:06] all of these things including aging is
+[00:54:07] going to be are going to be completely
+[00:54:09] revolutionized.
+[00:54:10] &gt;&gt; Awesome. I'm super excited about your
+[00:54:12] work and especially about the new new
+[00:54:15] aging research that you said you're
+[00:54:16] going to talk about soon.
+[00:54:18] And yeah, is there anything that you'd
+[00:54:21] like to add before we end?
+[00:54:22] &gt;&gt; No, the only thing I just realized is I
+[00:54:24] forgot to answer your question about
+[00:54:27] what what's the the rate limiting step
+[00:54:30] for us now.
+[00:54:31] And I think there's a there's a couple
+[00:54:32] of things. One is that yeah, we really
+[00:54:34] need
+[00:54:35] high throughput
+[00:54:36] bioelectric profiling data. Different
+[00:54:39] model systems, different ages, different
+[00:54:41] disease conditions, different locations
+[00:54:42] in the body, you know,
+[00:54:44] all of those things.
+[00:54:46] We we need we need the data. The data
+[00:54:47] are are expensive and difficult to get.
+[00:54:50] Part of it is the reading technology. So
+[00:54:53] right now everything is optical and so
+[00:54:55] you can only read from sites that you
+[00:54:57] can see. So that mean makes it very
+[00:54:58] difficult to get deep
+[00:55:00] you know, data from deep deep tissues.
+[00:55:02] So technologies are needed to like I
+[00:55:04] don't know whether it's MRI or or CT or
+[00:55:06] something like that that allows you to
+[00:55:08] get bioelectrical data from with with
+[00:55:11] new reporters so that that are visible
+[00:55:13] on those modalities.
+[00:55:15] So so so new imaging techniques, lots of
+[00:55:18] lots of data,
+[00:55:19] better tools for manipulating
+[00:55:21] bioelectric states although
+[00:55:23] with the drugs that we have now
+[00:55:25] something like 20 or more percent of all
+[00:55:27] drugs are ion channel drugs. So it's
+[00:55:29] really kind of an amazing tool kit of
+[00:55:30] electroceuticals that are that are out
+[00:55:32] there. so that that part's actually
+[00:55:34] doing kind of okay.
+[00:55:38] Yeah, computational tools to better
+[00:55:41] better be able to predict transitions
+[00:55:43] among bioelectrical states. And again,
+[00:55:44] that's there's a lot of good work I've
+[00:55:46] done. And there's a there's a company
+[00:55:48] called Morphoceuticals which I'm
+[00:55:50] associated with that is developing a
+[00:55:52] bioelectric simulator.
+[00:55:54] &gt;&gt; Oh, cool.
+[00:55:54] &gt;&gt; It's It's basically an update of we
+[00:55:58] Alexis Pytock in the Allen Center
+[00:55:59] developed this thing called BETSY which
+[00:56:01] was the first bioelectric simulator that
+[00:56:03] was used to
+[00:56:04] find a solution a solution to a kind of
+[00:56:06] birth defects. And this is this is a
+[00:56:08] next next generation version of that.
+[00:56:10] So, those are those are coming online.
+[00:56:12] But yeah,
+[00:56:13] data
+[00:56:14] big data for physiology not the
+[00:56:16] molecular biology but the physiology.
+[00:56:19] &gt;&gt; Got it. Michael, I really appreciate
+[00:56:20] your time and this is really fun
+[00:56:21] conversation for me.
+[00:56:22] &gt;&gt; Yeah, thanks so much. I appreciate it.
+[00:56:23] Be well.
+[00:56:24] &gt;&gt; Yep, thank you.
