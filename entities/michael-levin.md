@@ -66,8 +66,10 @@ Besides his own channel, he appears often as a guest. Pages on this site, newest
 
 - 2026-11-18: [[2026-11-18-agency-intelligence-across-scales-friston-chis-ciure|Agency & Intelligence Across Scales]], a roundtable with [[karl-friston|Karl Friston]] and [[robert-chis-ciure|Robert Chis-Ciure]] (Wandering Thoughts)
 - 2026-11-12: [[2026-11-12-building-your-compass-era-minicon|Building Your Compass]], a career talk for early-career researchers (ERA MiniCon, recorded 2026-08-16)
+- 2026-11-12: [[2026-11-12-state-of-the-world-forum-edge-of-world-model|At the Edge of Our World Model]], a panel with Anita Goel and Julian D. Michels (State of the World Forum 2026, Day 2)
 - 2026-10-28: [[2026-10-28-does-a-town-have-goals-science-conversations|Does a town have goals of its own?]] (Science Conversations)
 - 2026-10-28: [[2026-10-28-where-does-genius-come-from-scott-barry-kaufman|Where Does Genius Come From?]], with Scott Barry Kaufman (Human Potential Lab)
+- 2026-10-28: [[2026-10-28-thoughts-as-thinkers-ccs26-keynote|Thoughts as Thinkers]], a keynote (CCS 2026 satellite, recorded 2026-10-15)
 - 2026-10-20: [[2026-10-20-where-does-intelligence-live-632nm|Where Does Intelligence Live?]] (632nm)
 - 2026-09-21: [[2026-09-21-bioelectricity-aging-future-of-medicine-arjun-khemani|Bioelectricity, Aging, and the Future of Medicine]] (Arjun Khemani)
 - 2026-09-09: [[2026-09-09-redefining-the-rules-of-life-bernardo-kastrup|Michael Levin redefining the rules of life]], with Bernardo Kastrup (Kastrup's channel)

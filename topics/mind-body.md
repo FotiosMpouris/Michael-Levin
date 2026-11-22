@@ -4,7 +4,7 @@ created: 2026-10-15
 updated: 2026-11-22
 type: topic
 tags: [#topic, #mind-body]
-sources: [raw/transcripts/2026-09-09-OlSyGUC3HaU.txt, raw/transcripts/2026-09-21-BWgJPmeW5g0.txt, raw/transcripts/2026-10-28-XTL9PxDm5B8.txt, raw/transcripts/2026-10-11-KLWm0Qyj3jg.txt, raw/transcripts/2026-09-24-mMspSM9IRVg.txt, raw/transcripts/2026-09-13-3OYrFiUEuSs.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
+sources: [raw/transcripts/2026-11-12-0OnetB8LNco.txt, raw/transcripts/2026-09-09-OlSyGUC3HaU.txt, raw/transcripts/2026-09-21-BWgJPmeW5g0.txt, raw/transcripts/2026-10-28-XTL9PxDm5B8.txt, raw/transcripts/2026-10-11-KLWm0Qyj3jg.txt, raw/transcripts/2026-09-24-mMspSM9IRVg.txt, raw/transcripts/2026-09-13-3OYrFiUEuSs.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
 ---
 
 # Mind, body and brain
@@ -13,6 +13,7 @@ Clinical and developmental cases where mind and brain do not line up as expected
 
 ## Videos on this topic (newest first)
 
+- 2026-11-12: [[2026-11-12-state-of-the-world-forum-edge-of-world-model|At the Edge of Our World Model]] (State of the World Forum 2026 panel, Levin as guest)
 - 2026-11-11: [[2026-11-11-intracellular-memory-storage-and-ai-david-glanzman|Evidence for intracellular memory storage and its implications for AI]] (David L. Glanzman (guest talk to the Levin lab), with discussion with Michael Levin)
 - 2026-11-05: [[2026-11-05-is-consciousness-popularity-narcis-marincat|Is consciousness popularity?]] (Narcis Marincat (guest talk to the Levin lab), with discussion with Michael Levin)
 - 2026-10-30: [[2026-10-30-law-and-diverse-intelligence-martin-solc|Conversation #1 with Martin Šolc: the law and diverse intelligence]] (Martin Šolc (postdoc, Charles University Faculty of Law) and Michael Levin)

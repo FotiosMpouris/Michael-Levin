@@ -1,0 +1,1622 @@
+[00:00:02] I'm Xavier. I'll be speaking a little
+[00:00:05] bit later, but now I just had the honor
+[00:00:07] to introduce who needs no introduction
+[00:00:10] because he's been introduced twice
+[00:00:11] already at this conference, but
+[00:00:12] Professor Michael Levin,
+[00:00:14] whose work I think is really
+[00:00:17] paradigm-shifting
+[00:00:19] for many folks,
+[00:00:20] especially in this community. And I've
+[00:00:22] heard after his talks he's already given
+[00:00:24] here,
+[00:00:26] he there's such a a density of rich
+[00:00:29] interesting psychoactive concepts. You
+[00:00:31] just see it bouncing around in
+[00:00:33] everyone's minds. You can feel the buzz
+[00:00:35] in the conversations afterwards. It's
+[00:00:36] like, "Do I agree with this? How do I
+[00:00:38] feel about that? What do you think?" And
+[00:00:40] but everybody's got something to take
+[00:00:42] from it. So, he's
+[00:00:43] he's doing really compelling work
+[00:00:45] shifting paradigms in the sciences while
+[00:00:47] doing really groundbreaking research.
+[00:00:50] Um,
+[00:00:51] so, yeah, we're going to have a keynote
+[00:00:53] and then
+[00:00:54] partway through we're going to be we're
+[00:00:56] going to pause and be asked to reflect
+[00:00:58] on our experience so far in the keynote
+[00:01:00] and then we'll continue and Professor
+[00:01:02] Levin will
+[00:01:03] invite us to that about 20 minutes in.
+[00:01:06] Um, so with that,
+[00:01:09] uh, Michael Levin.
+[00:01:11] &gt;&gt; All right. Well, thank you so much. That
+[00:01:12] was that was very kind. I appreciate the
+[00:01:14] chance to share some ideas with with all
+[00:01:16] of you. And
+[00:01:17] what I'm going to talk about today is a
+[00:01:19] really strange thing I'm trying to do
+[00:01:21] which is to develop laboratory model
+[00:01:22] systems for studying inspiration and
+[00:01:25] intuition.
+[00:01:26] Um, we'll we'll see how we'll see what
+[00:01:29] you think.
+[00:01:30] And and I have two two main ideas to
+[00:01:32] transmit which are really not sort of
+[00:01:35] popular mainstream ideas today. One is
+[00:01:37] that there is a literally a non-physical
+[00:01:41] component to this. I don't mean it's
+[00:01:42] mysterious. I don't mean we can't study
+[00:01:44] it. In fact, we have a research program
+[00:01:45] on how to study it, but I specifically
+[00:01:47] mean that it is not captured by the
+[00:01:49] standard formalisms that we use in the
+[00:01:50] physical and computational sciences
+[00:01:52] sciences. And and the other main point
+[00:01:55] is that inspirations, so the specific
+[00:01:58] content of inspirations and those who
+[00:02:00] are inspired, so agents of all kinds
+[00:02:02] that the humans and otherwise that
+[00:02:04] become inspired are not actually
+[00:02:06] different things. They're part of a
+[00:02:07] continuum of the same thing. So this is
+[00:02:09] this is what I'm going to talk about.
+[00:02:11] So one reason I really care about this
+[00:02:13] is because we're entering a world in
+[00:02:16] which this distinction between
+[00:02:18] humans and so-called machines is going
+[00:02:20] to be irrelevant. I don't think those
+[00:02:21] terms will really survive the next
+[00:02:23] couple of decades. What we're really
+[00:02:24] talking about are a spectrum of novel
+[00:02:27] beings. This is this is your neighbor.
+[00:02:29] This is each of each of us um
+[00:02:32] are going to have all kinds of a
+[00:02:33] different extensions whether for for
+[00:02:34] medical purposes or for just a sort of
+[00:02:37] freedom of embodiment. And for example,
+[00:02:40] I gave a talk to a group of
+[00:02:42] psychoanalysts and psychiatrists and
+[00:02:44] kind of pointed out that their client
+[00:02:45] list is going to get very very odd very
+[00:02:47] soon. And this notion of helping beings
+[00:02:50] have a better life understanding their
+[00:02:53] their dreams, their symbolism, their
+[00:02:54] potential, all of this when you're
+[00:02:56] dealing with beings that are not your
+[00:02:58] standard everyday modern humans is going
+[00:03:00] to be really really tough. So we need to
+[00:03:03] develop a science of understanding where
+[00:03:06] novel minds and their properties come
+[00:03:09] from, what defines the properties of
+[00:03:10] novel minds when you can't just say it
+[00:03:12] was evolution and and and and and
+[00:03:14] design. But but part of part of living
+[00:03:18] with novel beings is trying to get a
+[00:03:20] better understanding of what what what
+[00:03:22] are we ourselves as essentially. And so
+[00:03:24] this is this is what I what I want to
+[00:03:26] talk about today. So
+[00:03:28] so we'll talk about a little bit of
+[00:03:30] definitions and then I want to show you
+[00:03:31] some some examples from biology and
+[00:03:33] computer science which are which I think
+[00:03:36] are very relevant to inspiration and
+[00:03:38] intuition.
+[00:03:39] We can operationalize them as the notion
+[00:03:41] of a free lunch. I'll talk about what
+[00:03:43] that is. And then a few ideas for the
+[00:03:45] for the future. So so so this kind of
+[00:03:48] thing is is is fairly common, but I like
+[00:03:49] this one this one in particular.
+[00:03:51] Creatives that feel that
+[00:03:53] they are the recipients of particular
+[00:03:55] inspirations. So this poet described her
+[00:03:58] process of uh, hearing a poem
+[00:04:01] approaching like a like a thunderous
+[00:04:03] train of air, she had to run uh, to get
+[00:04:06] to her house to get a piece of paper and
+[00:04:07] if she if she made it, um, she would be
+[00:04:10] able to capture this poem by the tail as
+[00:04:12] she perceived it and would would write
+[00:04:14] it down backwards from from back to
+[00:04:16] front. That was that was her experience.
+[00:04:18] If she missed it, she said it would keep
+[00:04:19] going in search of another of another
+[00:04:21] poet. Michael Jackson had a had a funny
+[00:04:24] quote that he said, if he didn't
+[00:04:25] immediately record, um, ideas that he
+[00:04:28] got that that he thought that God would
+[00:04:29] give them to Prince instead. So, there's
+[00:04:31] this there's this notion of in in in
+[00:04:34] creatives that there's that there's
+[00:04:35] something that they're tuning into. In
+[00:04:36] other words, um, there's a difference
+[00:04:38] between these kinds of cases where on
+[00:04:40] the one hand, you sit there and
+[00:04:42] laboriously work through
+[00:04:44] sort of turn the crank, follow the
+[00:04:45] follow some kind of some kind of
+[00:04:47] strategy, you solve a problem, you know
+[00:04:49] exactly when you put in the effort, how
+[00:04:51] much you put in the effort. Then you've
+[00:04:52] got somebody like von Neumann who looks
+[00:04:54] at it and doesn't need to do all of this
+[00:04:55] stuff. He sort of kicks it around and
+[00:04:57] says, "Okay, I I kind of know what this
+[00:04:58] is." Then then you have these other
+[00:05:00] cases like Ramanujan who says, "I I
+[00:05:02] don't know. I I was told this by I was
+[00:05:04] whispered these theorems by Hindu
+[00:05:05] goddess." Um,
+[00:05:07] and so here here they are. So, you have
+[00:05:08] this kind of range of ways in which you
+[00:05:10] might imagine navigating a space of
+[00:05:13] ideas, a space of answers to various
+[00:05:15] questions, the space of
+[00:05:17] uh, kinds of things that you would like
+[00:05:18] to that you would like to find. And and
+[00:05:20] we've done some some work on quantifying
+[00:05:22] what it means to traverse that space in
+[00:05:24] different types of
+[00:05:26] different types of strategies whether
+[00:05:28] you're laboriously
+[00:05:29] going step-by-step or taking leaps or
+[00:05:31] you know, sort of giant leaps. So, this
+[00:05:33] is a landscape that that you're
+[00:05:35] traversing. And and I'm going to then
+[00:05:37] then sort of turn that whole that whole
+[00:05:40] metaphor upside down in a minute.
+[00:05:41] But, um, if if we think about it that
+[00:05:43] way, what we could try to quantify is
+[00:05:46] the following. What is the delta between
+[00:05:48] what we received in terms of
+[00:05:49] competencies of some sort minus the
+[00:05:51] effort that we actually put in. Okay, so
+[00:05:53] if we try to quantify this, what is
+[00:05:55] there anything left over? The standard
+[00:05:57] model today says there basically three
+[00:05:59] ways that you can put in effort to get
+[00:06:01] something competent. You can design it,
+[00:06:03] meaning meaning you know how to solve
+[00:06:05] the problems, you engineer an algorithm
+[00:06:06] or a machine to do it. You could evolve
+[00:06:08] it, so you don't know how to do it, but
+[00:06:10] you generate a trillion variants, throw
+[00:06:12] away everything that doesn't work, and
+[00:06:13] you know, sort of keep keep what's left.
+[00:06:15] Or training, meaning that the system has
+[00:06:17] had experience with some kind of a
+[00:06:19] problem, took its lumps, learned learned
+[00:06:21] from that experience, and eventually
+[00:06:22] became good at it. So,
+[00:06:24] so the the one thing that Darwin and
+[00:06:27] Paley agreed on,
+[00:06:28] they didn't agree on how it happened,
+[00:06:30] but they both agreed on one fundamental
+[00:06:32] thing, that order is very rare, that
+[00:06:34] most of the universe is random junk, and
+[00:06:37] that if you're going to explain things
+[00:06:38] like like a watch or or or the living
+[00:06:42] world around us,
+[00:06:43] something something extraordinary is
+[00:06:45] happening. You you need to put in a lot
+[00:06:46] of effort to get something that is
+[00:06:48] competent, whether it's living or
+[00:06:49] non-living, but you need you need that
+[00:06:51] level of competency requires
+[00:06:53] explanation. Of course, Darwin thought
+[00:06:54] it was evolution, and Paley thought it
+[00:06:56] was it was rational design. Either way,
+[00:06:59] they thought they they could agree on
+[00:07:00] that one thing, that order is rare.
+[00:07:03] Now, there were already clues going back
+[00:07:06] decades ago that things are not quite as
+[00:07:08] they seem.
+[00:07:09] So, for example,
+[00:07:11] Walter Grey with his with his tortoises
+[00:07:13] and and Braitenberg,
+[00:07:16] had if you if you haven't seen this
+[00:07:17] book, you should really pick it up. It's
+[00:07:18] a thin little book, it's fairly
+[00:07:20] remarkable. They make these he makes
+[00:07:21] these incredibly simple little little
+[00:07:24] robots and sort of characterizes the the
+[00:07:26] suite of behaviors that they are that
+[00:07:28] they offer, and he says, "We will be
+[00:07:31] tempted to use psychological language to
+[00:07:33] describe their behavior, and yet we know
+[00:07:35] very well there is nothing in these
+[00:07:36] vehicles that we have not put in
+[00:07:38] ourselves." That is a massive
+[00:07:39] assumption. I think I think he's wrong
+[00:07:41] about that. The rest of the book is
+[00:07:42] genius. That that assumption I think
+[00:07:45] I think it's completely wrong.
+[00:07:46] This is we we need a little humility
+[00:07:48] here because there actually I think is
+[00:07:49] something in many systems that we did
+[00:07:51] not put in ourselves. So, so then then
+[00:07:54] of course Stu Kauffman with his order
+[00:07:56] for free, this kind of this this was
+[00:07:59] kind of really inspirational for me in
+[00:08:01] the in the in the '80s when I when I
+[00:08:03] when I was reading reading his stuff.
+[00:08:05] But I think we can go much further now.
+[00:08:07] It isn't just order for free. There's
+[00:08:08] something much more interesting that
+[00:08:10] that you get for free. And so I'm going
+[00:08:12] to talk about what that might be. So
+[00:08:14] these are the sort of So I'm going to
+[00:08:16] talk about the biology end and then and
+[00:08:18] then the computer the computer science
+[00:08:19] end. So on the biology end
+[00:08:21] you know, we have bioengineers, we have
+[00:08:22] natural evolution, we have learning.
+[00:08:24] This is how you get competency, we
+[00:08:26] think, in in biology. So let's look at
+[00:08:29] let's look at a few examples where where
+[00:08:31] this fails us. What I'm going to do is
+[00:08:32] show you a number of examples where I
+[00:08:34] think it's it's very clear that these
+[00:08:37] three standard things to look for are
+[00:08:39] not telling the whole story. There's
+[00:08:40] something else that the standard
+[00:08:41] paradigm is leaving out. So first of all
+[00:08:44] Okay, neuroscience knows quite a bit
+[00:08:46] about the neural hardware, how that maps
+[00:08:48] onto certain behavioral competencies. So
+[00:08:51] what performance would you expect from a
+[00:08:52] human brain with drastically reduced
+[00:08:54] volume? You sort of stop to think and
+[00:08:57] you say, "Wow, yeah, a drastically
+[00:08:58] reduced volume should be should be total
+[00:09:00] impairment." And most of the time that's
+[00:09:02] true, but it's not always true. There
+[00:09:04] are there are interesting clinical cases
+[00:09:06] and this is we Karina Kaufman and I
+[00:09:08] reviewed these in this in this in this
+[00:09:09] paper
+[00:09:10] where you have situations like this
+[00:09:12] where if you were to take the you were
+[00:09:14] to you were to take a cat scan and you
+[00:09:15] would say, "Okay, this this individual
+[00:09:17] barely has any brain at all."
+[00:09:19] Then then you could be surprised to find
+[00:09:21] out that they have normal or above
+[00:09:22] normal IQ. There are numerous cases that
+[00:09:25] have been studied in literature. So
+[00:09:26] something something is something is not
+[00:09:28] is not matching up here. And it's not
+[00:09:30] like you couldn't try to shoehorn this
+[00:09:32] into into stories of neuroscience by
+[00:09:34] talking about redundancies and so on.
+[00:09:36] But this but but the paradigm does not
+[00:09:38] predict that that is going to happen.
+[00:09:40] This is this is this is completely sort
+[00:09:41] of out of out of paradigm data.
+[00:09:44] So let's let's continue with that
+[00:09:46] concept of plasticity, that kind of
+[00:09:48] plasticity. Suppose I told you that I
+[00:09:50] wanted you to make a tadpole of a frog
+[00:09:52] that would have an eye on its tail and I
+[00:09:55] want it to be able to see out of that
+[00:09:56] eye. I want it to functionally see out
+[00:09:58] of that eye, but I don't want it
+[00:09:59] connected to the brain. Oh, and by the
+[00:10:00] way, when the eye dies off, when the
+[00:10:03] when the tadpole begins to turn into a
+[00:10:04] frog and all the the posterior tissues
+[00:10:07] get this cell death signal so that the
+[00:10:08] tail could die, I want the eye to ignore
+[00:10:11] that and and just like uh you know, we
+[00:10:13] continue to grow. What would you need to
+[00:10:15] do? What what would be the effort that
+[00:10:16] you would need to put in? So, you might
+[00:10:18] you might imagine that this is a really
+[00:10:19] difficult bioengineering problem. You
+[00:10:21] might imagine how you would how you
+[00:10:22] would do it. It would take a lot of
+[00:10:23] effort.
+[00:10:24] Actually, you don't need to do almost
+[00:10:26] anything. So, here's a tadpole that has
+[00:10:28] we prevented the primary eyes from
+[00:10:30] forming. That's just so we could test
+[00:10:31] the vision out of this one eye.
+[00:10:33] We put an eye on his tail. The eye makes
+[00:10:35] a spider the an optic nerve. The optic
+[00:10:38] nerve does not go to the brain. It goes
+[00:10:40] a little bit sometimes on the spinal
+[00:10:41] cord, sometimes into the gut, sometimes
+[00:10:43] nowhere.
+[00:10:44] But, it doesn't connect to the brain.
+[00:10:45] Then, we built this machine to
+[00:10:48] visually train these animals on visual
+[00:10:50] cues so that they would have to respond
+[00:10:52] respond to certain visual cues. And we
+[00:10:54] found out that they see quite well out
+[00:10:55] of these eyes.
+[00:10:57] And of course, when the tail dies,
+[00:10:59] the eye ignores all of that completely
+[00:11:01] and sort of rides back and keeps
+[00:11:03] growing. And now now you've seen a frog
+[00:11:04] with an eye on its butt. So, so this is
+[00:11:07] interesting. Why doesn't this require
+[00:11:09] new rounds of adaptation, mutation,
+[00:11:11] selection? We This is a radical change
+[00:11:13] in the sensory motor architecture of
+[00:11:15] this animal. Why does this work out of
+[00:11:16] the box? I'm sort of you know, zero
+[00:11:18] shot.
+[00:11:19] And I think why why is there why is
+[00:11:20] there no change needed? And it's a we we
+[00:11:22] you know, I don't I don't have tons of
+[00:11:24] time today to talk about all the
+[00:11:26] details. I have a story of why I think
+[00:11:27] it works. But, we'll we'll keep going.
+[00:11:30] Okay, here's another challenge for you.
+[00:11:32] Suppose I wanted to take a shy, slow
+[00:11:34] reptile, turtle, and give it a playful
+[00:11:37] cat-like speed of life. I want this
+[00:11:39] thing to be like a cat. What would you
+[00:11:40] need to do?
+[00:11:41] We have no idea how to neuroengineer
+[00:11:43] such things. So, you might think, "Okay,
+[00:11:44] well, evolution is the way to go. You
+[00:11:45] need millions of years of selection
+[00:11:47] pressure to get this thing to work like
+[00:11:49] a cat."
+[00:11:50] So, um
+[00:11:51] here's a piece of data from from the
+[00:11:53] internet. So, so some some some somebody
+[00:11:55] put their turtle on a little skateboard.
+[00:11:58] It basically immediately unlocks this
+[00:12:00] this this new behavior. The turtle is
+[00:12:02] now
+[00:12:03] he wants to play. He's keeping up with
+[00:12:05] the cat. The cat I think is a little
+[00:12:07] freaked out by this by this turn of
+[00:12:09] events. But,
+[00:12:10] Uh didn't need to do much. This is a
+[00:12:11] This is a passive prosthetic that has
+[00:12:14] unlocked these amazing properties. So So
+[00:12:17] I don't know what we say about this. Do
+[00:12:18] all the turtles for millions of years
+[00:12:20] have been hanging around able to do this
+[00:12:21] and just like not been not been able to
+[00:12:24] release their their capabilities? It's
+[00:12:25] amazing. And you sort of wonder what
+[00:12:27] else could you release with the slightly
+[00:12:29] better prosthetics? And what's going to
+[00:12:30] happen when humans have smart
+[00:12:32] prosthetics, which we already kind of
+[00:12:33] do, and so on.
+[00:12:35] Uh let's let's let's keep going. And
+[00:12:36] again, just to what you know, the reason
+[00:12:38] I'm showing you this this zoo of
+[00:12:39] examples is to illustrate the delta
+[00:12:41] between what you are led to expect from
+[00:12:43] the effort that was put in by specific
+[00:12:46] those those three specific ways and what
+[00:12:48] you and what you actually observe.
+[00:12:50] So suppose I wanted to I wanted to have
+[00:12:52] a chemical network that has the
+[00:12:53] following properties. I wanted to learn
+[00:12:55] from experience, meaning that prior that
+[00:12:58] meaning the future behaviors of the
+[00:12:59] network would be different based on
+[00:13:01] prior
+[00:13:02] experiences or stimuli. And these these
+[00:13:05] differences would match things I see in
+[00:13:07] the behavioral science handbook, you
+[00:13:08] know, habituation, sensitization,
+[00:13:10] Pavlovian I want a chemical network that
+[00:13:13] can do this.
+[00:13:14] Furthermore, I wanted to increase its
+[00:13:16] phi metric, so some surrogate of of
+[00:13:18] causal emergence that says how
+[00:13:20] integrated the thing is. To what extent
+[00:13:22] is it more than the sum of its parts?
+[00:13:23] That's some sort of measure of
+[00:13:24] integrated emergence.
+[00:13:26] Um I I I wanted it to to raise its phi
+[00:13:29] every time it learns something. You
+[00:13:30] know, that that that learning would
+[00:13:32] would make it to be more of an
+[00:13:33] integrated agent, but I don't want it to
+[00:13:35] lose the gains when it's forced to
+[00:13:37] forget those memories. And this is the
+[00:13:39] stuff we we do in our in our lab is we
+[00:13:42] we try to, for example, train gene
+[00:13:44] regulatory networks and so on both to to
+[00:13:45] gain and lose memories for biomedical
+[00:13:47] purposes. Most of my lab doesn't study
+[00:13:49] this this weird stuff we do
+[00:13:51] diverse intelligence in cells and
+[00:13:53] tissues and things for for biomedical
+[00:13:55] purposes.
+[00:13:56] So So suppose I wanted a network that
+[00:13:58] had these properties, how much would I
+[00:14:00] have to design or select or I mean that
+[00:14:02] that sounds like a pretty tall order to
+[00:14:03] make a network like this.
+[00:14:05] Well, it turns out that most networks
+[00:14:07] and what we do is we model them as
+[00:14:09] everyone else does as coupled gene
+[00:14:11] regulatory
+[00:14:12] a couple of ordinary differential
+[00:14:14] equations, for example, GRNs, pathways,
+[00:14:16] things like that. And then we test this
+[00:14:18] in real in real cells, of course. So,
+[00:14:21] uh
+[00:14:21] what we found is that is that coupled
+[00:14:23] sets of ODEs, even small ones, you don't
+[00:14:25] need some trillion parameter model. Like
+[00:14:27] the smallest one that does Pavlovian
+[00:14:29] conditioning is just four nodes. But but
+[00:14:31] these these relatively small networks,
+[00:14:32] they have the property that A, yeah,
+[00:14:34] they can be trained in in five or six
+[00:14:36] different paradigms. Um also, when you
+[00:14:39] train them, their causal emergence can
+[00:14:41] go up. It it tends to not not in every
+[00:14:43] single one, but there's a large class of
+[00:14:45] these where it goes up. It There's a
+[00:14:46] couple of ways that it happens.
+[00:14:48] Sometimes it just continues climbing.
+[00:14:50] Other times, it's interesting, it climbs
+[00:14:52] every time you stimulate the network.
+[00:14:54] So, while you're talking to it, the the
+[00:14:55] causal emergence goes up. So, it sort of
+[00:14:57] pulls itself together, but it can't keep
+[00:14:59] itself awake when you're not talking to
+[00:15:00] it. So, in between stimuli, it sort of
+[00:15:03] dissolves back into the into the void,
+[00:15:05] but then it wakes up again as soon as
+[00:15:06] you talk to it. And every time you do
+[00:15:08] it, the causal emergence goes up and up
+[00:15:09] and up. So, so already you have this
+[00:15:13] certain networks do this. They have
+[00:15:14] higher causal emergence, which you which
+[00:15:16] you helps them learn better. Learning
+[00:15:18] raises causal emergence, so there's this
+[00:15:20] like positive feedback loop. But
+[00:15:22] forgetting, when you force them to
+[00:15:23] forget, and so this is all experimental
+[00:15:25] data that is
+[00:15:26] uh currently in in in review, uh it does
+[00:15:29] not erase these gains. It's an
+[00:15:31] asymmetrical ratchet that points
+[00:15:32] upwards. So, how hard was it to find
+[00:15:34] something that does this? Yeah, actually
+[00:15:37] not find it not hard at all, because
+[00:15:39] random networks already do this.
+[00:15:41] Okay? So, so if you look at random
+[00:15:43] networks, they're basically as as
+[00:15:44] optimized as as as possible. Um the
+[00:15:47] evolution didn't need to do much. They
+[00:15:49] were already the material with which
+[00:15:50] evolution works is already primed for
+[00:15:52] this positive feedback loop between
+[00:15:54] learning and emergence. It's it's it's
+[00:15:56] really it's really quite remarkable.
+[00:15:58] This has nothing to do with replicators.
+[00:15:59] This is long before replicators appear.
+[00:16:01] This is a free gift from math. This does
+[00:16:03] not depend on any fact of physics. This
+[00:16:05] is long before selection has its has its
+[00:16:08] say. Of course, selection will shape it
+[00:16:09] and use it and whatever. But but the
+[00:16:11] fundamental fact that this thing has an
+[00:16:12] incredible asymmetric ratchet pointing
+[00:16:14] upwards in intelligence and
+[00:16:16] and agency comes from the math. So, So
+[00:16:19] we can start thinking about I mean, I
+[00:16:20] don't have a strong claim about the
+[00:16:21] entire space, but we can start thinking
+[00:16:23] about whether at least some parts of the
+[00:16:25] space of mathematics is sort of
+[00:16:26] fine-tuned, like people have noticed
+[00:16:28] about the physical universe, you know,
+[00:16:30] the the anthropic principle and all
+[00:16:31] that. So that's interesting. You didn't
+[00:16:32] have to do anything. This just is sort
+[00:16:34] of show show shows up for you.
+[00:16:36] Suppose um suppose we wanted to take to
+[00:16:39] to make an autonomous motile organism, a
+[00:16:41] new organism, which would contain no
+[00:16:43] neurons. I wanted it to make copies of
+[00:16:45] itself from cells it finds in the
+[00:16:46] environment, kind of von Neumann's dream
+[00:16:48] of a machine that goes around and then
+[00:16:50] makes copies of itself.
+[00:16:52] Uh I want it to have hearing to to
+[00:16:54] respond to sound,
+[00:16:55] but you're only going to use wild-type
+[00:16:57] uh frog frog frog cells. You can't No no
+[00:16:59] no genetic editing
+[00:17:01] even if we knew how to edit such a
+[00:17:02] thing, which we do not. Um how much
+[00:17:04] bioengineering and synthetic biology
+[00:17:06] would you need to do for something like
+[00:17:07] to to make something like this? This is
+[00:17:09] This is a No no you would never get a
+[00:17:10] grant to work on something like this
+[00:17:12] because because it would they would It's
+[00:17:14] It's It's beyond our our capabilities
+[00:17:15] for sure. Everyone knows this. Turns out
+[00:17:18] you don't need to do anything. All you
+[00:17:19] have to do
+[00:17:20] is take some epithelial cells out of an
+[00:17:22] early frog embryo. You set them aside,
+[00:17:24] and what they do is they self-assemble
+[00:17:26] into something we call a xenobot. I
+[00:17:27] could do a whole hour just on on
+[00:17:29] xenobots. They're pretty amazing. Um
+[00:17:31] they do many things. One of the things
+[00:17:33] they do uh even though they can't
+[00:17:34] reproduce themselves in the normal
+[00:17:36] froggy fashion because they're only
+[00:17:38] uh they're only epithelial cells. They
+[00:17:40] don't have all the other reproductive
+[00:17:41] stuff. But if you if you put a bunch of
+[00:17:43] loose cells in the environment, they
+[00:17:44] will run around. They will collect them
+[00:17:46] into these little um little little uh
+[00:17:48] little piles. The piles mature into the
+[00:17:51] next generation of xenobots, and guess
+[00:17:52] what they do? They do exactly the same
+[00:17:54] thing. As it turns out, um they they
+[00:17:57] upregulate a bunch of genes related to
+[00:17:59] sound perception. So we stuck a speaker
+[00:18:00] under them, and sure enough, we find out
+[00:18:02] that when you play uh sounds to them,
+[00:18:04] they their behavior changes. So they
+[00:18:06] respond to to acoustic stimuli.
+[00:18:09] Now, you might say, "Okay, um I want
+[00:18:11] this thing to have the information
+[00:18:13] architecture like a human brain, even
+[00:18:15] though it's only made of epithelial
+[00:18:16] cells. What would you do?" You have no
+[00:18:18] idea how how you would do this. Turns
+[00:18:19] out they already do it. If you look at
+[00:18:21] the
+[00:18:22] um at the calcium signaling and you
+[00:18:24] apply the kind of the kind of metrics
+[00:18:25] that that people apply to
+[00:18:28] neurological patients and so on to
+[00:18:30] figure out if there's somebody in there
+[00:18:32] versus just a pile of pile of neurons,
+[00:18:34] what you find is that
+[00:18:36] xenobots are as different from the null
+[00:18:38] models as human fMRI data is from their
+[00:18:40] null models. And I'm not saying that
+[00:18:42] xenobots are like brains, I'm saying
+[00:18:43] that both brains and xenobots are doing
+[00:18:45] something much more much more
+[00:18:47] fundamental. Okay.
+[00:18:49] So, none of this we couldn't even be we
+[00:18:50] couldn't begin to engineer any of these
+[00:18:52] things. Um
+[00:18:54] and what we found out also is that by
+[00:18:56] the way, well, how about how about
+[00:18:58] asking them to form memories? How about
+[00:19:00] how about learning?
+[00:19:02] Yeah, they again, no no clue how you
+[00:19:05] would do it. You don't need to do any of
+[00:19:06] that. They already do it. We found out
+[00:19:07] recently that
+[00:19:08] um xenobots can form at least two
+[00:19:10] different kinds of memories. They
+[00:19:11] remember it for at least 24 hours. We
+[00:19:13] can read out those memories. We can tell
+[00:19:15] which bot has had which experience by
+[00:19:17] decoding by decoding their memories.
+[00:19:20] Um if you would like to to swim in
+[00:19:21] complex patterns,
+[00:19:23] so you might think it would have to have
+[00:19:24] some sort of very specific nervous
+[00:19:26] system.
+[00:19:27] We jammed a bunch of a bunch of neurons
+[00:19:29] in there
+[00:19:30] just randomly
+[00:19:31] asking wanting to know what would the
+[00:19:33] nervous system of a novel creature look
+[00:19:34] like that's never that's never been here
+[00:19:36] before. So, here's the here's the
+[00:19:37] neurobot swimming around. This is what
+[00:19:39] the this is what the novel novel neuro
+[00:19:42] nervous system looks like. So,
+[00:19:44] um at this point, what we can do is
+[00:19:47] we'll take a we'll take a 5-minute
+[00:19:49] break. I think that's that's what they
+[00:19:50] said. And my question to everybody is is
+[00:19:53] is the following.
+[00:19:55] I've just shown you a number of examples
+[00:19:56] that are not predicted by thinking about
+[00:19:59] design, thinking about the series of
+[00:20:01] selection pressures that were present.
+[00:20:03] There's never been any xenobots
+[00:20:04] [clears throat] there.
+[00:20:05] By the way, I could have also showed you
+[00:20:07] anthrobots which are the same thing made
+[00:20:08] of human cells. So, so tracheal adult
+[00:20:11] tracheal epithelial cells do basically
+[00:20:13] they make a different kinds of creature
+[00:20:14] that has
+[00:20:15] more amazing properties.
+[00:20:17] None of these things have ever existed.
+[00:20:19] There's no there's no selection uh that
+[00:20:22] uh that predicted their their uh
+[00:20:24] existence. We did not engineer them. All
+[00:20:26] of this is wild-type uh genetics. We
+[00:20:28] didn't touch their genome. We didn't put
+[00:20:30] any synthetic biology circuits. There's
+[00:20:32] nothing in their environment except wa-
+[00:20:33] water and a little bit of salt. Um
+[00:20:36] in general, where do competencies come
+[00:20:39] from if you can't account for them with
+[00:20:41] a very specific story of design,
+[00:20:43] selection, or training? And
+[00:20:45] I want to point out that that the key
+[00:20:48] here is that we have to account for
+[00:20:49] their specific properties. We have to be
+[00:20:51] able to predict them. We have to learn
+[00:20:53] how to manage them, anticipate them
+[00:20:54] because we're building systems both
+[00:20:57] living and non-living all the time. We
+[00:20:58] don't have a science of asking yet yet
+[00:21:01] of of asking the question and and
+[00:21:03] having a good answer to where do beings
+[00:21:06] properties come from if if if it's not
+[00:21:08] simply a story of of selection pressure,
+[00:21:10] design, or or or training. What what
+[00:21:12] else is left? What are the other
+[00:21:13] options? So, um that's my that's my 20
+[00:21:16] minutes. Let's let's take a little break
+[00:21:17] uh for people to talk about it and then
+[00:21:18] I'll um I'll tell you my my crazy idea
+[00:21:20] for um for any answer to this question.
+[00:21:23] &gt;&gt; I I mean, just saying um if anyone's
+[00:21:26] particularly excited about an insight
+[00:21:27] coming from their group, just like one
+[00:21:28] to two sentences so we can hear a little
+[00:21:30] bit of what else was in the room before
+[00:21:32] we hop back to the conversation. Yes.
+[00:21:34] &gt;&gt; Um
+[00:21:35] I think competence is irrelevant uh if
+[00:21:39] we remove consideration of context.
+[00:21:43] &gt;&gt; Okay, they're he's sharing competence is
+[00:21:45] irrelevant um if we remove consideration
+[00:21:48] of context, which is also beautifully
+[00:21:50] alliterative. Thank
+[00:21:52] Okay.
+[00:21:53] Um
+[00:21:54] uh any other ideas burning a hole in
+[00:21:56] your pocket? Yeah, Zach.
+[00:21:57] &gt;&gt; We were discussing resonance as one of
+[00:22:01] the ways you might get
+[00:22:03] um
+[00:22:04] ability, capability, capacity for free.
+[00:22:08] Um and then we're talking about the
+[00:22:12] phenomenological structure of those
+[00:22:15] kinds of like poetic or solid
+[00:22:18] bolts of lightning, inspirations, and
+[00:22:21] whether or not analogies for that
+[00:22:23] structure phenomenologically would
+[00:22:24] translate over into
+[00:22:26] uh mathematical um
+[00:22:29] uh that like resonant behavior between
+[00:22:32] random networks maybe or other things.
+[00:22:34] &gt;&gt; Beautiful. [clears throat]
+[00:22:36] Um and could you hear you could hear
+[00:22:37] online?
+[00:22:38] &gt;&gt; Yeah. Yeah, I heard that. That was That
+[00:22:39] was great. Beautiful.
+[00:22:40] &gt;&gt; Okay. Thank you. Um and so with that uh
+[00:22:42] please carry on with the talk.
+[00:22:44] &gt;&gt; Okay, great. Uh all right. Can you guys
+[00:22:46] see the slides again?
+[00:22:48] &gt;&gt; Yeah, perfect.
+[00:22:50] &gt;&gt; So so so the point is this. Um
+[00:22:53] a a aside from from philosophical
+[00:22:55] questions about competency and so on,
+[00:22:56] there's a very practical thing going on
+[00:22:58] here because um both in the life
+[00:23:00] sciences and in computer science and
+[00:23:02] engineering and so on, we typically have
+[00:23:05] to uh we we we typically have we think
+[00:23:07] we know how much effort you have to put
+[00:23:09] in to to to do certain things. And when
+[00:23:11] you have
+[00:23:12] uh such things uh showing up that you
+[00:23:14] didn't you didn't forbid, but neither
+[00:23:16] did you ask for, it becomes really
+[00:23:18] critical um I think going forward for
+[00:23:20] humanity becomes really critical to
+[00:23:21] develop a science for understanding
+[00:23:24] where these uh these novel um uh
+[00:23:26] patterns come from. And I don't think
+[00:23:27] it's enough to say emergence. Uh that
+[00:23:30] doesn't really I think even begin to
+[00:23:31] scratch the surface of of what's going
+[00:23:33] on here. We need to go far beyond that.
+[00:23:35] So so here's a very practical question.
+[00:23:36] So so we know when the computational
+[00:23:39] cost was paid to have a good frog and a
+[00:23:42] and a good uh frog embryo. So for for
+[00:23:44] eons this genome was bashing against the
+[00:23:46] environment and and it gave you this set
+[00:23:48] of set of developmental patterns and
+[00:23:50] then uh you know and then then these
+[00:23:51] tadpoles with their behaviors. Great.
+[00:23:54] When did we pay the computational cost
+[00:23:56] of of of of uh the designing a good uh
+[00:23:59] xenobot? They have a developmental
+[00:24:01] series here. I don't know this is an
+[00:24:03] 83-day-old xenobot. I don't know what
+[00:24:04] the heck it's turning into, but it's
+[00:24:06] turning into something. Um here are here
+[00:24:08] are the the the behaviors they have.
+[00:24:10] When did we pay the cost for these
+[00:24:12] specific competencies and features? We
+[00:24:14] have to know this. So So sometimes
+[00:24:16] people uh say this. They say, "Okay. So
+[00:24:18] maybe biology has some kind of uh
+[00:24:20] special magic to it. Maybe maybe there's
+[00:24:22] something about evolution. Maybe it's
+[00:24:24] just its enormous complexity. Maybe
+[00:24:26] there's there's quantum quantum uh
+[00:24:28] effects here somewhere. And so the idea
+[00:24:30] for bio-inspired design is and then so
+[00:24:33] and so we work with a lot of roboticists
+[00:24:35] and and and engineers and so on and so
+[00:24:37] so there's this notion of bio-inspired
+[00:24:38] design that we take things that biology
+[00:24:40] is uniquely good at and we try to
+[00:24:43] reproduce them in our technology. Now in
+[00:24:45] order to reproduce them in your
+[00:24:47] technology, how are you going to do
+[00:24:48] that? Well, you have the same three
+[00:24:49] ways. You can either try to engineer it
+[00:24:52] in so you're going to write an
+[00:24:53] algorithm, you're going to um
+[00:24:55] uh create a machine of some sort that's
+[00:24:56] going to do exactly what you saw the
+[00:24:58] biology doing. You're going to try to
+[00:25:00] force it to do that. Sometimes people
+[00:25:02] use evolutionary strategies so so
+[00:25:04] genetic algorithms, evolutionary search,
+[00:25:05] things like that. And of course
+[00:25:07] especially more recently training. So so
+[00:25:10] connectionist architectures we actually
+[00:25:11] train the thing.
+[00:25:12] So so let's look at some computer
+[00:25:14] science examples that basically uh I
+[00:25:16] think tell us that the same situation
+[00:25:18] that was going on with biology is is
+[00:25:20] here as well. Because this is important
+[00:25:22] because a lot of times what people
+[00:25:23] assume is
+[00:25:25] Okay, I think I think this is kind of a
+[00:25:26] standard common view. They say, "Okay,
+[00:25:28] look,
+[00:25:29] humans are not well captured by the laws
+[00:25:32] of biochemistry. We are more than the
+[00:25:34] mechanical laws of biochemistry. It's
+[00:25:36] kind of hard to to to really specify
+[00:25:39] why, but I think most people feel that
+[00:25:40] the laws of chemistry do not tell the
+[00:25:42] whole story of the of the human being."
+[00:25:44] But that's okay cuz there's these dumb
+[00:25:46] machines over here and they are fully
+[00:25:47] captured by their formal model. We are
+[00:25:49] not fully captured by the formal model
+[00:25:51] of chemistry, but these dumb machines
+[00:25:53] are fully captured by a Turing
+[00:25:54] computation and and and so on and these
+[00:25:56] other these other kinds of things. So
+[00:25:58] okay.
+[00:25:59] Um for those of you who write code
+[00:26:01] especially uh I would say suppose I told
+[00:26:03] you that I want a short deterministic
+[00:26:06] algorithm that was basically uh assumed
+[00:26:08] reliable hardware meaning that it's not
+[00:26:10] going to have any code to see whether
+[00:26:13] the things it's trying to do actually
+[00:26:14] worked, right? So no no
+[00:26:16] no success or failure checks whatsoever.
+[00:26:18] But I want it to also work when the
+[00:26:20] command sometimes fail with a with an
+[00:26:22] unreliable medium. I also want it to do
+[00:26:24] something else that's interesting that
+[00:26:25] isn't in the algorithm at all. For
+[00:26:28] example, I want it to implement
+[00:26:29] homophily um such as um,
+[00:26:32] uh, this it's a biological uh thing
+[00:26:33] where the similar similar beings tend to
+[00:26:35] sort of hang out with others of of their
+[00:26:37] own kind. Um, oh, and I wanted to do
+[00:26:39] delayed gratification, something that
+[00:26:40] certain human children can't do, you
+[00:26:42] know, the marshmallow test. I wanted to
+[00:26:43] be able to step further away from its
+[00:26:46] goal, so so
+[00:26:48] um,
+[00:26:49] up a gradient in order to recoup gains
+[00:26:51] later on. I'm not adding any extra code
+[00:26:53] for any of that. Just just just think
+[00:26:55] about that, right? I'm asking you to
+[00:26:56] write a short algorithm that does
+[00:26:58] something simple, but I wanted to have
+[00:26:59] all these extra features. I'm not going
+[00:27:00] to add any code for that. How how how
+[00:27:02] could you possibly do it? Turns out that
+[00:27:05] even uh a simple old bubble sort, and we
+[00:27:07] now have um, more and more data on on
+[00:27:10] other simple algorithms that do stuff
+[00:27:11] like this. Even simple bubble sort, um,
+[00:27:14] which which every CS 101 student has
+[00:27:16] studied for, I don't know, 80 years
+[00:27:18] probably by now, uh, just a few lines of
+[00:27:21] code, totally deterministic, totally
+[00:27:22] transparent, no quantum magic anywhere.
+[00:27:25] Yeah, it sorts numbers, all right, but
+[00:27:26] it also does other things. It has
+[00:27:28] spontaneous side quests that it does
+[00:27:30] that nobody had noticed until until you
+[00:27:32] actually look to see what else it might
+[00:27:34] be doing that isn't anywhere in the
+[00:27:36] algorithm. Okay? Um,
+[00:27:38] we have a whole research program on
+[00:27:40] looking at giving embodiments to various
+[00:27:42] static mathematical patterns. So, we
+[00:27:44] provide robotic bodies. The controller
+[00:27:46] is has no learning, no algorithm, no
+[00:27:50] neural net, nothing like that. Only
+[00:27:52] specific mathematical structures, and we
+[00:27:55] ask what what and so so there's this
+[00:27:56] there's this paper. We ask what what
+[00:27:58] what what what what are the behavioral
+[00:28:00] propensities that are frozen in these
+[00:28:02] mathematical um, structures?
+[00:28:04] So, so I think there's a couple of
+[00:28:06] lessons here.
+[00:28:07] First is that I think neither uh
+[00:28:10] neither engineered nor biochemical quote
+[00:28:13] unquote machines, meaning us, are only
+[00:28:15] what the formal models say they are. You
+[00:28:17] know, to any philosopher that's pretty
+[00:28:18] obvious that the formal model never
+[00:28:20] captures the whole thing, but I think
+[00:28:22] people really have a feeling that there
+[00:28:23] really are computers, there really are
+[00:28:26] things that are Turing machines. Um,
+[00:28:28] I don't believe any of that is true. I
+[00:28:29] think these are these are useful um,
+[00:28:32] useful models that to serve us well in
+[00:28:34] some cases and they do not serve us well
+[00:28:36] in other cases, not even with simple
+[00:28:37] quote unquote machines, neither for the
+[00:28:39] competencies nor for the limitations.
+[00:28:42] And I think partially it's because our
+[00:28:44] theories up until now in computer
+[00:28:46] science, in biology, I think physics,
+[00:28:48] although I'm I'm not a physicist, I
+[00:28:50] can't really say,
+[00:28:51] are not models of the actual system,
+[00:28:53] they're models of the front end. And I
+[00:28:56] and I'll tell you what I mean by that.
+[00:28:57] Because there is this really interesting
+[00:28:59] thing, there there is a source of
+[00:29:01] information beyond physics and biology.
+[00:29:03] For example, here's a simple equation in
+[00:29:05] complex numbers. If I draw a Halley map
+[00:29:07] of this equation, this is the very
+[00:29:09] specific pattern that belongs to this
+[00:29:11] thing. So this is a kind of pointer or
+[00:29:13] an index into a space of patterns. This
+[00:29:15] is what the pattern looks like. Where
+[00:29:16] did this very specific pattern come
+[00:29:19] from? What determines its specific
+[00:29:20] features?
+[00:29:22] It isn't designed. Nobody engine Nobody
+[00:29:23] designed this thing. Nobody selected it
+[00:29:25] out of a
+[00:29:26] you know, a long history of selection
+[00:29:28] pressures. Nobody trained it to be like
+[00:29:30] this.
+[00:29:31] Uh, there's nothing you can change in
+[00:29:32] the physical world that would make this
+[00:29:34] different. You could tweak all the
+[00:29:35] constants of of as far as I can tell at
+[00:29:38] the beginning of the Big Bang, you can
+[00:29:39] tweak all the the constants of physics,
+[00:29:41] this isn't going to change. Like the you
+[00:29:43] know, the digits of e are not going to
+[00:29:45] change and so on. So so we know that and
+[00:29:48] we've known this since since Pythagoras
+[00:29:49] and probably long before that, that
+[00:29:51] there is a set of patterns, truths,
+[00:29:54] mathematical patterns that do not come
+[00:29:56] from the physical world. They influence
+[00:29:58] the physical world.
+[00:29:59] You see the influence of it everywhere
+[00:30:01] in in physics and biology, but they
+[00:30:03] don't come from the physical world. You
+[00:30:05] can't change them in in the physical
+[00:30:06] universe. You can't
+[00:30:08] discover them using the standard
+[00:30:10] processes of physics. They're they're
+[00:30:12] really a different set of set of things.
+[00:30:15] So so
+[00:30:16] mathematicians are very comfortable with
+[00:30:18] this. Not not all of course, there are
+[00:30:19] other theories of mathematics,
+[00:30:21] but
+[00:30:22] many, maybe most mathematicians really
+[00:30:25] don't think this is a a random grab bag
+[00:30:27] of just sort of facts that happen to
+[00:30:29] hold in our universe, which which is
+[00:30:30] which is how a lot of
+[00:30:32] scientists that I've talked to express
+[00:30:34] it. They just say, "Well, these are
+[00:30:35] these are just things that happen to
+[00:30:36] hold. Um mathematicians think that they
+[00:30:38] are studying a structured ordered space
+[00:30:41] of of patterns that they can
+[00:30:42] systematically investigate. It's not a
+[00:30:44] mysterious thing. Just because it's not
+[00:30:45] physical doesn't mean it's not amenable
+[00:30:47] to investigation. And um and they think
+[00:30:50] there is a structure to it. They you
+[00:30:51] know, they're sort of working to to fill
+[00:30:52] out this this map of mathematics.
+[00:30:55] Uh uh
+[00:30:55] what I think we can do uh is something
+[00:30:59] something similar except that why would
+[00:31:01] we assume that the only patterns once
+[00:31:03] once we've decided that physicalism is
+[00:31:05] probably not going to fly and that there
+[00:31:07] is a space of truths that are not
+[00:31:09] physical truths. There's a space of
+[00:31:10] patterns that that are
+[00:31:13] se- se- separate somehow. And we've
+[00:31:14] assumed and we've now we've now ta-
+[00:31:16] taken the optimistic scientific
+[00:31:18] assumption that you can study this. It's
+[00:31:19] not just a random bag of surprises,
+[00:31:21] emergence, whatever. It's It's actually
+[00:31:23] a a set of patterns that you can study.
+[00:31:25] Once we've done that, why would we
+[00:31:26] assume that the only relevance turns up
+[00:31:28] in mathematics? Maybe there are patterns
+[00:31:31] there that uh would be recognizable in
+[00:31:33] other sciences. So, what we could do is
+[00:31:35] we could formalize this notion of
+[00:31:38] uh of of making certain embodiments,
+[00:31:40] certain certain physical uh uh whether
+[00:31:42] they be robots, machines, uh embryos, uh
+[00:31:46] bodies, whatever. And we could try to
+[00:31:48] figure out um what what what is the
+[00:31:50] extra that you got when you made this
+[00:31:52] thing? Like what what what can can we
+[00:31:54] quantify what what this is? And so,
+[00:31:56] here's my here's my proposal. I am
+[00:31:59] extremely skeptical of the idea that
+[00:32:01] that yes, there is this space of
+[00:32:02] patterns and it only affects math and
+[00:32:04] nothing else. So, I propose the
+[00:32:06] following uh experimental agenda which I
+[00:32:08] have now five or six people in my lab
+[00:32:10] working working on this. I've doing
+[00:32:11] experiments.
+[00:32:12] Uh the the the idea is is the following.
+[00:32:14] What if this space actually contains
+[00:32:17] lots of patterns? They're not static. Um
+[00:32:19] when I call it Platonic space, that's
+[00:32:21] just so the mathematicians know what I'm
+[00:32:22] talking about. I don't mean the specific
+[00:32:24] theories of Plato. Uh
+[00:32:26] I'm not saying these patterns are all
+[00:32:27] static. Some of them may be, but the but
+[00:32:29] the but but others are easily
+[00:32:31] recognizable to other uh disciplines.
+[00:32:33] For example, coupled sets of ordinary
+[00:32:36] differential equations are certainly a
+[00:32:37] mathematical object, but they also can
+[00:32:39] do Pavlovian conditioning making them of
+[00:32:42] interest to behavior science. So, they
+[00:32:43] start to sort of span the span the
+[00:32:46] uh span the the boundary between
+[00:32:48] disciplines. And so, what I think we we
+[00:32:50] can hypothesize is that math is just the
+[00:32:52] behavioral science of that layer of that
+[00:32:55] space where things are so simple that
+[00:32:57] they sit still for like derivations and
+[00:33:00] you know, those those kinds of methods.
+[00:33:01] But, there are other patterns there that
+[00:33:03] um
+[00:33:04] affect other kinds of embodiments
+[00:33:07] that would be recognizable to
+[00:33:09] developmental biologists, to behavior
+[00:33:11] scientists, to computer scientists. And
+[00:33:13] the idea would be that
+[00:33:15] uh basically everything we make when we
+[00:33:17] make physical embodiments, machines,
+[00:33:19] embryos, everything else, what we're
+[00:33:20] making is a front end that uh basically
+[00:33:23] immediately becomes host to um
+[00:33:27] patterns that uh that that are are are
+[00:33:30] stated in this in in in some other space
+[00:33:32] that that are not captured by the three
+[00:33:34] kinds of effort that I told you about.
+[00:33:36] And we need to study this. We need to
+[00:33:38] study the space because it's not just
+[00:33:39] order for free. It's behavioral
+[00:33:41] competencies. It's uh policies for
+[00:33:44] navigating various problem spaces. I
+[00:33:46] mean, we could do this for for hours. I
+[00:33:47] could talk about policies for navigating
+[00:33:49] the space of gene expression, the space
+[00:33:50] of anatomy, the space of physiology, of
+[00:33:52] metabolism. All of these things are um
+[00:33:55] are specific kinds of policies that
+[00:33:58] become very sophisticated. And and when
+[00:34:00] they do, they're easily recognizable as
+[00:34:01] kinds of minds. So, you see this
+[00:34:04] like ultimately, this is basically a a
+[00:34:06] sort of ancient dualistic model where we
+[00:34:07] literally have another another space uh
+[00:34:11] that that interacts with embodiments,
+[00:34:13] but we can study this. And this is
+[00:34:14] something that that is is I think I
+[00:34:16] think universal. So, the final thing
+[00:34:18] I'll say um before I end is this.
+[00:34:20] There's a there's a final symmetry that
+[00:34:22] I want to that I want to um
+[00:34:23] sort of uh
+[00:34:25] in
+[00:34:25] put put out there, which is which is to
+[00:34:27] dissolve the category between thoughts
+[00:34:29] and thinkers.
+[00:34:30] So, um
+[00:34:31] in a very uh just just very briefly, you
+[00:34:34] can think about a sort of science
+[00:34:35] fiction scenario where these creatures
+[00:34:37] come out of the core of the earth. And
+[00:34:38] they're incredibly dense. Um they you
+[00:34:40] they you know, they live down in the
+[00:34:41] core, super dense. They they got the
+[00:34:43] gamma ray vision and so on. So, they
+[00:34:45] come up to the surface of the earth,
+[00:34:47] they don't see anything. All the all the
+[00:34:48] stuff that we think of as solid is
+[00:34:50] basically a a fine plasma to them.
+[00:34:52] They're sort of walking around, they
+[00:34:53] don't even see it. And one of them is a
+[00:34:54] scientist and he has this this this this
+[00:34:56] equipment for for like looking at things
+[00:34:58] that to us we consider solid objects.
+[00:35:00] And he says, "You know, our our planet
+[00:35:02] is covered in this like like very thin
+[00:35:04] sort of gas, but there's patterns in
+[00:35:06] this gas. There's eddies like kind of
+[00:35:08] like metabolic patterns in this. And
+[00:35:10] they almost look identical. They almost
+[00:35:12] look like they're doing things. They
+[00:35:13] move around. They almost look like they
+[00:35:14] have goals." And they say, "Well, that's
+[00:35:16] crazy. Patterns in a patterns in an
+[00:35:17] excitable medium can't be agents. We're
+[00:35:19] we're actual agents. Those are those are
+[00:35:20] just patterns."
+[00:35:22] So, so we've been working on this on
+[00:35:23] this spectrum. So, so so whether you're
+[00:35:25] whether you're a pattern in an excitable
+[00:35:27] medium or or an agent is perhaps
+[00:35:29] observer relative, perhaps in the eye of
+[00:35:31] of the beholder. And we've been thinking
+[00:35:33] about this
+[00:35:34] this continuum where in a cognitive
+[00:35:36] system you can have a fleeting thought
+[00:35:38] like a wave sort of comes and goes. You
+[00:35:40] can have some intrusive repetitive
+[00:35:41] thoughts which sort of are very hard to
+[00:35:43] get rid of and they even do a little
+[00:35:44] niche construction in your brain to kind
+[00:35:46] of stick around. Then you might have
+[00:35:48] dissociative identity disorder
+[00:35:50] personality alters. They're much more
+[00:35:52] than a than a single thought. Um, they
+[00:35:54] have they have um
+[00:35:56] they have agendas and goals and and the
+[00:35:57] problem solving and so on. And then
+[00:35:59] there's you could have a whole human
+[00:36:00] mind and maybe maybe what I don't know
+[00:36:03] what's what's what's beyond that. We we
+[00:36:04] explore Chris Fields and I explore that
+[00:36:05] here. So, the so the so the point is
+[00:36:07] that um maybe maybe the whole
+[00:36:09] distinction between between machine and
+[00:36:12] data between thought and thinker between
+[00:36:13] pattern and agent is
+[00:36:16] just too too limiting. Maybe we need to
+[00:36:19] understand ourselves as patterns that
+[00:36:21] can spawn off other patterns.
+[00:36:23] So, so
+[00:36:25] you know, large thoughts that can have
+[00:36:26] that can have smaller thoughts. And
+[00:36:28] fundamentally this is what I think and I
+[00:36:30] I know this is this is totally crazy by
+[00:36:32] by conventional the
+[00:36:34] metrics the conventional view is this
+[00:36:36] that that there's this like universe of
+[00:36:37] matter.
+[00:36:38] There's a subset of this which is which
+[00:36:40] is life and then there's this even yet
+[00:36:42] smaller set of that which are which are
+[00:36:44] things with minds. I I think this whole
+[00:36:46] thing is upside down. I think that what
+[00:36:48] fundamentally we have are incredible
+[00:36:50] number of patterns on a on a continuum
+[00:36:53] from the most uh boring static uh thing
+[00:36:56] like the you know uh these these simple
+[00:36:57] mathematical constants, at least that's
+[00:36:59] all they look to us, and then very very
+[00:37:01] complex uh patterns that basically we
+[00:37:03] recognize as kinds of minds. Some of
+[00:37:05] them Some of them are embodied, and some
+[00:37:07] of them we would actually call living
+[00:37:08] because they do you know Darwinian kinds
+[00:37:10] of dynamics. So, this is this is how I
+[00:37:12] see it.
+[00:37:13] So, I'll I'll just summarize and then
+[00:37:15] and then stop. And if you want to see
+[00:37:16] all the details for all this crazy stuff
+[00:37:18] I've said, it's all I tried to work it
+[00:37:20] out in in detail here. So, I think that
+[00:37:23] um patterns of form, meaning anatomy of
+[00:37:26] behavior, physiology, of computation,
+[00:37:28] are are all one class. I think it's an
+[00:37:30] invariant. I think that there's a
+[00:37:31] structured space um from which currently
+[00:37:34] unexpected patterns are drawn into
+[00:37:37] specific physical interfaces. I think
+[00:37:39] bodies are just uh thin clients or
+[00:37:41] front-end interfaces that host massive
+[00:37:43] ecosystems of these patterns. Um
+[00:37:46] We have a research program now to map
+[00:37:47] out the space to learn to optimize and
+[00:37:49] suppress the ingression of these
+[00:37:51] patterns into specific media. Um
+[00:37:54] Uh yeah, we can talk about the we can
+[00:37:55] talk about this if uh if if uh if
+[00:37:58] anybody wants to wants to hear about
+[00:37:59] that. Um I I think I think when these
+[00:38:02] patterns show up in in certain agents,
+[00:38:06] we we can say we've
+[00:38:08] we've received a certain inspiration,
+[00:38:09] and I don't just think it's for high-end
+[00:38:11] human creatives. I think it goes all the
+[00:38:13] way down. Um so, don't feel don't feel
+[00:38:15] too smug because I think machines get
+[00:38:17] them, too. I think it basically pervades
+[00:38:19] this this phenomenon pervades uh
+[00:38:22] systems of big and small. And I don't
+[00:38:25] think we are physical beings who
+[00:38:26] sometimes get affected by such patterns.
+[00:38:28] We are We are the patterns. And and of
+[00:38:29] course we get affected by other
+[00:38:31] patterns. And somebody earlier said
+[00:38:32] something about resonance, and I think
+[00:38:33] that's very that's that's probably a
+[00:38:35] good way to to to think about why
+[00:38:37] certain patterns interact and so on.
+[00:38:39] Um Yeah, and so there's a symposium
+[00:38:41] where a bunch of people
+[00:38:43] have given talks on this topic. Most of
+[00:38:45] them don't agree with the most of the
+[00:38:46] stuff I said, but that's okay. There's
+[00:38:48] lots of interesting ideas around this
+[00:38:50] and we're just getting we're just
+[00:38:51] getting started. And the interesting and
+[00:38:53] important thing about all of this is
+[00:38:55] that in the future where all of the
+[00:38:58] natural life forms are like this tiny
+[00:39:00] little corner of this space and cyborgs
+[00:39:02] and highbrots and modified humans and
+[00:39:04] every kind of
+[00:39:06] imagined combination of life forms and
+[00:39:08] and machines and and software
+[00:39:11] are some kind of viable being that we
+[00:39:13] are going to have to uh hopefully have
+[00:39:15] some sort of ethical symbiosis with. All
+[00:39:17] of them are going to be much much much
+[00:39:19] like us. They're going to be hosting
+[00:39:21] numerous patterns of competencies, of
+[00:39:23] goal states, of
+[00:39:25] different kinds of minds and we don't
+[00:39:28] even understand how this works with us
+[00:39:30] and we have very little understanding of
+[00:39:32] what's going to happen when we make
+[00:39:33] novel beings who have not been here
+[00:39:35] before through our evolutionary stream.
+[00:39:37] I think it's it's a kind of an
+[00:39:39] existential
+[00:39:41] matter of existential importance for
+[00:39:43] humanity going forward. So,
+[00:39:45] I'll stop here and just thank the thank
+[00:39:47] the people who did
+[00:39:48] some of the biology that I showed you
+[00:39:50] and
+[00:39:51] lots of lots of amazing collaborators
+[00:39:53] that that the work on some of the stuff
+[00:39:55] and have to do some disclosures. So,
+[00:39:56] these are these are companies that have
+[00:39:58] licensed some of the inventions that
+[00:40:00] we've had from all this stuff. So, I'll
+[00:40:01] stop here and thank you for listening.
+[00:40:14] &gt;&gt; You coming?
+[00:40:15] &gt;&gt; All right.
+[00:40:16] &gt;&gt; Okay, yes. So, we have we have 10
+[00:40:17] minutes for questions.
+[00:40:19] So, anybody has a question? I think it
+[00:40:22] sounds like you can hear you all from
+[00:40:23] all the way back there, but project.
+[00:40:25] &gt;&gt; [snorts]
+[00:40:25] &gt;&gt; Um
+[00:40:28] That.
+[00:40:29] &gt;&gt; Uh in the prompt two on the slide the
+[00:40:34] organization of the
+[00:40:35] spaces of the different sizes, your
+[00:40:38] suggestion was that minds were the
+[00:40:40] largest.
+[00:40:42] Is there a larger
+[00:40:44] thing of patterns or are all patterns
+[00:40:46] minds?
+[00:40:48] Period.
+[00:40:49] &gt;&gt; Yeah, so so I think that um
+[00:40:53] I think that uh minds span
+[00:40:57] an incredible um
+[00:40:59] continuum from the most minimal kinds of
+[00:41:01] things to to some very sophisticated
+[00:41:04] ones.
+[00:41:05] Are there
+[00:41:06] are there things that that aren't minds
+[00:41:08] at all? Um I I I don't know. There may
+[00:41:10] be things For example, I'll give you
+[00:41:12] I'll give you an example as a as a
+[00:41:14] candidate for such a thing. You might
+[00:41:16] say that well, something like the digits
+[00:41:18] of e, the natural logarithm, it's not
+[00:41:20] going to change. It's like the rock of
+[00:41:22] of the platonic space. That's not much
+[00:41:24] of a mind. It just kind of it just kind
+[00:41:25] of sits there.
+[00:41:27] So so maybe that's that's a candidate
+[00:41:29] for such a thing, but I'm not sure of
+[00:41:31] that because experimentally what we're
+[00:41:33] doing as I briefly mentioned is we're
+[00:41:35] providing robotic bodies, whether
+[00:41:38] physical or in silico, um to such
+[00:41:41] patterns.
+[00:41:42] And it looks like and this is still
+[00:41:44] early days and we haven't published most
+[00:41:46] of this, so take everything I say with a
+[00:41:47] grain of salt until it's it's out. Um it
+[00:41:50] looks like if you give them a body,
+[00:41:52] those things actually express certain
+[00:41:54] kinds of of behavioral propensities. So
+[00:41:57] I'm a little leery of saying I think I
+[00:41:59] think we need a lot of um
+[00:42:01] humility here about our own mind
+[00:42:03] blindness and and things that don't look
+[00:42:04] at me. We've already bitten been bitten
+[00:42:06] by this many times. You know, people
+[00:42:08] people didn't think that anything other
+[00:42:09] than humans really had minds and then
+[00:42:11] and then well, it's only the things with
+[00:42:13] brains and then well, it's only the the
+[00:42:16] animal uh tissues, it's not the plants.
+[00:42:18] And every time you say this, it turns
+[00:42:20] out to be wrong once once we really look
+[00:42:22] in a in a in a better way. So I'm I
+[00:42:25] don't know. I I I tend to doubt it. I I
+[00:42:27] suspect that if we if we knew how to
+[00:42:29] properly relate to these beings, we
+[00:42:31] would find that pretty much every
+[00:42:33] pattern is somewhere on that space, but
+[00:42:35] of course maybe maybe very very sort of
+[00:42:37] sort of low down. I'm I'm loath to to
+[00:42:39] say that anything is not on the space
+[00:42:41] just because we're not very good at
+[00:42:42] looking for it yet.
+[00:42:44] &gt;&gt; Thank you.
+[00:42:46] &gt;&gt; Pablo.
+[00:42:47] &gt;&gt; Um you talked about the examples in the
+[00:42:50] beginning and the computational cost um
+[00:42:54] that they
+[00:42:55] uh kind of who paid the computational
+[00:42:56] cost, right? For things that didn't
+[00:42:58] work. Uh is there a way in which you're
+[00:43:01] paying the computational cost by
+[00:43:02] post-selecting those examples?
+[00:43:06] &gt;&gt; Good good good good point. So So we have
+[00:43:08] to keep an eye on that for sure. Um but
+[00:43:11] let's look at the let's look at the
+[00:43:12] specifics. So So we know and I and I
+[00:43:15] purposely I purposely sort of
+[00:43:17] do the talk in that order where I ask
+[00:43:19] you to guess ahead of time. Like if we
+[00:43:20] had, you know, a couple hours, I would
+[00:43:22] just ask you to guess how much effort it
+[00:43:24] would take. So if we were going to
+[00:43:25] post-select, like um
+[00:43:27] we would have to do it in we would have
+[00:43:29] to do enough of that to make you
+[00:43:31] confident that imagine if we do it the
+[00:43:33] opposite way. If I said to you, "I want
+[00:43:34] you to invest in my company. I'm going
+[00:43:36] to post-select and uh and and you you
+[00:43:39] know, you give me you give me this much
+[00:43:40] money and you know, in a couple of years
+[00:43:42] I'll give you this amazing thing."
+[00:43:44] I I I do not have a story of
+[00:43:46] post-selection that would convince you
+[00:43:48] that any of that is viable. I would also
+[00:43:50] say that
+[00:43:51] the xenobots, what did we do? Pretty
+[00:43:53] with with you know, total respect to all
+[00:43:55] the postdocs and collaborators and my
+[00:43:57] students that work hard on this,
+[00:43:59] we did very little. Like like we take
+[00:44:01] the cells out of the body, we leave them
+[00:44:03] alone.
+[00:44:04] They they do everything. These xenobots
+[00:44:06] are not
+[00:44:07] you know,
+[00:44:08] attempt number, you know,
+[00:44:10] 800 out of a out of a billion things
+[00:44:12] that we tried. It was the first darn
+[00:44:14] thing we tried and all we've been doing
+[00:44:16] is discovering things things they do.
+[00:44:18] They we have not done very much. A lot
+[00:44:21] of times people go the other way. They
+[00:44:22] say, "What's the environment?" You put
+[00:44:23] them in a different environment. The
+[00:44:24] environment is weak salt water, exactly
+[00:44:26] the environment of frog embryos. So
+[00:44:27] there's nothing special about the
+[00:44:28] environment. We haven't done basically
+[00:44:30] almost anything. So if I told you that,
+[00:44:32] "Look, we generated millions and
+[00:44:34] millions of these examples and
+[00:44:35] eventually I found something cool to
+[00:44:37] show you guys."
+[00:44:38] That would be something. Even then we
+[00:44:40] would have to say, "Well, how many
+[00:44:41] variants did you actually check?" Like
+[00:44:42] does that seem reasonable? Would I
+[00:44:44] believe ahead of time that how many
+[00:44:45] experiments could we do? Let's say we
+[00:44:46] did a thousand experiments. You know,
+[00:44:48] does that seem like an evolutionary
+[00:44:50] stream that would be enough? So I I
+[00:44:52] think the numbers don't work, but I
+[00:44:53] think you're right in that we have to
+[00:44:54] watch that that carefully because in
+[00:44:56] some cases in some cases yeah, we're
+[00:44:58] we're part of the system. So, if you
+[00:45:00] could if you could actually if the
+[00:45:01] numbers worked out and you could say no,
+[00:45:02] actually you guys put a ton of effort
+[00:45:04] into designing, selecting, and training
+[00:45:06] this thing then you know, fair enough.
+[00:45:11] &gt;&gt; Yeah.
+[00:45:12] &gt;&gt; Um
+[00:45:13] thank you for the talk Professor Levin.
+[00:45:15] So, you're you're to fly on the segment
+[00:45:18] ABC from patterns and seem like you're
+[00:45:20] mostly talking about individual level in
+[00:45:23] terms of ABC, but you could also I think
+[00:45:26] extend your arguments to above the
+[00:45:27] individual level. For example, there are
+[00:45:30] patterns of multiple minds in the sense
+[00:45:32] of social insects or human
+[00:45:34] organizational networks. Do your ideas
+[00:45:36] still apply to these larger networks and
+[00:45:38] how would you design experiments to
+[00:45:41] um do the same kind of exploratory
+[00:45:43] research that you can do at
+[00:45:44] non-individual level scales?
+[00:45:46] &gt;&gt; Yeah. [snorts] Yeah, that's a that's a
+[00:45:47] great point. So, I want to divide that
+[00:45:49] up into two two kinds of things. Um in
+[00:45:52] in principle, absolutely they apply.
+[00:45:55] Uh however, there's a problem which is
+[00:45:57] that
+[00:45:58] I I feel strongly that that the claims
+[00:46:01] that I'm making are empirical claims,
+[00:46:03] not philosophical claims. In other
+[00:46:04] words, when when when I say this thing
+[00:46:07] has a certain level of intelligence,
+[00:46:10] this is not a poetic claim. It's not
+[00:46:11] because it's complex or it fills me with
+[00:46:13] wonder. What I'm saying is we've done
+[00:46:14] very specific behavior science
+[00:46:16] experiments and I could tell you that
+[00:46:17] this is A, B, and C are the
+[00:46:18] problem-solving capacities that that we
+[00:46:21] found it to have. So, the problem with
+[00:46:22] larger systems that it's very hard to do
+[00:46:24] such experiments. You know, beehives and
+[00:46:26] ant colonies and we we've done we've
+[00:46:28] found a thing called a hyper embryo,
+[00:46:30] which is basically a group of embryos
+[00:46:31] that solves problems that individual
+[00:46:33] embryos can't solve, which is which is
+[00:46:34] cool. So, for sure you can um you can
+[00:46:37] scale it up, but I get a lot of emails
+[00:46:39] from people saying, "Oh, amazing. So,
+[00:46:41] the whole universe is like this giant
+[00:46:42] mind. The solar system is is this like
+[00:46:44] big you know, big mind." And I'm saying,
+[00:46:47] "Maybe. I'm not saying it can't be, but
+[00:46:48] I you can't just you can't just decide
+[00:46:50] that. You have to do experiments." And
+[00:46:52] when systems are large like social
+[00:46:54] systems, financial systems, um
+[00:46:56] you know, uh human societies, that kind
+[00:46:59] of stuff. Experiments are very hard to
+[00:47:01] come by and without that I would
+[00:47:03] hesitate to say anything of specific
+[00:47:05] specifics because you have to do
+[00:47:06] perturbative experiments. You cannot
+[00:47:08] watch something and say, "Oh my god, I
+[00:47:09] think it's do I think this is it looks
+[00:47:11] like it's doing
+[00:47:13] you know, whatever you think it's
+[00:47:14] doing." You have to do perturbative
+[00:47:16] experiments. You have to you have to put
+[00:47:18] barriers between it and its goal. You
+[00:47:19] have to try to change things up to see
+[00:47:22] how it handles novelty like
+[00:47:24] the behavior's handbook is is all
+[00:47:25] perturbative experiments.
+[00:47:27] So, it's hard to it's hard to do that
+[00:47:29] for for large-scale systems, but at
+[00:47:32] least conceptual I mean a physicist and
+[00:47:34] I once tried to design a gravitational
+[00:47:36] synapse, right? So, some kind of a solar
+[00:47:38] system thing where you shoot in
+[00:47:41] you know, asteroids and and it would do
+[00:47:42] some kind of a heavy and you know, thing
+[00:47:45] or something. So, I'm not saying it's
+[00:47:46] impossible. I think I think it could be
+[00:47:47] done, but you got to do experiments and
+[00:47:49] I don't know how to do experiments at
+[00:47:51] these high high levels.
+[00:47:56] &gt;&gt; Yeah, we're back.
+[00:47:57] &gt;&gt; This is a very loose question, but
+[00:47:59] hopefully you'll indulge me.
+[00:48:01] Where do you how do you think subjective
+[00:48:02] experience fits into all this? Do you
+[00:48:04] think minds have all minds have a
+[00:48:06] subjective experience, all patterns?
+[00:48:09] &gt;&gt; Yeah, great great question. I'm about to
+[00:48:11] in fact I have to leave in 3 minutes and
+[00:48:13] be at the at the consciousness
+[00:48:14] conference that's happening in the in
+[00:48:15] California right now. I don't I don't
+[00:48:17] have any I don't have any strong claims
+[00:48:20] on consciousness. I think consciousness
+[00:48:22] research is really really hard. I don't
+[00:48:24] Most people I think are doing physiology
+[00:48:26] and behavior, not actual consciousness
+[00:48:28] research. I think it's
+[00:48:30] certainly I don't have any strong claims
+[00:48:32] on consciousness, but if I had to guess,
+[00:48:33] this is here's here's what I would say.
+[00:48:35] I would say,
+[00:48:37] first of all, that I think what we mean
+[00:48:39] by consciousness is the experience a
+[00:48:41] pattern has when it's projecting into
+[00:48:44] the physical world. Can it have
+[00:48:45] experiences without projecting into the
+[00:48:47] physical world? I I don't know. I don't
+[00:48:49] think it's impossible. But but but to
+[00:48:52] the to the question of whether all
+[00:48:54] patterns have experience,
+[00:48:56] in general I'm very skeptical of this
+[00:48:58] notion of unconscious processes or
+[00:49:01] unconscious events. People usually take
+[00:49:03] to be the null hypothesis that the world
+[00:49:05] of the universe is kind of dead and that
+[00:49:06] if you think something has
+[00:49:07] consciousness, you got to you got to
+[00:49:08] show it. Um
+[00:49:10] I I see it the other way around. I I
+[00:49:11] suspect that the very notion of an
+[00:49:13] unconscious uh system is is maybe a
+[00:49:16] logical impossibility.
+[00:49:18] Um and we just sort of assume we can
+[00:49:20] imagine that, but we can imagine lots of
+[00:49:21] stuff that isn't actually possible. So,
+[00:49:24] I'm I'm I'm skeptical that there's
+[00:49:26] anything that doesn't have some degree
+[00:49:28] of some minimal degree of of perspective
+[00:49:30] onto itself and its world, uh but that's
+[00:49:33] but that's all conjecture.
+[00:49:35] &gt;&gt; Thank you.
+[00:49:40] &gt;&gt; Any other questions?
+[00:49:42] Anything from online? Oh, yeah, we've
+[00:49:43] got uh Leo online.
+[00:49:45] &gt;&gt; Hey, Leo.
+[00:49:47] &gt;&gt; Uh you're muted, Leo.
+[00:49:49] &gt;&gt; Sorry, I'm here. Hi, Mike. Um
+[00:49:50] &gt;&gt; Hey, Leo.
+[00:49:51] &gt;&gt; Is the space
+[00:49:54] is it given or is it kind of generated?
+[00:49:58] &gt;&gt; Yeah.
+[00:49:58] &gt;&gt; Good good good question. Good question.
+[00:50:00] Um I I don't think it's static I don't
+[00:50:02] think it's 100% given in the sense that
+[00:50:04] I don't think it's a static preexisting
+[00:50:05] thing. There's nothing new under the
+[00:50:07] sun. Everything comes from that space. I
+[00:50:08] don't think that's the case. I think the
+[00:50:09] space can I think the patterns can
+[00:50:11] change. At least at least many of them
+[00:50:13] can change over time. Therefore, the
+[00:50:15] space can change over time.
+[00:50:17] However, um however, I don't think it's
+[00:50:20] purely a construction of of our
+[00:50:22] arbitrary you know, people some people
+[00:50:24] say, "Well, math is a cultural sort of
+[00:50:26] invention and and things like that." I
+[00:50:28] don't think that's true, either, because
+[00:50:30] it just
+[00:50:32] you you start with Well, here's the
+[00:50:33] empty set and here's successor of the
+[00:50:35] empty set. And then before you know it,
+[00:50:37] you you find out that E is 2.78
+[00:50:39] whatever. You don't get to choose. You
+[00:50:41] don't get to invent whatever you know,
+[00:50:42] you start with these incredibly minimal
+[00:50:44] um
+[00:50:45] Well, you you pick a point in that space
+[00:50:46] and you sort of start to look around and
+[00:50:48] then you find out. You you know, you
+[00:50:49] discover things. Again, I'm no
+[00:50:51] mathematician to be saying this, but I
+[00:50:52] think it's discovered, not not invented.
+[00:50:54] So, so I think I think important parts
+[00:50:57] of it are given, but I don't think it's
+[00:50:58] a static preexisting thing that will
+[00:51:00] never change.
+[00:51:01] So, beyond that, I can't I can't say. I
+[00:51:03] mean there's a lot to be you know, a lot
+[00:51:04] of questions past that, right? Which I I
+[00:51:06] can't I don't know.
+[00:51:09] &gt;&gt; You not quite said it, but but is is is
+[00:51:12] are you pointing at
+[00:51:14] recursive structure
+[00:51:16] to these processes?
+[00:51:18] &gt;&gt; Yeah, that makes that makes sense to me.
+[00:51:19] That may Yeah, that that makes sense.
+[00:51:21] Yeah. Yeah.
+[00:51:22] Yeah, I think so.
+[00:51:26] Thank you.
+[00:51:27] &gt;&gt; So, we're at time and I know you have
+[00:51:28] another you have to cross the continent
+[00:51:30] and get all the way to California, so
+[00:51:32] good luck. Um thank you so much for your
+[00:51:35] time and your care answering the
+[00:51:36] questions.
+[00:51:36] &gt;&gt; Thank you very much. Yeah, I appreciate
+[00:51:37] it. Thank you for the discussion. Yeah,
+[00:51:39] great questions. Thank you, everyone.
