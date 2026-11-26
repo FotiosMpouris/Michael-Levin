@@ -1,7 +1,7 @@
 ---
 title: What's new
 created: 2026-10-15
-updated: 2026-11-22
+updated: 2026-11-26
 type: hub
 tags: [#whats-new]
 sources: []
@@ -9,7 +9,22 @@ sources: []
 
 # What's new
 
-Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), plus interviews and talks where Levin is a guest on other channels, newest first. Updated 2026-11-22.
+Latest from the [Levin lab YouTube channel](https://www.youtube.com/@drmichaellevin), plus interviews and talks where Levin is a guest on other channels, newest first. Updated 2026-11-26.
+
+## Week of 2026-11-26: new in the feed
+
+Captions came through for all three new videos, all guest talks on the Levin lab channel, so each has a summary page. No new papers this week.
+
+| Published | Video | Who | In brief |
+|---|---|---|---|
+| 2026-11-26 | [[2026-11-26-percepia-patricia-craja|Percepia]] | Patricia Craja (guest talk to the Levin lab), with discussion with Michael Levin | A tool meant to read a mind's active-inference "precision" settings from conversation alone. Two experiments on simulated language-model personas (not yet people). Levin warns that a language layer adds human structure, asks for personality-like axes measured directly in cell data, and asks whether two signalling xenobots are "having a conversation". |
+| 2026-11-25 | [[2026-11-25-solving-rare-at-scale-richard-novak|Solving Rare at Scale]] | Richard Novak (guest talk to the Levin lab on Unravel), with discussion with Michael Levin | Unravel builds a "living molecular twin" from each patient's RNA and simulates about 40,000 existing molecules against it, grouping rare-disease patients by predicted drug response, not diagnosis. Patient results and a Rett syndrome trial are described; clinical figures are the company's own. Levin asks about steering anthrobots with drugs. |
+| 2026-11-24 | [[2026-11-24-shaping-dynamics-through-environment-andrea-roli|Shaping dynamics through the environment]] | Andrea Roli (guest talk to the Levin lab), with discussion with Michael Levin | Random Boolean networks (a simple gene-network model) as robot controllers: critical networks beat ordered and chaotic ones, and frozen networks learn tasks just by rewiring their sensors and motors. Levin on the "cost of competency" and a preview of unpublished work on networks that keep learning gains after forgetting. |
+
+Posts and blog:
+- 2026-11-25, X: on Unravel, ["Incredibly proud of the team at unravel.bio"](https://x.com/drmichaellevin/status/2125588669843050613) ("I don't work for Unravel but it's the first company our research contributed to, and I am involved"), sharing the Novak talk above. See the [[companies-tracker|Companies tracker]].
+- 2026-11-22, X: a teaser from Morphoceuticals, ["the startup company seeking to apply our work on bioelectricity to human regeneration and repair"](https://x.com/drmichaellevin/status/2124468610772951045): "@KaplanLab_Tufts and I are the scientific co-founders", though "we're not employees of the company". See the [[companies-tracker|Companies tracker]].
+- 2026-11-22, X: ["Galls!"](https://x.com/drmichaellevin/status/2124618926327738609), linking his blog post [Galls](https://thoughtforms.life/galls/) (first published 2023-10-06, updated 2026-11-22), on plant galls as a window on what the same genome can build.
 
 ## 2026-11-22: Levin as a guest on other channels
 

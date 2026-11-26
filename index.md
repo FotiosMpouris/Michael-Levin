@@ -1,6 +1,6 @@
 # Michael Levin Wiki — Index
 
-Last updated: 2026-11-22
+Last updated: 2026-11-26
 
 ## Start here
 
@@ -13,6 +13,9 @@ Last updated: 2026-11-22
 
 ## Videos (one page each)
 
+- 2026-11-26 — [[2026-11-26-percepia-patricia-craja|Percepia]]
+- 2026-11-25 — [[2026-11-25-solving-rare-at-scale-richard-novak|Solving Rare at Scale]]
+- 2026-11-24 — [[2026-11-24-shaping-dynamics-through-environment-andrea-roli|Shaping dynamics through the environment]]
 - 2026-11-11 — [[2026-11-11-intracellular-memory-storage-and-ai-david-glanzman|Evidence for intracellular memory storage and its implications for AI]]
 - 2026-11-06 — [[2026-11-06-super-turing-computing-hava-siegelmann|Super Turing Computing]]
 - 2026-11-05 — [[2026-11-05-is-consciousness-popularity-narcis-marincat|Is consciousness popularity?]]

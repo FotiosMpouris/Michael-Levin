@@ -1,10 +1,10 @@
 ---
 title: "Cognition in cells (basal and diverse intelligence)"
 created: 2026-10-15
-updated: 2026-11-22
+updated: 2026-11-26
 type: topic
 tags: [#topic, #cognition-in-cells]
-sources: [raw/transcripts/2026-10-28-GZf2QupyI-k.txt, raw/transcripts/2026-11-12-0OnetB8LNco.txt, raw/transcripts/2026-09-09-OlSyGUC3HaU.txt, raw/transcripts/2026-09-21-BWgJPmeW5g0.txt, raw/transcripts/2026-10-28-XTL9PxDm5B8.txt, raw/transcripts/2026-10-28-t_Yhcd52LHo.txt, raw/transcripts/2026-11-18-EY0nrb7AXJs.txt, raw/transcripts/2026-10-11-KLWm0Qyj3jg.txt, raw/transcripts/2026-10-09-09t5uupqax0.txt, raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
+sources: [raw/transcripts/2026-11-24-Uyc5weX460Q.txt, raw/transcripts/2026-10-28-GZf2QupyI-k.txt, raw/transcripts/2026-11-12-0OnetB8LNco.txt, raw/transcripts/2026-09-09-OlSyGUC3HaU.txt, raw/transcripts/2026-09-21-BWgJPmeW5g0.txt, raw/transcripts/2026-10-28-XTL9PxDm5B8.txt, raw/transcripts/2026-10-28-t_Yhcd52LHo.txt, raw/transcripts/2026-11-18-EY0nrb7AXJs.txt, raw/transcripts/2026-10-11-KLWm0Qyj3jg.txt, raw/transcripts/2026-10-09-09t5uupqax0.txt, raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-03-YvUn3G2lPxs.txt]
 ---
 
 # Cognition in cells (basal and diverse intelligence)
@@ -13,6 +13,7 @@ Intelligence as 'reaching the same goal by different means' applies below the br
 
 ## Videos on this topic (newest first)
 
+- 2026-11-24: [[2026-11-24-shaping-dynamics-through-environment-andrea-roli|Shaping dynamics through the environment]] (Andrea Roli (guest talk to the Levin lab), with discussion with Michael Levin)
 - 2026-11-18: [[2026-11-18-agency-intelligence-across-scales-friston-chis-ciure|Agency & Intelligence Across Scales]] (Levin with Karl Friston and Robert Chis-Ciure, guest on Wandering Thoughts)
 - 2026-11-12: [[2026-11-12-state-of-the-world-forum-edge-of-world-model|At the Edge of Our World Model]] (State of the World Forum 2026 panel, Levin as guest)
 - 2026-11-11: [[2026-11-11-intracellular-memory-storage-and-ai-david-glanzman|Evidence for intracellular memory storage and its implications for AI]] (David L. Glanzman (guest talk to the Levin lab), with discussion with Michael Levin)

@@ -1,0 +1,1552 @@
+[0:00:00] So yeah, I mean it's it's wonderful to
+[0:00:01] be able to present on uh well on your
+[0:00:03] company.
+[0:00:04] [laughter]
+[0:00:05] A lot of what we've done, I know it's
+[0:00:07] been been a whirlwind. Um but the whole
+[0:00:09] idea is that we started unravel is you
+[0:00:10] know five years ago um and and we're
+[0:00:13] calling ourselves the predictable
+[0:00:14] medicine company for very obvious
+[0:00:15] reasons as as you'll get into uh as
+[0:00:17] you'll see in a bit in a moment. But
+[0:00:19] what we're doing is solving rare disease
+[0:00:20] at scale and not just like one or two
+[0:00:22] diseases at a time. There's about 15,000
+[0:00:24] rare diseases. There's probably double
+[0:00:25] triple that in reality. Um
+[0:00:28] the traditional approach one drug one
+[0:00:30] disease just cannot work at you know
+[0:00:31] billion plus dollars per drug that's
+[0:00:33] just not viable. So what we're doing is
+[0:00:36] a very different kind of flipping the
+[0:00:38] narrative approach by starting with
+[0:00:39] patients and developing uh drugs of
+[0:00:41] course
+[0:00:42] for patients but doing it with patients
+[0:00:44] literally from the the first step. So
+[0:00:47] um that that's really what what we're
+[0:00:50] doing and you kind of changing the
+[0:00:51] paradigm of drug development. So
+[0:00:52] you kind of the anchor what what's been
+[0:00:54] done for the last you know 40 50 plus
+[0:00:57] years, current drug development usually
+[0:00:59] starts with some sort of target or
+[0:01:00] mechanism.
+[0:01:01] Um there's preclinical work that can
+[0:01:04] take years sometimes even decades uh for
+[0:01:07] for some disorders. Usually the less
+[0:01:08] funding they have the longer it takes.
+[0:01:10] And then it gets into the clinic. Um and
+[0:01:12] then sometimes uh you go in for
+[0:01:15] approval. The reality is that most drugs
+[0:01:17] fail here. So
+[0:01:19] you know they say only only five or 10%
+[0:01:21] of drugs in the clinic actually go for
+[0:01:23] approval. For truly new molecules like
+[0:01:26] the you know a new target new mechanism,
+[0:01:28] it's a 2% success rate. That's just mind
+[0:01:31] blowingly terrible, right? Like we have
+[0:01:33] a 1 in 50 chance of success
+[0:01:35] at a billion dollars a pop.
+[0:01:38] That's just a terrible terrible number.
+[0:01:40] Um and this whole idea of the medicines
+[0:01:41] is unpredictable and this doesn't even
+[0:01:43] get to once you have approval, the use
+[0:01:45] of that medicine isn't predictable on
+[0:01:47] top of that. So for any one patient your
+[0:01:49] your success starting from a target to
+[0:01:51] actually does it helping you as a person
+[0:01:53] is negligible. So it's surprising we
+[0:01:55] have drugs that actually work. Um and so
+[0:01:57] why is that? Well it fails because one
+[0:01:59] biology is complex and I know this is
+[0:02:00] something that you think about all day
+[0:02:01] long, right? So, this is the outdated
+[0:02:03] model of pharma. This is your Kendall
+[0:02:05] Square approach from from years ago,
+[0:02:08] which is there's some sort of problem
+[0:02:10] causes a disease and you can see exactly
+[0:02:12] where that drug would fit, right? It's
+[0:02:13] it's very very obvious. Well, it's a
+[0:02:15] nice narrative, but it's a wrong
+[0:02:17] narrative. This rarely works. The
+[0:02:19] reality is, and this is a simplified
+[0:02:21] view, the reality is that you have many
+[0:02:23] genes affecting many biological pathways
+[0:02:25] all interrelated causing some sort of
+[0:02:28] changing variable phenotypes that are
+[0:02:30] also inter inter relating. It's a
+[0:02:31] complex system and it's unpredictable.
+[0:02:35] It's not necessarily deterministic,
+[0:02:37] right? It's it's a bit of a mess.
+[0:02:40] And and looking at it one gene at a time
+[0:02:42] or one mechanism at a time is just not
+[0:02:44] viable.
+[0:02:46] And the this is the other part. This is
+[0:02:47] like once once you're thinking about
+[0:02:49] getting into the clinic, there are two
+[0:02:51] views on on how drug development is
+[0:02:52] done. So, clinical development by pharma
+[0:02:54] companies really takes this very
+[0:02:56] real-world patient group, very
+[0:02:58] heterogeneous with all the same
+[0:03:00] diagnosis, by the way, for one one
+[0:03:01] diagnosis at a time.
+[0:03:03] Runs [clears throat] a trial and hey,
+[0:03:05] maybe it works in most of the patients.
+[0:03:07] We meet the endpoints. Great, drugs drug
+[0:03:09] gets approved.
+[0:03:11] The reality then in clinical care,
+[0:03:13] each patient that a clinician sees needs
+[0:03:14] to benefit. Otherwise, the clinician
+[0:03:16] keeps going and tries different things,
+[0:03:17] right?
+[0:03:18] So, the end goal on the right is
+[0:03:19] everybody gets their gets treatment. It
+[0:03:22] will invariably be different treatments.
+[0:03:24] And if you look at just cardiovascular
+[0:03:27] vascular diseases, like not you don't
+[0:03:28] have a standard regimen that everybody
+[0:03:30] gets put on. You have all these
+[0:03:31] different combinations and you can do
+[0:03:32] that because there's many approved
+[0:03:34] drugs. So, this is this is the the the
+[0:03:36] kind of clinical reality that
+[0:03:38] you know, patients aren't this average
+[0:03:40] disease.
+[0:03:41] And that really is the is the message
+[0:03:43] here that it's patients, not diseases
+[0:03:46] that respond to treatments. A disease is
+[0:03:47] sort of this artificial grouping,
+[0:03:50] usually based on symptomatology, maybe
+[0:03:52] based on cause,
+[0:03:54] but
+[0:03:55] but this concept, this distinction
+[0:03:56] between patients and disease goes back
+[0:03:58] 200 years to William Osler at least that
+[0:04:00] we know of. I'm sure even earlier.
+[0:04:02] But the good physician treats the
+[0:04:03] disease, the great physician treats the
+[0:04:05] patient who has the disease, right? It's
+[0:04:07] ultimately about the patient getting
+[0:04:08] better, not um not some sort of
+[0:04:10] diagnostic success. Um and here's some,
+[0:04:12] you know, some some pictures uh from
+[0:04:14] from our office to remind us uh of the
+[0:04:17] actual patients that we work with. These
+[0:04:18] are all real patients that we work with
+[0:04:20] and and know by name.
+[0:04:22] Um and so then gets you thinking, well
+[0:04:24] how do I get to those patients? Well
+[0:04:26] let's use a model. Well here's a, you
+[0:04:28] know, one of George Box's very famous
+[0:04:29] sayings, all models are wrong, but some
+[0:04:32] may be useful nonetheless. Uh sometimes
+[0:04:34] shortened to all models are wrong, some
+[0:04:36] are useful.
+[0:04:37] And the idea is that, you know, you can
+[0:04:39] you can work on models because those are
+[0:04:40] the easiest ones to work with, ethically
+[0:04:42] certainly easier than just putting a
+[0:04:44] drug into into a random patient.
+[0:04:47] Uh but the reality is that yeah the
+[0:04:48] first part is true, all models are
+[0:04:50] wrong.
+[0:04:51] Cells from a patient in a dish are not a
+[0:04:53] patient, right? They are a model of a
+[0:04:55] patient with some similarities
+[0:04:56] hopefully, but a lot of differences.
+[0:04:58] Cells in a dish do not have organ-level
+[0:04:59] function, they don't have circadian
+[0:05:01] function, they don't have, I mean they
+[0:05:02] have certain the mechanisms, but they
+[0:05:03] don't have the dietary and light
+[0:05:05] interactions with their environment.
+[0:05:06] They're not taking medications. So half
+[0:05:08] half the patients that we deal with are
+[0:05:09] on extensive polypharmacies. They take
+[0:05:12] cells, put them in a dish, no drugs.
+[0:05:14] Uh no no anti-seizure medications, no
+[0:05:16] vitamin supplements, and you expect
+[0:05:18] those cells to behave like the patient,
+[0:05:19] which doesn't make any sense, right?
+[0:05:21] There it's a completely different drug
+[0:05:22] exposure paradigm.
+[0:05:24] Um and so our approach with Unravel was
+[0:05:26] we have to start with the patients. So
+[0:05:28] the clinical success really depends on
+[0:05:30] molecular data from the patient. I don't
+[0:05:32] care what you call it that the patient
+[0:05:33] has, but that is the the state, the
+[0:05:35] biological state that we need to operate
+[0:05:37] from.
+[0:05:38] Um and essentially this whole idea of
+[0:05:41] combining personalized data with the
+[0:05:43] systems-level approach addresses
+[0:05:45] multiple development challenges, all the
+[0:05:47] ones that I that I mentioned earlier.
+[0:05:49] And I'm going to compare this to other
+[0:05:50] companies to one company specifically
+[0:05:53] that's done this, and it's not in the
+[0:05:54] healthcare space because you have to go
+[0:05:55] outside of healthcare to look for
+[0:05:56] companies who have actually innovated
+[0:05:58] properly what what I think is properly
+[0:05:59] at least. And so it starts with this
+[0:06:01] personalized customer need. And And
+[0:06:03] customer, not necessarily patient,
+[0:06:04] because you'll see why in a second.
+[0:06:06] Uh but with Unravel, we start with
+[0:06:07] individual patient RNA. So that informs
+[0:06:09] this whole gene regulatory network,
+[0:06:11] understanding the patient's actual
+[0:06:13] biological state at the time of sample
+[0:06:15] collection. And it changes over time, of
+[0:06:16] course.
+[0:06:17] Um and so similarly, the other company
+[0:06:19] that I want to compare ourselves to is
+[0:06:20] Uber. It has an individual customer
+[0:06:24] need. I am here and I need to go to this
+[0:06:27] terminal at the airport or this meeting
+[0:06:29] across town, right? That is a kind of
+[0:06:31] personal need that, for example, public
+[0:06:34] transit may not accommodate very easily.
+[0:06:37] Um there's also the real-time situation.
+[0:06:39] So this causal network biology is is the
+[0:06:42] patient's current clinical state linking
+[0:06:45] them to a therapeutic solution. Again,
+[0:06:46] it's that that that personalization, and
+[0:06:48] that's exactly what Uber does. Where
+[0:06:50] where are the drivers with cars
+[0:06:52] closest to the patient, going to roughly
+[0:06:54] where you want to go, and then it it
+[0:06:56] basically sets up that market, right?
+[0:06:58] Um and then speaking of these markets,
+[0:07:01] we look at patients one by one. I don't
+[0:07:02] care what they're diagnosed with. If it
+[0:07:04] if it's a patient with three different
+[0:07:06] genetic disorders, each one has a 1 in
+[0:07:08] 100,000 chance. Now you're looking at
+[0:07:10] crazy odds of of any one other patient
+[0:07:13] just like that one. There may not be
+[0:07:14] another one alive today.
+[0:07:16] Um and yet we can work with them and
+[0:07:17] learn from from their unique biology and
+[0:07:19] group them with other patients who have
+[0:07:20] might have very similar biology, but
+[0:07:22] different names of their disorders,
+[0:07:23] right? And so it's not about the
+[0:07:25] diagnosis, it's about the drug response.
+[0:07:27] And then just like Uber, as long as you
+[0:07:29] have one customer and one driver with a
+[0:07:31] car, you have a market, right? That
+[0:07:33] you've enabled. And you can go to other
+[0:07:35] markets that might have be too small for
+[0:07:37] a traditional medallion-based
+[0:07:39] taxi cab model, kind of like your legacy
+[0:07:42] car companies.
+[0:07:43] And you have a market. It's just the
+[0:07:44] app. It's just the data, and that's
+[0:07:46] cheap cheap infrastructure. And that's
+[0:07:48] exactly what we're doing. And then
+[0:07:49] there's also
+[0:07:50] again, improving the system. And so the
+[0:07:52] idea is that we can get clinical signals
+[0:07:54] very rapidly with this approach,
+[0:07:55] especially using existing drugs to hit
+[0:07:57] these new mechanisms, and I'll talk
+[0:07:58] about that in a moment, um that
+[0:08:00] amplifies the the the value of the
+[0:08:02] system and learns from what we're what
+[0:08:04] we're discovering. And then just like
+[0:08:05] with Uber, we have the rating system
+[0:08:06] that weeds out poor quality uh
+[0:08:09] participants in the system.
+[0:08:11] Um and so what we've built was really
+[0:08:13] this personalized medicine, predictable
+[0:08:15] medicine for each patient. Um and it's
+[0:08:17] it's really changing how we go about
+[0:08:18] drug development. So it starts with
+[0:08:19] patients. So each patient we build what
+[0:08:22] we call a living molecular twin. So
+[0:08:24] there's obviously these concepts of
+[0:08:26] digit digital twins that have been
+[0:08:27] around for some time where you can mimic
+[0:08:29] a patient and then you can do all these
+[0:08:31] things sort of in silico, no risk to the
+[0:08:33] patient, right? You can screen many
+[0:08:35] conditions at once. That's all great.
+[0:08:36] Molecular because this actually is the
+[0:08:38] molecular biology. It's not for example
+[0:08:39] their health records. It's not uh their
+[0:08:42] behavior patterns, shopping patterns.
+[0:08:43] They're all digital twins of all those.
+[0:08:45] Cardiovascular twins. I've seen one of
+[0:08:46] those. But these are molecular. And then
+[0:08:48] living is actually really key. This is
+[0:08:50] not based on for example LLM searches of
+[0:08:53] the literature and in other patients.
+[0:08:55] This is this particular patient. This
+[0:08:57] may be you.
+[0:08:58] And your data is making your own twin
+[0:09:02] and not it's not some other patient's
+[0:09:03] data. It is your data. Um again going
+[0:09:05] away from that average disease model to
+[0:09:07] how do we treat your particular state?
+[0:09:09] And so we have what we call this Google
+[0:09:11] Maps for health and we can screen about
+[0:09:13] 40,000 molecules in silico and predict
+[0:09:16] the outcomes for the patient. And so
+[0:09:18] think of it as like 40,000 N of 1
+[0:09:20] clinical trials done completely in
+[0:09:22] silico, so fast, cheap, no risk to the
+[0:09:24] patient.
+[0:09:25] Um and then what we do, we look at all
+[0:09:27] these different paths to navigate from a
+[0:09:28] disease state to a healthy state.
+[0:09:31] And all these are are usually hitting
+[0:09:33] new mechanisms, new targets, but are
+[0:09:35] there pathways that have already been
+[0:09:36] proven by uh existing drugs? Not
+[0:09:39] necessarily those targets, but when we
+[0:09:41] simulated would let's say aspirin hit
+[0:09:43] this new target that has never before
+[0:09:45] been officially drugged, but you know
+[0:09:46] what? Every drug's a dirty drug. Between
+[0:09:49] the 40,000 molecules we've covered all
+[0:09:50] of biology essentially. Um every drug
+[0:09:52] has hundreds of off-target effects. And
+[0:09:54] so now hundreds times 40,000 that's a
+[0:09:56] lot of biology that you're covering. Uh
+[0:09:59] versus the the you know 150 or so uh
+[0:10:02] targets that are hit by I think 90% of
+[0:10:04] all of approved drugs.
+[0:10:06] Like it's such a narrow space for what's
+[0:10:07] known of what what's intended, but the
+[0:10:09] unintended are are very vast.
+[0:10:12] Um and so you know
+[0:10:14] as you know we've published on on uh
+[0:10:16] various aspects of this. And it's
+[0:10:17] actually it's like Google Maps. I just
+[0:10:18] want to go from A to B. I really don't
+[0:10:20] care how I get there as long as it's
+[0:10:21] reasonably efficient. And it's efficient
+[0:10:23] if there's an existing way to get there
+[0:10:24] and that's with existing drugs.
+[0:10:26] Or what can we do today? And so
+[0:10:29] here's you. Um you're kind of our
+[0:10:31] advisors founding team. Um Fred and I
+[0:10:34] started this five years ago, brought in
+[0:10:35] Neal Mooney as a as a uh chief medical
+[0:10:37] officer who's brought eight drugs to
+[0:10:39] market uh was at the FDA. Um and then
+[0:10:42] you and and Dunning Burr were of course
+[0:10:44] the founding academic partners. Um and
+[0:10:46] we have a fantastic advisory board which
+[0:10:48] we recently brought in John Quackenbush
+[0:10:50] on on the regulatory network side. Um
+[0:10:52] and actually have one of his former
+[0:10:54] scientists
+[0:10:55] in our company.
+[0:10:57] Um but we start with RNA, right? So all
+[0:10:59] this starts with RNA and we believe this
+[0:11:01] is actually the most information rich
+[0:11:03] part of biology. So DNA doesn't change.
+[0:11:05] That's it's not dynamic and yet we know
+[0:11:07] when you wake up to the time you go to
+[0:11:08] bed you change. DNA hopefully isn't
+[0:11:11] changing on you.
+[0:11:12] Um and
+[0:11:15] the other part that it does it it
+[0:11:17] captures you know your diet, your
+[0:11:18] microbiome, all these other anything
+[0:11:20] that that you interface with it it you
+[0:11:23] respond and you respond uh very
+[0:11:25] dynamically.
+[0:11:27] There are other modalities like pro you
+[0:11:29] know you look at proteomics,
+[0:11:30] metabolomics. Those are all useful, but
+[0:11:32] actually they end up being
+[0:11:33] either too vague in the case of
+[0:11:35] metabolomics. We're connecting you know
+[0:11:36] where did this glucose molecule come
+[0:11:38] from? Well glucose is glucose is
+[0:11:39] glucose, right? Um so it's a little bit
+[0:11:41] too abstract. Proteomics is sort of the
+[0:11:43] opposite. It's actually too tissue
+[0:11:45] specific. You might have these very
+[0:11:47] specific post translational
+[0:11:48] modifications in this particular cell
+[0:11:49] type.
+[0:11:50] Um
+[0:11:52] gives you a lot of information, but it's
+[0:11:53] not very practical because you have to
+[0:11:55] then generate so much more data to get
+[0:11:57] the same same depth of information. At
+[0:11:58] least that's our our thinking.
+[0:12:00] Um but the idea is that that it's a nice
+[0:12:03] abstract uh abstract enough layer where
+[0:12:05] RNA is also very practical uh at
+[0:12:08] understanding what what the patient can
+[0:12:09] do. Now very importantly
+[0:12:12] this is not looking
+[0:12:14] looking up a disease data set, right?
+[0:12:16] So, this is actually this patient
+[0:12:17] specific information. This is not like
+[0:12:19] if you if you take ChatGPT and you plug
+[0:12:21] in how do I treat
+[0:12:24] you know, this specific genetic
+[0:12:25] disorder, it's going to look up what's
+[0:12:26] available
+[0:12:27] and what people have studied. So, this
+[0:12:29] can come up with completely de novo
+[0:12:30] mechanisms
+[0:12:32] using just the data from the patient.
+[0:12:35] All right. So, how does it work? So,
+[0:12:36] BioNav, which is the computational
+[0:12:38] platform that we built out, again, it
+[0:12:40] was called
+[0:12:41] the academic version was called NemoCAD
+[0:12:44] when we
+[0:12:45] were still at Harvard. But essentially,
+[0:12:46] it's a network screen. So, there may be
+[0:12:49] you may be familiar with
+[0:12:51] software like CMap
+[0:12:53] where it looks at sort of the gene
+[0:12:55] expression patterns or signatures. It's
+[0:12:58] similar, but it actually looks at the
+[0:12:59] full consequence of the network
+[0:13:01] interaction. So, essentially, it's these
+[0:13:03] transcriptome profiles of drugs with the
+[0:13:06] transcriptome. We have a library of this
+[0:13:08] basically
+[0:13:09] you know, cell lines exposed to to drugs
+[0:13:11] at different concentrations, different
+[0:13:13] times, and it has some sort of
+[0:13:14] perturbation effect.
+[0:13:16] And then we can apply that to a
+[0:13:17] pre-trained model of human health, which
+[0:13:19] is essentially that gene regulatory
+[0:13:20] network. What's what's talking to what?
+[0:13:23] I like to say like in Boston,
+[0:13:25] you know, what happens if you knock out
+[0:13:27] a traffic light
+[0:13:29] in Cambridge, what's the effect in
+[0:13:30] Beverly? There will be an effect. It may
+[0:13:32] be very subtle that far away, but you
+[0:13:34] know what? It can I've seen some traffic
+[0:13:36] patterns in person where actually
+[0:13:38] malfunctioning traffic light
+[0:13:40] backs up down the interstate even though
+[0:13:42] it's a traffic light in in like in
+[0:13:44] Cambridge. So,
+[0:13:45] this does happen in a very connected
+[0:13:48] environment like like downtown Boston.
+[0:13:51] And so, we can map all these all these
+[0:13:52] out and basically rank all the drugs in
+[0:13:54] terms of what is it doing? Is it making
+[0:13:56] the patient more healthy or less healthy
+[0:13:58] or has no effect at all? Now, most drugs
+[0:14:00] just don't have any effect.
+[0:14:01] And that's we know that from phenotypic
+[0:14:03] screens. But then about a percent or a
+[0:14:05] couple percent of the drugs will have
+[0:14:07] some sort of effect.
+[0:14:09] And I'm not saying therapeutic
+[0:14:10] necessarily because it can go from
+[0:14:12] therapeutics, those are the drugs
+[0:14:13] predicted to reverse the disease
+[0:14:15] all the way down to worsening the
+[0:14:17] disease or mimicking the disease state,
+[0:14:19] right? So if you're actually give this
+[0:14:20] drug to a healthy individual, they would
+[0:14:22] be more like the patient. And then of
+[0:14:23] course, there's some crossover between
+[0:14:25] the two. They're still having an effect,
+[0:14:26] but it might be
+[0:14:27] uh for example, some therapeutic and
+[0:14:29] some anti-therapeutic effects at the
+[0:14:31] same time.
+[0:14:32] Um and so we get this drug
+[0:14:33] prioritization, but then what's really
+[0:14:35] exciting, this is as as Fred puts it,
+[0:14:37] it's not a black box, it's a noodle
+[0:14:39] soup.
+[0:14:40] Everything's intertwined, but you can
+[0:14:43] tease out a noodle if you give it enough
+[0:14:45] effort, right? Um it's it's not a black
+[0:14:47] box. We're not it's not a just so just
+[0:14:49] trust us and you know, and believe us
+[0:14:50] algorithm.
+[0:14:52] Again, on the left here, you see all
+[0:14:54] these these causal interactions.
+[0:14:56] Now it's very hard for humans to
+[0:14:58] understand them. That's the hard part.
+[0:15:00] That's where you have to do some teasing
+[0:15:01] out and and simplification, but the data
+[0:15:04] is all there. It's not just a random
+[0:15:06] weight model that that we're we're
+[0:15:07] saying, well this this gives us the best
+[0:15:09] similarity.
+[0:15:10] It's actually explaining the effects. So
+[0:15:11] we do see direct known targets. We see
+[0:15:13] downstream effects of of these known
+[0:15:15] pathways, but also we get the direct and
+[0:15:17] indirect unknown effects. And that's the
+[0:15:19] exciting part for drug discovery and and
+[0:15:21] a biotech like us on the left is the
+[0:15:24] exciting part for uh for clinicians. Can
+[0:15:26] I use a drug that's that I already
+[0:15:28] understand?
+[0:15:31] Um and so how we tested it? Well, here's
+[0:15:33] here's something that we did. We're
+[0:15:35] actually asked by somebody at a at a um
+[0:15:37] conference, one of these rare disease
+[0:15:38] conferences, you know,
+[0:15:40] and we get to ask this by clinicians all
+[0:15:42] not clinicians, but by uh investors all
+[0:15:44] the time.
+[0:15:45] Why don't you take a drug that just
+[0:15:46] works in every patient and predict that
+[0:15:48] and see that you can predict it? And my
+[0:15:49] challenge is
+[0:15:51] tell me which drug does that because I
+[0:15:52] don't know of one
+[0:15:53] and we will do it. Because most there is
+[0:15:56] no drug that I'm aware of that actually
+[0:15:57] works in every single patient it was
+[0:15:59] intended for. The blockbuster drugs
+[0:16:00] don't work in everybody. They they're
+[0:16:02] far from that. Um statins work in about
+[0:16:04] 25% of the patients
+[0:16:06] of the ones that should be benefiting
+[0:16:08] from it and 3% actually have a worsening
+[0:16:09] of their condition because of statins.
+[0:16:11] There's some of these huge phase four
+[0:16:13] studies that show that. Um and so we
+[0:16:15] said, okay, well what are some of the
+[0:16:16] like widely accepted drugs where they
+[0:16:18] hit a very clear mechanism? Let's kind
+[0:16:20] of stack it in our, our, you know, it's
+[0:16:22] kind of as close to how, how people want
+[0:16:23] us to validate this is possible. And so,
+[0:16:25] there's this disorder called tuberous
+[0:16:27] sclerosis complex and either, either
+[0:16:28] TSC1 or TSC2 genes. It feeds into this
+[0:16:32] mTOR pathway. It's, it's very nicely,
+[0:16:34] uh,
+[0:16:35] characterized. It took six years to
+[0:16:36] characterize this, by the way.
+[0:16:38] We took a dataset from 10 TSC patients
+[0:16:41] from these organoids.
+[0:16:42] No additional data, no, we didn't even
+[0:16:44] say that it's tuberous sclerosis
+[0:16:45] complex. It's just the transcriptome
+[0:16:47] profile, right?
+[0:16:48] Uh, of TSC patient organoids versus, uh,
+[0:16:51] versus controls. And mTOR inhibitors
+[0:16:54] which hit mTOR right there in that nice
+[0:16:56] pathway, um, and are standard of care
+[0:16:59] for these patients. We got there in
+[0:17:00] about two hours.
+[0:17:02] Um, and that's six years worth of work,
+[0:17:04] um, including showing this is the
+[0:17:05] mechanism, showing all this. Um, it took
+[0:17:07] us about two hours and they're all
+[0:17:08] stacked up right there in the, in the,
+[0:17:10] in the top of the drug index.
+[0:17:12] Um, showing that, yes, we can
+[0:17:13] recapitulate what's, what's known for
+[0:17:15] this disorder.
+[0:17:17] Um, looking at the opposite end, can we
+[0:17:19] look at the kind of unexpected,
+[0:17:21] non-obvious effects
+[0:17:23] for very common drugs? Um, and so this
+[0:17:25] is actually going back to the statins.
+[0:17:27] And this was done during the pandemic.
+[0:17:29] And, and we kept seeing that certain
+[0:17:31] statins, but not all the statins were
+[0:17:33] predicted to be therapeutic across all
+[0:17:34] these different datasets. Weren't even,
+[0:17:36] weren't all human, weren't all, uh, in
+[0:17:39] vivo datasets, but including in vivo,
+[0:17:41] um, including postmortem samples, but
+[0:17:43] including cell line, uh, datasets.
+[0:17:45] We saw atorvastatin and simvastatin
+[0:17:46] consistently highly predicted and then
+[0:17:49] lovastatin and pravastatin especially
+[0:17:50] being very lowly predicted, actually
+[0:17:52] anti-therapeutic.
+[0:17:54] And so we worked with a group at UCSF
+[0:17:56] and Stanford that was looking at, at
+[0:17:58] health, uh, health records from
+[0:17:59] patients. And these were basically
+[0:18:01] at-risk individuals, hyperlipidemic,
+[0:18:03] pre-vaccine, and looking at death as an
+[0:18:05] endpoint, uh, retroactively. And we
+[0:18:08] predicted four out of five of those
+[0:18:09] correctly. Rosuvastatin we actually had
+[0:18:10] the least amount of data on.
+[0:18:12] Um, but lovastatin and pravastatin
+[0:18:14] almost significantly worsened outcomes.
+[0:18:16] It was just shy of significance, but,
+[0:18:18] uh, atorvastatin and simvastatin very
+[0:18:19] significantly protected patients.
+[0:18:21] And so those showing that even though
+[0:18:23] these drugs are all sort of
+[0:18:24] interchangeable or seen as hitting the
+[0:18:26] same mechanisms, they work differently.
+[0:18:28] And the difference between I think
+[0:18:29] lovastatin and simvastatin, if I'm not
+[0:18:31] mistaken, is a hydroxyl group. So it's
+[0:18:32] not even a structural class of compounds
+[0:18:36] that we're seeing. And so the fact that
+[0:18:37] we can not only make out the known
+[0:18:39] mechanisms but also find these very
+[0:18:41] non-obvious
+[0:18:43] effects in the clinic
+[0:18:45] made us very excited. But again, comes
+[0:18:47] back to let's get data from actual
+[0:18:50] patients. So both previous examples were
+[0:18:52] not data from those actual patients. And
+[0:18:54] turns out when you do that, the results
+[0:18:56] are even better. And so we started
+[0:18:57] actually collecting data from from
+[0:18:59] patients using nasal swabs. So since the
+[0:19:01] pandemic, everybody knows how to swab.
+[0:19:03] And again, these are just your anterior
+[0:19:04] nare swabs. It's not the brain ticklers.
+[0:19:07] And we we work with Zymo Research, which
+[0:19:09] sells a lot of these lab kits.
+[0:19:12] But they have a product that's actually
+[0:19:13] approved for self-collection. So you can
+[0:19:15] at home self self-swab. And very
+[0:19:17] importantly, has a preservation solution
+[0:19:19] inside that preserves RNA and other
+[0:19:21] nucleic acids. Even these trace amounts
+[0:19:23] that you would get from from swabbing
+[0:19:25] at room temperature for over a month.
+[0:19:27] So that means and it inactivates
+[0:19:29] pathogens. So that means you can send
+[0:19:30] these kits all around the world.
+[0:19:32] Patients self-swab wherever they are. In
+[0:19:34] the one case, it was the outback of
+[0:19:36] Australia on one of those stations,
+[0:19:37] those cattle stations.
+[0:19:39] And send it back just through the mail.
+[0:19:41] And it clears customs. Nobody really is
+[0:19:44] is bothered by this because it
+[0:19:45] inactivates the pathogens and it it
+[0:19:47] preserves the RNA with a very very high
+[0:19:49] degree of fidelity.
+[0:19:51] And so this unlocks the rare disease
+[0:19:52] patients to us because they now don't
+[0:19:55] have to go to some center of excellence
+[0:19:56] and participate in some clinical trial
+[0:19:58] on top of everything else they have
+[0:19:59] going on.
+[0:20:00] And so we developed this process called
+[0:20:02] Rare Shift. And it really is this
+[0:20:04] personalized predictable medicine
+[0:20:05] workflow. So we send these boxes. We
+[0:20:07] have a portal now.
+[0:20:08] And so we collect eight samples per
+[0:20:10] patient. Again, RNA changes, so we have
+[0:20:11] to collect more data per person. So we
+[0:20:14] actually collect two full circadian
+[0:20:15] cycles for each person
+[0:20:17] because again, the baseline isn't flat
+[0:20:19] for everybody. It's, you know,
+[0:20:20] morning versus evening, you have some
+[0:20:22] big changes. We sequence these patients
+[0:20:24] using that kit that I mentioned. We
+[0:20:26] build living molecular twins to simulate
+[0:20:28] all these different activities using
+[0:20:29] Bionav.
+[0:20:30] And then we have several outcomes. So we
+[0:20:32] can see what's going on in this patient
+[0:20:33] right now,
+[0:20:35] they might fit this criterion of let's
+[0:20:37] say an epilepsy patient, but you know
+[0:20:39] what? They're actually pretty similar to
+[0:20:40] those other group of patients that we're
+[0:20:41] working with.
+[0:20:42] Um we can even track them over time. So
+[0:20:44] we we do longitudinal analysis and and
+[0:20:46] again, you don't have to tell us what
+[0:20:47] the disease is. We we work even with
+[0:20:48] undiagnosed patients, and yet we can
+[0:20:50] analyze this. And then for those same
+[0:20:52] patients, we can see which which
+[0:20:54] therapeutics would be predicted to be
+[0:20:55] beneficial or even harmful, which ones
+[0:20:57] to actually avoid. And then of course,
+[0:20:59] we can group patients by similar drug
+[0:21:01] responses and not
+[0:21:03] their supposed diagnosis or or cause.
+[0:21:08] And this works. So here's Savannah,
+[0:21:10] one one family that that we're
+[0:21:12] you know very excited to be able to work
+[0:21:15] with.
+[0:21:16] And their daughter Savannah was
+[0:21:17] diagnosed with SMC1A. It's a
+[0:21:19] developmental epileptic encephalopathy.
+[0:21:21] So very severe seizures, but also
+[0:21:22] neurodevelopmental problems.
+[0:21:24] And she at the time we started working
+[0:21:26] with her, she's about 10 years old. She
+[0:21:28] lost her ability to walk after a major
+[0:21:31] seizure episode, frequent seizures, and
+[0:21:33] hospitalized about 100 days a year on
+[0:21:34] average.
+[0:21:36] And so you know a third of her life has
+[0:21:38] been spent in a hospital and then
+[0:21:39] entered hospice.
+[0:21:41] We work with with her and
+[0:21:44] found
+[0:21:45] you know list of potential molecules.
+[0:21:47] Their their clinician independently
+[0:21:48] applied them,
+[0:21:50] two prescription drugs, two vitamins,
+[0:21:52] and in seven weeks she was able to walk.
+[0:21:55] And minimal seizures. They added a
+[0:21:57] couple more drugs since then
+[0:22:00] based on her results and they actually
+[0:22:01] removed some based on her results. And
+[0:22:03] now she's been completely seizure-free
+[0:22:05] for about six months.
+[0:22:07] So for a patient to have
+[0:22:08] DE, to be seizure-free, that's
+[0:22:11] that's pretty awesome. And then a
+[0:22:12] massive reduction in hospitalization,
+[0:22:13] which is of course everybody went.
+[0:22:16] And she was removed from hospice. So so
+[0:22:18] that's one example and where she
+[0:22:21] there's a there's a documentary being
+[0:22:22] made on on that.
+[0:22:24] But there's so many other clinicians
+[0:22:25] using this. Here are just a you know a
+[0:22:26] list of some categories of patients that
+[0:22:29] that clinicians have used our data
+[0:22:31] uh to considered modifying their
+[0:22:33] treatments.
+[0:22:34] And we have about a 97%
+[0:22:36] positive clinical response rate.
+[0:22:38] So going from you know a 2% clinical
+[0:22:41] trial success rate for new targets to
+[0:22:43] now 97% it's massive.
+[0:22:46] And again most patients benefited within
+[0:22:49] weeks or a couple months and these are
+[0:22:51] treatments that are available today.
+[0:22:54] Some are incredibly cheap.
+[0:22:56] You know one of one of the more oddball
+[0:22:58] drugs that that Savannah was put on was
+[0:23:00] a nicotine patch. So easy.
+[0:23:02] Not something you typically give kids
+[0:23:04] but but it actually had there there was
+[0:23:05] a logic behind it.
+[0:23:07] And it makes sense and now we've
+[0:23:08] actually resampled Savannah and we're
+[0:23:10] getting ready to publish a case report
+[0:23:11] with her clinical team.
+[0:23:13] The reasons we predicted those drugs
+[0:23:15] working are the reasons why they worked
+[0:23:17] a year later.
+[0:23:19] So we can actually see that this wasn't
+[0:23:20] random. This wasn't just by chance.
+[0:23:22] Again showing that we can modulate these
+[0:23:24] these dynamic networks.
+[0:23:25] And as I mentioned we're all all over
+[0:23:27] the world.
+[0:23:28] We have the largest rare disease patient
+[0:23:30] RNA seq dataset.
+[0:23:32] And you know it's thousands of samples,
+[0:23:34] 130 different disorders including
+[0:23:35] undiagnosed patients.
+[0:23:38] And here's an example of one concierge
+[0:23:40] care clinician that's bundling it into
+[0:23:42] all her care.
+[0:23:43] Again clinicians need tools right?
+[0:23:45] Clinicians wanted to care for these
+[0:23:46] patients. The vast majority of them
+[0:23:48] don't have approved drugs. So now what?
+[0:23:50] And the symptomatic treatment maybe has
+[0:23:52] has not
+[0:23:54] not not been successful.
+[0:23:56] But as we're doing these personalized
+[0:23:57] studies we're actually doing drug
+[0:23:59] development. So we are a biotech.
+[0:24:01] And the whole idea is that we can build
+[0:24:03] on all these patient insights,
+[0:24:04] [clears throat] these clusters of
+[0:24:05] patients, the underlying new biology
+[0:24:08] that we're discovering. So this is not
+[0:24:09] repurposing right? The existing drugs
+[0:24:12] are just a means to an end. Now it could
+[0:24:13] be
+[0:24:14] absolutely successful for you for
+[0:24:20] from a clinical standpoint for those
+[0:24:21] patients.
+[0:24:23] What we learned from that we can then
+[0:24:24] turn into into optimized medicines. And
+[0:24:27] so we actually have two clinical trials
+[0:24:29] for Ravol one. And that that is actually
+[0:24:32] a new formulation of an existing drug.
+[0:24:34] All the other ones are new drugs.
+[0:24:37] But that's for a red syndrome with Pitt
+[0:24:38] Hopkins and I'll talk about that in in a
+[0:24:41] moment. But the idea is that we're
+[0:24:42] actually validating what we predicted
+[0:24:44] with our platform in a formal
+[0:24:45] prospective placebo-controlled clinical
+[0:24:48] trial, not just N of one studies.
+[0:24:52] But the whole idea is that we can
+[0:24:53] leverage these cross-disorder insights
+[0:24:55] and even here it's one drug, two
+[0:24:57] disorders. And I'll show you in a in a
+[0:24:58] moment it's even more than that.
+[0:25:01] And so this is how we're defragmenting
+[0:25:03] rare disease. I started this with the
+[0:25:04] title of solving rare at scale.
+[0:25:07] Rare is just a construct of the
+[0:25:09] of the diagnostic piece, right? So the
+[0:25:12] patients have these disorders from all
+[0:25:14] these different causes.
+[0:25:15] And sure, there might be 100 patients in
+[0:25:17] the world with one disorder. We work on
+[0:25:18] one of those.
+[0:25:20] Not a viable commercial market, but can
+[0:25:22] we learn from them? Can we can we
+[0:25:23] develop first off, can we
+[0:25:26] learn from them scientifically, but can
+[0:25:27] we actually help their clinicians treat
+[0:25:29] oftentimes these very severe patients?
+[0:25:30] And And the answer is yes. And so we
+[0:25:32] have this phased approach and and you
+[0:25:34] can see that, you know, we start with
+[0:25:35] these partnerships with families, with
+[0:25:36] foundations. First we're in rare shift
+[0:25:38] discovery.
+[0:25:40] The first question as you see here on
+[0:25:41] the bottom, the value is scientific.
+[0:25:43] Like what can we learn about these
+[0:25:44] patients? We're not coming in with, oh,
+[0:25:45] this is
+[0:25:46] this, you know,
+[0:25:48] tuberous sclerosis patient, therefore we
+[0:25:49] need to be looking at the mTOR pathway.
+[0:25:51] No, we just this is the patient state.
+[0:25:53] What should we do with it?
+[0:25:54] What what's the underlying disruption in
+[0:25:56] the patient and how could we perturb it
+[0:25:58] into a more favorable state? And so
+[0:26:00] we can look at this, you know, thousands
+[0:26:01] of disorders at a time. This is
+[0:26:02] incredibly scalable.
+[0:26:05] Then we look at clinical validation of
+[0:26:07] in patients. So again, bypassing those
+[0:26:08] models or using models as a stepping
+[0:26:10] stone to get to the clinic for for the,
+[0:26:12] you know,
+[0:26:13] slightly higher risk drugs.
+[0:26:16] And this can be still done not at one
+[0:26:17] disorder at a time, but tens to hundreds
+[0:26:19] of disorders.
+[0:26:21] And then it gets a scientific and
+[0:26:22] clinical validation. And this the reason
+[0:26:25] Pharma pays big bucks for for licensing
+[0:26:27] drugs from China right now is they're
+[0:26:29] really good at getting to that clinical
+[0:26:30] signal, really fast, relatively
+[0:26:32] inexpensively.
+[0:26:34] And then Pharma takes it commercially.
+[0:26:36] Well, we're doing that ourselves with
+[0:26:37] actual patients. This is the value of
+[0:26:38] integrating patients into the drug
+[0:26:40] discovery cycle.
+[0:26:42] Um and then on the on the commercial
+[0:26:43] side, we can take essentially that same
+[0:26:45] clinical validation and just shift it
+[0:26:46] over towards commercial development.
+[0:26:47] There's no down slutch at that point.
+[0:26:49] And then that's a decision of not not
+[0:26:51] all the drugs are going to make it to to
+[0:26:52] the commercial stage, but some will. And
+[0:26:54] then we can essentially just plug and
+[0:26:56] play that data across.
+[0:26:58] And so I'll I'll show you an example. So
+[0:27:00] this is actually how we started uh
+[0:27:02] thinking about it. So we have multiple
+[0:27:03] patient advocacy groups,
+[0:27:05] multiple families as partners. And then
+[0:27:06] what we're looking at are um syndicated
+[0:27:09] programs that are it's just it's a
+[0:27:11] smaller number of programs covering a
+[0:27:13] lot of people, right? A lot of patients.
+[0:27:15] And so we started out with Rett
+[0:27:16] syndrome.
+[0:27:17] Um so Rett's a a rare neurodevelopmental
+[0:27:19] disorder, affects mostly children,
+[0:27:21] mostly mostly girls, um but very very
+[0:27:24] severe, very impactful. And so we
+[0:27:26] started with RNA sequencing data from a
+[0:27:28] Rett syndrome patient, added actually a
+[0:27:29] whole bunch of other data sets. This was
+[0:27:31] kind of early days still at Harvard
+[0:27:32] before we spun out. Um and then we found
+[0:27:35] actually as we spun out, we found here's
+[0:27:37] the the the actual causative mutation in
+[0:27:39] these networks. And here's actually a
+[0:27:40] new target. Um so this is what we
+[0:27:43] believe is actually that therapeutic
+[0:27:45] leverage point in in this network.
+[0:27:47] And it has nothing to do with that
+[0:27:48] original target.
+[0:27:50] And yet this is what shifts that network
+[0:27:52] to a more therapeutic state.
+[0:27:54] Um so we we did that um and then turns
+[0:27:56] out that vorinostat um would be a target
+[0:28:00] that would be a drug that engages that
+[0:28:02] target, but actually through its
+[0:28:03] metabolite, not even directly. So
+[0:28:05] indirectly it actually engages it. We
+[0:28:07] tested it out in mice and actually low
+[0:28:08] dose oral dosing of uh in mice works
+[0:28:11] better than than IP or or more higher
+[0:28:14] doses.
+[0:28:15] And we compared it to to trofinetide,
+[0:28:16] which is an approved drug, the only
+[0:28:18] approved drug for Rett syndrome as of
+[0:28:19] three years ago.
+[0:28:21] And early as a as kind of prophylactic
+[0:28:23] uh in this disease, trofinetide works
+[0:28:26] great. But as you as the the the mice
+[0:28:28] get older, it basically stops working.
+[0:28:31] Um and so this was actually tested out
+[0:28:32] when the mice started exhibiting severe
+[0:28:34] symptoms,
+[0:28:35] usually through around that trajectory
+[0:28:36] towards death at that point, but we were
+[0:28:38] actually able to dose them with with
+[0:28:40] this oral liquid uh Vernastat solution
+[0:28:43] and they they not only survived longer,
+[0:28:46] um but they also
+[0:28:48] actually recovered some capabilities
+[0:28:51] that they lost. So, it was actually
+[0:28:52] fully therapeutic. It wasn't just
+[0:28:54] prophylactic.
+[0:28:55] Um and then we of course in that I want
+[0:28:57] to highlight uh some of the role the
+[0:28:59] tadpoles played. So so we uh build what
+[0:29:01] we call squishy wear models, which is
+[0:29:03] you know in some cases you just need to
+[0:29:04] get a model quickly like a the Georgia
+[0:29:06] box saying uh
+[0:29:08] is real, but some box some models are in
+[0:29:10] fact useful. And then if you have a drug
+[0:29:12] like Vernastat, clinicians aren't going
+[0:29:13] to just suddenly start prescribing it.
+[0:29:15] So, what can you learn from very rapid
+[0:29:17] models? And essentially we use these
+[0:29:19] um
+[0:29:20] crispanes of of tadpoles injected at the
+[0:29:23] four-cell stage.
+[0:29:24] Um it's very rapid um
+[0:29:27] uh you know development of models. This
+[0:29:29] can in two weeks we have a whole model
+[0:29:31] developed from scratch uh and test some
+[0:29:33] drugs. So, it's on demand gene editing.
+[0:29:36] Um and then it's a very heterogeneous
+[0:29:37] patient population mimic. It's not about
+[0:29:40] having identical phenotypes because
+[0:29:42] guess what? The real patients don't have
+[0:29:43] identical phenotypes. And so
+[0:29:45] if we see a drug working in these animal
+[0:29:47] models, it's more likely to then work in
+[0:29:49] the clinic as well.
+[0:29:51] Um and so we show that of course you
+[0:29:53] know we can knock down the um the Mek p2
+[0:29:56] gene um as you would expect uh it to do,
+[0:29:59] but it's not everywhere and it's not
+[0:30:01] uniform, which is again the hallmark of
+[0:30:02] these of these CRISPR models.
+[0:30:05] This also works at the at the protein
+[0:30:07] level, but what's interesting is that um
+[0:30:08] you get these speckles like some cells
+[0:30:10] actually have normal levels of this
+[0:30:11] protein. Again, it's it's heterogeneous.
+[0:30:13] This is what you have in female patients
+[0:30:15] that you have X-linked or
+[0:30:16] X-inactivation. You get these these uh
+[0:30:18] uh mosaics. Um you know and we we we
+[0:30:21] show a similar effect across the body.
+[0:30:23] And then again Tretinoin
+[0:30:24] um worked in these tadpoles and actually
+[0:30:27] um it it um
+[0:30:29] uh it worked better than uh Vernastat
+[0:30:31] worked better than Tretinoin.
+[0:30:33] And we even looked at some of the
+[0:30:34] molecular effects and these are some
+[0:30:35] issues that we know patients have.
+[0:30:37] Um, but we saw some really interesting
+[0:30:39] sort of counter-intuitive effects where
+[0:30:41] Vernastat and HDAC inhibitor, um, these
+[0:30:43] cilia are uh supposed to be
+[0:30:45] hypoacetylated and they seem to be.
+[0:30:48] Um, and so an HDAC inhibitor should
+[0:30:49] work. The problem is that in different
+[0:30:52] tissues you actually have different
+[0:30:53] phenotypes or different different
+[0:30:54] signatures, and Vernastat normalizes
+[0:30:57] both. So if you have too much
+[0:30:59] acetylation or too little, it benefits
+[0:31:01] both. And that that sort of started
+[0:31:03] getting us thinking there must be a
+[0:31:04] different mechanism, and so then that's
+[0:31:06] what we looked at the networks and found
+[0:31:07] this new target.
+[0:31:08] Um, but bottom line it actually helps
+[0:31:10] with cilia orientation uh and length,
+[0:31:13] and then therefore even function. So
+[0:31:15] this is both mucociliary clearance in
+[0:31:16] the lung, also waste clearance in the
+[0:31:18] brain is impacted by all these uh
+[0:31:20] ciliary disruptions. But as we were
+[0:31:22] doing that, we published the paper with
+[0:31:23] mice and and tadpoles. There was a
+[0:31:25] family that reached out to us, and they
+[0:31:26] have a boy um at the time he was about 2
+[0:31:28] years old.
+[0:31:29] And um I mean he was in palliative care.
+[0:31:32] The clinician had just lost a similar
+[0:31:34] patient, and they were desperate, right?
+[0:31:36] I mean there's no treatment. These are
+[0:31:37] extremely sick kids. And we we did this
+[0:31:40] personalized analysis, also identified
+[0:31:42] Vernastat for that patient, and so the
+[0:31:44] clinician prescribed it. And like you
+[0:31:45] know what, let's try it. Super low
+[0:31:46] doses. I mean I think they started with
+[0:31:48] 1/15th of the of the oncology dose and
+[0:31:52] looked for adverse effects and didn't
+[0:31:54] see any. Um, so they kept upping the
+[0:31:55] dose, but they actually saw normalized
+[0:31:57] blood metrics, improved sleep quality,
+[0:31:59] and improved motor and cognitive
+[0:32:00] function.
+[0:32:01] Again over this very slow, cautious
+[0:32:03] titration. And they continued for 2
+[0:32:05] years, and they continued to the patient
+[0:32:06] continued to improve, and actually they
+[0:32:08] took him off because he basically sort
+[0:32:09] of maximized the benefits of of the
+[0:32:11] drug. And and he's actually on a
+[0:32:12] different drug that we also predicted
+[0:32:14] that's a much much easier one for
+[0:32:15] chronic dosing.
+[0:32:18] Um, but as we were
+[0:32:19] that was a really nice kind of n of 1
+[0:32:21] validation, but now we're actually in
+[0:32:23] doing clinical trial in uh South America
+[0:32:26] in in Colombia.
+[0:32:27] So we make Vernastat, we make GMP uh
+[0:32:30] version of the of Vernastat, ship it to
+[0:32:32] Colombia,
+[0:32:33] um and the study's well on its way.
+[0:32:36] Their patients already dosed. Some
+[0:32:37] patients have already gone through uh
+[0:32:38] complete five month regimen.
+[0:32:40] Um but what's really exciting, we're
+[0:32:41] actually collecting longitudinal data
+[0:32:43] every two weeks over five months. We
+[0:32:45] have this amazing database for each
+[0:32:47] patient and we're even be able to look
+[0:32:49] at
+[0:32:50] each patient just by themselves without
+[0:32:52] having to have this cohort analysis that
+[0:32:54] they can oftentimes sink a lot of
+[0:32:56] studies if you have heterogeneity.
+[0:32:58] And then in parallel, we're also working
+[0:32:59] in with animal patients. So these are
+[0:33:01] not models, but these are actually
+[0:33:03] uh sea lions that have uh neurotoxin
+[0:33:06] poisoning which causes a lot of similar
+[0:33:08] symptoms to to Rett syndrome, a lot of
+[0:33:10] seizures, huge mortality rate, about 90
+[0:33:12] 90% plus.
+[0:33:13] Um and there's a foundation out in
+[0:33:15] California that we work with together
+[0:33:17] with Zymo and actually found that Ravul
+[0:33:20] two, that's actually the the new
+[0:33:21] molecule that we're developing for Rett
+[0:33:22] syndrome
+[0:33:23] uh was actually one of the best drugs.
+[0:33:25] And so we actually made a field deployed
+[0:33:26] kit
+[0:33:27] um that's now in the trucks they use to
+[0:33:29] to uh send to the beaches uh you know
+[0:33:31] you just injected in the animals.
+[0:33:34] Um and so as we were doing that, we
+[0:33:36] started working with the Pitt Hopkins
+[0:33:37] Foundation because we found that there's
+[0:33:39] a lot of overlaps molecularly. We
+[0:33:41] started seeing these signatures that
+[0:33:42] were overlapping with Pitt Hopkins
+[0:33:44] syndrome and so partnered with the
+[0:33:45] foundation
+[0:33:46] um and we analyzed actually um um a
+[0:33:49] number
+[0:33:50] number of US and Canadian patients
+[0:33:53] um as well as Colombian patients because
+[0:33:55] we were considering doing a clinical
+[0:33:56] trial in Canada, I mean in Colombia. But
+[0:33:59] we saw that about a quarter of the
+[0:34:01] patients were predicted to have adverse
+[0:34:02] responses to vorinostat
+[0:34:04] uh that we did not see in Rett syndrome.
+[0:34:06] And so out of abundance of caution
+[0:34:09] um here are the results. Um so this
+[0:34:11] little hot spot right there is like a
+[0:34:13] correlation plot of drug similarity and
+[0:34:15] it doesn't correlate with age or with
+[0:34:17] the position of the mutation or or the
+[0:34:18] sex of the patient. For whatever reason
+[0:34:21] um there's a yeah again it's that
+[0:34:22] molecular signature of the patient.
+[0:34:24] For whatever reason they should not get
+[0:34:25] the drug. And so we uh ended up
+[0:34:28] analyzing uh 13 of the 15 known
+[0:34:31] Pitt Hopkins patients.
+[0:34:33] Um this is far more than anyone's ever
+[0:34:34] documented in this country um and
+[0:34:37] we wanted to see well what if we ran a
+[0:34:39] clinical trial on all of these patients?
+[0:34:41] will be the likely outcomes? And so many
+[0:34:43] would be either strong or moderate
+[0:34:45] responders. Again, align with the
+[0:34:46] results that we saw from the previous
+[0:34:48] study, but we had a a few that we
+[0:34:50] predicted to have adverse uh
+[0:34:52] events.
+[0:34:53] And so we presented the the results to
+[0:34:55] the PI and and I believe she you know
+[0:34:58] did not include those in in the trial.
+[0:35:01] Um and so now what we did we started
+[0:35:03] with Rett, we built on Pitt Hopkins, but
+[0:35:04] then we actually added about 18
+[0:35:06] additional CNS disorders. And
+[0:35:09] what we did this is actually data we're
+[0:35:10] going to be presenting um at the
+[0:35:12] American Epilepsy Society next week.
+[0:35:15] Um but we analyzed close to 160 patients
+[0:35:18] plus 160 controls. There's a huge amount
+[0:35:20] of of study uh study material.
+[0:35:23] And then there were 18 that were marked
+[0:35:24] as as uh chromatinopathies.
+[0:35:26] And what we ended up
+[0:35:29] doing was just analyze what if you just
+[0:35:31] did a clinical trial with all of these
+[0:35:32] for every drug for 40,000 molecules,
+[0:35:34] right? So this is a 40,000 times 160
+[0:35:36] person trial study. This is the benefit
+[0:35:39] of computation. You cannot do that in
+[0:35:40] person.
+[0:35:41] Um and again this is a correlation plot.
+[0:35:44] So the more red it is, the more similar
+[0:35:46] the patients are, the more blue it is,
+[0:35:47] the more opposite those patients are. So
+[0:35:50] white is they're sort of uncorrelated,
+[0:35:52] but blue is they're negatively
+[0:35:53] correlated. So what's good for one
+[0:35:55] patient would be harmful for the other.
+[0:35:57] Um
+[0:35:59] and we we we group these three uh
+[0:36:01] subgroups. What's really interesting
+[0:36:02] that you don't really see a pattern um
+[0:36:05] maybe a slight pattern of some
+[0:36:06] disorders, but uh but most of them are
+[0:36:08] actually pretty uh pretty interspersed,
+[0:36:11] but there is something about those
+[0:36:13] different patients. And we know from
+[0:36:14] from the clinical care stories,
+[0:36:17] you know this is standard treatment for
+[0:36:19] for this patient, and yet some patients
+[0:36:21] benefit and some do worse. This happens
+[0:36:22] all the time.
+[0:36:24] We can see it now. So for all these
+[0:36:25] 40,000 molecules, we see what will be
+[0:36:27] likely to happen. And so what's
+[0:36:29] interesting if we wanted to see how many
+[0:36:31] of those again chromatinopathies are
+[0:36:32] related to MECP2, which again affects
+[0:36:35] the chromatin uh structure and and
+[0:36:36] function.
+[0:36:37] And so we want to see okay vorinostat,
+[0:36:40] let's look at the score of that and some
+[0:36:41] of these other HDAC inhibitors.
+[0:36:43] Um where, how would these patients be
+[0:36:46] predicted to do across these these other
+[0:36:49] 18 disorders? And what you start seeing
+[0:36:52] is that there are these subgroups of
+[0:36:53] patients. Overall, some of these are are
+[0:36:54] potentially a little bit different from
+[0:36:55] each other, but when you look at just a
+[0:36:57] single drug, you see this very clear
+[0:37:00] clustering. Uh, so the more more kind of
+[0:37:02] bluish green it is, the more higher
+[0:37:04] the the predicted response. The more
+[0:37:06] brown it is, the more likely they are to
+[0:37:08] have an adverse response. So there's a
+[0:37:10] subgroup here that looks really really
+[0:37:11] bad.
+[0:37:12] Um,
+[0:37:13] but what's interesting, you see these
+[0:37:14] very consistent responses. And so now
+[0:37:17] what we've done, we started with Rett
+[0:37:18] syndrome, doing clinical trial,
+[0:37:20] went to Pitt Hopkins, started clinical
+[0:37:22] trial, and now we can build the market
+[0:37:23] even further. So now you're looking at
+[0:37:25] hundreds of thousands of patients
+[0:37:27] um that could benefit from the same
+[0:37:28] drug. So now you're actually solving
+[0:37:30] Rett at scale, right? You're starting
+[0:37:31] with one drug, one disorder,
+[0:37:33] and now you're adding these other other
+[0:37:35] patients into that. And so but then we
+[0:37:37] want to look at, okay, let's take all
+[0:37:38] the HDAC inhibitors that are that are in
+[0:37:40] our database, or at least a large number
+[0:37:42] of those,
+[0:37:43] and and not just your your your kind of
+[0:37:45] like your Vorinostat, your kind of
+[0:37:46] prototypical ones, but some of these
+[0:37:47] like HDAC 3 class 3 ones, um like your
+[0:37:51] your, you know, resveratrol and those
+[0:37:53] those kinds of molecules that are kind
+[0:37:55] of oddballs. Let's take a look at them.
+[0:37:57] And so Vorinostat is actually still one
+[0:37:58] of the best drugs out of all of these
+[0:38:00] across all the all the patient groups.
+[0:38:02] Well, you can see that subgroup 1,
+[0:38:04] you know, about three quarters of the
+[0:38:06] patients are predicted to have a
+[0:38:06] positive response. So the more blue it
+[0:38:08] is, the more positive it is.
+[0:38:10] Um, but then actually subgroup 3 has
+[0:38:12] about half their patients uh that fall
+[0:38:14] under that subgroup
+[0:38:15] um would be likely to respond. And
+[0:38:16] subgroup 2 should just never get it.
+[0:38:19] That those those should be excluded. But
+[0:38:20] then if you look um at some of the these
+[0:38:22] other ones, for example, this one here,
+[0:38:25] this drug would actually be really good
+[0:38:27] for subgroup 2 and not great for for
+[0:38:29] group 1 or 3, right? So this is we can
+[0:38:31] actually run these clinical trial
+[0:38:33] simulations of all these different
+[0:38:35] networks for all these different
+[0:38:36] patients and just look at the outcomes
+[0:38:38] um and then and then group the patients
+[0:38:39] together.
+[0:38:40] How we do that? We can stratify the
+[0:38:42] patients. There's actually in a in a
+[0:38:43] disorder called ZTTK.
+[0:38:45] It's a splicing factor. And see two
+[0:38:47] extremely different subgroups. And
+[0:38:49] what's interesting, we see it
+[0:38:50] molecularly.
+[0:38:51] Also, when you look at the patients,
+[0:38:53] some can walk, some can talk.
+[0:38:56] Um they're fairly fairly um uh capable.
+[0:38:59] The others are usually wheelchair bound,
+[0:39:01] most are nonverbal, um have a lot more
+[0:39:04] more issues. Um other that first group
+[0:39:06] is extremely skinny and eats a lot. The
+[0:39:09] other group uh is either healthy weight
+[0:39:11] or to to a little bit overweight.
+[0:39:13] Um and they seem to correlate between
+[0:39:15] these two groups. And it's the same
+[0:39:17] cause, including the same exact
+[0:39:18] mutation. So it's not even the mutation
+[0:39:20] itself that could be could be explaining
+[0:39:21] this.
+[0:39:22] What's going on? Well,
+[0:39:25] we don't know,
+[0:39:26] but we can find those patients very
+[0:39:28] reliably. And so then if we look at the
+[0:39:30] pathogenic gene, it's the SON gene, SON
+[0:39:32] gene. Um the gene expression of it
+[0:39:34] doesn't really matter. Again, the the
+[0:39:36] mutation itself is exactly the same for
+[0:39:38] some of these patients in group one or
+[0:39:39] group two. But we were able to actually
+[0:39:41] find a downstream gene that helps
+[0:39:43] perfectly explain these two subgroups.
+[0:39:45] Um and it's actually part of um the TCA
+[0:39:48] uh cycle. It's a part of cell
+[0:39:50] metabolism, which actually makes sense
+[0:39:51] in terms of how the patients present in
+[0:39:53] terms of sort of overactive hyperactive
+[0:39:56] um skinny, even though they eat a lot,
+[0:39:59] um versus less active. Now, why? Who
+[0:40:02] knows? But we can find these markers. So
+[0:40:04] now we can go back to these clinical
+[0:40:06] trials and and say who should be in
+[0:40:07] subgroup one, who's in subgroup two,
+[0:40:09] who's in subgroup three.
+[0:40:11] Um
+[0:40:12] and so what we have in the end is again,
+[0:40:14] this is that that uh table that I showed
+[0:40:15] earlier, but now we have the
+[0:40:17] International Rett Syndrome Foundation
+[0:40:18] sponsoring part of the study,
+[0:40:19] Pitt-Hopkins Foundation sponsoring the
+[0:40:20] study, multiple families and foundations
+[0:40:23] added to that. Right? Those other 18
+[0:40:25] disorders each have one or more uh
+[0:40:26] foundations behind them. Um and then
+[0:40:29] there are other programs for the
+[0:40:30] patients who are the non-responders to
+[0:40:31] Ravel-1. There are other drugs. So we
+[0:40:33] have Ravel-73 that actually seems to be
+[0:40:34] pretty complementary to Ravel-1.
+[0:40:37] Um so it's either sort of Ravel-1 or
+[0:40:38] Ravel-2, but now you have two drugs
+[0:40:40] hitting 20 different disorders.
+[0:40:42] Right? Like that's the scale that we're
+[0:40:44] going at um as we're thinking about the
+[0:40:46] commercial uh uh
+[0:40:48] And so can I in conclusion, what we're
+[0:40:50] doing um from business model standpoint,
+[0:40:53] some of it we're developing ourselves
+[0:40:54] and I showed you know a table of the
+[0:40:55] five
+[0:40:57] uh commercial programs that we have.
+[0:40:58] We're going to be adding probably two
+[0:40:59] more early next year. Um but we're also
+[0:41:01] helping others. Um and so we actually
+[0:41:03] partnered with uh and helped co-found
+[0:41:05] Astra Salva. Um this is Thomas Wagner
+[0:41:07] with his son
+[0:41:08] and Paul Schmidt as the CEO. Um and they
+[0:41:11] started this this uh company that's a
+[0:41:14] single asset biotech company, but
+[0:41:16] targeting multiple disorders at once. So
+[0:41:19] um uh adrenoleukodystrophy
+[0:41:22] as well as Alexander disease, both
+[0:41:23] severe neurodegenerative uh pediatric
+[0:41:25] neurodegenerative disorders.
+[0:41:27] Um and we're a founding development
+[0:41:29] partner using our platform to enable um
+[0:41:31] well that development.
+[0:41:34] Um and so you know really what we're
+[0:41:35] looking at is you as a person, you're
+[0:41:37] unique. You're the product of yes your
+[0:41:39] genetics, but that that diagnostic gene
+[0:41:41] doesn't determine who you are, not not
+[0:41:43] even the majority in some cases who you
+[0:41:45] are, but your diet, medication, sleep,
+[0:41:48] all these different factors matter to
+[0:41:50] some complex extent that we will be you
+[0:41:53] know unpacking for decades. But what can
+[0:41:55] we do today? And the idea is that we can
+[0:41:56] take personalized predictable medicine
+[0:41:58] to start with you and actually find the
+[0:42:00] the right allocation of existing
+[0:42:02] molecules
+[0:42:03] but for new mechanisms and then build
+[0:42:05] drugs that work even better, right? So
+[0:42:07] it's kind of a rapid prototyping
+[0:42:08] approach to drug development.
+[0:42:10] Um and again, what we're doing is
+[0:42:11] predictable medicine starting with the
+[0:42:13] clinical.
+[0:42:14] Um then we can go to preclinical. We can
+[0:42:16] go to tadpoles. We can go to mice. We
+[0:42:17] can do all this other stuff, but we know
+[0:42:19] that we can define the problem based on
+[0:42:20] the patients that have the problem. Then
+[0:42:22] we can get to a target. You know what?
+[0:42:24] The target doesn't matter. It doesn't
+[0:42:25] matter what you call it as long as it
+[0:42:26] works, right? Um and then we can go
+[0:42:28] towards approvals. We're already doing
+[0:42:29] that on the on the clinical trial side.
+[0:42:32] We're not done, but I think we're you
+[0:42:33] know we're on our way.
+[0:42:35] Um so with that, yeah thanks thanks for
+[0:42:37] this opportunity.
+[0:42:40] &gt;&gt; Wow, amazing. Thanks so much. Uh that's
+[0:42:42] that's just incredible, you know when I
+[0:42:44] I see the pictures of the of the kids
+[0:42:45] and everything and just just knowing
+[0:42:47] that it's actually making a difference
+[0:42:48] already to real people is
+[0:42:50] you know um un- unprecedented is just
+[0:42:53] just amazing.
+[0:42:55] &gt;&gt; Yeah, I mean it's
+[0:42:56] &gt;&gt; Amazing.
+[0:42:57] &gt;&gt; it's not just a one-way street though,
+[0:42:59] right? So then we learn from those
+[0:43:00] patients like we re-sample those
+[0:43:02] patients and and see well how how right
+[0:43:04] were we as a prediction
+[0:43:06] but let's test the prediction. We can
+[0:43:08] test it in models, but let's actually
+[0:43:09] test it in real patients if if they're
+[0:43:12] open to it.
+[0:43:14] Um and then the barrier for testing in
+[0:43:15] patients is not a full-blown
+[0:43:16] placebo-controlled trial with every
+[0:43:18] single patient. It doesn't have to be
+[0:43:19] that.
+[0:43:20] Um there are obviously you know limits,
+[0:43:22] there's ethical considerations, all
+[0:43:24] these other aspects, but those are not
+[0:43:25] insurmountable obstacles.
+[0:43:27] Um we can actually ask some of these
+[0:43:29] questions today because you know these
+[0:43:30] patients need something like that most
+[0:43:31] of these don't have any approved care
+[0:43:33] and then symptomatic care just is
+[0:43:34] inadequate
+[0:43:36] for for the vast majority of them.
+[0:43:39] &gt;&gt; Amazing. Um just a real quick in the
+[0:43:41] last couple of minutes uh something just
+[0:43:42] something for us to think about and and
+[0:43:44] sort of noodle on. We um we have
+[0:43:47] uh transcriptomes from Anthrobots. So
+[0:43:50] these are these are made from patients,
+[0:43:53] you know tracheal epithelial samples
+[0:43:54] from adult patients
+[0:43:55] &gt;&gt; Mhm.
+[0:43:56] &gt;&gt; and they have something like 9,000
+[0:43:59] differentially expressed genes from what
+[0:44:00] those cells would be doing in the body.
+[0:44:02] So like almost half the genome is you
+[0:44:04] know different uh
+[0:44:06] than than than differently expressed
+[0:44:08] than it would be.
+[0:44:09] And I wonder I wonder um if there's a
+[0:44:11] match here. Um
+[0:44:13] wonder what what we could do with that
+[0:44:15] using the system if we could
+[0:44:17] a so in two something in two ways. One
+[0:44:19] is as the avatar of the patient, that's
+[0:44:21] one thing. But another thing as a
+[0:44:23] completely different uh
+[0:44:25] life form, you know? Like it's it's a
+[0:44:27] different being, different behaviors,
+[0:44:28] different capabilities, different
+[0:44:29] transcriptome. What can we what can we
+[0:44:32] learn about um what drugs might be
+[0:44:33] relevant to them and uh and like what's
+[0:44:36] a toolkit of existing drugs that might
+[0:44:38] be able to do interesting things given
+[0:44:40] given
+[0:44:41] &gt;&gt; essentially it's chemical programming
+[0:44:42] kind of like what people do with with
+[0:44:43] generating iPS cells, right? I mean
+[0:44:45] that's a chemical reprogram
+[0:44:47] &gt;&gt; Yeah.
+[0:44:48] &gt;&gt; that sets the cells off on a completely
+[0:44:49] different trajectory from their original
+[0:44:51] differentiated state.
+[0:44:53] Um you could think about the exact same
+[0:44:55] thing here, but just at a more
+[0:44:57] more complex level than a single cell
+[0:44:58] state.
+[0:44:59] &gt;&gt; Right.
+[0:45:00] &gt;&gt; Um, I mean, it's what you do with
+[0:45:01] patients, right? There's a they're on
+[0:45:02] this disease state trajectory,
+[0:45:04] and you shift them over.
+[0:45:05] Um,
+[0:45:05] &gt;&gt; Well, that's Well, that's what I'm
+[0:45:07] That's exactly exactly what I'm what I'm
+[0:45:08] thinking. So So you've got this
+[0:45:10] protoorganism that's going to do
+[0:45:11] specific things. You know, they have the
+[0:45:13] ability to heal neural wounds and some
+[0:45:14] some crazy stuff like that. So So I
+[0:45:17] wonder if we can use some of these
+[0:45:20] uh some of these computational platforms
+[0:45:21] to figure out what drugs would shift
+[0:45:23] them over to other useful trajectories,
+[0:45:26] you know?
+[0:45:26] &gt;&gt; I mean, it reminds me of um we're kind
+[0:45:28] of a kind of ongoing collaboration
+[0:45:30] around uh organ preservation. And I
+[0:45:33] obviously started with the biostasis
+[0:45:34] program right before uh around the time
+[0:45:36] that we spun this out.
+[0:45:38] And the whole idea is we'll treat the
+[0:45:39] organs ex vivo because you can do a lot
+[0:45:42] ex vivo that you can't necessarily
+[0:45:43] within the patient. You can do go higher
+[0:45:45] doses or or do multiple drugs more
+[0:45:47] easily.
+[0:45:48] Um, if you have a heart, you don't have
+[0:45:49] to worry about like liver effects, for
+[0:45:51] example, like liver tox, right? If you
+[0:45:52] don't have a liver in there.
+[0:45:54] Um, and then it changes the state. So in
+[0:45:56] that case, the idea is to change the
+[0:45:57] state to be um you know, transplantation
+[0:46:01] compatible and and and not reject,
+[0:46:03] right? So
+[0:46:04] So you you could think of something
+[0:46:05] similar here where, you know, you could
+[0:46:07] you could have them have new functions.
+[0:46:09] You could have them be tunable functions
+[0:46:11] if, for example, you can adjust
+[0:46:13] the the speed
+[0:46:14] of those of
+[0:46:16] of the
+[0:46:17] uh functions that they would normally
+[0:46:18] have. You might be able to even turn
+[0:46:19] them on and off.
+[0:46:21] Um, or have have even them collaborate
+[0:46:23] or or not collaborate, right? There are
+[0:46:25] these things you could you could do
+[0:46:27] um that people are doing with, for
+[0:46:29] example, synthetic biology and and
+[0:46:31] microorganisms.
+[0:46:33] Um, like some of the complex pathways,
+[0:46:34] except we have the complexity there. And
+[0:46:36] it's almost like a field programmable
+[0:46:37] controller, but you field program it
+[0:46:39] with molecules.
+[0:46:44] &gt;&gt; Yeah.
+[0:46:45] All right. All right. Um, yeah, thanks.
+[0:46:47] This This was great. Um, I'll I'll be in
+[0:46:48] touch. I'm going to maybe maybe uh send
+[0:46:50] you a link to the to the transcriptomic
+[0:46:52] data and I wonder I wonder what we can
+[0:46:54] do with that if if if you can help pick
+[0:46:57] pick drugs that do interesting things
+[0:46:58] &gt;&gt; Yeah. Yeah, the input into our platform
+[0:47:00] is is basically a differential or like
+[0:47:02] two different transcriptome profiles,
+[0:47:04] one that you want to go away from and
+[0:47:06] one that you want to go to.
+[0:47:07] &gt;&gt; Yeah. Yeah. Yeah.
+[0:47:08] &gt;&gt; That's how you define the question. So
+[0:47:09] everything else is already built.
+[0:47:12] Um so if you have a
+[0:47:13] an anthropod that's doing something you
+[0:47:14] want or something that you don't want,
+[0:47:16] any of those are fine.
+[0:47:18] Or even longitudinal changes. Maybe they
+[0:47:20] they die off after some time or lose
+[0:47:22] potency after some time. Well,
+[0:47:24] how can you make the older one I mean
+[0:47:25] there's like like longevity type stuff.
+[0:47:26] Can you make the the
+[0:47:27] the mature ones or two the older ones
+[0:47:29] like like a more mature but fully
+[0:47:31] functional version, right?
+[0:47:32] &gt;&gt; Yeah. Yeah, that's exactly right.

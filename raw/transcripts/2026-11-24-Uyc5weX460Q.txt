@@ -1,0 +1,1373 @@
+[0:00:00] Thank you for
+[0:00:02] for invited me to to talk about this
+[0:00:04] research. This is
+[0:00:07] part of
+[0:00:08] my research, but it's
+[0:00:10] strictly connected to
+[0:00:13] some investigations in
+[0:00:16] in the
+[0:00:17] [clears throat]
+[0:00:19] between
+[0:00:20] natural
+[0:00:22] systems and artificial systems and what
+[0:00:24] are the connections
+[0:00:26] among them.
+[0:00:29] So
+[0:00:30] the the motivation for the for this is
+[0:00:34] the idea that
+[0:00:36] to to investigate to what extent we can
+[0:00:38] use complex systems models
+[0:00:41] to control robots.
+[0:00:43] But I must say that the inspiration for
+[0:00:45] that come from
+[0:00:47] two books, both from the early '90s, The
+[0:00:50] Origins of Order by Stuart Kauffman,
+[0:00:51] which I
+[0:00:53] I presume is very well known, and
+[0:00:55] Complex Systems and Cognitive Processes
+[0:00:57] by Roberto Serra and Gianni Zanarini.
+[0:01:00] And these books
+[0:01:01] at the time I I read them
+[0:01:05] showed me the possibility of combining
+[0:01:07] what what are my main research
+[0:01:09] interests. So complex systems, biology
+[0:01:13] and
+[0:01:14] artificial systems, AI and robotics.
+[0:01:19] So the the research questions in this
+[0:01:22] line of of research are
+[0:01:25] an investigation of the possibilities of
+[0:01:27] using Boolean networks to control
+[0:01:29] robots.
+[0:01:31] The reason for doing that
+[0:01:33] are explained by the the properties that
+[0:01:35] some models of Boolean networks exhibit
+[0:01:39] when used as models for cell behavior,
+[0:01:43] cellular behavior.
+[0:01:45] And what are the properties that these
+[0:01:47] networks must exhibit to be used as
+[0:01:51] controllers for robots?
+[0:01:53] And I also ask myself if there are
+[0:01:56] insights that this approach can bring to
+[0:01:59] theoretical biology in particular.
+[0:02:02] So
+[0:02:03] I will briefly
+[0:02:05] summarize the the key properties of
+[0:02:07] Boolean networks just to have
+[0:02:10] a common terminology and to emphasize
+[0:02:12] the results that I usually use
+[0:02:15] for about Boolean networks in the
+[0:02:17] context of robotics. And then I will
+[0:02:20] illustrate some of the experiments and
+[0:02:23] the results we've obtained
+[0:02:25] in two fields, offline adaptation, so
+[0:02:28] design time adaptation
+[0:02:30] and
+[0:02:32] the the largest part will be on online
+[0:02:35] adaptation, so the cases in which
+[0:02:38] robots and systems adapt as in as as
+[0:02:43] happen in nature.
+[0:02:46] So very briefly
+[0:02:48] we
+[0:02:49] [clears throat]
+[0:02:50] we know that it was Stuart Kauffman
+[0:02:53] introducing Boolean networks
+[0:02:55] in 1969 to model
+[0:02:58] genetic regulatory network.
+[0:03:01] These systems can be represented as a
+[0:03:02] graph and each node is associated to a
+[0:03:05] Boolean value and a Boolean variable
+[0:03:07] and a Boolean function.
+[0:03:11] I'm considering here only synchronous
+[0:03:13] and deterministic dynamics, so somehow
+[0:03:17] the easiest way to to simulate the
+[0:03:20] network and in this way we have a
+[0:03:22] trajectory that is composed of a
+[0:03:25] possible transient concatenated to an
+[0:03:27] attractor and the attractors can be
+[0:03:30] either fixed points
+[0:03:33] so like this one or this one. I don't
+[0:03:36] know if you see the pointer.
+[0:03:39] Okay?
+[0:03:40] Or cycles.
+[0:03:41] Of course these networks can be of any
+[0:03:44] shape,
+[0:03:45] any structure, any possible function,
+[0:03:49] but there is a a particular model that
+[0:03:52] has important properties in
+[0:03:55] in biology.
+[0:03:57] And this model is
+[0:04:00] one of the possible the possible random
+[0:04:03] models for for BNs.
+[0:04:06] In this model we consider each node with
+[0:04:08] exactly K inputs.
+[0:04:11] The inputs are chosen at random among
+[0:04:13] the other nodes of the network
+[0:04:15] and the Boolean functions are
+[0:04:18] defined
+[0:04:20] based on their truth table assigning
+[0:04:23] to each entry value one with probability
+[0:04:25] P. So we have two parameters for the
+[0:04:28] except for the size of the network the
+[0:04:30] number of nodes we have two parameters K
+[0:04:33] and P.
+[0:04:34] And there is an important result showing
+[0:04:37] that there is a phase transition
+[0:04:41] a second order phase transition
+[0:04:43] depending on the values of K and P.
+[0:04:46] And we have an ordered region
+[0:04:49] in which the perturbations die out
+[0:04:52] quickly.
+[0:04:53] Networks usually have very few
+[0:04:56] attractors and usually they are either
+[0:04:58] fixed point or very
+[0:05:00] short
+[0:05:01] cycle attractors.
+[0:05:03] The other region is the chaotic one
+[0:05:06] better to say pseudo chaotic because the
+[0:05:09] the state space is
+[0:05:11] enumerable and finite but
+[0:05:13] the the properties of of chaos are still
+[0:05:17] present especially the fact that there
+[0:05:19] is highly sensitivity to initial
+[0:05:21] conditions. So two trajectories that
+[0:05:24] start
+[0:05:26] from two close nodes
+[0:05:29] the notion of vicinity of neighborhood
+[0:05:31] can be defined in terms of Hamming
+[0:05:34] distance. If they are very close they
+[0:05:36] diverge very quickly.
+[0:05:38] And typically the attractor landscape is
+[0:05:41] composed of attractors with very very
+[0:05:44] long
+[0:05:46] periods.
+[0:05:48] The separation between these two areas
+[0:05:51] is given by the critical line where K
+[0:05:54] and P have this particular relation. Of
+[0:05:57] course this is a result in in
+[0:05:59] statistical physics.
+[0:06:01] But
+[0:06:02] and but we can observe these
+[0:06:05] the effects also in finite size
+[0:06:08] networks.
+[0:06:09] And the critical networks have a kind of
+[0:06:12] mixture between order and disorder. They
+[0:06:15] have a very diversified attractor
+[0:06:18] landscape.
+[0:06:20] Perturbation very often stays confined
+[0:06:23] in a given interval, so they do not
+[0:06:25] explode, but they do not die out.
+[0:06:28] So
+[0:06:29] these properties
+[0:06:32] were particularly interesting and
+[0:06:37] there is a large number of results
+[0:06:39] showing that
+[0:06:41] critical random boolean networks
+[0:06:44] match statistical properties, ensemble
+[0:06:47] properties of biological cells.
+[0:06:51] It
+[0:06:52] would be rather better to say
+[0:06:55] generic properties of biological cells.
+[0:06:57] So the properties that are
+[0:06:59] characteristic of an ensemble and they
+[0:07:00] are generic, not specific
+[0:07:02] characteristics of a given and and
+[0:07:05] precise
+[0:07:08] model
+[0:07:11] of a specific cell.
+[0:07:13] This supports the criticality hypothesis
+[0:07:17] which we can observe both in
+[0:07:20] evolutionary context
+[0:07:22] in which we see that critical systems
+[0:07:26] optimally balance mutational robustness
+[0:07:28] and phenotypic innovation
+[0:07:32] and also in behavioral contexts. So for
+[0:07:35] the adaptation of individuals, this is
+[0:07:37] particularly important because we see
+[0:07:39] that there is a
+[0:07:41] a sort of capability of optimizing
+[0:07:44] information processing
+[0:07:46] and also
+[0:07:47] there is this
+[0:07:49] optimal tradeoff between the number of
+[0:07:52] possible behaviors, so the repertoire of
+[0:07:54] actions and their reliability.
+[0:07:58] Therefore, the system can respond to a
+[0:08:00] wide variety of inputs, but in a
+[0:08:04] consistent way.
+[0:08:07] So
+[0:08:08] this was starting point to investigate
+[0:08:11] the possibility of using
+[0:08:13] random Boolean networks to control
+[0:08:15] robots.
+[0:08:17] Of course, as these networks have no
+[0:08:20] preferential inputs or outputs, we have
+[0:08:22] to define a way to couple them
+[0:08:25] to the robot. So we define what are the
+[0:08:28] nodes that we call we can call input
+[0:08:30] nodes. So the nodes whose values are
+[0:08:32] overridden by
+[0:08:34] an encoding of the sensor readings
+[0:08:37] and output nodes which are the ones that
+[0:08:41] are used to control the actuators. Of
+[0:08:43] course,
+[0:08:43] all this is part of a design process. Is
+[0:08:47] somehow
+[0:08:48] arbitrary also to some respect.
+[0:08:53] And moving to to adaptation,
+[0:08:55] [clears throat]
+[0:08:55] what we can adapt here?
+[0:08:57] Well,
+[0:08:59] we can adapt the Boolean functions of
+[0:09:02] the network, the network topology
+[0:09:04] itself.
+[0:09:06] And we can adapt the connections
+[0:09:09] between sensors and nodes of the network
+[0:09:12] or nodes on the networks and actuators
+[0:09:14] of the robot.
+[0:09:15] And we could also adapt the input output
+[0:09:18] encoding.
+[0:09:20] We know that in
+[0:09:23] in AI or in AI artificial life we can
+[0:09:26] have very large
+[0:09:30] we have a plethora of possible
+[0:09:32] techniques for adaptation ranging from
+[0:09:35] trial and test to advanced
+[0:09:38] reinforcement learning techniques. Here
+[0:09:40] in the experiments that I have done, I
+[0:09:43] have mainly used a very very simple
+[0:09:47] mechanism which we can call adaptive
+[0:09:48] walk, at least in local search.
+[0:09:51] It is often called adaptive walk
+[0:09:54] which consists in slightly perturbing
+[0:09:57] a parameter configuration and then
+[0:10:01] evaluating the behavior of the robot
+[0:10:03] with respect to this
+[0:10:05] variant. If this is not worse than the
+[0:10:09] previous one, we accept it and we go on
+[0:10:11] with this, otherwise we discard it and
+[0:10:14] we start with another perturbation of
+[0:10:16] the initial
+[0:10:18] configuration of the parameters. It's a
+[0:10:20] kind of
+[0:10:22] stochastic
+[0:10:24] descent if we minimize a function.
+[0:10:33] So the
+[0:10:35] [clears throat]
+[0:10:35] the first set of experiments concerns
+[0:10:39] offline adaptation
+[0:10:42] which is the classical way for providing
+[0:10:45] in an automatic way controllers to to
+[0:10:47] robot control software for robots.
+[0:10:51] One
+[0:10:52] notable example is that of evolutionary
+[0:10:55] computation evolutionary robotics.
+[0:10:59] So here we collect the information about
+[0:11:02] the the task, the environment, the robot
+[0:11:04] model, what it can do.
+[0:11:08] Then this information are elaborated by
+[0:11:11] an adaptation process which which is
+[0:11:13] usually based on an optimization
+[0:11:17] optimization technique
+[0:11:19] with some merit factors
+[0:11:22] and then the final controller, in this
+[0:11:25] case the Boolean network, is deployed on
+[0:11:27] the robot
+[0:11:28] which is evaluated.
+[0:11:30] The adaptation process usually
+[0:11:33] relies on simulation. So there is a
+[0:11:38] lot of
+[0:11:39] computational effort in doing this.
+[0:11:44] We tested this
+[0:11:47] approach on different
+[0:11:50] different contexts and different tasks,
+[0:11:53] simple corridor navigation without
+[0:11:55] collision, sequence learning,
+[0:11:59] conditioned phototaxis and dephototaxis
+[0:12:01] and also
+[0:12:03] we made some incursion in in collective
+[0:12:06] systems, collective robotics
+[0:12:08] trying to
+[0:12:10] assess whether it is possible to
+[0:12:13] make collective decisions with robots
+[0:12:16] controlled by boolean networks.
+[0:12:19] I will illustrate
+[0:12:21] only the results of condition for the
+[0:12:23] taxes and for the taxes because I think
+[0:12:26] they are
+[0:12:28] somehow
+[0:12:29] more
+[0:12:31] significant with the
+[0:12:33] about this this work.
+[0:12:37] The task is
+[0:12:38] rather easy. It is composed of
+[0:12:41] two phases. The robot has to learn to
+[0:12:43] perform photo taxes,
+[0:12:46] then in a random instant a sharp sound
+[0:12:49] happens, for example a clap,
+[0:12:52] and the robot has to perform now anti
+[0:12:55] photo taxes.
+[0:12:57] Now if I had to write
+[0:12:59] the code to program a robot doing this
+[0:13:02] task, it would be probably a matter of
+[0:13:05] few lines of code.
+[0:13:07] But the challenge at the time was
+[0:13:10] is it possible to achieve this which is
+[0:13:13] a minimally cognitive task, I agree, but
+[0:13:16] it is not trivial. Is it possible to
+[0:13:20] obtain a boolean network
+[0:13:23] just by this simple adaptive walk
+[0:13:26] [clears throat] that
+[0:13:27] make the robot effective in doing this
+[0:13:30] this task?
+[0:13:33] And in
+[0:13:35] these experiments were made in
+[0:13:38] two different cases depending on the
+[0:13:41] size of the network, a small size 20 and
+[0:13:43] a larger size 100 nodes. All are
+[0:13:48] critical and random boolean networks
+[0:13:50] according to the model that I have
+[0:13:54] mentioned before.
+[0:13:55] We keep the connections
+[0:13:58] between sensors
+[0:14:00] and nodes and nodes and actuators of the
+[0:14:03] the robot fixed.
+[0:14:05] The topology of the network is fixed.
+[0:14:07] Only the boolean functions are changed.
+[0:14:09] So the the structure of the network is
+[0:14:12] kept
+[0:14:13] as it is except for boolean functions
+[0:14:15] that are
+[0:14:18] subject of of adaptation
+[0:14:21] in a very
+[0:14:23] light way in the sense that
+[0:14:25] one node is chosen at random and one of
+[0:14:28] the entries of the truth table of this
+[0:14:30] node is flipped.
+[0:14:32] So
+[0:14:33] the the mutation that is
+[0:14:35] performed as a usually a very limited
+[0:14:39] impact.
+[0:14:40] And we tested this in three
+[0:14:42] different scenarios with one, two and
+[0:14:44] three claps
+[0:14:46] in order to see whether it was possible
+[0:14:48] to have
+[0:14:49] this
+[0:14:51] swap of behavior
+[0:14:54] always in in in case
+[0:14:57] not just in a simple case with one one
+[0:14:59] clap.
+[0:15:01] Briefly, summary of the results
+[0:15:06] the results in simulations
+[0:15:08] returned
+[0:15:11] usually 10 20% of the replicas of the
+[0:15:14] experiments
+[0:15:16] with
+[0:15:17] at least one
+[0:15:19] robot performing with one robot
+[0:15:23] performing correctly the task.
+[0:15:27] From an engineering perspective,
+[0:15:29] probably this is not
+[0:15:31] an efficient
+[0:15:33] result, but
+[0:15:35] we have to consider that we we have we
+[0:15:37] managed networks, random boolean
+[0:15:40] networks of 100 nodes.
+[0:15:44] So I was I admit rather surprised to see
+[0:15:47] that it was possible to achieve this
+[0:15:49] result.
+[0:15:51] And moreover, the effective networks, so
+[0:15:54] the ones used by the robots to perform
+[0:15:57] correctly the task were robust against
+[0:15:59] noise
+[0:16:00] and also when tested on the real robots,
+[0:16:04] the results were consistent.
+[0:16:07] So it means that this approach was
+[0:16:09] robust to the reality gap.
+[0:16:11] Fact that if we train robots in
+[0:16:14] simulation, then when we move
+[0:16:16] to another context for the testing which
+[0:16:20] is the real world.
+[0:16:22] There might be an effect
+[0:16:26] a kind of over training
+[0:16:29] with respect to the simulator, but in
+[0:16:30] this case
+[0:16:32] this didn't happen.
+[0:16:34] I also
+[0:16:36] a video of the one of the experiments we
+[0:16:38] made. I don't know if it is visible. I
+[0:16:41] hope so. Here the robot is doing
+[0:16:43] phototaxis and I am perturbing it
+[0:16:49] to see whether it is able to
+[0:16:51] catch up with this
+[0:16:55] with this task. Now I clap my hands
+[0:17:00] and the robot is performing anti
+[0:17:01] phototaxis and I also there is a
+[0:17:04] perturbation
+[0:17:06] to be sure that the robot
+[0:17:08] correctly
+[0:17:10] implemented this this second part of the
+[0:17:13] task.
+[0:17:14] These experiments were indeed made
+[0:17:17] here at Iridia where I am now.
+[0:17:23] A brief courses about the analysis of
+[0:17:26] the trajectories of the network because
+[0:17:30] we were I was
+[0:17:33] surprised to see the the results that
+[0:17:36] was not so difficult to obtain these
+[0:17:39] networks
+[0:17:41] and so we
+[0:17:43] I analyzed the the trajectories of the
+[0:17:47] of the robots and the and their
+[0:17:49] properties
+[0:17:50] and by sampling trajectories and
+[0:17:53] collecting statistics
+[0:17:55] we have seen that the effective networks
+[0:17:59] have a higher number of fixed points.
+[0:18:01] Let's call fixed points
+[0:18:03] the cases in which if the inputs of the
+[0:18:05] network are constant also the other
+[0:18:09] nodes don't change.
+[0:18:11] This means that in a sense there is a
+[0:18:13] landscape of attractors composed of
+[0:18:15] mainly of
+[0:18:18] these kind of fixed points which
+[0:18:20] represent micro behaviors that are then
+[0:18:22] connected by transitions when some input
+[0:18:26] uh changes.
+[0:18:27] And also the statistical complexity is
+[0:18:30] higher in effective networks,
+[0:18:32] uh but the statistical complexity of the
+[0:18:34] trajectories.
+[0:18:36] And also looking at the state space,
+[0:18:39] we observe that at the end of the
+[0:18:42] adaptation, this is a
+[0:18:45] cartoon description of what happens.
+[0:18:48] The trajectories cluster
+[0:18:51] in this case in two different areas
+[0:18:54] which are connected. So the
+[0:18:56] the dynamics move from one cluster to
+[0:18:58] the other one depending on the behavior.
+[0:19:02] Of course, in the papers there are also
+[0:19:04] some
+[0:19:07] some details on on that.
+[0:19:11] I'd like to move to online adaptation,
+[0:19:13] which is
+[0:19:16] the
+[0:19:18] what I'm currently doing also with
+[0:19:23] [clears throat] and I currently
+[0:19:24] investigated
+[0:19:26] concerning this
+[0:19:27] this approach.
+[0:19:29] And online adaptation, which means that
+[0:19:31] the robot
+[0:19:33] is has to be adapted has to adapt
+[0:19:35] runtime when it is working in its
+[0:19:38] environment
+[0:19:40] has profound differences with respect to
+[0:19:42] offline adaptation. Because here
+[0:19:47] when we evaluate
+[0:19:49] the robot,
+[0:19:50] each evaluation is unique
+[0:19:52] because it depends on the current state
+[0:19:55] and the history of the robot.
+[0:19:57] I can evaluate a configuration of the
+[0:20:00] parameters
+[0:20:01] in one condition,
+[0:20:03] but it is not possible to have the exact
+[0:20:06] same condition for a following
+[0:20:09] evaluation as it is possible, for
+[0:20:11] example, in offline design.
+[0:20:14] So
+[0:20:16] here
+[0:20:17] this path dependence makes the
+[0:20:20] adaptation process
+[0:20:23] much more
+[0:20:25] and affected by
+[0:20:29] circumstances that can be present or
+[0:20:32] not.
+[0:20:33] Moreover, the merit factors that we use
+[0:20:37] to
+[0:20:39] adapt the the robot
+[0:20:41] must be situated, which means that only
+[0:20:44] the information that the robot can
+[0:20:46] itself get from the environment
+[0:20:49] can be used to to create a merit factor.
+[0:20:53] So the robot has a limited
+[0:20:56] availability of information, but we can
+[0:20:58] use only this information.
+[0:21:01] Of course, this has implications both
+[0:21:04] for robotics, but also
+[0:21:07] which is very interesting and
+[0:21:10] I'm really interested in that,
+[0:21:11] understanding what are the mechanisms
+[0:21:15] that we can identify also in
+[0:21:19] living organisms to adapt in their
+[0:21:22] environments.
+[0:21:24] And in fact,
+[0:21:26] the inspiration for that
+[0:21:28] comes from
+[0:21:30] mainly the experiments that Pask did
+[0:21:33] that Pask did with the electrochemical
+[0:21:35] devices
+[0:21:37] when iron powder was moving on a
+[0:21:41] was floating on a liquid surface
+[0:21:44] and electrodes
+[0:21:47] were used to
+[0:21:49] to create an environment to this
+[0:21:52] to the system. And
+[0:21:54] the iron powder was forming threads
+[0:21:58] depending on the the kind of
+[0:22:01] of inputs that the system was
+[0:22:03] was subject to. And the idea was then to
+[0:22:07] explore the possibility of creating
+[0:22:11] sensors. So the
+[0:22:14] the system should be able to create its
+[0:22:17] own sensors to make sense of
+[0:22:20] what is around. So to detect what is
+[0:22:23] relevant.
+[0:22:26] As Ashby was saying, - uh
+[0:22:28] what's good and bad for me.
+[0:22:31] So what is relevant for this system?
+[0:22:35] This has to do with epistemic epistemic
+[0:22:37] autonomy, so the capability
+[0:22:41] to shape the interactions with the
+[0:22:42] environment depending on what is
+[0:22:44] relevant.
+[0:22:46] And
+[0:22:47] if we focus on the interactions between
+[0:22:50] the the robot or the organism and the
+[0:22:52] environment
+[0:22:54] uh
+[0:22:55] we see that there is a circular circular
+[0:22:57] causality uh
+[0:22:59] between agent and environment in the
+[0:23:02] sense that there are um
+[0:23:05] causal effect from one to the other and
+[0:23:08] and vice versa.
+[0:23:10] And by working on the interactions we
+[0:23:13] may uh
+[0:23:16] make
+[0:23:17] we we we could be able to provide
+[0:23:20] epistemic autonomy or uh
+[0:23:23] a glance of it uh also to artificial
+[0:23:26] systems. So the idea would be uh
+[0:23:29] if I could
+[0:23:31] um
+[0:23:32] let the robot designing or adapting not
+[0:23:35] just changing a parameter but somehow
+[0:23:38] creating its own sensors and actuators
+[0:23:41] uh this robot would be able to uh
+[0:23:46] to make explicit what is relevant to its
+[0:23:49] survival. And this is exactly what
+[0:23:51] living organisms do.
+[0:23:54] But of course this in hardware robots,
+[0:23:56] the ones that can use and
+[0:23:59] in connection to to boolean networks is
+[0:24:01] not possible.
+[0:24:03] Uh in general it is
+[0:24:05] something that is viable because if we
+[0:24:07] have sensor or actuators that are made
+[0:24:10] by um
+[0:24:12] made made of chemical uh uh
+[0:24:15] networks or organic parts, this is still
+[0:24:19] possible but in the context of classical
+[0:24:22] hardware uh
+[0:24:24] robots is not possible.
+[0:24:27] So uh the idea was to uh keep the
+[0:24:30] network unchanged
+[0:24:32] topology and functions and just
+[0:24:36] adopt
+[0:24:37] its interface with the with the
+[0:24:39] environment. So
+[0:24:42] now the adaptation takes place only
+[0:24:47] in the coupling between
+[0:24:50] sensor readings and nodes of the
+[0:24:52] networks and nodes of the networks and
+[0:24:56] actuators.
+[0:24:57] Nothing else in the network would be
+[0:24:59] changed.
+[0:25:01] My intuition of that is that if we start
+[0:25:05] with a network with a sufficiently rich
+[0:25:08] repertoire of dynamics
+[0:25:11] depending on the environment it is
+[0:25:14] coupled it can exhibit different
+[0:25:17] dynamics
+[0:25:19] and if these dynamics are sufficiently
+[0:25:21] rich then the same network can provide
+[0:25:25] effective
+[0:25:26] can be can function as an effective
+[0:25:28] controller
+[0:25:30] for
+[0:25:32] different tasks.
+[0:25:35] This also was was a challenge and we
+[0:25:40] we tested this this idea in in different
+[0:25:43] tasks, a simple collision avoidance
+[0:25:49] area and collision avoidance so plus
+[0:25:52] the avoiding obstacles the robot has to
+[0:25:55] navigate only in
+[0:25:58] areas that are not forbidden.
+[0:26:01] Transportation of objects which is by
+[0:26:03] far not not an easy task is called
+[0:26:06] foraging in swarm robotics. It means
+[0:26:10] that the robot has to pick up objects in
+[0:26:12] one
+[0:26:15] side of the the arena where
+[0:26:18] there is a
+[0:26:21] an archive of these objects and move
+[0:26:23] them avoiding obstacles and other robots
+[0:26:27] to the other part of the arena. So the
+[0:26:28] robot has to go back and forth bringing
+[0:26:30] objects and delivering them on the other
+[0:26:33] side of the arena. And a fourth case
+[0:26:37] which is particularly
+[0:26:40] important for robotic applications
+[0:26:44] which is graceful degradation or fault
+[0:26:46] tolerance. So
+[0:26:48] if the robot is working in its
+[0:26:49] environment and
+[0:26:51] it has an accident and some sensors
+[0:26:58] do not work any longer. Is it possible
+[0:27:00] for the robot to adapt to this new
+[0:27:02] condition?
+[0:27:05] So briefly I will summarize the results
+[0:27:08] of these these experiments.
+[0:27:12] A couple of remarks before that
+[0:27:15] all these experiments are are run in
+[0:27:17] simulation.
+[0:27:20] But in this case there is no reality gap
+[0:27:23] because the simulation is the the the
+[0:27:26] robot's world. So
+[0:27:28] we are also now planning some
+[0:27:30] experiments directly
+[0:27:33] on real robots. But in this case
+[0:27:38] the robot has indeed to adapt
+[0:27:40] specifically to the
+[0:27:43] details of the the simulator because it
+[0:27:47] is its world. So in this case the effect
+[0:27:50] related to the to the reality gap are
+[0:27:55] do not hold.
+[0:27:57] Second point is that we used
+[0:28:01] large networks up to a thousand nodes
+[0:28:05] in the three regimes
+[0:28:08] ordered, chaotic, critical also to
+[0:28:11] to provide further evidence about the
+[0:28:15] criticality hypothesis.
+[0:28:18] So the collision avoidance behavior so
+[0:28:21] the robot has to navigate the arena
+[0:28:23] without colliding without the robots and
+[0:28:27] and walls
+[0:28:28] turned out to be a very easy task.
+[0:28:30] Indeed it is
+[0:28:32] a simple reactive task.
+[0:28:35] And all the replicas were successful and
+[0:28:38] also
+[0:28:40] we found that critical networks
+[0:28:45] were performing better than ordered and
+[0:28:48] chaotic ones.
+[0:28:50] Especially for very large size networks,
+[0:28:54] this is
+[0:28:57] is a neat result, is a striking result.
+[0:29:00] For the other two tasks,
+[0:29:03] especially the object transportation,
+[0:29:06] there was still a very high
+[0:29:09] success rate because about the 70% of
+[0:29:13] the replicas were successful
+[0:29:16] with effective robots being robust
+[0:29:19] to noise
+[0:29:21] and also in this case critical networks
+[0:29:24] were clearly outperforming
+[0:29:27] ordered and chaotic ones.
+[0:29:33] Finally,
+[0:29:34] the case of graceful degradation
+[0:29:38] in this case we used the robot that has
+[0:29:43] [clears throat]
+[0:29:44] light sensors distributed evenly on a on
+[0:29:47] a ring and the task for the robot was
+[0:29:50] just to learn
+[0:29:51] phototaxis but with a number of faulty
+[0:29:55] sensors.
+[0:29:57] And here
+[0:29:58] the idea was to investigate different
+[0:30:01] kinds of
+[0:30:03] faults.
+[0:30:05] Sensors can be disconnected, so it means
+[0:30:07] that the node that
+[0:30:09] was previously affected affected by
+[0:30:13] this sensor
+[0:30:15] is now subject to its internal dynamics,
+[0:30:18] its internal functions function.
+[0:30:22] This sensor can be clamped to a fixed
+[0:30:25] node, so return always the same value or
+[0:30:28] they can produce white noise.
+[0:30:31] And
+[0:30:33] and also to simulate an accident, a
+[0:30:36] sector of
+[0:30:38] sensors where
+[0:30:41] was damaged in the sense that only
+[0:30:44] contiguous sensors are damaged. And we
+[0:30:47] we tested this in the case of
+[0:30:50] of course the robot working with all 24
+[0:30:53] sensors, so a baseline
+[0:30:56] and cases of 3 6 up to 24, so all the
+[0:31:00] sensors
+[0:31:02] that are damaged.
+[0:31:04] Here I
+[0:31:07] present just a summary of
+[0:31:09] one of the statistics that that I made
+[0:31:12] on these
+[0:31:14] results
+[0:31:16] and this is the final mean distance to
+[0:31:18] the
+[0:31:20] to the light
+[0:31:21] divided by the undamaged final mean
+[0:31:25] distance baseline, which means that
+[0:31:28] we have one if the damaged robot is able
+[0:31:31] to reach on average the same distance as
+[0:31:36] the baseline.
+[0:31:40] We see that up to six nine
+[0:31:45] damaged sensors
+[0:31:47] the performance of the robot is
+[0:31:50] not
+[0:31:52] not really worse or not significantly
+[0:31:55] worse than
+[0:31:57] the one of the robot that works with 24
+[0:32:01] the all 24 sensors
+[0:32:05] and then it degrades
+[0:32:07] slowly and the the behavior slightly
+[0:32:10] depends on the type of of damage, but
+[0:32:13] there is a point that
+[0:32:15] it is worth to be investigated further.
+[0:32:20] You see that there are there is one case
+[0:32:23] in each of these bar plots.
+[0:32:26] So for disconnected it has is at six six
+[0:32:30] for clamped and nine for random, so
+[0:32:33] completely noisy sensors
+[0:32:36] in which the behavior of the robot with
+[0:32:39] damaged sensors is better on average.
+[0:32:45] I think
+[0:32:47] as this is
+[0:32:48] consistent in all these cases,
+[0:32:53] it is worth to be investigated because
+[0:32:54] it might be
+[0:32:56] a signal of the fact that sometimes it
+[0:32:59] is not
+[0:33:00] necessary, not even better to use all
+[0:33:04] the information that is available.
+[0:33:07] So
+[0:33:08] my conjecture is that there might be a
+[0:33:11] kind of information overload
+[0:33:14] that
+[0:33:16] somehow reduces the
+[0:33:19] the efficiency of the adaptive procedure
+[0:33:21] or the behavior of the robot. But this
+[0:33:24] this is really something that has to be
+[0:33:27] investigated further.
+[0:33:32] Just a few concluding remarks.
+[0:33:35] It was somehow surprising to me that
+[0:33:40] the context, which means task and
+[0:33:43] environment,
+[0:33:46] was
+[0:33:48] sufficiently
+[0:33:53] was able to easily or sufficiently easy
+[0:33:57] shape the dynamics of the network, even
+[0:34:00] large networks.
+[0:34:03] So this can can be, for example,
+[0:34:08] simply related to the richness of
+[0:34:10] dynamics that a Boolean network, a
+[0:34:12] critical Boolean network can exhibit.
+[0:34:16] But I think it it has to be investigated
+[0:34:18] because the
+[0:34:19] possible connections
+[0:34:24] if we consider just the combinatorial
+[0:34:27] explosion are really really
+[0:34:31] the space is really huge. So
+[0:34:34] there might be something
+[0:34:36] that worth to be investi this is worth
+[0:34:38] to be investigated.
+[0:34:39] Then another important point is that um
+[0:34:43] in these last experiments, we always
+[0:34:45] started with the same batch of random
+[0:34:48] boolean networks. This means that the
+[0:34:50] same random boolean network depending on
+[0:34:54] the the connections can be used for
+[0:34:56] performing uh
+[0:34:59] obstacle avoidance or uh
+[0:35:04] or collective
+[0:35:06] collective behavior or
+[0:35:08] object retrieval and and foraging.
+[0:35:12] And the third important point is that
+[0:35:13] this is a further
+[0:35:16] evidence that critical regimes are
+[0:35:19] particularly important for for
+[0:35:21] adaptation.
+[0:35:24] And I conclude with a question which is
+[0:35:27] um
+[0:35:29] given these results, uh
+[0:35:31] can we identify some
+[0:35:33] links, correspondences between the
+[0:35:36] abstract properties of the tasks and the
+[0:35:39] dynamic dynamical properties of the
+[0:35:41] networks. So uh
+[0:35:44] can we find something somehow more
+[0:35:46] formal that has to do with the patterns
+[0:35:49] that are expressed by the tasks and the
+[0:35:51] networks.
+[0:35:53] Uh
+[0:35:54] and
+[0:35:55] and I think
+[0:35:56] this is an important question research
+[0:35:59] question that might provide
+[0:36:02] um
+[0:36:03] insights also on on theoretical biology
+[0:36:06] for example.
+[0:36:07] And it is
+[0:36:10] and it resonates I think with the
+[0:36:12] platonic space uh
+[0:36:15] uh
+[0:36:16] just let me conclude with
+[0:36:19] acknowledgments because of course this
+[0:36:21] work was not done
+[0:36:24] in alone and
+[0:36:27] I thank colleagues and masters and PhD
+[0:36:29] students who in these years
+[0:36:31] uh collaborated
+[0:36:34] on this line of research.
+[0:36:39] That's it. Thank you very much.
+[0:36:42] &gt;&gt; Fantastic. Thank you so much. Uh, super
+[0:36:45] interesting
+[0:36:46] because uh, as as you know, it connects
+[0:36:49] to many issues that we're interested in
+[0:36:51] um, fundamentally and many experimental
+[0:36:54] things that we're doing now as well.
+[0:36:57] Um,
+[0:36:59] I guess yeah, let me well let me sort of
+[0:37:02] say how how I approach this and then I
+[0:37:04] will I want to hear what you have to say
+[0:37:06] about these issues and whether whether
+[0:37:08] you see it the same way.
+[0:37:09] One one of the things that I've been
+[0:37:10] really paying attention to recently is
+[0:37:13] the cost of competency. So wherever we
+[0:37:17] are on the cybernetic spectrum, whether
+[0:37:19] it's really simple homeostasis all the
+[0:37:21] way up through human high performance,
+[0:37:23] for example, we were I'm writing a paper
+[0:37:25] with
+[0:37:26] uh, a psychologist collaborator on
+[0:37:28] genius on human genius and what does it
+[0:37:30] mean, you know, when these human
+[0:37:32] creatives sort of download a symphony or
+[0:37:35] something like this that just sort of
+[0:37:36] you know comes to them and and and
+[0:37:38] mathematical you know geniuses like
+[0:37:40] Ramanujan and things like that. So so if
+[0:37:42] we look at the spectrum of different um,
+[0:37:44] cognitive performance of all different
+[0:37:46] kinds, then the question is how do you
+[0:37:48] pay for it? Because the standard
+[0:37:50] assumption both shared by both Darwin
+[0:37:53] and Paley was that order is very rare
+[0:37:55] and you have to either you need you know
+[0:37:58] a grand designer or you need millions of
+[0:38:00] years of of generate and test the trials
+[0:38:03] of selection. But either way, most of
+[0:38:05] the universe is junk and then you have
+[0:38:06] to sort of like really pay to get the
+[0:38:08] good stuff.
+[0:38:09] And the three things we study
+[0:38:12] conventionally we we think we we pay are
+[0:38:15] either by design, by selection, or by
+[0:38:17] training. Those are the kind of three
+[0:38:19] ways that
+[0:38:20] so so I'm really interested in things
+[0:38:22] that escape all of that the rate where
+[0:38:24] you have more than you put in, which I
+[0:38:25] think is so so Stewart obviously
+[0:38:28] uh,
+[0:38:29] made a huge contribution in this right
+[0:38:31] by by pointing out that actually you can
+[0:38:32] get some order for free.
+[0:38:34] But I think it goes way deeper than
+[0:38:36] that. It's not just order that you get
+[0:38:37] for free as far as I can tell and we've
+[0:38:39] now seen many different examples, both
+[0:38:41] biological and computational.
+[0:38:43] What you get for free is not just order,
+[0:38:45] it's things that are recognizable to
+[0:38:47] behavior scientists and you've you've
+[0:38:48] shown some nice nice examples here.
+[0:38:51] So
+[0:38:52] it it it's it seems to me that we have
+[0:38:55] to say that
+[0:38:57] when you make these systems where you
+[0:38:59] don't directly pay for specific
+[0:39:01] competencies, you are drawing
+[0:39:04] something extra that currently we don't
+[0:39:06] include in our calculations when you
+[0:39:08] know
+[0:39:09] like you you said something very
+[0:39:10] important that if I were to do this by
+[0:39:12] hand I would need to write some code for
+[0:39:14] it. I think that's that's really
+[0:39:15] critical when we do this if you're going
+[0:39:17] to pay someone to implement it they will
+[0:39:19] charge you for for time to write code,
+[0:39:21] right?
+[0:39:23] So
+[0:39:24] so so when we get these things then then
+[0:39:26] it's important to to study the space
+[0:39:28] from which they're drawn.
+[0:39:30] Is you know what are the what are the
+[0:39:31] different sets of things that you can
+[0:39:32] get under what circumstances do you get?
+[0:39:35] So this is this is the kind of thing
+[0:39:36] that we're very interested in is to
+[0:39:37] understand that space. How how do you
+[0:39:39] see this and how do you think about or
+[0:39:41] do you think about this this the the
+[0:39:44] free lunch aspect here that you we seem
+[0:39:46] to be getting more than we deserve with
+[0:39:48] with some of these systems.
+[0:39:50] &gt;&gt; Yeah to be to be frank I'm still puzzled
+[0:39:52] by this because
+[0:39:55] the I was surprised that about the
+[0:39:59] results that we got. It is clear that
+[0:40:01] the effort the computational effort
+[0:40:03] is not negligible because we have this
+[0:40:06] sequence of adaptations. But the point
+[0:40:08] is that we we didn't run sophisticated
+[0:40:11] optimization techniques.
+[0:40:14] So
+[0:40:17] one might say okay I have
+[0:40:19] I start with
+[0:40:21] a very large
+[0:40:24] set of possible dynamics. So these are
+[0:40:26] for free because are are produced by the
+[0:40:28] network.
+[0:40:31] And you just have to pick the one that
+[0:40:33] suits for you.
+[0:40:35] But
+[0:40:37] this would mean to count them all or to
+[0:40:39] enumerate them all and they are too
+[0:40:41] many.
+[0:40:42] So here there are two things that are
+[0:40:45] are puzzling concerning the experiments
+[0:40:47] I made.
+[0:40:48] Uh, the first one is that
+[0:40:51] um, indeed we have these finite size
+[0:40:54] networks,
+[0:40:56] a hundred, a thousand nodes which is
+[0:40:59] let's say not not very small network but
+[0:41:01] but still uh,
+[0:41:04] and it is
+[0:41:06] possible just to find by
+[0:41:09] adapting the coupling with the
+[0:41:11] environment find the one that works.
+[0:41:14] And it's just a matter of a kind of
+[0:41:17] uh, simple
+[0:41:20] rather simple stochastic ascent if I
+[0:41:22] want to optimize to maximize a function.
+[0:41:26] So this this is rather puzzling because
+[0:41:29] uh,
+[0:41:30] they are they do not come for free
+[0:41:33] because we we need to to run computation
+[0:41:37] for that.
+[0:41:38] Uh,
+[0:41:39] but
+[0:41:40] to be honest uh,
+[0:41:43] I expected to pay more
+[0:41:46] for that.
+[0:41:47] Um,
+[0:41:49] so it um,
+[0:41:50] one of the answers uh,
+[0:41:53] could be that
+[0:41:56] these systems
+[0:41:57] are
+[0:41:59] um,
+[0:42:00] made of intertwined feedback loops
+[0:42:04] uh,
+[0:42:05] that
+[0:42:06] might be also in might be imagined also
+[0:42:09] in visualized at different
+[0:42:14] with a hierarchy of of levels of of
+[0:42:17] feedbacks.
+[0:42:18] Um,
+[0:42:20] and maybe this is common to to living
+[0:42:24] organisms also.
+[0:42:27] And probably this intertwined uh,
+[0:42:30] feedbacks uh, not just on each layer but
+[0:42:34] let's call it different layers,
+[0:42:35] different levels
+[0:42:37] uh,
+[0:42:38] can probably be uh,
+[0:42:40] explored in parallel.
+[0:42:44] Um,
+[0:42:46] but but it's just
+[0:42:49] a a
+[0:42:50] and it it should be tested. That's why
+[0:42:52] I'm I I concluded with the question,
+[0:42:54] because it's
+[0:42:55] something that is still puzzling me.
+[0:43:00] I
+[0:43:01] I don't see this completely free.
+[0:43:03] So it's not
+[0:43:05] free lunch.
+[0:43:06] But it is not
+[0:43:08] still not something connected to the
+[0:43:10] fact that the system self-organize,
+[0:43:12] because there is no self-organization
+[0:43:14] here.
+[0:43:16] We have this network and we just
+[0:43:18] couple it to to the to the environment.
+[0:43:24] So this is my view, but no answers
+[0:43:26] for the moment.
+[0:43:27] &gt;&gt; Well, very I mean, I'll tell you I'm
+[0:43:29] very
+[0:43:30] first of all, I agree that it's not
+[0:43:31] entirely free. It's not a free lunch.
+[0:43:33] It's a heavily discounted or some sort
+[0:43:35] of subsidized lunch, you know. We we pay
+[0:43:37] a little bit, but we get more than than
+[0:43:39] than we pay. And and I'm very interested
+[0:43:41] in the source of this of the subsidy.
+[0:43:44] But I'm also very happy to hear that you
+[0:43:46] were surprised, because what I find
+[0:43:49] nowadays when I talk about this and I I
+[0:43:51] give talks on this stuff and I have many
+[0:43:52] examples both computational and
+[0:43:54] biological where this happens,
+[0:43:56] what I find is something quite
+[0:43:57] interesting, especially among computer
+[0:43:59] sciences, but also the biologists doing.
+[0:44:01] They're very good at readjusting their
+[0:44:03] priors. So as soon as they see the
+[0:44:05] effect, they go, oh, I guess that's what
+[0:44:08] happens in our world. And they say, no
+[0:44:09] wait, it's amazing. Like what do you
+[0:44:11] mean? And they say,
+[0:44:12] you know, these are these are just
+[0:44:14] complex things that happen in our world.
+[0:44:16] And and and it sort of resets the floor
+[0:44:18] for what the what the expectation is.
+[0:44:20] And I think it's important not to do
+[0:44:22] that. It's almost like
+[0:44:24] to me it's like the way that people
+[0:44:26] study drugs with placebo effects. So
+[0:44:29] they will subtract, right, the effect of
+[0:44:31] you know, you helped the 60% of the
+[0:44:32] patients, the placebo helped 30, so my
+[0:44:35] drug is 30% effective. That's great, but
+[0:44:37] you just lost this very important fact
+[0:44:39] that how come the placebo worked? So
+[0:44:42] I think it's really important not to
+[0:44:44] lose our wonder at these things. And the
+[0:44:46] way I do it now is when I when I give
+[0:44:48] these talks, I first I first state the
+[0:44:51] design spec. So I say, what if you
+[0:44:54] something that does XYZ?
+[0:44:56] How much effort do you think it would
+[0:44:58] be? And so, so first you you know, you
+[0:45:00] you make people guess first of all, well
+[0:45:02] I would need to design this or that or I
+[0:45:03] would need to select for this, I need
+[0:45:05] this many generations. And then you can
+[0:45:07] show them the surprise that actually you
+[0:45:09] don't need that. So because otherwise,
+[0:45:11] you know, when people see this first,
+[0:45:12] it's very easy to just sort of re
+[0:45:15] readjust your your your expectations. I
+[0:45:17] think it's important to keep
+[0:45:20] yeah.
+[0:45:23] So so we have we have a bunch of stuff
+[0:45:25] actually come coming on this and I'm
+[0:45:27] going to send you I'm going to send you
+[0:45:28] some drafts and things to take a look at
+[0:45:30] because I really want your opinion. I
+[0:45:32] think you you like I I haven't heard
+[0:45:34] anybody else talking about this you
+[0:45:35] know, so so so it's very
+[0:45:37] yeah, it's very important to to get
+[0:45:40] &gt;&gt; Yeah, it'd be it'd be great. Just
+[0:45:43] another thing that I forgot to mention
+[0:45:46] in my answer before.
+[0:45:49] There are
+[0:45:50] there is also to to take into account
+[0:45:52] the fact that
+[0:45:53] all the tasks that
+[0:45:56] I we we used
+[0:45:59] have
+[0:46:00] some sort of
+[0:46:03] correlations.
+[0:46:05] So
+[0:46:06] and and also what happens in our
+[0:46:07] environment. If we consider the motor
+[0:46:10] feedback loop in robots,
+[0:46:12] so the fact that
+[0:46:14] there is this
+[0:46:16] loop causal loop
+[0:46:19] inside the robot
+[0:46:21] with the robot and the environment,
+[0:46:23] there are correlations usually. So
+[0:46:27] probably this
+[0:46:29] in abstract terms
+[0:46:34] could be somehow modeled and these
+[0:46:37] properties captured in such a way to
+[0:46:40] find if there is a match with the
+[0:46:42] dynamics of the network.
+[0:46:44] Because of course, there is no sense to
+[0:46:47] put the robot in a in a crazy and
+[0:46:49] completely random environment. There is
+[0:46:51] nothing to learn, nothing becomes
+[0:46:53] relevant.
+[0:46:54] But
+[0:46:55] in the task that I've used there are
+[0:46:59] at least
+[0:47:00] informally
+[0:47:02] I see lots of correlations.
+[0:47:05] And so it would be interesting to see
+[0:47:08] and
+[0:47:11] the what is the the amount of
+[0:47:13] correlation if if there is an amount of
+[0:47:15] correlation that can be quantified and
+[0:47:17] put in relation with the
+[0:47:19] effectiveness of networks.
+[0:47:22] I
+[0:47:23] thought about this but in in terms of
+[0:47:25] using complexity measures for the
+[0:47:27] environment for the task and for the
+[0:47:29] network and to see whether there are
+[0:47:31] some correlations or some relations
+[0:47:34] among them.
+[0:47:36] But
+[0:47:38] apart from toy examples I was not able
+[0:47:41] to to generalize the approach.
+[0:47:44] But I think also this should be taken
+[0:47:45] into account but this as
+[0:47:48] corresponding situation in in in life.
+[0:47:52] So there are
+[0:47:55] clear correlations in our environments
+[0:47:57] and and organisms exploit these
+[0:48:00] correlations. So it is not to to justify
+[0:48:03] the the effect but it is
+[0:48:07] to to emphasize the fact that we also I
+[0:48:09] should I think we should also consider
+[0:48:11] this
+[0:48:12] so this part so the environment the
+[0:48:14] properties
+[0:48:16] that are relevant the
+[0:48:18] that is relevant for the for the object
+[0:48:20] for the robot or the the agent.
+[0:48:24] &gt;&gt; Yeah.
+[0:48:25] Um
+[0:48:27] yeah well so so first of all there is a
+[0:48:29] preprint that we have out and the paper
+[0:48:32] will come shortly
+[0:48:34] using using this using biological
+[0:48:38] regulatory networks like this to play
+[0:48:40] video games.
+[0:48:42] And
+[0:48:43] you what we find is what you say that
+[0:48:45] that some of them are better at some
+[0:48:47] games than others and so we are trying
+[0:48:48] to figure out what is the
+[0:48:52] common to the games that that a given
+[0:48:54] network is good at and so you can kind
+[0:48:56] of make a you can make a family tree of
+[0:48:58] all the different a let the Atari suite
+[0:49:01] or something you know what do they all
+[0:49:02] have in common, what kind of tasks, what
+[0:49:04] kind of environment, what kind of
+[0:49:06] properties you can try to
+[0:49:08] you know
+[0:49:09] &gt;&gt; This is great.
+[0:49:10] &gt;&gt; You can you can try to figure out what's
+[0:49:11] in common so so there's there's some
+[0:49:13] stuff like that.
+[0:49:15] But also uh
+[0:49:18] have you have you looked in your in your
+[0:49:20] systems have you looked at the um
+[0:49:23] performance of random networks versus
+[0:49:25] biological networks?
+[0:49:27] &gt;&gt; No.
+[0:49:29] No, I haven't.
+[0:49:30] &gt;&gt; So so one of the things so this is
+[0:49:31] something that will be out soon is that
+[0:49:34] um
+[0:49:35] uh
+[0:49:36] it turns out so so there's a there's a
+[0:49:38] postdoc in my group Federico Pigozzi and
+[0:49:40] he
+[0:49:41] has really cool paper now looking at how
+[0:49:45] different at particular with with
+[0:49:47] respect to particular things that we're
+[0:49:49] interested in that's very important for
+[0:49:50] biology you know this this like this
+[0:49:52] ratchet
+[0:49:53] uh
+[0:49:54] whether the biological networks are
+[0:49:56] better than random networks
+[0:49:58] because because you might think that
+[0:49:59] random networks it's a haste needle in a
+[0:50:01] haystack situation and then what
+[0:50:03] evolution does over a billion you know
+[0:50:05] years is to pick out like select for the
+[0:50:07] good ones.
+[0:50:08] So what we find is that actually even
+[0:50:10] the random ones are very biased for
+[0:50:13] optimality with respect to this.
+[0:50:16] Not just disorder, not just criticality
+[0:50:19] or you know these kind of neutral things
+[0:50:20] but like very sort of powerful things
+[0:50:23] for cognition, for life these these
+[0:50:26] kinds of things
+[0:50:27] and
+[0:50:29] &gt;&gt; So no no relation with
+[0:50:31] criticality?
+[0:50:33] &gt;&gt; I not I not say there's no relation
+[0:50:35] because
+[0:50:36] there may be we looked I think we looked
+[0:50:38] and we didn't find too much but not this
+[0:50:40] but it's not just criticality there's
+[0:50:42] something there's something else
+[0:50:43] criticality might be important it might
+[0:50:44] be a requirement or something may may
+[0:50:46] maybe but but
+[0:50:48] you know um
+[0:50:50] it's what it is is well I'll give you
+[0:50:53] I'll give you a quick a quick preview.
+[0:50:54] So we showed
+[0:50:56] in several papers that these that these
+[0:50:59] kinds of papers
+[0:51:01] these kind of networks can be trained.
+[0:51:03] So if you you can you can train them and
+[0:51:05] they show habituation, sensitization,
+[0:51:07] Pavlovian conditioning, lots of things
+[0:51:09] out of the behavioral handbook you can
+[0:51:11] train them.
+[0:51:12] And what we found is that
+[0:51:14] as you train them
+[0:51:16] their causal emergence goes up. So the
+[0:51:18] integrated the integration goes up.
+[0:51:21] But when when you force them to forget
+[0:51:23] and this is really important because for
+[0:51:25] medical reasons there are many things
+[0:51:26] you would like to wipe from your
+[0:51:28] networks. When you force them to forget
+[0:51:30] the gains that they had made in
+[0:51:31] integration do not go down.
+[0:51:33] So what happens is that the learning
+[0:51:36] makes the integration higher. The
+[0:51:37] integration makes for better learning.
+[0:51:39] If they forget anything they don't lose
+[0:51:42] the gains. So it becomes an asymmetric
+[0:51:45] one directional sort of ratchet that
+[0:51:48] goes upwards in intelligence or learning
+[0:51:51] capacity and agency. This this this like
+[0:51:53] collective integration. It's the it's
+[0:51:55] this unbelievable thing that that the
+[0:51:57] evolution gets for free because it's
+[0:51:58] it's asymmetric and it points in the
+[0:52:00] right direction up.
+[0:52:02] And what's what's and so then I asked
+[0:52:04] okay this this amazing quality surely
+[0:52:06] you know let's let's find out if
+[0:52:08] evolution had to optimize the hell out
+[0:52:10] of it. And it turns out that no actually
+[0:52:12] evolution had very little to do because
+[0:52:14] the material already comes
+[0:52:16] pre-optimized
+[0:52:18] for this kind of thing.
+[0:52:22] &gt;&gt; So just to to to check my understanding
+[0:52:24] it is as it if
+[0:52:28] the the system or the network
+[0:52:31] had learned a task
+[0:52:35] then it is forced to
+[0:52:37] to forget this.
+[0:52:39] But
+[0:52:40] its structure or the
+[0:52:44] parameter setting of the network that
+[0:52:46] that we are observing now
+[0:52:49] still keeps the general capabilities
+[0:52:52] that make it
+[0:52:54] effective for that task.
+[0:52:57] &gt;&gt; Slightly slightly different. So so so
+[0:52:59] first of all we don't change the
+[0:53:00] parameters. Our networks are completely
+[0:53:03] frozen. So this is dynamical system
+[0:53:04] learning. We we don't touch the we we
+[0:53:06] don't there are no you know node weight
+[0:53:10] changes. There are no like synaptic
+[0:53:12] plasticity, nothing like that. This is
+[0:53:14] the only dynamical system learning.
+[0:53:16] And what happens is that when you force
+[0:53:19] it to forget
+[0:53:20] the functional memory disappears. It no
+[0:53:23] longer reacts as if it remembered. So
+[0:53:26] you
+[0:53:27] functionally you have wiped the memory
+[0:53:29] but you haven't really wiped everything
+[0:53:31] because
+[0:53:33] if you look at the at the at the level
+[0:53:35] of integration that went up as it
+[0:53:37] learned, it hasn't come back down. So
+[0:53:38] there's still something about the the
+[0:53:40] the causal architecture. You know you
+[0:53:42] know what it reminds me of?
+[0:53:44] There's a story in
+[0:53:47] the the the the well-known book the man
+[0:53:49] who mistook his wife for
+[0:53:51] &gt;&gt; Yes, yes.
+[0:53:52] &gt;&gt; Remember the story of the guy the guy
+[0:53:54] who couldn't form new memories and so he
+[0:53:57] kept introducing himself to the you know
+[0:53:59] to the to the psychiatrist and one time
+[0:54:01] he poked him with a pin and he comes
+[0:54:03] back in 10 seconds later and the guy
+[0:54:05] says do you remember me? No. Would you
+[0:54:06] like to make shake my hand? I don't
+[0:54:08] really shake hands, you know. So like he
+[0:54:10] didn't have the actual memory, but he
+[0:54:13] had some you know there was
+[0:54:15] &gt;&gt; I see. Yes.
+[0:54:16] &gt;&gt; something something left over.
+[0:54:19] So so that's what happens here and not
+[0:54:23] all of them do this of course. So now
+[0:54:24] the question is well how many like what
+[0:54:26] percentage of the random networks and
+[0:54:28] what percentage of the biological
+[0:54:30] networks have this amazing property,
+[0:54:32] right? That it's this this unilateral
+[0:54:34] like they can gain this they can gain
+[0:54:37] integration better than they lose it.
+[0:54:40] So
+[0:54:41] it turns out that the that the random
+[0:54:43] networks already are very heavily biased
+[0:54:46] for this.
+[0:54:48] They already
+[0:54:49] so so you can you know you can imagine
+[0:54:51] like you know how they say in the
+[0:54:52] physics
+[0:54:53] the the the the fine the constants of of
+[0:54:57] the universe are somehow like tuned,
+[0:54:59] right? There's like some kind of fine
+[0:55:00] tuning.
+[0:55:01] &gt;&gt; Yeah, fine tuned.
+[0:55:02] &gt;&gt; I don't know. It looks to me like the
+[0:55:04] math might be fine tuned too a little
+[0:55:06] bit.
+[0:55:07] &gt;&gt; [laughter]
+[0:55:08] &gt;&gt; I
+[0:55:08] &gt;&gt; see. I see what you mean.
+[0:55:11] &gt;&gt; It's it's really fortunate and
+[0:55:12] convenient that this is that the math
+[0:55:14] just happens to work like this. Like
+[0:55:16] that's that seems that seems important
+[0:55:18] to me.
+[0:55:19] &gt;&gt; Yeah, but this might explain the our way
+[0:55:23] of
+[0:55:24] learning and improving ourselves in the
+[0:55:26] sense that
+[0:55:29] if you if you learn a skill
+[0:55:33] then this could be used in completely
+[0:55:36] different areas.

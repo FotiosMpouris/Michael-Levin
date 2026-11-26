@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22",
- "checked_at": "2026-11-22 10:36 AM ET",
+ "updated": "2026-11-26",
+ "checked_at": "2026-11-26 9:29 AM ET",
  "sources": {
   "video": "yt-dlp flat playlist of youtube.com/@drmichaellevin/videos + per-video upload_date; guest interviews and talks on other channels found by YouTube search and checked by hand (item has appearance: guest)",
   "paper": "Crossref works filtered by ORCID 0000-0001-7292-8084 (only works where his ORCID is attached)",
@@ -8,6 +8,54 @@
   "blog": "thoughtforms.life RSS feed"
  },
  "items": [
+  {
+   "kind": "video",
+   "date": "2026-11-26",
+   "title": "\"Percepia\" by Patricia Craja",
+   "url": "https://www.youtube.com/watch?v=OqrdJbbjxU4",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 58:24",
+   "page": "2026-11-26-percepia-patricia-craja"
+  },
+  {
+   "kind": "video",
+   "date": "2026-11-25",
+   "title": "\"Solving Rare at Scale\" by Richard Novak",
+   "url": "https://www.youtube.com/watch?v=xTVa-wsEf5I",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 47:34",
+   "page": "2026-11-25-solving-rare-at-scale-richard-novak"
+  },
+  {
+   "kind": "post",
+   "date": "2026-11-25",
+   "title": "Shares Richard Novak's talk on Unravel: \"Incredibly proud of the team at unravel.bio\" (\"I don't work for Unravel but it's the first company our research contributed to, and I am involved\")",
+   "url": "https://x.com/drmichaellevin/status/2125588669843050613",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "video",
+   "date": "2026-11-24",
+   "title": "\"Shaping dynamics through the environment\" by Andrea Roli",
+   "url": "https://www.youtube.com/watch?v=Uyc5weX460Q",
+   "source": "YouTube @drmichaellevin",
+   "note": "Duration 55:38",
+   "page": "2026-11-24-shaping-dynamics-through-environment-andrea-roli"
+  },
+  {
+   "kind": "post",
+   "date": "2026-11-22",
+   "title": "\"Galls!\" (links to his thoughtforms.life post on plant galls)",
+   "url": "https://x.com/drmichaellevin/status/2124618926327738609",
+   "source": "X @drmichaellevin"
+  },
+  {
+   "kind": "post",
+   "date": "2026-11-22",
+   "title": "A short teaser from Morphoceuticals, \"the startup company seeking to apply our work on bioelectricity to human regeneration and repair\": \"@KaplanLab_Tufts and I are the scientific co-founders\" (\"we're not employees of the company\")",
+   "url": "https://x.com/drmichaellevin/status/2124468610772951045",
+   "source": "X @drmichaellevin"
+  },
   {
    "kind": "video",
    "date": "2026-11-18",
@@ -692,6 +740,14 @@
    "title": "Biophysical Intelligence Between Genotype and Phenotype",
    "url": "https://thoughtforms.life/biophysical-intelligence-between-genotype-and-phenotype/",
    "source": "thoughtforms.life"
+  },
+  {
+   "kind": "blog",
+   "date": "2023-10-06",
+   "title": "Galls",
+   "url": "https://thoughtforms.life/galls/",
+   "source": "thoughtforms.life",
+   "note": "First published 2023-10-06 and updated 2026-11-22, the day he shared it on X."
   }
  ]
 }

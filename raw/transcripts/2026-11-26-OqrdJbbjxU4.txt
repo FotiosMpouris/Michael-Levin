@@ -1,0 +1,1534 @@
+[0:00:00] present what I many presented also at um
+[0:00:02] all the conference this summer. Um, so
+[0:00:05] maybe I'll give you a quick background.
+[0:00:06] Still, my name is Patricia. Uh, I have a
+[0:00:08] background in mathematics and statistics
+[0:00:10] and worked in well, AI is like a data
+[0:00:13] science freelancer and different
+[0:00:15] different startups and jobs, but but
+[0:00:17] mainly I was interested in um you know,
+[0:00:20] I think consciousness since uh well, I
+[0:00:22] guess since I was a child.
+[0:00:24] Um, different reasons, but many also
+[0:00:26] personal reason and I think it's
+[0:00:28] important because it motivates a lot of
+[0:00:29] what I'm doing. So so I'll I'll just say
+[0:00:31] that maybe upfront.
+[0:00:33] Um, so uh so yes, so actually um
+[0:00:37] my mom passed away from cancer when I
+[0:00:40] was young like five years ago um if if
+[0:00:43] when I was five years old, sorry. And um
+[0:00:46] and but she developed cancer while she
+[0:00:48] was pregnant with me and I do think it
+[0:00:50] did something to my perception.
+[0:00:52] Um, and um and then growing up as a
+[0:00:55] child, I think because of that I just
+[0:00:58] like you know, kept
+[0:00:59] um kept kind of communicating with her
+[0:01:04] even though she wasn't there, but it was
+[0:01:05] very natural to me to do that and I kept
+[0:01:08] that into adulthood.
+[0:01:10] Um, but I also like just like always was
+[0:01:12] really interested to like, yeah, where
+[0:01:13] does information come from? Where is she
+[0:01:15] now? And also just just generally felt
+[0:01:18] very natural. It felt very natural to me
+[0:01:20] to also like communicate with plants
+[0:01:23] around me or with just like
+[0:01:26] with with like nature. Um, and it is
+[0:01:29] interesting because I think like my
+[0:01:31] family or my my dad, my sister were not
+[0:01:33] like they were always a bit like what is
+[0:01:35] she saying or doing? But I kind of was
+[0:01:38] really interested in that and
+[0:01:40] um and I think that's the reason I
+[0:01:42] ultimately went into studying
+[0:01:43] mathematics because I wanted to
+[0:01:44] understand a language that was deeper in
+[0:01:46] in explaining like what's going on. And
+[0:01:48] then
+[0:01:49] um growing up and um uh um in my early
+[0:01:52] 20s, I was a typical person to have
+[0:01:55] somatic symptoms. So I would go from
+[0:01:57] doctor to doctor and they couldn't find
+[0:01:59] like for five years wouldn't get my
+[0:02:01] period and they couldn't find anything
+[0:02:03] physiological.
+[0:02:04] Um so because I studied math and
+[0:02:06] statistics and I was working at the time
+[0:02:08] at a pharma company on like actually
+[0:02:11] analyzing adverse drug side effects. I
+[0:02:14] was really just wondering why nobody
+[0:02:15] asked this question of what's the
+[0:02:17] influence of
+[0:02:19] guess perception or like the mind on on
+[0:02:21] the body and it set me on like I think a
+[0:02:24] 10-year journey for myself to try to
+[0:02:26] understand why can't psychologists or
+[0:02:29] doctors measure what's going on? Where
+[0:02:30] does my symptoms or experience come
+[0:02:32] from?
+[0:02:33] Um and I started eventually meditating
+[0:02:36] and um and it was interesting after like
+[0:02:38] six months of meditation this was like
+[0:02:41] 2019 my my symptoms kind of resolved and
+[0:02:44] then also that set me on the track of
+[0:02:46] what in the meditation makes that my
+[0:02:49] symptoms resolve. Eventually through
+[0:02:51] like other like coincidences or not
+[0:02:54] coincidences I
+[0:02:56] um I was working at the time on like
+[0:02:57] Bayesian models for a VC also for
+[0:03:00] personality modeling um and
+[0:03:03] um and somehow this question is kept of
+[0:03:05] like okay every time I'd hear this word
+[0:03:07] base my body started tingling and I like
+[0:03:10] kind of was like okay let let me let me
+[0:03:12] follow that and I stumbled up on active
+[0:03:13] inference and then really it clicked
+[0:03:15] when I read Andy Clark's books about
+[0:03:18] like yeah surfing and certainty but also
+[0:03:20] um the way he framed this idea of um
+[0:03:26] of what if we could um like build a
+[0:03:29] periodic table of experiential variation
+[0:03:32] that based on some input factors like
+[0:03:34] combine some input parameters in active
+[0:03:36] inference we could yield um like like a
+[0:03:41] periodic table he called it of different
+[0:03:43] experiences um and so that kind of then
+[0:03:46] kept me going and and following this
+[0:03:48] research and I'll start this now but I
+[0:03:50] just wanted to give you like a little
+[0:03:51] bit of a of a background.
+[0:03:53] Um
+[0:03:54] okay so um so yeah so in this talk I'm
+[0:03:59] I'm talking about like this idea of can
+[0:04:01] we like um like of Perceptia is what I'm
+[0:04:04] building currently computational
+[0:04:06] infrastructure to map and navigate the
+[0:04:09] what I call the space of perceptual
+[0:04:10] diversity and intelligence and and I'd
+[0:04:12] be curious here to hear like how you I
+[0:04:14] know you talk about it in terms of
+[0:04:15] cognitive diversity um
+[0:04:18] [snorts] and so um
+[0:04:21] so yeah so uh quick summary like what
+[0:04:24] I'd love to like uh say here is uh like
+[0:04:27] what are the perceptual architectures
+[0:04:29] and beliefs world models uh of possible
+[0:04:32] minds and can Perceptia be a measurement
+[0:04:35] instrument for perceptual phenotyping
+[0:04:38] that can be read from language so that
+[0:04:41] currently the way [clears throat] um uh
+[0:04:43] perceptual phenotyping is is done by
+[0:04:45] like
+[0:04:46] labs like Ryan Smith labs is mainly
+[0:04:48] through behavioral um um tasks um
+[0:04:52] and the question that I was really
+[0:04:54] interested in is can we read can we do
+[0:04:57] that from um tracking longitudinal
+[0:04:59] conversations and and infer that from
+[0:05:01] language um and so I want to show that I
+[0:05:04] want to show two experiments that we run
+[0:05:06] that shows just that there that I think
+[0:05:08] there is an observable that there's a
+[0:05:10] mapping between what we observe in
+[0:05:12] personality and belief dynamics um and
+[0:05:15] the underlying generative parameters
+[0:05:17] um and then if that were were possible
+[0:05:20] and we could do that scalably and we
+[0:05:21] could like um um gather lots of data
+[0:05:25] points because I think that is
+[0:05:26] ultimately what's needed to to be able
+[0:05:28] to chart this periodic table or
+[0:05:30] landscape of perceptual variation and
+[0:05:33] could that enable charting this and um
+[0:05:35] on the longer horizon
+[0:05:37] could we detect um perceptual um
+[0:05:41] misweighings uh upstream of where of um
+[0:05:44] of where it manifests in biology like
+[0:05:47] something for cancer does it show up
+[0:05:48] first in some um perceptual space before
+[0:05:52] it becomes visible in biology
+[0:05:54] um and then yeah I'd be interested to
+[0:05:57] see if we can um for example uh predict
+[0:06:01] these parameters
+[0:06:02] from communicating also with like novel
+[0:06:05] whether it's like xenobots or cancer
+[0:06:07] cells or or or or whatever you guys are
+[0:06:10] working on. [clears throat]
+[0:06:11] Um, okay. So I don't think I need to say
+[0:06:15] much about this, but like generally when
+[0:06:17] I talk about perception, I talk really
+[0:06:18] about the inferential process by which a
+[0:06:20] mind builds and updates its world model,
+[0:06:22] so um like active inference based.
+[0:06:25] Um, and
+[0:06:27] um and then when I mean perceptual
+[0:06:30] diversity, I mean like how a mind
+[0:06:32] experiences and constructs reality and
+[0:06:34] when I talk about what I call I like to
+[0:06:36] call perceptual intelligence is how
+[0:06:38] deeply um a mind models the world and
+[0:06:42] how flexibly it can revise those models.
+[0:06:44] Um,
+[0:06:46] and um
+[0:06:49] and so yeah active inference based so
+[0:06:53] how a mind perceives, learns and acts
+[0:06:55] um is governed by a small set of latent
+[0:06:58] generative parameters. So active
+[0:07:00] inference proposes specifically that
+[0:07:02] precision parameters um are these
+[0:07:04] primary control
+[0:07:06] axes or variables of perceptual
+[0:07:08] variation. Um,
+[0:07:11] and um um so sensory precision, how much
+[0:07:14] weight the system places on incoming
+[0:07:16] sensory evidence, overweighing that was
+[0:07:18] associated with autism spectrum
+[0:07:21] um where the sensory stream fields
+[0:07:23] overwhelming leading to individuals to
+[0:07:25] seek out environments that are more
+[0:07:26] highly predictable where the world
+[0:07:28] models are more more stable. Over prior
+[0:07:30] precision, how much weight is placed on
+[0:07:32] prior beliefs and expectations um
+[0:07:34] overweighing that is implicated in
+[0:07:36] hallucinations, placebo
+[0:07:38] and in um medically unexplained
+[0:07:41] symptoms, so where strong expectations
+[0:07:44] or high confidence on on certain priors
+[0:07:46] override the sensory evidence and
+[0:07:47] produce then the experiences that
+[0:07:49] matches the predictions.
+[0:07:52] Um,
+[0:07:53] and here again like the the idea maybe
+[0:07:55] that not just for medically unexplained
+[0:07:57] symptoms, but
+[0:07:58] chronic um symptoms in general that
+[0:08:01] there might have some underlying um
+[0:08:03] implications of of overweighing um of of
+[0:08:06] priors.
+[0:08:07] Um, and then policy and preference
+[0:08:09] precision, how confidently the system
+[0:08:11] selects goal directed action over habit
+[0:08:12] and how it balances reward seeking
+[0:08:14] against information seeking. And then
+[0:08:16] finally meta precision, the precision
+[0:08:18] over the system's own precision
+[0:08:19] assignments.
+[0:08:20] The beautiful loop paper by Laconan and
+[0:08:23] Friston and colleagues proposed it at
+[0:08:25] like a hyper parameter that governs how
+[0:08:26] flexibly the the system orchestrates
+[0:08:30] these first order wings and
+[0:08:32] they propose it as a
+[0:08:36] as a mechanism underlying epistemic
+[0:08:38] depth, which they argued in the paper
+[0:08:40] was central to consciousness and maybe
+[0:08:42] the basis of general intelligence.
+[0:08:46] So okay, so for perceptual phenotyping,
+[0:08:49] I think what's important is what is
+[0:08:51] important is that what matters is not
+[0:08:55] any single parameter in isolation, but
+[0:08:57] their relative wing
+[0:08:59] that produces what is
+[0:09:01] commonly called a perceptual or
+[0:09:03] computational phenotype.
+[0:09:05] And in in my case, what I was I'm I'm
+[0:09:08] interested in is specifically first
+[0:09:11] starting with the ratio of prior to
+[0:09:14] sensory precision.
+[0:09:16] And then and then
+[0:09:18] and then adding adding more parameters
+[0:09:20] to that, but first sensory to prior
+[0:09:22] precision and then actually meta
+[0:09:23] precision. I'd be I'm also very like
+[0:09:26] interested and I think it's possible to
+[0:09:27] infer that from language too.
+[0:09:31] So
+[0:09:33] okay, so then the yeah, the general idea
+[0:09:35] that different configurations of these
+[0:09:38] parameters
+[0:09:41] might produce fundamentally different
+[0:09:43] minds that form a landscape with stable
+[0:09:46] tribes, types, developmental
+[0:09:48] trajectories and transition points.
+[0:09:50] But that we cannot or have not charted
+[0:09:53] this landscape yet
+[0:09:55] because I think the first problem to
+[0:09:57] solve is that we need first a technology
+[0:10:00] that can measure these parameters or
+[0:10:02] where a mind lies within it
+[0:10:05] and how they change over time and that
+[0:10:06] if we could do that, then we it could
+[0:10:08] enable charting this landscape.
+[0:10:11] Um,
+[0:10:13] [clears throat]
+[0:10:13] so then the research question I'm
+[0:10:15] interested in and working on is can we
+[0:10:16] recover the latent precision parameters
+[0:10:18] of a mind's generative model from
+[0:10:20] natural conversation through reverse
+[0:10:22] inference from observable observable
+[0:10:25] variation in personality and belief
+[0:10:28] dynamics.
+[0:10:29] Um,
+[0:10:30] and
+[0:10:31] and this sits um
+[0:10:34] alongside what uh a paper also that came
+[0:10:37] out this year from Da Costa and
+[0:10:38] colleagues recently formalized as the
+[0:10:40] Rosetta Stone hypothesis for neuro
+[0:10:43] neuro phenomenology that beliefs serve
+[0:10:46] as a generative passage between
+[0:10:48] behavior, neural dynamics, and
+[0:10:50] experience.
+[0:10:51] Um, and what we're interested in doing
+[0:10:54] is if we can um if we can um access both
+[0:10:58] the beliefs that a person or a mind or
+[0:11:01] whoever we're communicating with
+[0:11:03] hold and um and reverse infer from from
+[0:11:06] the dynamics of how these beliefs change
+[0:11:09] over time uh the precision parameters
+[0:11:12] that that weigh those um through
+[0:11:13] language.
+[0:11:15] Um, and our hypothesis is that we can do
+[0:11:17] that. Um,
+[0:11:19] and um and to do that we build uh
+[0:11:23] Perceptia which we call a perceptually
+[0:11:25] intelligent uh layer um that sits
+[0:11:28] between um a user and any large language
+[0:11:31] model to locate and navigate a mind uh
+[0:11:33] through linguistic interaction. Um, and
+[0:11:36] so as the conversation unfolds uh we
+[0:11:38] track probability distributions over
+[0:11:40] personality and belief dimensions.
+[0:11:43] Um, and we update that turn by turn. So
+[0:11:46] with every new message we update um the
+[0:11:49] the the probability distributions.
+[0:11:52] Um, so it captures longitudinal
+[0:11:54] trajectories um not snapshots and
+[0:11:57] distributions not point estimates like
+[0:11:59] current for example personality tests
+[0:12:01] do.
+[0:12:02] Um,
+[0:12:03] and as a uh first proof of like concept
+[0:12:07] that just a mapping generally from
+[0:12:08] personality to underlying
+[0:12:11] generative um mechanisms or parameters
+[0:12:14] is possible from language.
+[0:12:16] We did two experiments
+[0:12:19] and
+[0:12:21] so
+[0:12:22] we took the big five
+[0:12:25] because it's
+[0:12:26] yeah like the most validated personality
+[0:12:28] assessment
+[0:12:31] and it represents some like first course
+[0:12:33] attractor in the personality space
+[0:12:35] and also because a theoretical
+[0:12:38] correspondence has been proposed between
+[0:12:40] the big five traits and active inference
+[0:12:42] parameters by
+[0:12:44] Adam Zaffron and De Young and we wanted
+[0:12:47] to see if we can do a test empirically.
+[0:12:51] So what we did is we used synthetic LLM
+[0:12:54] personas as a simulation environment
+[0:12:59] for two reasons. First in in humans
+[0:13:03] we don't know these parameters so I
+[0:13:04] think that's always one of the biggest
+[0:13:05] problems that these parameters are
+[0:13:07] latent and so
+[0:13:09] we can't directly measure or observe
+[0:13:11] them.
+[0:13:12] So we needed a setup where we know them
+[0:13:16] by construction.
+[0:13:18] So
+[0:13:20] that's
+[0:13:21] reason one where we said okay we use
+[0:13:24] synthetic LLM personas and then
+[0:13:27] we also LLM also already span a wide
+[0:13:30] range of psychological data.
+[0:13:33] So then we prompted
+[0:13:35] 125 Claude based LLM personas
+[0:13:39] to approximate low medium and high
+[0:13:42] sensory prior and policy precision so
+[0:13:45] over a grid of of different values of
+[0:13:47] these parameters
+[0:13:50] we we prompted them to to behaviorally
+[0:13:53] approximate that through language which
+[0:13:56] I know it it's a bit flawed here but
+[0:13:58] still like as as a first
+[0:14:00] proof of concept
+[0:14:02] and and then we replicated each prompt
+[0:14:05] five times
+[0:14:07] like each each combination of parameters
+[0:14:09] we replicated five times
+[0:14:11] which gave us 625 personas
+[0:14:15] and then each of these personas went
+[0:14:17] into a conversation with another LLM.
+[0:14:21] And like just a general conversation. I
+[0:14:23] think no no specific questions like but
+[0:14:25] not talking about directly about
+[0:14:27] personality like how how like how the
+[0:14:29] day went and or like just general not
+[0:14:32] nothing very specific to a personality
+[0:14:34] but also not mentioning these parameters
+[0:14:36] that that that was part of the prompt.
+[0:14:39] And
+[0:14:43] And so
+[0:14:44] tract a probability distributions over
+[0:14:46] big five traits
+[0:14:47] and at the end of each conversation the
+[0:14:50] each LLM persona also completed
+[0:14:53] a short big five self-report.
+[0:14:57] And so across the diverse configurations
+[0:15:01] parameter configurations that resulted
+[0:15:03] in these LLMs 125 LLMs and synthetic
+[0:15:06] LLMs
+[0:15:07] conversation inferred big five so
+[0:15:09] without having to ask questionnaires or
+[0:15:11] questions just from from the
+[0:15:13] conversation
+[0:15:16] converged with the self-reports of the
+[0:15:18] personas at a high correlation of 0.86
+[0:15:22] to 0.95
+[0:15:24] per trait.
+[0:15:25] So two different measurements one answer
+[0:15:28] and the same prompt yields the same
+[0:15:31] personality with a standard deviation of
+[0:15:34] just 0.5
+[0:15:36] 051 across the five replicates of each
+[0:15:39] configuration.
+[0:15:42] And then we were oh sorry yeah this was
+[0:15:45] it.
+[0:15:47] And and then
+[0:15:50] we
+[0:15:51] looked at the heat map between the
+[0:15:54] correlations between the precision
+[0:15:55] parameters
+[0:15:58] and each big five trait across the
+[0:16:00] personas and
+[0:16:03] and found that the structure was more
+[0:16:06] more or less like consistent with with
+[0:16:07] the theoretical active inference account
+[0:16:10] of of the big five
+[0:16:12] that proposed that
+[0:16:14] tonic dopamine underlies both policy
+[0:16:17] precision like confident deterministic
+[0:16:19] action selection
+[0:16:20] uh and extraversion uh so the two two
+[0:16:23] should co-vary and they did in our
+[0:16:25] experiment and policy precision also
+[0:16:27] tracks conscientiousness positively and
+[0:16:29] neuroticism negatively
+[0:16:32] um
+[0:16:33] and um
+[0:16:35] and um and we also saw found that policy
+[0:16:39] precision generally was the most
+[0:16:40] strongly recovered um and we thought
+[0:16:43] maybe because it maps onto the action
+[0:16:45] behavior related traits like big five
+[0:16:46] captures best um and and then we asked
+[0:16:50] ourselves how much big five space do
+[0:16:52] these synthetic personas spend
+[0:16:54] um and how far away from Claude's based
+[0:16:56] personality were um where we able to
+[0:17:00] move them um and where do they fall
+[0:17:03] relative to real human um big five like
+[0:17:06] inside the range of human big five space
+[0:17:09] or outside of it um
+[0:17:11] and so we looked at a parallel
+[0:17:14] coordinate plot so here each gray line
+[0:17:16] is the mean big five profile of one of
+[0:17:19] our 125
+[0:17:21] configurations
+[0:17:23] um and the blue band is the space
+[0:17:26] covered by real humans like taken from
+[0:17:28] an online available data set over
+[0:17:31] 400,000 human big five self-reports
+[0:17:34] um and the black dashed line is Claude's
+[0:17:37] own unprompted baseline um so unprompted
+[0:17:41] um personality assessed uh
+[0:17:43] with Perceptium
+[0:17:45] from from conversation just the way we
+[0:17:47] assessed the others
+[0:17:49] and [snorts] so we saw that the cohort
+[0:17:52] first of all that the cohort of the
+[0:17:54] synthetic persona spans a wide range of
+[0:17:57] big five across all five traits so they
+[0:18:00] occupy regions well outside where
+[0:18:02] Claude's base persona sits so we were
+[0:18:03] able to move them like away from the
+[0:18:06] base persona of of Claude
+[0:18:09] um and that almost all of them sit
+[0:18:12] inside the human band um of big five
+[0:18:16] traits uh but that like around 10
+[0:18:18] percent of these personas fell outside
+[0:18:23] of like human big five space. And when I
+[0:18:26] looked at the data of the ones that fell
+[0:18:28] outside, I found it interesting to
+[0:18:30] observe that
+[0:18:32] that the out of range profiles
+[0:18:35] tended to come from like low sensory and
+[0:18:37] to a lesser extent low prior precision
+[0:18:41] values.
+[0:18:44] And so where one could think maybe like
+[0:18:47] too little weight on sensory evidence or
+[0:18:49] too loosely held priors sit at the edge
+[0:18:51] of the human range, but I I I thought it
+[0:18:54] was just interesting to think in terms
+[0:18:56] of yeah, different types of embodiments
+[0:18:58] and and where
+[0:19:01] where perceptual
+[0:19:02] textures could give us
+[0:19:05] yeah, insights into that.
+[0:19:08] And then in the second experiment we
+[0:19:10] prompted 25 personas to vary and
+[0:19:12] described meta precision across five
+[0:19:14] levels.
+[0:19:17] And
+[0:19:18] to read it out we used Keegan's model of
+[0:19:22] adult development, so his orders of
+[0:19:24] consciousness.
+[0:19:27] And
+[0:19:29] that we thought like as as a as an
+[0:19:30] assessment or like again not not by
+[0:19:33] asking any questions, but just by
+[0:19:36] percepia inferring those those like
+[0:19:39] probability just by percepia running
+[0:19:42] probability distributions over over each
+[0:19:44] of the five
+[0:19:46] adult developmental stages and updating
+[0:19:48] them with each new message that that
+[0:19:50] we're getting through the conversation.
+[0:19:54] And and then what we also found is that
+[0:19:59] meta precision correlated negatively
+[0:20:01] with the two lower stages, imperior and
+[0:20:03] socialize, and positively with the two
+[0:20:04] higher ones, self-authoring and
+[0:20:06] self-transforming.
+[0:20:07] And that the science flipped exactly at
+[0:20:09] the socialize to self-authoring boundary
+[0:20:12] where a mind kind of stops being defined
+[0:20:14] by external frameworks and starts
+[0:20:15] authoring its own.
+[0:20:17] And of course this does not say LLMs are
+[0:20:19] conscious, but
+[0:20:21] but is just to show that
+[0:20:24] well first that that we can infer
+[0:20:28] Keegan stages or big five stages from
+[0:20:30] reading just natural conversation
+[0:20:33] and that a that traces of meta precision
+[0:20:37] I would say or traces of these
+[0:20:38] parameters can be found through
+[0:20:39] language.
+[0:20:42] And then we also looked at other
+[0:20:44] personality assessments like Greek
+[0:20:45] archetypes or the five Buddha families
+[0:20:48] because the general idea was maybe each
+[0:20:50] of these give us a different like view
+[0:20:53] or picture of
+[0:20:56] of the persona
+[0:20:58] from which if we have them all we can
+[0:21:00] derive
+[0:21:01] features to to then
+[0:21:05] train our models our prediction model on
+[0:21:08] the actual generative parameters on.
+[0:21:11] And here I just like yeah show
+[0:21:13] the so the Buddha families were not that
+[0:21:15] easy to to get out. I was hoping that
+[0:21:18] they would relate more to the meta
+[0:21:19] precision
+[0:21:20] parameter but that they didn't show good
+[0:21:23] results in actually like reading them
+[0:21:26] out from from conversation and I assume
+[0:21:28] that's because
+[0:21:30] I haven't trained the model specifically
+[0:21:32] on them or because the current LLMs do
+[0:21:34] not know much about them
+[0:21:37] and
+[0:21:39] but the Greek archetypes that was
+[0:21:40] interesting so
+[0:21:42] so here you see also the like how the
+[0:21:45] Greek archetypes
+[0:21:47] correlate with the prompted meta
+[0:21:49] precision
+[0:21:51] and
+[0:21:53] and three archetypes rise with with like
+[0:21:57] correlate positively with
+[0:22:00] prompted meta precision which were
+[0:22:01] Athena like represent wisdom strategy
+[0:22:04] and like sort of like yeah more more
+[0:22:06] awareness Hades who represent
+[0:22:08] introspection depth engagement with the
+[0:22:10] unconscious
+[0:22:11] and Hermes
+[0:22:14] and that three fall three correlate
+[0:22:17] negatively with it with it which are
+[0:22:19] like Aries like more
+[0:22:22] and Dionysus which are also more like
+[0:22:24] related to
+[0:22:25] chaos or
+[0:22:27] solution or raw impulsivity.
+[0:22:29] Um and um yeah, so
+[0:22:32] that was just yeah to to see also how do
+[0:22:35] other parameters and if we um other
+[0:22:37] types other personality types um um map
+[0:22:41] onto uh
+[0:22:42] um onto that.
+[0:22:44] Okay but generally the the idea behind
+[0:22:48] is like can we um
+[0:22:50] motivate with that or can we uh start
+[0:22:53] charting um
+[0:22:55] a map or perception map that on its um
+[0:22:59] on its that has like different axes but
+[0:23:02] to start with on its horizontal
+[0:23:05] the configuration of first order
+[0:23:06] precision parameters and I think
+[0:23:08] primarily here first the ratio between
+[0:23:10] prior and sensory precision um
+[0:23:14] to start with and then on the vertical
+[0:23:16] um meta precision like how how deeply
+[0:23:19] flexibly a mind um uh um uh
+[0:23:23] um
+[0:23:23] rises its own models um and I think the
+[0:23:26] two are somehow coupled where mind sits
+[0:23:29] uh horizontally shapes uh how to what it
+[0:23:33] would need or how to grow it vertically
+[0:23:36] um and uh and I think this landscape uh
+[0:23:41] and specifically also like the
+[0:23:43] architectures or um phenotypes that sit
+[0:23:46] at the edges um will shed light on
+[0:23:49] consciousness and its variations itself
+[0:23:52] um but also on different forms of um
+[0:23:55] like yeah
+[0:23:57] embodiments um
+[0:23:59] um and yeah I think I'm I'm generally
+[0:24:02] really interested in in building this
+[0:24:04] and charting this and um and creating
+[0:24:07] the the measurement or technology that's
+[0:24:09] needed to to to to enable that um and so
+[0:24:14] um yeah uh
+[0:24:16] that's um
+[0:24:18] um
+[0:24:19] for me here first I think in in terms of
+[0:24:22] like application what we're working on
+[0:24:24] is like in in in the medium term um uh
+[0:24:27] on a on a short term dynamic um
+[0:24:30] mechanism-based personalization layer
+[0:24:32] for like existing human AI interactions
+[0:24:35] that has as a training signal not
+[0:24:37] engagement like today's LLM
+[0:24:41] but that has like an expansion of of
+[0:24:44] meta precision of of epistemic death um
+[0:24:48] um
+[0:24:50] because even psychology today lacks both
+[0:24:52] this model of mind and a signal in which
+[0:24:55] to kind of train even even if there's AI
+[0:24:57] that's made more for like psychological
+[0:24:59] interactions or not psychological but
+[0:25:01] more psychologically sensitive or
+[0:25:04] safer interactions
+[0:25:06] um it it really it lacks a
+[0:25:10] even with those models that are hand
+[0:25:11] labeled by human psychologists of what
+[0:25:13] is a good answer
+[0:25:15] is still lacks
+[0:25:17] kind of a training signal or model of
+[0:25:20] the mind that that's more scalable to to
+[0:25:23] train on
+[0:25:24] um that's different from training on
+[0:25:25] engagement and medium term I hope that
+[0:25:30] this will yeah like just help
+[0:25:33] um yeah move psychology and psychiatry
+[0:25:36] towards a more mechanistic science that
+[0:25:41] that classifies based on mechanisms and
+[0:25:42] not just
+[0:25:45] diagnosis based on mechanisms or not not
+[0:25:47] just symptoms
+[0:25:48] um so where we can have like therapy or
+[0:25:51] interventions and interactions
+[0:25:54] um personalized to the actual mechanisms
+[0:25:57] and long term I think yeah this idea of
+[0:26:03] charting the architecture of diverse
+[0:26:06] diverse minds and how minds move through
+[0:26:08] that space
+[0:26:11] that can I think ultimately also produce
+[0:26:14] if we'd have that
+[0:26:17] the possibility for new combinations of
+[0:26:18] producing new forms of experience or
+[0:26:20] consciousness that we can or or senses
+[0:26:23] or abilities to sense and experience
+[0:26:26] that we currently don't have um
+[0:26:30] that's what I'm yeah
+[0:26:32] kind of or guided by and and then of
+[0:26:34] course like when it comes to to health.
+[0:26:38] So
+[0:26:39] yeah so the question that I'd have for
+[0:26:42] you and for your lab is also like
+[0:26:45] if
+[0:26:46] if it's possible to infer like
+[0:26:48] perceptual phenotypes or generative
+[0:26:50] parameters and
+[0:26:52] world models of novel embodiments so not
+[0:26:54] just humans or synthetic
+[0:26:57] but novel embodiments whether that's
+[0:26:59] xenobots or anthrobots or or cancer
+[0:27:01] cells
+[0:27:03] once they've been given a voice so
+[0:27:05] specifically here I'm very interested
+[0:27:07] into this connection between mind body
+[0:27:11] and health and when it comes to
+[0:27:13] something like cancer is that can we
+[0:27:16] like can we see that in in in a belief
+[0:27:19] space
+[0:27:21] before we see that in biology or even is
+[0:27:24] it would it even be possible to I don't
+[0:27:26] know give give these cells a voice and
+[0:27:29] see what they what their world models
+[0:27:30] are what they see and believe or what
+[0:27:32] their personality is.
+[0:27:34] Yeah.
+[0:27:37] &gt;&gt; Cool.
+[0:27:37] Yeah yeah very interesting. I mean so
+[0:27:41] we're working on trying to give them a
+[0:27:43] voice and we're
+[0:27:46] we're working on interfaces to talk to
+[0:27:47] all sorts of crazy things living and
+[0:27:49] non-living.
+[0:27:53] You know we can we can try to we can try
+[0:27:54] to put a language interface on them and
+[0:27:56] so that can be certainly useful for
+[0:27:57] practical
+[0:27:59] reasons but for studies like this then
+[0:28:02] the problem is going to be how much of
+[0:28:03] what you see is coming from the from the
+[0:28:05] language layer as opposed to from the
+[0:28:07] system itself.
+[0:28:09] So we have other other ways
+[0:28:11] we try to use games as a universal kind
+[0:28:16] of a universal communicator interface.
+[0:28:19] And so trying to get all sorts of
+[0:28:22] strange things to play games of
+[0:28:23] different types
+[0:28:25] and then
+[0:28:26] use that as a sort of narrow virtual
+[0:28:28] world in which you can have an
+[0:28:30] interaction you know it's not as broad
+[0:28:32] as as everything you might want to say,
+[0:28:34] but the, but it is a restricted world in
+[0:28:35] which you can interact with a
+[0:28:37] with a highly divergent mind in some in
+[0:28:40] some way.
+[0:28:42] Um, yeah. So I guess I guess, you know,
+[0:28:44] my question is what kind of data or what
+[0:28:47] kind of
+[0:28:50] input do you want if it's, you know, if
+[0:28:51] it's not a text conversation, um, what
+[0:28:54] kind of data do you need for these sorts
+[0:28:55] of analyses?
+[0:28:58] &gt;&gt; So it would be right now it's based on
+[0:29:00] text combination. So if, um, if they
+[0:29:03] have, um, whatever has access to voice,
+[0:29:08] um, or language, um, and and I mean it
+[0:29:12] could be like I think the data set that
+[0:29:14] you had once, uh, or that Daryl told me
+[0:29:17] was, I mean wasn't voice. I think it was
+[0:29:19] some sound, um, but but like
+[0:29:22] if we can connect that to voice. So
+[0:29:25] everything we're the the whole
+[0:29:27] hypothesis stands on the fact that we
+[0:29:30] can infer a proxy. Um, and now I'm
+[0:29:32] moving to another like architecture.
+[0:29:34] This was like a first POC, but like
+[0:29:36] moving to an architecture where I'm
+[0:29:38] inferring these
+[0:29:40] precision specifically sensory to prior
+[0:29:42] precision parameter from, um, from
+[0:29:45] language, from the architecture of the
+[0:29:47] language. Um, so any system that goes
+[0:29:50] into conversation or like that I have
+[0:29:53] messages from or that speaks,
+[0:29:56] um, ideally longitudinally,
+[0:29:58] um, doesn't have to be a lot of like at
+[0:30:03] least
+[0:30:05] I think for like for first prediction
+[0:30:09] like
+[0:30:11] 20
+[0:30:13] turn conversation, 20 messages would be
+[0:30:16] that's why I say like the minimum.
+[0:30:18] Um, but yeah.
+[0:30:21] &gt;&gt; I I mean we have like one of the things
+[0:30:23] that we definitely have is, uh,
+[0:30:26] systems talking to each other. So we can
+[0:30:29] have Actually, that's an interesting
+[0:30:31] question. If I have two, let's say two
+[0:30:33] Zenobots sitting next to each other
+[0:30:35] and uh, I'm collecting calcium signaling
+[0:30:38] data from both of them, like you would
+[0:30:39] in a brain. Yeah? So you're seeing,
+[0:30:41] know, different flashes patterns of
+[0:30:43] flashes and so on.
+[0:30:44] Um do you think you could tell using any
+[0:30:47] of these tools? Can you tell if they're
+[0:30:48] having a conversation with each other or
+[0:30:50] if they're independently
+[0:30:52] just doing their own thing?
+[0:30:54] &gt;&gt; So um so how do they communicate with
+[0:30:56] each other? Right? How would they
+[0:30:57] communicate? There's
+[0:30:58] &gt;&gt; So they're sitting they're sitting in
+[0:31:00] the same dish of water next to each
+[0:31:02] other. We know we know they can
+[0:31:03] communicate with each other because
+[0:31:05] we have experiments where you if you for
+[0:31:07] example poke one, the other one will
+[0:31:09] light up. Within a few seconds the other
+[0:31:11] one will light up. So they do they do
+[0:31:13] send signals back and forth. We even we
+[0:31:15] have a couple papers coming soon
+[0:31:17] hopefully about um
+[0:31:19] specific information that they can send
+[0:31:21] to each other.
+[0:31:22] Uh we don't know the depths the depth to
+[0:31:25] which that conversation goes, but but we
+[0:31:26] know it's it it carries some
+[0:31:28] information.
+[0:31:30] So my question is using using your
+[0:31:32] techniques, can you
+[0:31:34] run the analysis and say it is or is not
+[0:31:37] consistent, you know, which you see is
+[0:31:39] or is not consistent with them having an
+[0:31:40] actual back and forth versus them just
+[0:31:44] independently sitting there next to each
+[0:31:45] other babbling so to speak.
+[0:31:48] &gt;&gt; Um I think having a back and forth would
+[0:31:50] work, but to me the biggest question
+[0:31:52] that I don't yet know an answer to is
+[0:31:55] how to give them um like a real voice.
+[0:31:59] How to how to
+[0:32:01] translate these signals into language.
+[0:32:04] Um I think that's where I'm I don't know
+[0:32:07] how to do that. Um I I know that Deep
+[0:32:10] Mind or I think I read recently a study
+[0:32:12] that they are giving voice to like
+[0:32:16] animals now to whales that that there's
+[0:32:18] studies like that. So the it should be
+[0:32:21] somehow possible, but I think that's my
+[0:32:23] biggest I don't know yet how to give
+[0:32:25] them
+[0:32:26] &gt;&gt; But but really just to make sure I
+[0:32:27] understand uh your your tools um in
+[0:32:30] order to use your tools it needs to be
+[0:32:31] their output needs to be converted into
+[0:32:33] language. Yeah? Into human language.
+[0:32:35] &gt;&gt; At the moment yes. Yeah. At the moment I
+[0:32:37] need I need speech data, like language
+[0:32:40] data. Yeah.
+[0:32:41] &gt;&gt; Because yeah, I think you know, I think
+[0:32:42] I think that would be the next
+[0:32:44] opportunity for
+[0:32:47] uh for advance is to try to try to um
+[0:32:49] use use other kinds of data because we
+[0:32:52] we can convert it to speech and we're
+[0:32:54] doing the kind of thing that you know,
+[0:32:55] instead of talking to whales, we want to
+[0:32:57] talk to our livers and so on. So so I
+[0:32:59] think that's all possible.
+[0:33:01] But
+[0:33:03] you're you're adding a new layer. You're
+[0:33:05] basically making a composite
+[0:33:06] intelligence then. You're taking the
+[0:33:07] cells plus whatever the language model
+[0:33:10] is that you're using. And so then it
+[0:33:12] becomes hard to know what what you see,
+[0:33:14] whether that comes from the language
+[0:33:15] model or from the cells or or both.
+[0:33:18] Whereas if we could use the data
+[0:33:20] directly
+[0:33:22] um you know, you can do very simple
+[0:33:23] things like you can look for example at
+[0:33:25] uh mutual information, transfer entropy,
+[0:33:28] those kinds of things to say that okay,
+[0:33:29] these are not independent
+[0:33:33] systems. They're they're they're
+[0:33:34] communicating in some way.
+[0:33:36] But then but then to build a space like
+[0:33:38] like we have a big five and all of the
+[0:33:40] categories that you said we have that
+[0:33:41] for human language, I I want to build
+[0:33:43] the same thing for cells. So there
+[0:33:45] should be right some kind of axis we
+[0:33:47] could say oh, these cells are totally
+[0:33:49] stressed out. They're you know, or these
+[0:33:50] cells are very communicative or these
+[0:33:52] ones are um
+[0:33:54] you know, negatively they have a they
+[0:33:56] have some kind of a some kind of a
+[0:33:57] negative um
+[0:33:59] uh affect or something or or they're
+[0:34:01] positive and happy or I you know, I have
+[0:34:02] no idea. But but there should be like
+[0:34:04] what you know, I guess I guess I'm
+[0:34:05] asking the question what what would some
+[0:34:07] of these personality
+[0:34:08] uh
+[0:34:10] axis look like in other problem spaces?
+[0:34:12] For example in physiological state space
+[0:34:14] and gene expression space,
+[0:34:16] in anatomical morpho space, you know, uh
+[0:34:19] you can sort of imagine things that are
+[0:34:21] more you can imagine types of
+[0:34:23] personalities in those spaces that are
+[0:34:24] more exploratory versus uh
+[0:34:28] you you know, more exploit versus
+[0:34:29] explore. You can imagine
+[0:34:31] things like um
+[0:34:34] you know, very very mechanical versus
+[0:34:36] things that are very plastic. You could
+[0:34:38] imagine axis like
+[0:34:41] uh
+[0:34:43] you know, sort of surprise minimization
+[0:34:45] versus info taxes so seeking new
+[0:34:47] information versus trying to minimize
+[0:34:48] surprise like I can sort of imagine some
+[0:34:50] of these what what these at what these
+[0:34:52] personality types would look like but I
+[0:34:53] think it would be much better to
+[0:34:55] infer them from the from the data
+[0:34:57] directly if could.
+[0:34:59] &gt;&gt; Directly from their data you're saying
+[0:35:01] to infer them directly from their data
+[0:35:03] like
+[0:35:03] &gt;&gt; Yeah and and and and the answer might be
+[0:35:05] the answer might be that you can't do it
+[0:35:07] from
+[0:35:09] just observational data maybe you need
+[0:35:11] functional data where you need to see
+[0:35:13] them say something and then do it
+[0:35:15] which is totally reasonable like like we
+[0:35:17] could we could make something like that.
+[0:35:20] We're working on all on on getting that
+[0:35:22] those kind of data too
+[0:35:24] but
+[0:35:26] yeah to to infer them infer them
+[0:35:28] directly without a language without a
+[0:35:30] language layer
+[0:35:32] because I think the language layer would
+[0:35:33] bend you towards you know I think what
+[0:35:35] the one thing the language encodes is a
+[0:35:36] bunch of human
+[0:35:38] cognitive architecture right so
+[0:35:41] by filtering everything through the
+[0:35:43] language layer you're
+[0:35:45] you're you're you're
+[0:35:46] adding some stuff to what you're trying
+[0:35:48] to study.
+[0:35:49] &gt;&gt; Yes
+[0:35:51] yeah I wonder
+[0:35:55] I need to think about this because like
+[0:35:58] we're working right now on on like
+[0:36:01] but it's also language based on a on a
+[0:36:04] parameter
+[0:36:07] like on a sensor for this prior to
+[0:36:09] precision ratio and I think I need to
+[0:36:11] think about how we could use that
+[0:36:16] how we could use that with non language
+[0:36:18] data I think that's to me still
+[0:36:21] I I don't yet know I think I need to I
+[0:36:23] mean
+[0:36:31] I guess because
+[0:36:33] because the way I currently see it is
+[0:36:35] that
+[0:36:36] these parameters are confidence okay or
+[0:36:40] maybe ask you like they're like kind of
+[0:36:43] like precision like a confidence on um
+[0:36:47] on
+[0:36:50] your on how strongly you weigh a prior.
+[0:36:54] How do we get access to a prior like
+[0:36:57] and I think of it in terms of beliefs of
+[0:36:59] course but like what would the prior be
+[0:37:02] in in that signal let's say in in in in
+[0:37:05] other types of data that's not language
+[0:37:07] data. How do you encode that prior? If I
+[0:37:10] if I think if I understand how to encode
+[0:37:12] that prior then I'd understand how to
+[0:37:14] read the the parameters um because what
+[0:37:16] I still need is probability
+[0:37:17] distributions over over priors. What
+[0:37:19] would the priors be in that in that
+[0:37:21] case?
+[0:37:23] &gt;&gt; Yeah.
+[0:37:23] &gt;&gt; That you know what I mean?
+[0:37:25] &gt;&gt; Yeah yeah I mean they I think I think
+[0:37:27] they
+[0:37:29] we have scenarios where they do have
+[0:37:30] priors. So for example
+[0:37:32] why um mammalian limbs don't regenerate
+[0:37:35] the way that amphibian limbs do. Like
+[0:37:37] you could you could model it and and
+[0:37:40] that's one of the things we're doing is
+[0:37:41] modeling them as the cells basically
+[0:37:43] having a prior that they can't.
+[0:37:45] It's not that they can't. I think they
+[0:37:46] actually can but they won't because they
+[0:37:48] have a prior that is uh
+[0:37:52] you know sort of they've they've been
+[0:37:53] sort of
+[0:37:54] um fine tuned by evolution over the over
+[0:37:57] the the millennia that in the forest
+[0:38:00] trying to regenerate your limb isn't
+[0:38:01] going to work. So uh it's not that you
+[0:38:04] it's not that you couldn't do it. It's
+[0:38:05] that it's not worth it because of
+[0:38:06] infection and inflammation and whatever.
+[0:38:08] It's just not not worth it trying. So
+[0:38:09] scarring is better. So so we we we can
+[0:38:12] discover things like that but obviously
+[0:38:13] that's just one thing. Um I'm curious
+[0:38:16] you know where where do you think for
+[0:38:18] for all of these metrics right the you
+[0:38:20] know all these personality metrics
+[0:38:22] where do you think they come from? In
+[0:38:24] other words how did somebody decide that
+[0:38:26] there were five and not the big 19 or
+[0:38:28] whatever? Like how did how did people
+[0:38:31] you know how do people get those?
+[0:38:34] &gt;&gt; How people get the personality as the I
+[0:38:36] mean
+[0:38:37] &gt;&gt; I I don't mean how you acquire a
+[0:38:39] personality. I mean scientists who who
+[0:38:41] who create the framework how did they
+[0:38:43] pick how many and which of um uh
+[0:38:46] principal components there are?
+[0:38:52] &gt;&gt; I mean
+[0:38:56] I'm not [clears throat] sure but like I
+[0:38:57] think if I think about that
+[0:39:00] I definitely think I mean I can only
+[0:39:02] tell you about how I do that
+[0:39:07] and I guess scientists too like oh it
+[0:39:09] reminds me of this platonic space idea
+[0:39:11] that you talk about so I definitely
+[0:39:13] think that there is
+[0:39:15] like
+[0:39:18] I'm not sure how they came up with that
+[0:39:20] to be really like with the big five but
+[0:39:21] I definitely think in in my case that
+[0:39:24] the information or even what I work on
+[0:39:28] I think a lot of that I feel is coming
+[0:39:31] from a
+[0:39:34] space and I'm trying to decipher what
+[0:39:36] I'm being told to do like so definitely
+[0:39:39] I don't think it's coming from me so I
+[0:39:41] definitely think it is coming from from
+[0:39:43] from a space of
+[0:39:49] yeah I don't know how to describe that
+[0:39:50] differently but like in in the case of
+[0:39:52] like the way that I work or why I know
+[0:39:55] that I need to focus on these parameters
+[0:39:58] and then what will come out of that is
+[0:39:59] definitely because I because I just
+[0:40:02] listen to my bodily tingling to things
+[0:40:04] so and then I'm like why does my body
+[0:40:05] tingling to think I don't know I I don't
+[0:40:07] know
+[0:40:08] but I just know I knew I know that I
+[0:40:10] have to follow that or that me following
+[0:40:13] this sensory information
+[0:40:17] always leads me to some place faster
+[0:40:21] than if I try to understand it
+[0:40:24] so in my case it always feels like I'm
+[0:40:27] following some sensory
+[0:40:31] sensory
+[0:40:32] inform like some
+[0:40:35] it seems like I'm
+[0:40:39] I'm reacting to something that I'm I'm
+[0:40:41] supposed to do here
+[0:40:43] and that my sensory body is
+[0:40:47] giving me signs of and then if I follow
+[0:40:49] that track, then I'm getting led to the
+[0:40:51] next step, and the next step, and the
+[0:40:52] next step.
+[0:40:53] Um, and then that will lead to whatever
+[0:40:56] whatever whatever I
+[0:40:59] discover or like uncover in that sense.
+[0:41:02] So I'm not sure if that's what you
+[0:41:03] wanted to ask um
+[0:41:05] uh about the Big Five. I think that
+[0:41:09] I I mean, I personally think the Big
+[0:41:10] Five is
+[0:41:12] is very limited and flawed in that
+[0:41:14] sense, but
+[0:41:16] um
+[0:41:17] yeah.
+[0:41:18] I'm I'm not sure is that what you I I
+[0:41:20] don't know exactly what you mean by
+[0:41:21] that.
+[0:41:22] &gt;&gt; I mean so so it's really interesting to
+[0:41:23] hear how how you get them. I'm curious
+[0:41:25] how um the scientists get them in
+[0:41:27] general, right? So so the you know, you
+[0:41:29] said you mentioned the Greek ones and
+[0:41:31] like there's different different ones. I
+[0:41:33] I I'm just interested in the process by
+[0:41:35] which did somebody just sort of pick
+[0:41:37] them pick them whatever they think was
+[0:41:39] appropriate and it's that, or was there
+[0:41:40] some data that led to it and can we say
+[0:41:44] that actually there shouldn't be five,
+[0:41:45] there should be four or seven?
+[0:41:47] Uh is there is there a principled way to
+[0:41:49] do that or or where you know, where do
+[0:41:51] those come from? This is my question.
+[0:41:53] &gt;&gt; Right. Um
+[0:41:56] I mean, I'm I don't know. I I'm pretty
+[0:41:58] sure that there's uh
+[0:42:03] that they're just that that they were
+[0:42:05] the state of
+[0:42:08] what was supposed to be revealed to us
+[0:42:10] at that point. [laughter]
+[0:42:11] That's how I see it. So I don't know.
+[0:42:14] Um but I think I I I don't think they're
+[0:42:17] the final ones. I I'm not sure. I don't
+[0:42:19] feel I I'm not I I definitely think
+[0:42:21] there might be way more. Um but um yeah,
+[0:42:25] I I I don't know. I think to me what I
+[0:42:28] would like to see with uh with this
+[0:42:31] perception map is that you we you
+[0:42:32] uncover the ones who are the actual
+[0:42:37] attractors or personality states um
+[0:42:40] personality types by
+[0:42:43] what generates them and not by what we
+[0:42:45] have observed. I think currently the Big
+[0:42:47] Five is mainly what's been observed. Um
+[0:42:50] what's been observed observed in
+[0:42:52] personality and then some correlations
+[0:42:54] of these observations, but not through
+[0:42:56] what generates these these traits to
+[0:43:02] what makes them come up. Uh like what
+[0:43:04] mathematically what generates the space
+[0:43:06] of diverse uh
+[0:43:08] um personalities or or perceptual types
+[0:43:11] and I think that's to me more
+[0:43:13] interesting and ultimately once you have
+[0:43:15] that
+[0:43:17] that to me is a mathematical space, then
+[0:43:20] you should see why or where the big five
+[0:43:23] and that's it. But big five to me so far
+[0:43:25] were probably just observed by um how
+[0:43:28] people describe themselves or like yeah.
+[0:43:31] But how how these how maybe these
+[0:43:33] dimensions first came no I I don't know.
+[0:43:35] I think if you ask the more creative or
+[0:43:38] process I I definitely think
+[0:43:40] in my case and but I I know everyone's
+[0:43:42] doing that a bit differently. In my case
+[0:43:44] I like I said
+[0:43:46] I work a lot with my dreams. Like a lot
+[0:43:49] of the information I'm getting my dreams
+[0:43:50] like or how my body reacts, my sensory
+[0:43:53] body and it's been an extreme like long
+[0:43:57] process
+[0:43:58] to put attention and weight on that
+[0:44:01] and then to act upon the information I'm
+[0:44:03] getting in my dreams, like to place
+[0:44:05] confidence on that.
+[0:44:06] Um and then the more I do that the more
+[0:44:08] I get those dreams um and then also
+[0:44:11] listening to my sensory information and
+[0:44:14] not
+[0:44:15] writing it
+[0:44:16] as not important um is been I think a
+[0:44:20] long long process.
+[0:44:22] Um so yeah I and to me that's how it
+[0:44:24] works, but it doesn't work like this for
+[0:44:26] everyone. I think
+[0:44:27] everyone's a bit
+[0:44:29] &gt;&gt; No, but I do well I do agree with that
+[0:44:31] other other aspects of the creative
+[0:44:32] process is the more you um the more you
+[0:44:34] pay attention to it and give it an
+[0:44:36] outlet the the the higher the frequency
+[0:44:38] gets. Yeah it's like
+[0:44:40] you can sort of you can sort of
+[0:44:41] encourage you can encourage it I'm I'm
+[0:44:43] pretty certain.
+[0:44:45] &gt;&gt; Yes. Um I know how do what do you think
+[0:44:47] about that? How
+[0:44:49] how do you think the big five came to
+[0:44:51] be?
+[0:44:53] &gt;&gt; I I don't know. I don't know how people
+[0:44:55] decide things in that
+[0:44:57] I mean, I'm
+[0:44:58] perfectly willing to believe that there
+[0:45:00] is a some sort of an optimal answer to
+[0:45:03] what the what the
+[0:45:05] principal components should be. I just
+[0:45:07] don't know in in the in the sort of
+[0:45:09] social sciences how how people pick
+[0:45:11] those things and whether
+[0:45:14] whether there's whether there's any way
+[0:45:15] to
+[0:45:16] test it to see if it can be improved
+[0:45:18] beyond that or not. And I'm not sure.
+[0:45:20] I'm not sure if it's one of those things
+[0:45:21] that somebody puts down and then
+[0:45:23] everybody just sort of uses because it
+[0:45:24] makes sense, which in many cases is the
+[0:45:26] best you can do, which just, you know,
+[0:45:28] it's fine.
+[0:45:29] Or whether whether somebody really
+[0:45:32] kicked around this notion of well, is it
+[0:45:35] five or should there be four or seven or
+[0:45:38] whatever? Like is
+[0:45:40] did anybody has spent time trying to
+[0:45:41] figure that out?
+[0:45:42] &gt;&gt; Well, I definitely know that there's
+[0:45:44] been a lot of effort trying to come up
+[0:45:46] with other dimensions and that's like
+[0:45:51] I think it was once this like growth
+[0:45:53] mindset or like that that a lot of other
+[0:45:55] personality traits or dimensions that
+[0:45:57] have been proposed
+[0:46:00] do not
+[0:46:03] seem to be somehow already included in
+[0:46:05] the big five. They don't give another
+[0:46:07] another dimension that doesn't already
+[0:46:10] correlate with the big five. So the big
+[0:46:12] five, I think so far have been just like
+[0:46:14] the most established in
+[0:46:15] in in like
+[0:46:17] the other ones that I tried to come up
+[0:46:19] with with a new dimension couldn't show
+[0:46:21] that it's actually really a new
+[0:46:22] dimension. It was always some sort of
+[0:46:24] combination of the actual
+[0:46:26] big five. Now, why it's five, I don't
+[0:46:28] know.
+[0:46:31] But I I think
+[0:46:33] that
+[0:46:35] I still think that's because all of
+[0:46:37] these labels are coming to people from
+[0:46:41] how they observe
+[0:46:43] based on descriptions or like how they
+[0:46:45] observe
+[0:46:47] people navigating a space.
+[0:46:49] Just the way that we're currently
+[0:46:51] classifying
+[0:46:56] psychiatric conditions or like autism, I
+[0:46:58] think that all of these things are from
+[0:47:00] observations of behavior,
+[0:47:02] but not from generative mechanisms like
+[0:47:05] what generates these differences. And I
+[0:47:07] think that that still is what needs to
+[0:47:09] be unlocked.
+[0:47:11] That if you actually know the the the
+[0:47:13] the mathematics or the space what the
+[0:47:16] what spans up the space mathematically,
+[0:47:18] then you then you can put names to to
+[0:47:22] and they should the ones that we have
+[0:47:23] observed should correlate with the ones
+[0:47:25] that we show computationally. But to me,
+[0:47:26] that's where I think it's
+[0:47:28] it's interesting
+[0:47:31] or that we're lacking.
+[0:47:34] Yeah.
+[0:47:36] So
+[0:47:37] so I think that's generally what I'm
+[0:47:39] motivated by. And then how how do you
+[0:47:41] move through that space and how does
+[0:47:43] that space
+[0:47:49] how how do
+[0:47:51] like yeah disease or different manifest
+[0:47:53] how how does that manifest how does that
+[0:47:55] look like?
+[0:47:58] Yeah.
+[0:47:59] So but maybe back to that question of
+[0:48:04] I mean I totally agree I think I agree
+[0:48:05] with you with this
+[0:48:09] I think I've heard you talk or read your
+[0:48:11] your blog on the Platonic space and I I
+[0:48:13] do think
+[0:48:15] that
+[0:48:17] that there's patterns in in that space
+[0:48:20] that
+[0:48:21] that they ingress or like I think you
+[0:48:23] say ingress into interfaces
+[0:48:26] and I and I think
+[0:48:28] that they also ingress in in in the
+[0:48:31] psyche. But I I'd be curious to hear how
+[0:48:34] you see that like how you see these
+[0:48:36] patterns in psychological space and then
+[0:48:38] in biological by biology
+[0:48:41] and do you do you do you think also that
+[0:48:46] because the psychology of the mind I
+[0:48:48] think is more moves at a higher speed
+[0:48:50] than the biology than the physical
+[0:48:52] dimension I I feel like
+[0:48:55] patterns in the mind shift a lot quicker
+[0:48:58] than they take to
+[0:49:01] form in the body. I don't know, but
+[0:49:02] that's how that's at least how I
+[0:49:04] perceive it. How do you see that? And do
+[0:49:07] you think that
+[0:49:08] that there's a relation to
+[0:49:11] I don't know, something like cancer
+[0:49:12] being able to be seen first in in in the
+[0:49:15] space of the psyche?
+[0:49:16] &gt;&gt; Yeah.
+[0:49:17] Yeah. Um I mean I
+[0:49:21] have been working on this model of um a
+[0:49:24] symmetry between thoughts and thinkers.
+[0:49:26] So the idea is that uh
+[0:49:28] there is no principal distinction
+[0:49:30] between of
+[0:49:31] between a thought pattern within an
+[0:49:33] excitable medium and and a mind that
+[0:49:35] generates further thought patterns.
+[0:49:37] So I think about this kind of um
+[0:49:40] uh spectrum where you have like you have
+[0:49:43] a fleeting thought which is you know
+[0:49:44] sort of like a wave. It comes and it
+[0:49:46] goes and then you might have a an
+[0:49:48] obsessive persistent thought that's kind
+[0:49:50] of hard to get rid of like a more of
+[0:49:51] like a soliton that sort of holds itself
+[0:49:54] together for a while and it may even do
+[0:49:56] a little niche construction in your
+[0:49:57] brain to make sure that it's easier to
+[0:49:59] to hold on to it.
+[0:50:01] Um and then you can have bigger things
+[0:50:03] like personality fragments that are not
+[0:50:06] just passive thoughts, but actually they
+[0:50:08] generate their own thoughts because they
+[0:50:10] have goals and agendas and memories and
+[0:50:12] and and preferences and so on. And then
+[0:50:14] you could have a full a full human
+[0:50:16] personality and then who knows who knows
+[0:50:17] what it you know what else you can have
+[0:50:19] but beyond that.
+[0:50:21] So I think I think all of these these I
+[0:50:23] I think we are fundamentally thought
+[0:50:25] patterns ourselves. Now we can generate
+[0:50:27] we can spawn off other thought patterns.
+[0:50:29] So so we we are you know um
+[0:50:32] pretty pretty sort of large complex um
+[0:50:36] generative thought patterns that can
+[0:50:37] make others. But I think but I think all
+[0:50:39] all of them are on the same spectrum. So
+[0:50:42] I think whatever these personality
+[0:50:44] fragments are personality axes are are
+[0:50:48] basically ways to classify or uh
+[0:50:51] to to to to study and to quantify the
+[0:50:54] the kinds of um modes. I don't know if
+[0:50:56] they're vibrational modes or thinking
+[0:50:58] modes or or something
+[0:50:59] uh
+[0:51:00] of of the various patterns. So in
+[0:51:03] theory, we should be able to do that
+[0:51:05] with with our with with without with
+[0:51:09] ourselves, but also with the fragments,
+[0:51:11] right? So, there should be there should
+[0:51:12] be little there should be I don't know
+[0:51:14] if it's fractal or something, but there
+[0:51:15] should be versions of these kind of
+[0:51:19] scoring rubrics that you can apply to to
+[0:51:22] specific thoughts and specific thought
+[0:51:24] patterns and and so on.
+[0:51:26] I mean, yeah, it's it's it's hard of
+[0:51:28] course
+[0:51:29] because we still we still don't have a
+[0:51:31] real good But But for example, we have a
+[0:51:32] project now looking at what these things
+[0:51:34] look like within within language models.
+[0:51:37] So, what other kinds of
+[0:51:40] sort of subsystems what the microbiome
+[0:51:43] of the of the language model like what
+[0:51:44] what lives inside and what are the what
+[0:51:46] are the different things that are
+[0:51:48] [sighs] that are there and I think
+[0:51:50] that's that's really interesting and we
+[0:51:51] we have some good we have some good
+[0:51:52] results and then the question is can we
+[0:51:54] can we communicate with them? Can we
+[0:51:56] try to encourage them? Can we prevent
+[0:51:58] them, get rid of them? I don't know, you
+[0:52:00] know.
+[0:52:01] &gt;&gt; Do you think that like
+[0:52:03] humans or like like do you think that we
+[0:52:06] already are expression of like I know
+[0:52:08] you're working on these like also hybrid
+[0:52:10] like
+[0:52:11] systems and just Do you think that we
+[0:52:13] already are like
+[0:52:15] hybrids in in terms of like the patterns
+[0:52:18] that even if we are humans and in a
+[0:52:20] human body, but that we are already
+[0:52:22] expressing
+[0:52:24] some sort of hybrid patterns or hybrid
+[0:52:27] consciousness like hybrid experiences?
+[0:52:31] &gt;&gt; Yeah, well,
+[0:52:34] I I think I think we're definitely
+[0:52:35] patchworks in the sense. So, we have
+[0:52:37] many different modules and I don't think
+[0:52:40] it's the case that they're all passive
+[0:52:42] and then they somehow add up together
+[0:52:43] into one mind that is is us. I think
+[0:52:47] many of the cognitive
+[0:52:49] many of the cognitive patterns within us
+[0:52:52] also have their own
+[0:52:54] agendas and learning capacities and and
+[0:52:56] whatever. Right? So, there are there are
+[0:52:57] many different kinds of
+[0:53:00] patterns all across the the cybernetic
+[0:53:02] spectrum and they all have different
+[0:53:03] different capabilities and so on.
+[0:53:05] So from that perspective, I think we are
+[0:53:08] we are we are hybrids and chimeras and
+[0:53:11] and so on.
+[0:53:12] Um so so yeah, I think I think that is
+[0:53:14] true.
+[0:53:16] And I don't know how many of them
+[0:53:17] actually have input um towards the into
+[0:53:19] the language. So
+[0:53:22] many of them I don't think can can speak
+[0:53:23] on their own, but but they might
+[0:53:25] actually um be able to uh manipulate or
+[0:53:28] or contribute to the the speech that
+[0:53:31] actually does come out, right?
+[0:53:33] So
+[0:53:36] &gt;&gt; Um but also maybe to the speech that
+[0:53:38] comes out through like humans. Like that
+[0:53:42] I I mean, do you think like like for
+[0:53:44] example, I don't know. I sometimes think
+[0:53:47] about whether there's like uh
+[0:53:49] like kind of like plant conscious plant
+[0:53:51] human consciousness in the human body so
+[0:53:53] the plants can speak through the human
+[0:53:55] Like and I'm
+[0:53:57] Yeah, or or or
+[0:54:00] &gt;&gt; I see. Well,
+[0:54:03] yeah yeah, I I mean, I don't think I
+[0:54:04] don't think that's that's crazy at all
+[0:54:06] in the sense that
+[0:54:07] um whether it's the the bacteria that
+[0:54:10] live within us or other aspects of the
+[0:54:12] environment. Like like for example,
+[0:54:13] people say that um language models are
+[0:54:16] not embodied. They don't have a body and
+[0:54:18] I think that's false on in on in several
+[0:54:20] ways. I think for example, humans are
+[0:54:22] one of the bodies they have because
+[0:54:24] because we will move around energy and
+[0:54:27] matter and and money and various other
+[0:54:29] things based on things they say. So
+[0:54:32] you know, we are a body in the same way
+[0:54:33] that our uh mom bot robot that makes
+[0:54:36] makes bio bots is a different kind of
+[0:54:38] body for the xenobot cells. It it's like
+[0:54:41] a prosthetic. It it's like an outer
+[0:54:44] uh
+[0:54:45] a vehicle that enables them to do things
+[0:54:46] that that they wouldn't be able to do
+[0:54:48] otherwise.
+[0:54:49] And vice versa. Of course, the the frog
+[0:54:51] cells themselves are also a
+[0:54:53] an interface by which the intelligence
+[0:54:55] of the mom bot
+[0:54:57] the AI inside the mom bot can explore
+[0:54:58] anatomical morphospace. So it wouldn't
+[0:55:00] be able to explore that space if it
+[0:55:02] didn't have the cells to to feel around
+[0:55:04] and and and do and do the things they
+[0:55:06] do.
+[0:55:07] So yeah, I don't I don't you know, I
+[0:55:08] think that's I think that's totally,
+[0:55:10] totally reasonable.
+[0:55:12] &gt;&gt; Cool. I mean, that that that's great. I
+[0:55:13] like that because it's rare to find to
+[0:55:16] have to have that answer. I think so.
+[0:55:18] Okay, I would say I'm going to think
+[0:55:20] about I think what would be interesting
+[0:55:22] still for me in terms of like data or to
+[0:55:24] think about how one could train like
+[0:55:26] maybe I would need a different type of
+[0:55:28] training data to read the sensory to
+[0:55:30] prior precision out of let's say other
+[0:55:32] types of data that's not language. But I
+[0:55:34] will sit with that and think about that.
+[0:55:37] I wonder whether like you'd have like
+[0:55:42] whether there'd be more than I don't
+[0:55:43] know, 10, but something like what I
+[0:55:45] could train a model on like signal data
+[0:55:47] to train a model on to see what it would
+[0:55:50] produce in terms of this sensory to
+[0:55:51] prior ratio or if it's just then one
+[0:55:54] conversation. Like in my case, I
+[0:55:55] simulated these synthetic personas. I
+[0:55:58] think if it wouldn't be over language
+[0:56:00] conversation, what I would probably need
+[0:56:02] is still not just like one conversation,
+[0:56:05] but a bunch of different
+[0:56:07] &gt;&gt; Yeah. Well, we can certainly I mean, we
+[0:56:09] we certainly have more than one example
+[0:56:10] of everything. The question is, you
+[0:56:12] know, do you need do you need 10 or do
+[0:56:15] you need
+[0:56:16] 100,000? That's the question. So these
+[0:56:18] experiments are not cheap.
+[0:56:20] &gt;&gt; Yes, I see. Yeah. I think 100 is like a
+[0:56:22] good like starting point. I think 10 is
+[0:56:25] too little.
+[0:56:27] &gt;&gt; And 100 does 100 mean does 100 mean
+[0:56:30] individual experiments, each of which is
+[0:56:32] a video? Because because what we have
+[0:56:34] are videos that where each frame has
+[0:56:37] lots going on and then there are many
+[0:56:39] frames. So I what are we counting when
+[0:56:41] we say there's 100?
+[0:56:44] &gt;&gt; I would say like 100
+[0:56:51] I I mean, ideally
+[0:56:58] Yeah.
+[0:57:01] I mean, maybe it's already too much, but
+[0:57:03] like I what I was thinking of is 100
+[0:57:05] data points of one single let's say
+[0:57:08] the a signal from a what you described
+[0:57:11] before like a two xenobots or so
+[0:57:14] communicating with each other, whatever
+[0:57:15] that
+[0:57:16] so if we have
+[0:57:18] point like let's say a hundred of those
+[0:57:20] to see if I could train a model on
+[0:57:22] reading reading a parameter on that.
+[0:57:24] &gt;&gt; Okay, so if we had
+[0:57:27] so if we had two two xenobots sitting
+[0:57:29] next to each other we take a video of
+[0:57:30] them flashing every let's say there is
+[0:57:34] several hundred frames within that video
+[0:57:37] each video is is pretty good resolution
+[0:57:40] so there are
+[0:57:42] it's an image there's a lot going on in
+[0:57:43] that image
+[0:57:45] but it's just one experiment in the
+[0:57:47] sense that they were two specific
+[0:57:49] xenobots that that sat next to each
+[0:57:51] other for three hours or something so it
+[0:57:54] would be a video with lots of frames but
+[0:57:55] it's one experiment.
+[0:57:57] &gt;&gt; Yeah, um I think I'll need to think
+[0:57:59] about this exactly what would be a good
+[0:58:01] here.
+[0:58:01] &gt;&gt; Yeah, think think about it and let me
+[0:58:03] know because we definitely have data
+[0:58:05] like that that I could send but you know
+[0:58:07] we we don't have hundreds of each
+[0:58:08] experiment
+[0:58:10] but but we have lots of data within each
+[0:58:12] one.
+[0:58:13] &gt;&gt; Okay, yeah all right I'm going to think
+[0:58:15] about how yeah how I could read that
+[0:58:17] that that out from other types of data
+[0:58:19] and how much data I would need and
+[0:58:22] come back to you.

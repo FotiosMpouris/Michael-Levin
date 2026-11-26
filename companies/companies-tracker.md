@@ -1,10 +1,10 @@
 ---
 title: Companies tracker — Levin lab ecosystem
 created: 2026-10-15
-updated: 2026-11-22
+updated: 2026-11-26
 type: entity
 tags: [#companies, #investment-research, #bioelectricity, #xenobots]
-sources: [raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-22-6W5qhMasROY.txt]
+sources: [raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-22-6W5qhMasROY.txt, raw/transcripts/2026-11-25-xTVa-wsEf5I.txt]
 ---
 
 # Companies tracker — Levin lab ecosystem
@@ -14,6 +14,10 @@ sources: [raw/transcripts/2026-09-21-Or_3tlEOLj4.txt, raw/transcripts/2026-09-22
 **Status at a glance (2026-10-15):** none of the companies below is publicly traded. There is no public stock that gives direct exposure to Levin's work today. Paths that exist in principle are private (venture funds, private rounds, usually for accredited investors) — see "Ways to get exposure" at the bottom.
 
 Levin himself discloses licensing: in [[2026-09-22-life-machines-synthbiosis|Life, Machines, and a Foundation for Synthbiosis]] he mentions three disclosures of companies that licensed the lab's technology, and in [[2026-09-21-biology-ai-diverse-intelligence|Biology, AI, and Diverse Intelligence]] he says "There's four companies that have licensed some of the work." In [[2026-10-31-thoughts-as-thinkers-within-without-us|Thoughts as Thinkers (2026-10-31)]] he says "there are uh three or four companies that have now licensed some of our" inventions. His lab site lists Unravel Biosciences, Morphoceuticals and Fauna Systems among his affiliations ([drmichaellevin.org](https://drmichaellevin.org/)). In a 2026-09-21 interview ([[2026-09-21-bioelectricity-aging-future-of-medicine-arjun-khemani|Bioelectricity, Aging, and the Future of Medicine]]) he describes Morphoceuticals as "a company called Morphoceuticals which I'm associated with that is developing a bioelectric simulator", a next-generation version of the BETSE simulator.
+
+**Recent (2026-11-22 to 2026-11-25):**
+- **Morphoceuticals.** On 2026-11-22 Levin shared a short teaser from the company on X ([post](https://x.com/drmichaellevin/status/2124468610772951045)), describing it as "the startup company seeking to apply our work on bioelectricity to human regeneration and repair". He wrote that "@KaplanLab_Tufts and I are the scientific co-founders (though we're not employees of the company, we work closely together to bring our basic research toward pipelines of human health)", that the team has made advances "in reading and understanding the bioelectrics of clinically-relevant model systems", and "much more coming  in the next year."
+- **Unravel Biosciences.** On 2026-11-25 Levin posted on X ([post](https://x.com/drmichaellevin/status/2125588669843050613)): "Incredibly proud of the team at unravel.bio (disclosure:  I don't work for Unravel but it's the first company our research contributed to, and I am involved)", sharing a talk on the lab channel by Richard Novak, [[2026-11-25-solving-rare-at-scale-richard-novak|Solving Rare at Scale]]. In the talk Novak says he and a co-founder started Unravel five years ago, calls it "the predictable medicine company", describes its BioNav platform (patient RNA from home nasal swabs, about 40,000 molecules simulated per patient), and addresses Levin as one of the "founding academic partners". He reports patient results, a vorinostat program for Rett syndrome with a clinical trial in Colombia, and work on Pitt-Hopkins syndrome; these clinical figures are the company's own, from the talk. He also says Unravel helped co-found a company called Astra Salva (as rendered in the auto-captions; spelling unconfirmed) as a founding development partner.
 
 ## Spinouts and co-founded companies
 
